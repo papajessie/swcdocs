@@ -345,6 +345,8 @@ title: Index of crates
   * [Supreme Weapons Research Crate (lc_rogue1v3Store_3x)](lc_rogue1v3Store_3x.html)
   * [Rogue One Event Last Chance Sale (lc_rogue1v3Store_lastchance)](lc_rogue1v3Store_lastchance.html)
   * [Bonus Starfighter Unlock Crate (lc_rogue1v3_unitUnlock)](lc_rogue1v3_unitUnlock.html)
+  * [Rodian Recon Sniper Unlock Guaranteed (lc_sniperEqpSPD_e)](lc_sniperEqpSPD_e.html)
+  * [Sullustan Recon Sharpshooter Unlock Guaranteed (lc_sniperEqpSPD_r)](lc_sniperEqpSPD_r.html)
   * [Premium Holiday Event Crate (lc_spaceBear_SPDa_v1)](lc_spaceBear_SPDa_v1.html)
   * [Premium Holiday Event Crate (lc_spaceBear_SPDa_v2)](lc_spaceBear_SPDa_v2.html)
   * [Premium Holiday Event Crate (lc_spaceBear_SPDa_v3)](lc_spaceBear_SPDa_v3.html)
