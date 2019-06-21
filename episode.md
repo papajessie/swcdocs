@@ -7,3 +7,4 @@ title: Index of episodes
   * [Rogue One Special Event Part II (ep_rogue1v3)](ep_rogue1v3.html)
   * [Tactical Defenses Event (ep_defRef)](ep_defRef.html)
   * [Desert Operations Jump Troopers  Desert Operations Jetpack Troopers (ep_desBiome_Jetpack)](ep_desBiome_Jetpack.html)
+  * [Forest Operations Jump Troopers  Forest Operations Jetpack Troopers (ep_forBiome_Jetpack)](ep_forBiome_Jetpack.html)

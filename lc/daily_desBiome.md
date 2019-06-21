@@ -7,7 +7,7 @@ category: crate
 
 Crates are given as rewards for various actions. The content is revealed only when opening them, by drawing once (or more) in various prize pools. Only one prize is won for each pool per draw. The in-game description of expectations is written manually and can be wrong. The probability of obtaining one prize is indicated below; the pools change according to planet, faction and HQ level.
 
-This crates does not expire. The contents are one draw from each of the 4 pools.
+This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
 ## Pool "lcpool_currency_t1" (x1 draw)
 

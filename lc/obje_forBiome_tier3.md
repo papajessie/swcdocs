@@ -107,37 +107,51 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
   * 150000 Credits
 
-## Pool "lcpool_forBiome_shrd" (x1 draw)
+## Pool "lcpool_forBiome_Jetpack_shrd" (x1 draw)
 
-### Rebellion
+### Rebellion for HQ levels 7-11
 
-  * (10/78) 2 data fragments of equipment [Gigoran Fighter](eqpRebelShaggyAlien)
-  * (10/78) 2 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
-  * (20/78) 2 data fragments of equipment [Rebel Commando](eqpRebelPentagonSoldier)
-  * (3/78) 2 data fragments of equipment [Cold-weather Hailfire Droid](eqpRebelArcticHailfire)
-  * (3/78) 2 data fragments of equipment [Tauntaun Rider](eqpRebelTauntaun)
-  * (4/78) 2 data fragments of equipment [Captain Han Solo](eqpRebelCaptainSolo)
-  * (4/78) 2 data fragments of equipment [Cold-weather Heavy Soldier](eqpRebelEchoBaseHeavySoldier)
-  * (4/78) 2 data fragments of equipment [Cold-weather Soldier](eqpRebelEchoBaseSoldier)
-  * (4/78) 2 data fragments of equipment [Desert Soldier](eqpRebelSandSoldier)
-  * (4/78) 2 data fragments of equipment [Heavy Desert Soldier](eqpRebelHeavySandSoldier)
-  * (6/78) 2 data fragments of unlockable air support [A-wing Starfighter](AWing)
-  * (6/78) 2 data fragments of unlockable air support [HWK-290](HWK290)
+  * (1/9) 3 data fragments of equipment [Gigoran Fighter](eqpRebelShaggyAlien)
+  * (1/9) 3 data fragments of equipment [Rebel Commando](eqpRebelPentagonSoldier)
+  * (1/9) 3 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
+  * (1/9) 3 data fragments of unlockable air support [A-wing Starfighter](AWing)
+  * (1/9) 3 data fragments of unlockable air support [HWK-290](HWK290)
+  * (2/9) 2 data fragments of equipment [Forest Jetpack Trooper](eqpRebelPentagonJetpackTrooper)
+  * (2/9) 4 data fragments of equipment [Forest Jetpack Trooper](eqpRebelPentagonJetpackTrooper)
 
-### Empire
+### Empire for HQ levels 7-11
 
-  * (10/78) 2 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
-  * (10/78) 2 data fragments of equipment [Heavy Shoretrooper](eqpEmpirePentagonHeavyTrooper)
-  * (20/78) 2 data fragments of equipment [Shoretrooper](eqpEmpirePentagonTrooper)
-  * (3/78) 2 data fragments of equipment [Cold-weather Mobile Heavy Cannon](eqpEmpireArcticMHC)
-  * (3/78) 2 data fragments of equipment [Modified INT-4 Interceptor](eqpEmpireArcticINT4)
-  * (4/78) 2 data fragments of equipment [Cold Weather AT-MP Mark III](eqpEmpireArcticATMP)
-  * (4/78) 2 data fragments of equipment [Heavy Sandtrooper](eqpEmpireHeavySandtrooper)
-  * (4/78) 2 data fragments of equipment [Heavy Snowtrooper](eqpEmpireHeavySnowtrooper)
-  * (4/78) 2 data fragments of equipment [Sandtrooper](eqpEmpireSandtrooper)
-  * (4/78) 2 data fragments of equipment [Snowtrooper](eqpEmpireSnowtrooper)
-  * (6/78) 2 data fragments of unlockable air support [TIE Advanced](TieAdvanced)
-  * (6/78) 2 data fragments of unlockable air support [VT-49 Decimator](VT49)
+  * (1/9) 3 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
+  * (1/9) 3 data fragments of equipment [Heavy Shoretrooper](eqpEmpirePentagonHeavyTrooper)
+  * (1/9) 3 data fragments of equipment [Shoretrooper](eqpEmpirePentagonTrooper)
+  * (1/9) 3 data fragments of unlockable air support [TIE Advanced](TieAdvanced)
+  * (1/9) 3 data fragments of unlockable air support [VT-49 Decimator](VT49)
+  * (2/9) 2 data fragments of equipment [Forest Jump Trooper](eqpEmpirePentagonJumpTrooper)
+  * (2/9) 4 data fragments of equipment [Forest Jump Trooper](eqpEmpirePentagonJumpTrooper)
+
+### Rebellion for HQ level 6
+
+  * (1/12) 2 troop sample [Jetpack Trooper](RebelJetpackTrooper)
+  * (1/12) 3 data fragments of equipment [Gigoran Fighter](eqpRebelShaggyAlien)
+  * (1/12) 3 data fragments of equipment [Rebel Commando](eqpRebelPentagonSoldier)
+  * (1/12) 3 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
+  * (1/12) 3 data fragments of unlockable air support [A-wing Starfighter](AWing)
+  * (1/12) 3 data fragments of unlockable air support [HWK-290](HWK290)
+  * (2/12) 1 troop sample [Jetpack Trooper](RebelJetpackTrooper)
+  * (2/12) 2 data fragments of equipment [Forest Jetpack Trooper](eqpRebelPentagonJetpackTrooper)
+  * (2/12) 4 data fragments of equipment [Forest Jetpack Trooper](eqpRebelPentagonJetpackTrooper)
+
+### Empire for HQ level 6
+
+  * (1/12) 2 troop sample [Jump Trooper](EmpireJumptrooper)
+  * (1/12) 3 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
+  * (1/12) 3 data fragments of equipment [Heavy Shoretrooper](eqpEmpirePentagonHeavyTrooper)
+  * (1/12) 3 data fragments of equipment [Shoretrooper](eqpEmpirePentagonTrooper)
+  * (1/12) 3 data fragments of unlockable air support [TIE Advanced](TieAdvanced)
+  * (1/12) 3 data fragments of unlockable air support [VT-49 Decimator](VT49)
+  * (2/12) 1 troop sample [Jump Trooper](EmpireJumptrooper)
+  * (2/12) 2 data fragments of equipment [Forest Jump Trooper](eqpEmpirePentagonJumpTrooper)
+  * (2/12) 4 data fragments of equipment [Forest Jump Trooper](eqpEmpirePentagonJumpTrooper)
 
 ### Fallback for HQ level 10
 
@@ -163,19 +177,19 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
   * 150000 Credits
 
-## Pool "lcpool_forBiome_smpl" (x1 draw)
-
-### Rebellion
-
-  * (1/4) 1 air support sample [A-wing Starfighter](AWing)
-  * (1/4) 1 air support sample [HWK-290](HWK290)
-  * (2/4) 1 troop sample [Rancor](promoRancorRebel)
+## Pool "lcpool_forBiome_Jetpack_smpl" (x1 draw)
 
 ### Empire
 
-  * (1/4) 1 air support sample [TIE Advanced](TieAdvanced)
-  * (1/4) 1 air support sample [VT-49 Decimator](VT49)
-  * (2/4) 1 troop sample [Rancor](promoRancorEmpire)
+  * (1/3) 1 air support sample [TIE Advanced](TieAdvanced)
+  * (1/3) 1 air support sample [VT-49 Decimator](VT49)
+  * (1/3) 2 troop sample [Jump Trooper](EmpireJumptrooper)
+
+### Rebellion
+
+  * (1/3) 1 air support sample [A-wing Starfighter](AWing)
+  * (1/3) 1 air support sample [HWK-290](HWK290)
+  * (1/3) 2 troop sample [Jetpack Trooper](RebelJetpackTrooper)
 
 ### Fallback for HQ level 10
 

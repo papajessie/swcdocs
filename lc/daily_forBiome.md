@@ -89,15 +89,15 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
   * 6000 Credits
 
-## Pool "lcpool_forBiome_shrd_daily" (x1 draw)
+## Pool "lcpool_forBiome_Jetpack_daily" (x1 draw)
 
 ### Rebellion
 
-  * (1/1) 1 data fragments of equipment [Gigoran Fighter](eqpRebelShaggyAlien)
+  * (1/1) 1 data fragments of equipment [Forest Jetpack Trooper](eqpRebelPentagonJetpackTrooper)
 
 ### Empire
 
-  * (1/1) 1 data fragments of equipment [Heavy Shoretrooper](eqpEmpirePentagonHeavyTrooper)
+  * (1/1) 1 data fragments of equipment [Forest Jump Trooper](eqpEmpirePentagonJumpTrooper)
 
 ### Fallback for HQ level 10
 
