@@ -21,9 +21,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Unit capacity: 4
   * Type: infantry
 
-|Level |10   |9    |8    |7    |6    |5    |4    |3    |2    |1   |
-|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|
-|Health|25875|22425|20700|18975|17250|15525|13800|12075|10350|8625|
+|Level |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Health|32345|28030|25875|23720|21565|19405|17250|15095|12940|10780|
 
 
 ### Training stats
@@ -99,7 +99,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level          |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
 |---------------|---|---|---|---|---|---|---|---|---|---|
-|Damage per shot|510|442|408|374|340|306|272|238|204|170|
+|Damage per shot|640|555|510|470|425|385|340|300|255|215|
 
 
 ### Projectile
@@ -107,8 +107,8 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |Level                       |10      |9   |8       |7   |6       |5       |4   |3      |2      |1   |
 |----------------------------|--------|----|--------|----|--------|--------|----|-------|-------|----|
 |Displayed damage per second |1951.250|1690|1562.500|1430|1301.250|1172.500|1040|911.250|782.500|650 |
-|Calculated damage per second|1500    |1300|1200    |1100|1000    |900     |800 |700    |600    |500 |
-|Calculated damage per cycle |5100    |4420|4080    |3740|3400    |3060    |2720|2380   |2040   |1700|
+|Calculated damage per second|1882    |1632|1500    |1382|1250    |1132    |1000|882    |750    |632 |
+|Calculated damage per cycle |6400    |5550|5100    |4700|4250    |3850    |3400|3000   |2550   |2150|
 
 
   * Cannons per sequence: 1

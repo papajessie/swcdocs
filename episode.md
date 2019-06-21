@@ -12,3 +12,4 @@ title: Index of episodes
   * [Death Star Crates (ep_anh40rr)](ep_anh40rr.html)
   * [Heavy Firepower (ep_newHeroEvent)](ep_newHeroEvent.html)
   * [Naval Assault (ep_navalEvt)](ep_navalEvt.html)
+  * [Undead Offensive (ep_undeadEvt)](ep_undeadEvt.html)
