@@ -7,7 +7,7 @@ category: crate
 
 Crates are given as rewards for various actions. The content is revealed only when opening them, by drawing once (or more) in various prize pools. Only one prize is won for each pool per draw. The in-game description of expectations is written manually and can be wrong. The probability of obtaining one prize is indicated below; the pools change according to planet, faction and HQ level.
 
-This crate expires after 7d. The contents are one draw from each of the 3 pools.
+This crates does not expire. The contents are one draw from each of the 3 pools.
 
 ## Pool "lcpool_currency_t9" (x1 draw)
 
@@ -107,39 +107,39 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
   * 150000 Credits
 
-## Pool "lcpool_desBiome_shrd" (x1 draw)
+## Pool "lcpool_desBiome_Jetpack_shrd" (x1 draw)
 
-### Empire
+### Empire for HQ levels 7-11
 
-  * (16/92) 2 data fragments of equipment [Heavy Sandtrooper](eqpEmpireHeavySandtrooper)
-  * (2/92) 2 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
-  * (26/92) 2 data fragments of equipment [Sandtrooper](eqpEmpireSandtrooper)
-  * (4/92) 2 data fragments of equipment [Cold Weather AT-MP Mark III](eqpEmpireArcticATMP)
-  * (4/92) 2 data fragments of equipment [Cold-weather Mobile Heavy Cannon](eqpEmpireArcticMHC)
-  * (4/92) 2 data fragments of equipment [Heavy Shoretrooper](eqpEmpirePentagonHeavyTrooper)
-  * (4/92) 2 data fragments of equipment [Heavy Snowtrooper](eqpEmpireHeavySnowtrooper)
-  * (4/92) 2 data fragments of equipment [Modified INT-4 Interceptor](eqpEmpireArcticINT4)
-  * (4/92) 2 data fragments of equipment [Shoretrooper](eqpEmpirePentagonTrooper)
-  * (4/92) 2 data fragments of equipment [Snowtrooper](eqpEmpireSnowtrooper)
-  * (4/92) 2 data fragments of equipment [TX-225](eqpEmpireHovertank)
-  * (8/92) 2 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
-  * (8/92) 2 data fragments of unlockable troop [Shock Trooper](Shock)
+  * (1/6) 3 data fragments of equipment [Heavy Sandtrooper](eqpEmpireHeavySandtrooper)
+  * (1/6) 3 data fragments of equipment [Sandtrooper](eqpEmpireSandtrooper)
+  * (2/6) 2 data fragments of equipment [Desert Jump Trooper](eqpEmpireSandJumpTrooper)
+  * (2/6) 4 data fragments of equipment [Desert Jump Trooper](eqpEmpireSandJumpTrooper)
 
-### Rebellion
+### Rebellion for HQ level 6
 
-  * (16/92) 2 data fragments of equipment [Heavy Desert Soldier](eqpRebelHeavySandSoldier)
-  * (2/92) 2 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
-  * (26/92) 2 data fragments of equipment [Desert Soldier](eqpRebelSandSoldier)
-  * (4/92) 2 data fragments of equipment [Captain Han Solo](eqpRebelCaptainSolo)
-  * (4/92) 2 data fragments of equipment [Cold-weather Hailfire Droid](eqpRebelArcticHailfire)
-  * (4/92) 2 data fragments of equipment [Cold-weather Heavy Soldier](eqpRebelEchoBaseHeavySoldier)
-  * (4/92) 2 data fragments of equipment [Cold-weather Soldier](eqpRebelEchoBaseSoldier)
-  * (4/92) 2 data fragments of equipment [Gigoran Fighter](eqpRebelShaggyAlien)
-  * (4/92) 2 data fragments of equipment [Rebel Commando](eqpRebelPentagonSoldier)
-  * (4/92) 2 data fragments of equipment [Stolen TX-225](eqpRebelHovertank)
-  * (4/92) 2 data fragments of equipment [Tauntaun Rider](eqpRebelTauntaun)
-  * (8/92) 2 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
-  * (8/92) 2 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
+  * (1/9) 2 troop sample [Jetpack Trooper](RebelJetpackTrooper)
+  * (1/9) 3 data fragments of equipment [Desert Soldier](eqpRebelSandSoldier)
+  * (1/9) 3 data fragments of equipment [Heavy Desert Soldier](eqpRebelHeavySandSoldier)
+  * (2/9) 1 troop sample [Jetpack Trooper](RebelJetpackTrooper)
+  * (2/9) 2 data fragments of equipment [Desert Jetpack Trooper](eqpRebelSandJetpackTrooper)
+  * (2/9) 4 data fragments of equipment [Desert Jetpack Trooper](eqpRebelSandJetpackTrooper)
+
+### Rebellion for HQ levels 7-11
+
+  * (1/6) 3 data fragments of equipment [Desert Soldier](eqpRebelSandSoldier)
+  * (1/6) 3 data fragments of equipment [Heavy Desert Soldier](eqpRebelHeavySandSoldier)
+  * (2/6) 2 data fragments of equipment [Desert Jetpack Trooper](eqpRebelSandJetpackTrooper)
+  * (2/6) 4 data fragments of equipment [Desert Jetpack Trooper](eqpRebelSandJetpackTrooper)
+
+### Empire for HQ level 6
+
+  * (1/9) 2 troop sample [Jump Trooper](EmpireJumptrooper)
+  * (1/9) 3 data fragments of equipment [Heavy Sandtrooper](eqpEmpireHeavySandtrooper)
+  * (1/9) 3 data fragments of equipment [Sandtrooper](eqpEmpireSandtrooper)
+  * (2/9) 1 troop sample [Jump Trooper](EmpireJumptrooper)
+  * (2/9) 2 data fragments of equipment [Desert Jump Trooper](eqpEmpireSandJumpTrooper)
+  * (2/9) 4 data fragments of equipment [Desert Jump Trooper](eqpEmpireSandJumpTrooper)
 
 ### Fallback for HQ level 10
 
@@ -165,19 +165,19 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
   * 150000 Credits
 
-## Pool "lcpool_desBiome_smpl" (x1 draw)
-
-### Empire
-
-  * (3/10) 1 troop sample [Johhar Kessen](EmpireJohhar)
-  * (3/10) 1 troop sample [Krayt Dragon](KraytDragon)
-  * (4/10) 2 troop sample [Shock Trooper](Shock)
+## Pool "lcpool_desBiome_Jetpack_smpl" (x1 draw)
 
 ### Rebellion
 
-  * (3/10) 1 troop sample [Johhar Kessen](RebelJohhar)
-  * (3/10) 1 troop sample [Krayt Dragon](KraytDragon)
-  * (4/10) 2 troop sample [Rebel Vanguard](Vanguard)
+  * (1/3) 1 troop sample [Johhar Kessen](RebelJohhar)
+  * (1/3) 1 troop sample [Krayt Dragon](KraytDragon)
+  * (1/3) 2 troop sample [Jetpack Trooper](RebelJetpackTrooper)
+
+### Empire
+
+  * (1/3) 1 troop sample [Johhar Kessen](EmpireJohhar)
+  * (1/3) 1 troop sample [Krayt Dragon](KraytDragon)
+  * (1/3) 2 troop sample [Jump Trooper](EmpireJumptrooper)
 
 ### Fallback for HQ level 10
 

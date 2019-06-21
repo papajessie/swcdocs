@@ -17,6 +17,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Lord Vader (eqpEmpireLordVader)](eqpEmpireLordVader.html)
   * [Heavy Shoretrooper (eqpEmpirePentagonHeavyTrooper)](eqpEmpirePentagonHeavyTrooper.html)
   * [Shoretrooper (eqpEmpirePentagonTrooper)](eqpEmpirePentagonTrooper.html)
+  * [Desert Jump Trooper (eqpEmpireSandJumpTrooper)](eqpEmpireSandJumpTrooper.html)
   * [Sandtrooper (eqpEmpireSandtrooper)](eqpEmpireSandtrooper.html)
   * [Snowtrooper (eqpEmpireSnowtrooper)](eqpEmpireSnowtrooper.html)
 
@@ -31,6 +32,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Heavy Desert Soldier (eqpRebelHeavySandSoldier)](eqpRebelHeavySandSoldier.html)
   * [Stolen TX-225 (eqpRebelHovertank)](eqpRebelHovertank.html)
   * [Rebel Commando (eqpRebelPentagonSoldier)](eqpRebelPentagonSoldier.html)
+  * [Desert Jetpack Trooper (eqpRebelSandJetpackTrooper)](eqpRebelSandJetpackTrooper.html)
   * [Desert Soldier (eqpRebelSandSoldier)](eqpRebelSandSoldier.html)
   * [Gigoran Fighter (eqpRebelShaggyAlien)](eqpRebelShaggyAlien.html)
   * [Tauntaun Rider (eqpRebelTauntaun)](eqpRebelTauntaun.html)
