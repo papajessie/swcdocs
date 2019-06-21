@@ -12,6 +12,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 ### Unit stats
 
   * Activation radius: 12
+  * Allow defensive spawn: Yes
   * Armor type: building
   * Maximum capacity: 1  All.
   * Cross credits: 0
