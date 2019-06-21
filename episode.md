@@ -26,3 +26,7 @@ title: Index of episodes
   * [Naval Assault Part I (ep_epNaval_p1)](ep_epNaval_p1.html)
   * [Naval Assault Part II (ep_epNaval_p2)](ep_epNaval_p2.html)
   * [Naval Assault Part III (ep_epNaval_p3)](ep_epNaval_p3.html)
+  * [Questionable Cargo Part I (ep_epRogue1_p1)](ep_epRogue1_p1.html)
+  * [Questionable Cargo Part II (ep_epRogue1_p2)](ep_epRogue1_p2.html)
+  * [Questionable Cargo Part III (ep_epRogue1_p3)](ep_epRogue1_p3.html)
+  * [Questionable Cargo Part IV (ep_epRogue1_p4)](ep_epRogue1_p4.html)
