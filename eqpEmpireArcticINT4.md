@@ -432,7 +432,7 @@ These are all sorts of user interface settings, that should not interfere with g
   * Audio attack: "sfx_attack_empire_umhc_1":33,"sfx_attack_empire_umhc_2":33,"sfx_attack_empire_umhc_3":34
   * Audio death: "sfx_death_empire_umhc_1":100
   * Audio placement: "sfx_placement_empire_atat_1":100
-  * Audio train: "sfx_ui_unitcomplete_dewback_1":35,"sfx_ui_unitcomplete_dewback_2":35,"sfx_ui_unitcomplete_dewback_3":30
+  * Audio train: "sfx_silence":100
   * Buff asset offset: 0.00,1.01,0.00
   * Bundle name: snowint4_emp-ani
   * Death animation: buffFireBurn:15

@@ -45,6 +45,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Sniper Trooper (Sniper)](Sniper.html)
   * [Stormtrooper (Storm)](Storm.html)
   * [Repair Droid (Technician)](Technician.html)
+  * [Imperial Starfighter Pilot (TiePilot)](TiePilot.html)
 
 ### Rebellion
 
@@ -84,6 +85,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [WED Treadwell Repair Droid (Treadwell)](Treadwell.html)
   * [Rebel Vanguard (Vanguard)](Vanguard.html)
   * [Wookiee Warrior (Wookie)](Wookie.html)
+  * [Alliance Starfighter Pilot (XWingPilot)](XWingPilot.html)
 
 ### Tusken Raiders
 
@@ -146,6 +148,10 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [trptitleHeavyStormDropshipTrap (HeavyStormDropshipTrap)](HeavyStormDropshipTrap.html)
   * [Heavy Shoretrooper (PentagonHeavyTrooper)](PentagonHeavyTrooper.html)
   * [Shoretrooper (PentagonTrooper)](PentagonTrooper.html)
+  * [trptitlePhantomNavalStrike (PhantomNavalStrike)](PhantomNavalStrike.html)
+  * [trptitlePhantomTieBomber (PhantomTieBomber)](PhantomTieBomber.html)
+  * [trptitlePhantomTieFighter (PhantomTieFighter)](PhantomTieFighter.html)
+  * [Rodian Recon Sniper (RodianSample)](RodianSample.html)
   * [Sandtrooper (Sandtrooper)](Sandtrooper.html)
   * [Seized AAT-1 Hover Tank (SeizedAAT1)](SeizedAAT1.html)
   * [Seized AT-TE Walker (SeizedATTE)](SeizedATTE.html)
@@ -171,6 +177,9 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Oto Vans (HeroSoldier)](HeroSoldier.html)
   * [trptitleJuggernautFakeHero (JuggernautFakeHero)](JuggernautFakeHero.html)
   * [Rebel Commando (PentagonSoldier)](PentagonSoldier.html)
+  * [trptitlePhantomMilleniumFalcon (PhantomMilleniumFalcon)](PhantomMilleniumFalcon.html)
+  * [trptitlePhantomXWing (PhantomXWing)](PhantomXWing.html)
+  * [trptitlePhantomYWing (PhantomYWing)](PhantomYWing.html)
   * [Heavy Undead Trooper (RebelHeavyStormDeath)](RebelHeavyStormDeath.html)
   * [Stolen TX-225 (RebelHovertankSample)](RebelHovertankSample.html)
   * [Hunter Rancor (RebelHunterRancor)](RebelHunterRancor.html)
@@ -187,6 +196,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Stolen AT-ST Walker (StolenATST)](StolenATST.html)
   * [Stolen Mobile Heavy Cannon (StolenMHC)](StolenMHC.html)
   * [Stolen Repair Droid (StolenTechnician)](StolenTechnician.html)
+  * [Sullustan Recon Sharpshooter (SullustanSample)](SullustanSample.html)
   * [Rancor (promoRancorRebel)](promoRancorRebel.html)
 
 ### Tusken Raiders

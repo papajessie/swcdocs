@@ -436,7 +436,7 @@ These are all sorts of user interface settings, that should not interfere with g
   * Audio attack: "sfx_attack_creatures_tauntaun_01":34,"sfx_attack_creatures_tauntaun_02":33,"sfx_attack_creatures_tauntaun_03":33
   * Audio death: "sfx_death_creatures_tauntaun_01":34,"sfx_death_creatures_tauntaun_02":33,"sfx_death_creatures_tauntaun_03":33
   * Audio placement: "sfx_placement_creatures_bantha_1":50,"sfx_placement_creatures_bantha_2":50
-  * Audio train: "sfx_ui_unitcomplete_bantha_1":35,"sfx_ui_unitcomplete_bantha_2":35,"sfx_ui_unitcomplete_bantha_3":30
+  * Audio train: "sfx_ui_unitcomplete_tauntaun_01":100
   * Buff asset offset: 0.00,0.68,0.0
   * Bundle name: tauntaunsoldier_rbl-ani
   * Death animation: buffFireBurn:15
