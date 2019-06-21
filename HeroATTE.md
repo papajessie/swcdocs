@@ -123,9 +123,9 @@ These are all sorts of user interface settings, that should not interfere with g
 
   * Arcs: No
   * Asset name: attehero_rbl-ani
-  * Audio attack: sfx_attack_empire_atat_1:50,"sfx_attack_empire_atat_2":25,"sfx_attack_empire_atat_3":25
-  * Audio death: sfx_death_hero_walker_1:100
-  * Audio placement: sfx_placement_empire_atat_1:100
+  * Audio attack: "sfx_attack_empire_atat_1":50,"sfx_attack_empire_atat_2":25,"sfx_attack_empire_atat_3":25
+  * Audio death: "sfx_death_hero_walker_1":100
+  * Audio placement: "sfx_placement_empire_atat_1":100
   * Buff asset offset: 0.00,1.46,0.00
   * Bullet: fx_blaster_beam_b_med
   * Bundle name: attehero_rbl-ani
