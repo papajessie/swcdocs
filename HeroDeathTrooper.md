@@ -37,11 +37,8 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Upgrading stats
 
-|Level               |10                         |9                          |8                         |7                         |6                         |5                        |4                        |3                        |2                       |1                       |
-|--------------------|---------------------------|---------------------------|--------------------------|--------------------------|--------------------------|-------------------------|-------------------------|-------------------------|------------------------|------------------------|
-|Upgrade time        |1w5d                       |1w1d                       |6d                        |4d                        |2d12h                     |20h                      |7h                       |2h30m                    |1h                      |0s                      |
-|Upgrade requirements|2500000$, 32 data fragments|1500000$, 32 data fragments|450000$, 32 data fragments|225000$, 32 data fragments|135000$, 32 data fragments|50000$, 32 data fragments|20000$, 32 data fragments|10000$, 32 data fragments|5000$, 32 data fragments|3000$, 32 data fragments|
-
+  * Upgrade time: 5s
+  * Upgrade requirements: 32 data fragments
 
 ### Movement stats
 
