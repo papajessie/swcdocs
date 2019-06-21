@@ -14,7 +14,6 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Armor type: infantry
   * Side: Rebellion
   * Buildable unit: Yes
-  * Can be given: Yes
   * Role: Generic
   * Unit capacity: 25
   * Type: mercenary

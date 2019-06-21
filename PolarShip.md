@@ -14,7 +14,6 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Armor type: vehicle
   * Side: Rebellion
   * Buildable unit: Yes
-  * Can be given: Yes
   * Role: Striker
   * Shield cooldown: 0s
   * Shield health: 0

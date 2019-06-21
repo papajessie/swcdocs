@@ -14,7 +14,6 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Armor type: infantry
   * Side: Empire
   * Buildable unit: No
-  * Can be given: Yes
   * Role: Generic
   * Unit capacity: 4
   * Type: infantry
