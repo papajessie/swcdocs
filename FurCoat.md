@@ -13,7 +13,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
   * Armor type: infantry
   * Side: Rebellion
-  * Buildable unit: No
+  * Buildable unit: Yes
   * Role: Generic
   * Unit capacity: 4
   * Type: infantry
@@ -27,7 +27,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level        |10                                     |9                                     |8                                     |7                                     |6                                     |5                                     |4                                     |3                                     |2                                     |1                               |
 |-------------|---------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------|
-|Training time|30s                                    |29s                                   |28s                                   |27s                                   |26s                                   |25s                                   |24s                                   |23s                                   |22s                                   |20s                             |
+|Training time|2m                                     |1m56s                                 |1m52s                                 |54s                                   |52s                                   |50s                                   |48s                                   |46s                                   |44s                                   |42s                             |
 |Training cost|230$                                   |210$                                  |200$                                  |170$                                  |150$                                  |130$                                  |110$                                  |90$                                   |70$                                   |50$                             |
 |Building     |[Research Lab 10](rebelOffenseLab.html)|[Research Lab 9](rebelOffenseLab.html)|[Research Lab 8](rebelOffenseLab.html)|[Research Lab 7](rebelOffenseLab.html)|[Research Lab 6](rebelOffenseLab.html)|[Research Lab 5](rebelOffenseLab.html)|[Research Lab 4](rebelOffenseLab.html)|[Research Lab 3](rebelOffenseLab.html)|[Research Lab 2](rebelOffenseLab.html)|[Barracks 1](rebelBarracks.html)|
 
@@ -147,8 +147,8 @@ These are all sorts of user interface settings, that should not interfere with g
   * Factory scale factor: 1
   * Favorite target type: infantry
   * Icon camera position: 7.96,8.84,21.58
-  * Icon closeup camera position: -14.18,5,14.81
-  * Icon closeup lookat position: 1.05,1.88,-0.63
+  * Icon closeup camera position: 5.25,4.36,19.19
+  * Icon closeup lookat position: -0.27,2.16,-0.63
   * Icon lookat position: -0.29,1.42,-0.89
   * Max scale: 100
   * Muzzle flash: fx_melee_headbutt_med
