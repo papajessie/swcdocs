@@ -1,0 +1,193 @@
+---
+title: Index of units
+---
+# Units
+
+The site contains an [explanation of the unit stats](unitexplained.md).
+
+## Buildable units
+
+### Empire
+
+  * [2-M Hover Tank (2MTank)](2MTank.html)
+  * [AT-AT (ATAT)](ATAT.html)
+  * [AT-DP (ATDP)](ATDP.html)
+  * [AT-MP (ATMP)](ATMP.html)
+  * [AT-ST Walker (ATST)](ATST.html)
+  * [Droideka Sentinel (ChampionEmpireDroideka)](ChampionEmpireDroideka.html)
+  * [Droideka Oppressor (ChampionEmpireHeavyDroideka)](ChampionEmpireHeavyDroideka.html)
+  * [Phase II Dark Trooper (Dark)](Dark.html)
+  * [Dewback Trooper (Dewback)](Dewback.html)
+  * [Dowutin Hunter (EmpireBrute)](EmpireBrute.html)
+  * [Gamorrean Warrior (EmpireGamorreanWarrior)](EmpireGamorreanWarrior.html)
+  * [Johhar Kessen (EmpireJohhar)](EmpireJohhar.html)
+  * [Jump Trooper (EmpireJumptrooper)](EmpireJumptrooper.html)
+  * [Luggabeast Munitioneer (EmpireRider)](EmpireRider.html)
+  * [Speeder Bike (EmpireSpeeder)](EmpireSpeeder.html)
+  * [Twilek Incinerator (EmpireTwilekIncinerator)](EmpireTwilekIncinerator.html)
+  * [Heavy Stormtrooper (HeavyStorm)](HeavyStorm.html)
+  * [Elite AT-AT (HeroATAT)](HeroATAT.html)
+  * [AT-MP Mark III (HeroATMP)](HeroATMP.html)
+  * [Veteran AT-ST (HeroATST)](HeroATST.html)
+  * [Royal Guard (HeroCrimsonGuard)](HeroCrimsonGuard.html)
+  * [Darth Vader (HeroDarthVader)](HeroDarthVader.html)
+  * [Kubaz Invader (KubazInvader)](KubazInvader.html)
+  * [Mobile Heavy Cannon (MHC)](MHC.html)
+  * [MTV-7 (MTV7)](MTV7.html)
+  * [Probe Droid (ProbeDroid)](ProbeDroid.html)
+  * [Scout Trooper (Scout)](Scout.html)
+  * [Security Droid (SecurityDroid)](SecurityDroid.html)
+  * [Shock Trooper (Shock)](Shock.html)
+  * [Sniper Trooper (Sniper)](Sniper.html)
+  * [Stormtrooper (Storm)](Storm.html)
+  * [Repair Droid (Technician)](Technician.html)
+
+### Rebellion
+
+  * [AAT-1 Hover Tank (AAT1)](AAT1.html)
+  * [AT-AP Walker (ATAP)](ATAP.html)
+  * [AT-RT Walker (ATRT)](ATRT.html)
+  * [AT-TE (ATTE)](ATTE.html)
+  * [Bantha Rider (Bantha)](Bantha.html)
+  * [Drabatan Saboteur (BigMouthAlien)](BigMouthAlien.html)
+  * [Droideka Sentinel (ChampionRebelDroideka)](ChampionRebelDroideka.html)
+  * [Droideka Oppressor (ChampionRebelHeavyDroideka)](ChampionRebelHeavyDroideka.html)
+  * [Anti-Vehicle Skiff (DesertSkiff)](DesertSkiff.html)
+  * [Rebel Hailfire Droid (Hailfire)](Hailfire.html)
+  * [Heavy Soldier (HeavyRebel)](HeavyRebel.html)
+  * [Chewbacca (HeroChewbacca)](HeroChewbacca.html)
+  * [Han Solo (HeroHanSolo)](HeroHanSolo.html)
+  * [Leia Organa (HeroLeia)](HeroLeia.html)
+  * [Luke Skywalker (HeroLukeSkywalker)](HeroLukeSkywalker.html)
+  * [R2-D2 (HeroR2D2)](HeroR2D2.html)
+  * [Ithorian Infiltrator (IthorianInfiltrator)](IthorianInfiltrator.html)
+  * [Juggernaut (Juggernaut)](Juggernaut.html)
+  * [Rebel Sharpshooter (Marksman)](Marksman.html)
+  * [Medic Droid (Medic)](Medic.html)
+  * [Rebel Pathfinder (Pathfinder)](Pathfinder.html)
+  * [Dowutin Hunter (RebelBrute)](RebelBrute.html)
+  * [Gamorrean Warrior (RebelGamorreanWarrior)](RebelGamorreanWarrior.html)
+  * [Jetpack Trooper (RebelJetpackTrooper)](RebelJetpackTrooper.html)
+  * [Johhar Kessen (RebelJohhar)](RebelJohhar.html)
+  * [Luggabeast Munitioneer (RebelRider)](RebelRider.html)
+  * [Speeder Bike (RebelSpeeder)](RebelSpeeder.html)
+  * [Twilek Incinerator (RebelTwilekIncinerator)](RebelTwilekIncinerator.html)
+  * [Rebel Soldier (Soldier)](Soldier.html)
+  * [T2-B Repulsor Tank (T2BTank)](T2BTank.html)
+  * [Rebel Vanguard (Vanguard)](Vanguard.html)
+  * [Wookiee Warrior (Wookie)](Wookie.html)
+
+### Tusken Raiders
+
+  * [Tusken (FUETroopTuskenWeak)](FUETroopTuskenWeak.html)
+  * [trptitleFueSmuggler (FueSmuggler)](FueSmuggler.html)
+  * [trptitleFueTusken (FueTusken)](FueTusken.html)
+  * [Tusken Raider (Tusken)](Tusken.html)
+  * [Tusken Bantha Rider (TuskenBantha)](TuskenBantha.html)
+  * [Tusken Chieftain (TuskenHero)](TuskenHero.html)
+  * [Tusken Raider (TuskenMelee)](TuskenMelee.html)
+  * [Smuggler (fueTroopSmuggler)](fueTroopSmuggler.html)
+  * [Tusken Warrior (fueTroopTusken)](fueTroopTusken.html)
+  * [Smuggler (fue_troop_attackingSmuggler)](fue_troop_attackingSmuggler.html)
+  * [Smuggler (fue_troop_smuggler)](fue_troop_smuggler.html)
+  * [trptitletroopAwesome (troopAwesome)](troopAwesome.html)
+
+### Other units
+
+  * [trptitleWorkerDroid (WorkerDroid)](WorkerDroid.html)
+
+### Independant units
+
+  * [ErKit Militia Bruiser (ErkitBruiser)](ErkitBruiser.html)
+  * [ErKit Militia Conscript (ErkitGeneralist)](ErkitGeneralist.html)
+  * [ErKit Militia Sniper (ErkitSniper)](ErkitSniper.html)
+  * [Salvaged AAT1 (ErkitTank)](ErkitTank.html)
+  * [Han Solo (FUETroopHeroHanSolo)](FUETroopHeroHanSolo.html)
+  * [AT-ST (FueATST)](FueATST.html)
+  * [Han Solo (FueHeroHanSolo)](FueHeroHanSolo.html)
+  * [Dewback (NativeDewback)](NativeDewback.html)
+  * [Mercenary (Smuggler)](Smuggler.html)
+  * [Mercenary Bruiser (SmugglerBruiser)](SmugglerBruiser.html)
+  * [Smuggler Droideka (SmugglerDroideka)](SmugglerDroideka.html)
+  * [Smuggler Guardian (SmugglerGuardian)](SmugglerGuardian.html)
+  * [Smuggler Looter (SmugglerLooter)](SmugglerLooter.html)
+  * [Mercenary Pistoleer (SmugglerPistoleer)](SmugglerPistoleer.html)
+  * [Smuggler Renegade (SmugglerRenegade)](SmugglerRenegade.html)
+  * [Jawa Saboteur (SmugglerSaboteur)](SmugglerSaboteur.html)
+  * [Mercenary Renegade (SmugglerSpeeder)](SmugglerSpeeder.html)
+  * [Smuggler Bruiser (SmugglerTank)](SmugglerTank.html)
+  * [Mercenary Thief (SmugglerThief)](SmugglerThief.html)
+  * [Womp Rat (WompRat)](WompRat.html)
+  * [AT-ST (fue_ATST)](fue_ATST.html)
+
+## Other units
+
+### Empire
+
+  * [Droideka Sentinal (ChampionEmpireDroidekaSample)](ChampionEmpireDroidekaSample.html)
+  * [Droideka Oppressor (ChampionEmpireHeavyDroidekaSample)](ChampionEmpireHeavyDroidekaSample.html)
+  * [Heavy Undead Trooper (EmpireHeavyStormDeath)](EmpireHeavyStormDeath.html)
+  * [TX-225 (EmpireHovertankSample)](EmpireHovertankSample.html)
+  * [Hunter Rancor (EmpireHunterRancor)](EmpireHunterRancor.html)
+  * [Rage Rancor (EmpireRageRancor)](EmpireRageRancor.html)
+  * [Scout Undead Trooper (EmpireScoutDeath)](EmpireScoutDeath.html)
+  * [Shadow Rancor (EmpireShadowRancor)](EmpireShadowRancor.html)
+  * [Undead Trooper (EmpireStormDeath)](EmpireStormDeath.html)
+  * [Heavy Sandtrooper (HeavySandtrooper)](HeavySandtrooper.html)
+  * [trptitleHeavyStormDropshipTrap (HeavyStormDropshipTrap)](HeavyStormDropshipTrap.html)
+  * [Sandtrooper (Sandtrooper)](Sandtrooper.html)
+  * [Seized AAT-1 Hover Tank (SeizedAAT1)](SeizedAAT1.html)
+  * [Seized AT-TE Walker (SeizedATTE)](SeizedATTE.html)
+  * [Seized Hailfire Droid (SeizedHailfire)](SeizedHailfire.html)
+  * [Seized Juggernaut (SeizedJuggernaut)](SeizedJuggernaut.html)
+  * [Seized Medic Droid (SeizedMedic)](SeizedMedic.html)
+  * [Stormtrooper (StormDropship)](StormDropship.html)
+  * [trptitleStormDropshipTrap (StormDropshipTrap)](StormDropshipTrap.html)
+  * [Rancor (promoRancorEmpire)](promoRancorEmpire.html)
+
+### Rebellion
+
+  * [trptitleATTEFakeHero (ATTEFakeHero)](ATTEFakeHero.html)
+  * [Droideka Sentinal (ChampionRebelDroidekaSample)](ChampionRebelDroidekaSample.html)
+  * [Droideka Oppressor (ChampionRebelHeavyDroidekaSample)](ChampionRebelHeavyDroidekaSample.html)
+  * [Heavy Sand Soldier (HeavySandSoldier)](HeavySandSoldier.html)
+  * [trptitleHeavySoldierDropshipTrap (HeavySoldierDropshipTrap)](HeavySoldierDropshipTrap.html)
+  * [AT-AP Veteran (HeroATAP)](HeroATAP.html)
+  * [Oto Vans (HeroSoldier)](HeroSoldier.html)
+  * [trptitleJuggernautFakeHero (JuggernautFakeHero)](JuggernautFakeHero.html)
+  * [Heavy Undead Trooper (RebelHeavyStormDeath)](RebelHeavyStormDeath.html)
+  * [Stolen TX-225 (RebelHovertankSample)](RebelHovertankSample.html)
+  * [Hunter Rancor (RebelHunterRancor)](RebelHunterRancor.html)
+  * [Rage Rancor (RebelRageRancor)](RebelRageRancor.html)
+  * [Scout Undead Trooper (RebelScoutDeath)](RebelScoutDeath.html)
+  * [Shadow Rancor (RebelShadowRancor)](RebelShadowRancor.html)
+  * [Undead Trooper (RebelStormDeath)](RebelStormDeath.html)
+  * [Sand Soldier (SandSoldier)](SandSoldier.html)
+  * [Rebel Soldier (SoldierDropship)](SoldierDropship.html)
+  * [trptitleSoldierDropshipTrap (SoldierDropshipTrap)](SoldierDropshipTrap.html)
+  * [Stolen AT-AT Walker (StolenATAT)](StolenATAT.html)
+  * [Stolen AT-DP Walker (StolenATDP)](StolenATDP.html)
+  * [Stolen AT-ST Walker (StolenATST)](StolenATST.html)
+  * [Stolen Mobile Heavy Cannon (StolenMHC)](StolenMHC.html)
+  * [Stolen Repair Droid (StolenTechnician)](StolenTechnician.html)
+  * [Rancor (promoRancorRebel)](promoRancorRebel.html)
+
+### Tusken Raiders
+
+  * [UrUr (UrUr)](UrUr.html)
+  * [Alpha Womp Rat (WompRatAlpha)](WompRatAlpha.html)
+  * [Heavy Womp Rat (WompRatBruiser)](WompRatBruiser.html)
+  * [Womp Rat (WompRatGeneralist)](WompRatGeneralist.html)
+
+### Independant units
+
+  * [Krayt Dragon (KraytDragon)](KraytDragon.html)
+  * [Rancor (Rancor)](Rancor.html)
+  * [Worker Droid (SmugglerDroid)](SmugglerDroid.html)
+  * [Heavy Undead Trooper (SmugglerHeavyStormDeath)](SmugglerHeavyStormDeath.html)
+  * [Mercenary Saboteur (SmugglerJawa)](SmugglerJawa.html)
+  * [trptitleSmugglerJawaTalking (SmugglerJawaTalking)](SmugglerJawaTalking.html)
+  * [trptitleSmugglerJawaTinker (SmugglerJawaTinker)](SmugglerJawaTinker.html)
+  * [Scout Undead Trooper (SmugglerScoutDeath)](SmugglerScoutDeath.html)
+  * [Undead Trooper (SmugglerStormDeath)](SmugglerStormDeath.html)
+
