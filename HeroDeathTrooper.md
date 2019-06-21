@@ -126,7 +126,7 @@ These are all sorts of user interface settings, that should not interfere with g
   * Audio attack: "sfx_attack_hero_deathtrooper_01":33,"sfx_attack_hero_deathtrooper_02":33,"sfx_attack_hero_deathtrooper_03":33
   * Audio death: "sfx_death_hero_deathtrooper_01":50,"sfx_death_hero_deathtrooper_02":50
   * Audio placement: "sfx_placement_hero_deathtrooper_01":33,"sfx_placement_hero_deathtrooper_02":33,"sfx_placement_hero_deathtrooper_03":34
-  * Audio train: sfx_ui_unitcomplete_deathtrooper_01:50,"sfx_ui_unitcomplete_deathtrooper_02":50
+  * Audio train: "sfx_ui_unitcomplete_deathtrooper_01":50,"sfx_ui_unitcomplete_deathtrooper_02":50
   * Bullet: fx_blaster_beam_r_med
   * Bundle name: deathtrooper_emp-ani
   * Decal asset name: tac_hero_emp

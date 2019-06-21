@@ -2551,6 +2551,7 @@ category: strings
     crate_title_lc_obje_maz_tier1 "Maz Kanata's Tier 1 Crate"
     crate_title_lc_obje_maz_tier2 "Maz Kanata's Tier 2 Crate"
     crate_title_lc_obje_maz_tier3 "Maz Kanata's Tier 3 Crate"
+    crate_title_lc_obje_navalEvt_tier3 'TEMP: Naval Event Crate'
     crate_title_lc_obje_newHeroEvent_tier1 'Weapons Research Crate'
     crate_title_lc_obje_newHeroEvent_tier2 'Weapons Research Crate'
     crate_title_lc_obje_newHeroEvent_tier3 'Weapons Research Crate'
