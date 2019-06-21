@@ -20,9 +20,9 @@ title: Index of conflicts
   * [Conflict on Takodana (conflict_tak_20170831)](conflict_tak_20170831.html) on Takodana
   * [Conflict on Hoth (conflict_hth_20170831)](conflict_hth_20170831.html) on Hoth
   * [Conflict on Tatooine (conflict_tat_20170831)](conflict_tat_20170831.html) on Tatooine
-  * [Conflict on ErKit (conflict_erk_20170824)](conflict_erk_20170824.html) on Er'Kit
-  * [Conflict on Hoth (conflict_hth_20170824)](conflict_hth_20170824.html) on Hoth
-  * [Conflict on Tatooine (conflict_tat_20170824)](conflict_tat_20170824.html) on Tatooine
+  * [tournamenttitleconflicterk20170824 (conflict_erk_20170824)](conflict_erk_20170824.html) on Er'Kit
+  * [tournamenttitleconflicthth20170824 (conflict_hth_20170824)](conflict_hth_20170824.html) on Hoth
+  * [tournamenttitleconflicttat20170824 (conflict_tat_20170824)](conflict_tat_20170824.html) on Tatooine
   * [Conflict on Yavin 4 (conflict_yav_20170818)](conflict_yav_20170818.html) on Yavin 4
   * [Conflict on Hoth (conflict_hth_20170818)](conflict_hth_20170818.html) on Hoth
   * [Conflict on Tatooine (conflict_tat_20170817)](conflict_tat_20170817.html) on Tatooine
