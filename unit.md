@@ -10,6 +10,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
 ### Empire
 
   * [2-M Hover Tank (2MTank)](2MTank.html)
+  * [614-AvA (614AVA)](614AVA.html)
   * [AT-AT (ATAT)](ATAT.html)
   * [AT-DP (ATDP)](ATDP.html)
   * [AT-MP (ATMP)](ATMP.html)
@@ -74,6 +75,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Rebel Sharpshooter (Marksman)](Marksman.html)
   * [Medic Droid (Medic)](Medic.html)
   * [Rebel Pathfinder (Pathfinder)](Pathfinder.html)
+  * [V-4X-D Ski Speeder (PolarShip)](PolarShip.html)
   * [Dowutin Hunter (RebelBrute)](RebelBrute.html)
   * [Gamorrean Warrior (RebelGamorreanWarrior)](RebelGamorreanWarrior.html)
   * [Jetpack Trooper (RebelJetpackTrooper)](RebelJetpackTrooper.html)
@@ -136,8 +138,10 @@ The site contains an [explanation of the unit stats](unitexplained.md).
 
 ### Empire
 
+  * [Ape Man (ApeMan)](ApeMan.html)
   * [Droideka Sentinal (ChampionEmpireDroidekaSample)](ChampionEmpireDroidekaSample.html)
   * [Droideka Oppressor (ChampionEmpireHeavyDroidekaSample)](ChampionEmpireHeavyDroidekaSample.html)
+  * [Golden Mile Creature (EmpireGoldenMileCreature)](EmpireGoldenMileCreature.html)
   * [Heavy Undead Trooper (EmpireHeavyStormDeath)](EmpireHeavyStormDeath.html)
   * [TX-225 (EmpireHovertankSample)](EmpireHovertankSample.html)
   * [Hunter Rancor (EmpireHunterRancor)](EmpireHunterRancor.html)
@@ -173,6 +177,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Droideka Oppressor (ChampionRebelHeavyDroidekaSample)](ChampionRebelHeavyDroidekaSample.html)
   * [Cold-weather Heavy Soldier (EchoBaseHeavySoldier)](EchoBaseHeavySoldier.html)
   * [Cold-weather Soldier (EchoBaseSoldier)](EchoBaseSoldier.html)
+  * [Fur Coat (FurCoat)](FurCoat.html)
   * [Heavy Desert Soldier (HeavySandSoldier)](HeavySandSoldier.html)
   * [trptitleHeavySoldierDropshipTrap (HeavySoldierDropshipTrap)](HeavySoldierDropshipTrap.html)
   * [AT-AP Veteran (HeroATAP)](HeroATAP.html)
@@ -183,6 +188,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [trptitlePhantomMilleniumFalcon (PhantomMilleniumFalcon)](PhantomMilleniumFalcon.html)
   * [trptitlePhantomXWing (PhantomXWing)](PhantomXWing.html)
   * [trptitlePhantomYWing (PhantomYWing)](PhantomYWing.html)
+  * [Golden Mile Creature (RebelGoldenMileCreature)](RebelGoldenMileCreature.html)
   * [Heavy Undead Trooper (RebelHeavyStormDeath)](RebelHeavyStormDeath.html)
   * [Stolen TX-225 (RebelHovertankSample)](RebelHovertankSample.html)
   * [Hunter Rancor (RebelHunterRancor)](RebelHunterRancor.html)

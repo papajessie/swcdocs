@@ -128,7 +128,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Clip retargeting: Yes
   * Gun shooting sequence: 1
   * Impact delay: 1s
-  * New target on reload: No
+  * New target on reload: Yes
   * Can shoot over walls: No
   * Reload time: 1.500s
   * Retargeting offset: 20

@@ -291,7 +291,7 @@ Seriously, we don't really know what to do with these.
   * Seeks target: No
   * Splash: 0
   * Streams: no
-  * Strict cool down: Yes
+  * Strict cool down: No
   * Target in range modifier: 1
   * Xp: 0
 

@@ -3,6 +3,36 @@ title: Index of conflicts
 ---
 # Conflicts
 
+  * [Conflict on Yavin 4 (conflict_yav_20180104)](conflict_yav_20180104.html) on Yavin 4
+  * [Conflict on ErKit (conflict_erk_20180104)](conflict_erk_20180104.html) on Er'Kit
+  * [Conflict on Dandoran (conflict_dan_20180104)](conflict_dan_20180104.html) on Dandoran
+  * [Conflict on Hoth (conflict_hth_20180104)](conflict_hth_20180104.html) on Hoth
+  * [Conflict on Tatooine (conflict_tat_20180104)](conflict_tat_20180104.html) on Tatooine
+  * [Conflict on Yavin 4 (conflict_yav_20171228)](conflict_yav_20171228.html) on Yavin 4
+  * [Conflict on ErKit (conflict_erk_20171228)](conflict_erk_20171228.html) on Er'Kit
+  * [Conflict on Dandoran (conflict_dan_20171228)](conflict_dan_20171228.html) on Dandoran
+  * [Conflict on Takodana (conflict_tak_20171228)](conflict_tak_20171228.html) on Takodana
+  * [Conflict on Tatooine (conflict_tat_20171228)](conflict_tat_20171228.html) on Tatooine
+  * [Conflict on Yavin 4 (conflict_yav_20171221)](conflict_yav_20171221.html) on Yavin 4
+  * [Conflict on ErKit (conflict_erk_20171221)](conflict_erk_20171221.html) on Er'Kit
+  * [Conflict on Takodana (conflict_tak_20171221)](conflict_tak_20171221.html) on Takodana
+  * [Conflict on Hoth (conflict_hth_20171221)](conflict_hth_20171221.html) on Hoth
+  * [Conflict on Tatooine (conflict_tat_20171221)](conflict_tat_20171221.html) on Tatooine
+  * [Conflict on Yavin 4 (conflict_yav_20171214)](conflict_yav_20171214.html) on Yavin 4
+  * [Conflict on ErKit (conflict_erk_20171214)](conflict_erk_20171214.html) on Er'Kit
+  * [Conflict on Dandoran (conflict_dan_20171214)](conflict_dan_20171214.html) on Dandoran
+  * [Conflict on Takodana (conflict_tak_20171214)](conflict_tak_20171214.html) on Takodana
+  * [Conflict on Tatooine (conflict_tat_20171214)](conflict_tat_20171214.html) on Tatooine
+  * [Conflict on Yavin 4 (conflict_yav_20171207)](conflict_yav_20171207.html) on Yavin 4
+  * [Conflict on Dandoran (conflict_dan_20171207)](conflict_dan_20171207.html) on Dandoran
+  * [Conflict on Takodana (conflict_tak_20171207)](conflict_tak_20171207.html) on Takodana
+  * [Conflict on Hoth (conflict_hth_20171207)](conflict_hth_20171207.html) on Hoth
+  * [Conflict on Tatooine (conflict_tat_20171207)](conflict_tat_20171207.html) on Tatooine
+  * [Conflict on Yavin 4 (conflict_yav_20171130)](conflict_yav_20171130.html) on Yavin 4
+  * [Conflict on ErKit (conflict_erk_20171130)](conflict_erk_20171130.html) on Er'Kit
+  * [Conflict on Dandoran (conflict_dan_20171130)](conflict_dan_20171130.html) on Dandoran
+  * [Conflict on Hoth (conflict_hth_20171130)](conflict_hth_20171130.html) on Hoth
+  * [Conflict on Tatooine (conflict_tat_20171130)](conflict_tat_20171130.html) on Tatooine
   * [Conflict on Yavin 4 (conflict_yav_20171125)](conflict_yav_20171125.html) on Yavin 4
   * [Conflict on Takodana (conflict_tfa_20171125)](conflict_tfa_20171125.html) on Takodana
   * [Conflict on ErKit (conflict_erk_20171124)](conflict_erk_20171124.html) on Er'Kit
