@@ -194,6 +194,10 @@ These are all sorts of user interface settings, that should not interfere with g
 
   * Arcs: No
   * Asset name: securitydroid_con-ani
+  * Audio attack: "sfx_attack_blasterrifle_1":25,"sfx_attack_blasterrifle_2":25,"sfx_attack_blasterrifle_3":25,"sfx_attack_blasterrifle_4":25
+  * Audio death: "sfx_death_securitydroid_01":50,"sfx_death_securitydroid_02":50
+  * Audio placement: "sfx_placement_troop_1":35,"sfx_placement_troop_2":35,"sfx_placement_troop_3":30
+  * Audio train: "sfx_ui_unitcomplete_securitydroid_01":100
   * Bullet: fx_blaster_beam_r_sm
   * Bundle name: securitydroid_con-ani
   * Defense reduction asset name: fx_grenade_sonic_debuff
@@ -231,14 +235,6 @@ These are all sorts of user interface settings, that should not interfere with g
   * Spin speed: 0
   * Targeted type: ENEMIES
   * Unlocked by event: true
-
-|Level          |4-5                                                                                                                      |1-3                                                                                                                        |
-|---------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-|Audio attack   |sfx_attack_blasterrifle_1:25,"sfx_attack_blasterrifle_2":25,"sfx_attack_blasterrifle_3":25,"sfx_attack_blasterrifle_4":25|"sfx_attack_blasterrifle_1":25,"sfx_attack_blasterrifle_2":25,"sfx_attack_blasterrifle_3":25,"sfx_attack_blasterrifle_4":25|
-|Audio death    |sfx_death_securitydroid_01:50,"sfx_death_securitydroid_02":50                                                            |"sfx_death_securitydroid_01":50,"sfx_death_securitydroid_02":50                                                            |
-|Audio placement|sfx_placement_troop_1:35,"sfx_placement_troop_2":35,"sfx_placement_troop_3":30                                           |"sfx_placement_troop_1":35,"sfx_placement_troop_2":35,"sfx_placement_troop_3":30                                           |
-|Audio train    |sfx_ui_unitcomplete_securitydroid_01:100                                                                                 |"sfx_ui_unitcomplete_securitydroid_01":100                                                                                 |
-
 
 ## Uninterpreted stats
 
