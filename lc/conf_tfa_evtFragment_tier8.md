@@ -1,61 +1,21 @@
 ---
-title: Ultra Chrome Conflict Crate (lc_conf_tier8)
+title: Ultra Chrome Conflict Crate (lc_conf_tfa_evtFragment_tier8)
 category: crate
 ---
 
-# Ultra Chrome Conflict Crate (lc_conf_tier8)
+# Ultra Chrome Conflict Crate (lc_conf_tfa_evtFragment_tier8)
 
 Crates are given as rewards for various actions. The content is revealed only when opening them, by drawing once (or more) in various prize pools. Only one prize is won for each pool per draw. The in-game description of expectations is written manually and can be wrong. The probability of obtaining one prize is indicated below; the pools change according to planet, faction and HQ level.
 
 This crate expires after 7d. The contents are one draw from each of the 4 pools.
 
-## Pool "lcpool_conf8" (x1 draw)
+## Pool "lcpool_conf_tfa_evtFragment8" (x1 draw)
 
-### Empire on Tatooine
-
-  * (1/1) 32 data fragments of unlockable troop [Shock Trooper](Shock)
-
-### Rebellion on Er'Kit
-
-  * (1/1) 32 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
-
-### Empire on Yavin 4
-
-  * (1/1) 32 data fragments of unlockable air support [VT-49 Decimator](VT49)
-
-### Rebellion on Tatooine
-
-  * (1/1) 32 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
-
-### Rebellion on Dandoran
-
-  * (1/1) 32 data fragments of unlockable air support [A-wing Starfighter](AWing)
-
-### Empire on Hoth
-
-  * (1/1) 32 data fragments of unlockable troop [MTV-7](MTV7)
-
-### Rebellion on Hoth
-
-  * (1/1) 32 data fragments of unlockable troop [AT-RT Walker](ATRT)
-
-### Empire on Dandoran
-
-  * (1/1) 32 data fragments of unlockable air support [TIE Advanced](TieAdvanced)
-
-### Empire on Er'Kit
-
-  * (1/1) 32 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
-
-### Rebellion on Yavin 4
-
-  * (1/1) 32 data fragments of unlockable air support [HWK-290](HWK290)
-
-### Empire on Takodana
+### Empire
 
   * (1/1) 32 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
 
-### Rebellion on Takodana
+### Rebellion
 
   * (1/1) 32 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
 

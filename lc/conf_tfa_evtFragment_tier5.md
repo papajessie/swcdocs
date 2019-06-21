@@ -1,63 +1,23 @@
 ---
-title: Bronzium Conflict Crate (lc_conf_tier6)
+title: Bronzium Conflict Crate (lc_conf_tfa_evtFragment_tier5)
 category: crate
 ---
 
-# Bronzium Conflict Crate (lc_conf_tier6)
+# Bronzium Conflict Crate (lc_conf_tfa_evtFragment_tier5)
 
 Crates are given as rewards for various actions. The content is revealed only when opening them, by drawing once (or more) in various prize pools. Only one prize is won for each pool per draw. The in-game description of expectations is written manually and can be wrong. The probability of obtaining one prize is indicated below; the pools change according to planet, faction and HQ level.
 
 This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
-## Pool "lcpool_conf5" (x1 draw)
+## Pool "lcpool_conf_tfa_evtFragment5" (x1 draw)
 
-### Empire on Er'Kit
-
-  * (1/1) 1 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
-
-### Empire on Hoth
-
-  * (1/1) 1 data fragments of unlockable troop [MTV-7](MTV7)
-
-### Rebellion on Takodana
+### Rebellion
 
   * (1/1) 1 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
 
-### Empire on Takodana
+### Empire
 
   * (1/1) 1 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
-
-### Rebellion on Dandoran
-
-  * (1/1) 1 data fragments of unlockable air support [A-wing Starfighter](AWing)
-
-### Rebellion on Er'Kit
-
-  * (1/1) 1 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
-
-### Rebellion on Hoth
-
-  * (1/1) 1 data fragments of unlockable troop [AT-RT Walker](ATRT)
-
-### Rebellion on Tatooine
-
-  * (1/1) 1 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
-
-### Empire on Dandoran
-
-  * (1/1) 1 data fragments of unlockable air support [TIE Advanced](TieAdvanced)
-
-### Empire on Yavin 4
-
-  * (1/1) 1 data fragments of unlockable air support [VT-49 Decimator](VT49)
-
-### Rebellion on Yavin 4
-
-  * (1/1) 1 data fragments of unlockable air support [HWK-290](HWK290)
-
-### Empire on Tatooine
-
-  * (1/1) 1 data fragments of unlockable troop [Shock Trooper](Shock)
 
 ### Fallback for HQ level 10
 
@@ -83,79 +43,79 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
   * 150000 Credits
 
-## Pool "lcpool_creditsAlloy_conf6" (x1 draw)
-
-### On Dandoran or Hoth or Tatooine for HQ level 6
-
-  * (1/1) 32800 Credits
+## Pool "lcpool_creditsAlloy_conf5" (x1 draw)
 
 ### On Dandoran or Hoth or Tatooine for HQ level 10
 
-  * (1/1) 152000 Credits
+  * (1/1) 240000 Credits
 
 ### On Dandoran or Hoth or Tatooine for HQ level 8
 
-  * (1/1) 68000 Credits
-
-### On Er'Kit or Takodana or Yavin 4 for HQ level 7
-
-  * (1/1) 52000 Alloy
-
-### On Er'Kit or Takodana or Yavin 4 for HQ level 11
-
-  * (1/1) 1600 Alloy
-
-### On Er'Kit or Takodana or Yavin 4 for HQ level 9
-
-  * (1/1) 100000 Alloy
-
-### On Er'Kit or Takodana or Yavin 4 for HQ level 6
-
-  * (1/1) 32800 Alloy
-
-### On Er'Kit or Takodana or Yavin 4 for HQ level 10
-
-  * (1/1) 152000 Alloy
-
-### On Dandoran or Hoth or Tatooine for HQ level 9
-
-  * (1/1) 100000 Credits
+  * (1/1) 112000 Credits
 
 ### On Dandoran or Hoth or Tatooine for HQ level 7
 
-  * (1/1) 52000 Credits
+  * (1/1) 80000 Credits
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 10
+
+  * (1/1) 240000 Alloy
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 11
+
+  * (1/1) 2400 Alloy
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 6
+
+  * (1/1) 52000 Alloy
 
 ### On Dandoran or Hoth or Tatooine for HQ level 11
 
-  * (1/1) 1600 Credits
+  * (1/1) 2400 Credits
+
+### On Dandoran or Hoth or Tatooine for HQ level 9
+
+  * (1/1) 160000 Credits
+
+### On Dandoran or Hoth or Tatooine for HQ level 6
+
+  * (1/1) 52000 Credits
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 9
+
+  * (1/1) 160000 Alloy
 
 ### On Er'Kit or Takodana or Yavin 4 for HQ level 8
 
-  * (1/1) 68000 Alloy
+  * (1/1) 112000 Alloy
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 7
+
+  * (1/1) 80000 Alloy
 
 ### Fallback for HQ level 10
 
-  * 304000 Credits
+  * 240000 Credits
 
 ### Fallback for HQ level 11
 
-  * 3200 Credits
+  * 2400 Credits
 
 ### Fallback for HQ level 6
 
-  * 65600 Credits
+  * 52000 Credits
 
 ### Fallback for HQ level 7
 
-  * 104000 Credits
+  * 80000 Credits
 
 ### Fallback for HQ level 8
 
-  * 136000 Credits
+  * 112000 Credits
 
 ### Fallback for HQ level 9
 
-  * 200000 Credits
+  * 160000 Credits
 
 ## Pool "lcpool_shrd_conf_eqp_tier5" (x1 draw)
 
