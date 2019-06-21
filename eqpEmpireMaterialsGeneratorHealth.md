@@ -233,7 +233,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 Seriously, we don't really know what to do with these.
 
-  * Order: 11
+  * Order: 6
 
 |Level |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
 |------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
