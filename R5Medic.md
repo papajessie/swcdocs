@@ -83,10 +83,14 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Projectile
 
-  * Displayed damage per second: 865
   * Calculated damage per second: 0
   * Calculated damage per cycle: 0
   * Splash damage percentages: 100,100,100,100
+
+|Level                      |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|---------------------------|----|----|----|----|----|----|----|----|----|----|
+|Displayed damage per second|2690|2490|2310|2210|2110|2010|1910|1810|1710|1550|
+
 
   * Cannons per sequence: 1
   * Shooting cycle duration: 1.350s
@@ -141,7 +145,6 @@ These are all sorts of user interface settings, that should not interfere with g
   * Audio placement: "sfx_placement_droid_r5_01":50,"sfx_placement_droid_r5_02":50
   * Audio train: "sfx_ui_unitcomplete_r5droid_01":50,"sfx_ui_unitcomplete_r5droid_02":50
   * Bundle name: r5droid_emp-ani
-  * Displayed damage per second: 865
   * Event button action: galaxy
   * Event button data: planet1 planet3 planet6 planet8 planet21 planet23
   * Event button string: hn_open_galaxy
@@ -159,11 +162,12 @@ These are all sorts of user interface settings, that should not interfere with g
   * Targeted type: ALLIES
   * Unlocked by event: true
 
-|Level               |2-10       |1    |
-|--------------------|-----------|-----|
-|Icon unlock position|(not found)|0,0,0|
-|Icon unlock rotation|(not found)|0,0,0|
-|Icon unlock scale   |(not found)|1,1,1|
+|Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1    |
+|---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----|
+|Displayed damage per second|2690       |2490       |2310       |2210       |2110       |2010       |1910       |1810       |1710       |1550 |
+|Icon unlock position       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0|
+|Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0|
+|Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1,1,1|
 
 
 ## Uninterpreted stats

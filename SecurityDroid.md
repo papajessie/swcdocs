@@ -21,27 +21,27 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Unit capacity: 4
   * Type: mercenary
 
-|Level |3    |2    |1    |
-|------|-----|-----|-----|
-|Health|20480|19800|19200|
+|Level |5    |4    |3    |2    |1    |
+|------|-----|-----|-----|-----|-----|
+|Health|22080|21240|20480|19800|19200|
 
 
 ### Training stats
 
-|Level        |3                                      |2                                      |1                                        |
-|-------------|---------------------------------------|---------------------------------------|-----------------------------------------|
-|Training time|7m47s                                  |6m43s                                  |5m45s                                    |
-|Training cost|115 Con.                               |85 Con.                                |50 Con.                                  |
-|Building     |[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Cantina 1](empireContrabandCantina.html)|
+|Level        |5                                      |4                                      |3                                      |2                                      |1                                        |
+|-------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|-----------------------------------------|
+|Training time|10m13s                                 |8m57s                                  |7m47s                                  |6m43s                                  |5m45s                                    |
+|Training cost|175 Con.                               |145 Con.                               |115 Con.                               |85 Con.                                |50 Con.                                  |
+|Building     |[Research Lab 3](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Cantina 1](empireContrabandCantina.html)|
 
 
 ### Upgrading stats
 
   * Upgrade time: 5s
 
-|Level               |3                |2                |1                |
-|--------------------|-----------------|-----------------|-----------------|
-|Upgrade requirements|75 data fragments|45 data fragments|30 data fragments|
+|Level               |5                 |4                 |3                |2                |1                |
+|--------------------|------------------|------------------|-----------------|-----------------|-----------------|
+|Upgrade requirements|135 data fragments|105 data fragments|75 data fragments|45 data fragments|30 data fragments|
 
 
 ### Movement stats
@@ -83,19 +83,19 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Shot delay: 300ms
   * Target locking: No
 
-|Level          |3  |2  |1  |
-|---------------|---|---|---|
-|Damage per shot|428|388|345|
+|Level          |5  |4  |3  |2  |1  |
+|---------------|---|---|---|---|---|
+|Damage per shot|508|468|428|388|345|
 
 
 ### Projectile
 
   * Displayed damage per second: 1920
 
-|Level                       |3   |2   |1   |
-|----------------------------|----|----|----|
-|Calculated damage per second|972 |881 |784 |
-|Calculated damage per cycle |2140|1940|1725|
+|Level                       |5   |4   |3   |2   |1   |
+|----------------------------|----|----|----|----|----|
+|Calculated damage per second|1154|1063|972 |881 |784 |
+|Calculated damage per cycle |2540|2340|2140|1940|1725|
 
 
   * Cannons per sequence: 1
@@ -168,9 +168,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Defense reduction target: enemies
   * Defense reduction value: 0.0%
 
-|Level                               |3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Defense reduction damage multipliers|**(245%)**: Defense reduction droideka, Defense reduction flying infantry, Defense reduction flying vehicle, Defense reduction headquarters, Defense reduction heavy infantry, Defense reduction heavy infantry hero, Defense reduction heavy vehicle, Defense reduction heavy vehicule hero, Defense reduction infantry, Defense reduction infantry hero, Defense reduction light vehicle, Defense reduction other building, Defense reduction ressource generator, Defense reduction shield, Defense reduction shield generator, Defense reduction storage, Defense reduction support troop, Defense reduction trap, Defense reduction turret, Defense reduction vehicule hero, Defense reduction wall|**(225%)**: Defense reduction droideka, Defense reduction flying infantry, Defense reduction flying vehicle, Defense reduction headquarters, Defense reduction heavy infantry, Defense reduction heavy infantry hero, Defense reduction heavy vehicle, Defense reduction heavy vehicule hero, Defense reduction infantry, Defense reduction infantry hero, Defense reduction light vehicle, Defense reduction other building, Defense reduction ressource generator, Defense reduction shield, Defense reduction shield generator, Defense reduction storage, Defense reduction support troop, Defense reduction trap, Defense reduction turret, Defense reduction vehicule hero, Defense reduction wall|**(200%)**: Defense reduction droideka, Defense reduction flying infantry, Defense reduction flying vehicle, Defense reduction headquarters, Defense reduction heavy infantry, Defense reduction heavy infantry hero, Defense reduction heavy vehicle, Defense reduction heavy vehicule hero, Defense reduction infantry, Defense reduction infantry hero, Defense reduction light vehicle, Defense reduction other building, Defense reduction ressource generator, Defense reduction shield, Defense reduction shield generator, Defense reduction storage, Defense reduction support troop, Defense reduction trap, Defense reduction turret, Defense reduction vehicule hero, Defense reduction wall|
+|Level                               |5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Defense reduction damage multipliers|**(285%)**: Defense reduction droideka, Defense reduction flying infantry, Defense reduction flying vehicle, Defense reduction headquarters, Defense reduction heavy infantry, Defense reduction heavy infantry hero, Defense reduction heavy vehicle, Defense reduction heavy vehicule hero, Defense reduction infantry, Defense reduction infantry hero, Defense reduction light vehicle, Defense reduction other building, Defense reduction ressource generator, Defense reduction shield, Defense reduction shield generator, Defense reduction storage, Defense reduction support troop, Defense reduction trap, Defense reduction turret, Defense reduction vehicule hero, Defense reduction wall|**(265%)**: Defense reduction droideka, Defense reduction flying infantry, Defense reduction flying vehicle, Defense reduction headquarters, Defense reduction heavy infantry, Defense reduction heavy infantry hero, Defense reduction heavy vehicle, Defense reduction heavy vehicule hero, Defense reduction infantry, Defense reduction infantry hero, Defense reduction light vehicle, Defense reduction other building, Defense reduction ressource generator, Defense reduction shield, Defense reduction shield generator, Defense reduction storage, Defense reduction support troop, Defense reduction trap, Defense reduction turret, Defense reduction vehicule hero, Defense reduction wall|**(245%)**: Defense reduction droideka, Defense reduction flying infantry, Defense reduction flying vehicle, Defense reduction headquarters, Defense reduction heavy infantry, Defense reduction heavy infantry hero, Defense reduction heavy vehicle, Defense reduction heavy vehicule hero, Defense reduction infantry, Defense reduction infantry hero, Defense reduction light vehicle, Defense reduction other building, Defense reduction ressource generator, Defense reduction shield, Defense reduction shield generator, Defense reduction storage, Defense reduction support troop, Defense reduction trap, Defense reduction turret, Defense reduction vehicule hero, Defense reduction wall|**(225%)**: Defense reduction droideka, Defense reduction flying infantry, Defense reduction flying vehicle, Defense reduction headquarters, Defense reduction heavy infantry, Defense reduction heavy infantry hero, Defense reduction heavy vehicle, Defense reduction heavy vehicule hero, Defense reduction infantry, Defense reduction infantry hero, Defense reduction light vehicle, Defense reduction other building, Defense reduction ressource generator, Defense reduction shield, Defense reduction shield generator, Defense reduction storage, Defense reduction support troop, Defense reduction trap, Defense reduction turret, Defense reduction vehicule hero, Defense reduction wall|**(200%)**: Defense reduction droideka, Defense reduction flying infantry, Defense reduction flying vehicle, Defense reduction headquarters, Defense reduction heavy infantry, Defense reduction heavy infantry hero, Defense reduction heavy vehicle, Defense reduction heavy vehicule hero, Defense reduction infantry, Defense reduction infantry hero, Defense reduction light vehicle, Defense reduction other building, Defense reduction ressource generator, Defense reduction shield, Defense reduction shield generator, Defense reduction storage, Defense reduction support troop, Defense reduction trap, Defense reduction turret, Defense reduction vehicule hero, Defense reduction wall|
 
 
 
@@ -181,11 +181,11 @@ These stats internal to the system link different parts of data together.
   * Unit ID: SecurityDroid
   * Upgrade shard uid: shrd_troopSecurityDroid
 
-|Level                            |3                     |2                     |1                     |
-|---------------------------------|----------------------|----------------------|----------------------|
-|Ability                          |abilitySecurityDroid3 |abilitySecurityDroid2 |abilitySecurityDroid1 |
-|Secondary attack projectile type |projectileMercGrenade3|projectileMercGrenade2|projectileMercGrenade1|
-|Secondary attack shot apply buffs|buffDefenseReduction3 |buffDefenseReduction2 |buffDefenseReduction1 |
+|Level                            |5                     |4                     |3                     |2                     |1                     |
+|---------------------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+|Ability                          |abilitySecurityDroid5 |abilitySecurityDroid4 |abilitySecurityDroid3 |abilitySecurityDroid2 |abilitySecurityDroid1 |
+|Secondary attack projectile type |projectileMercGrenade5|projectileMercGrenade4|projectileMercGrenade3|projectileMercGrenade2|projectileMercGrenade1|
+|Secondary attack shot apply buffs|buffDefenseReduction5 |buffDefenseReduction4 |buffDefenseReduction3 |buffDefenseReduction2 |buffDefenseReduction1 |
 
 
 ## Presentation stats
@@ -194,10 +194,6 @@ These are all sorts of user interface settings, that should not interfere with g
 
   * Arcs: No
   * Asset name: securitydroid_con-ani
-  * Audio attack: "sfx_attack_blasterrifle_1":25,"sfx_attack_blasterrifle_2":25,"sfx_attack_blasterrifle_3":25,"sfx_attack_blasterrifle_4":25
-  * Audio death: "sfx_death_securitydroid_01":50,"sfx_death_securitydroid_02":50
-  * Audio placement: "sfx_placement_troop_1":35,"sfx_placement_troop_2":35,"sfx_placement_troop_3":30
-  * Audio train: "sfx_ui_unitcomplete_securitydroid_01":100
   * Bullet: fx_blaster_beam_r_sm
   * Bundle name: securitydroid_con-ani
   * Defense reduction asset name: fx_grenade_sonic_debuff
@@ -236,6 +232,14 @@ These are all sorts of user interface settings, that should not interfere with g
   * Targeted type: ENEMIES
   * Unlocked by event: true
 
+|Level          |4-5                                                                                                                      |1-3                                                                                                                        |
+|---------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+|Audio attack   |sfx_attack_blasterrifle_1:25,"sfx_attack_blasterrifle_2":25,"sfx_attack_blasterrifle_3":25,"sfx_attack_blasterrifle_4":25|"sfx_attack_blasterrifle_1":25,"sfx_attack_blasterrifle_2":25,"sfx_attack_blasterrifle_3":25,"sfx_attack_blasterrifle_4":25|
+|Audio death    |sfx_death_securitydroid_01:50,"sfx_death_securitydroid_02":50                                                            |"sfx_death_securitydroid_01":50,"sfx_death_securitydroid_02":50                                                            |
+|Audio placement|sfx_placement_troop_1:35,"sfx_placement_troop_2":35,"sfx_placement_troop_3":30                                           |"sfx_placement_troop_1":35,"sfx_placement_troop_2":35,"sfx_placement_troop_3":30                                           |
+|Audio train    |sfx_ui_unitcomplete_securitydroid_01:100                                                                                 |"sfx_ui_unitcomplete_securitydroid_01":100                                                                                 |
+
+
 ## Uninterpreted stats
 
 Seriously, we don't really know what to do with these.
@@ -261,8 +265,8 @@ Seriously, we don't really know what to do with these.
   * Target in range modifier: 1
   * Xp: 0
 
-|Level|3     |2     |1     |
-|-----|------|------|------|
-|Order|115603|115602|115601|
+|Level|5     |4     |3     |2     |1     |
+|-----|------|------|------|------|------|
+|Order|115606|115605|115603|115602|115601|
 
 

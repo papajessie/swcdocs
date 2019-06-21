@@ -87,9 +87,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Calculated damage per cycle: 0
   * Splash damage percentages: 100,100,100,100
 
-|Level                      |10  |9   |8   |7   |6  |5  |4  |3  |2  |1  |
-|---------------------------|----|----|----|----|---|---|---|---|---|---|
-|Displayed damage per second|1440|1248|1152|1056|960|864|768|672|576|480|
+|Level                      |10  |9   |8   |7   |6   |5   |4   |3  |2  |1  |
+|---------------------------|----|----|----|----|----|----|----|---|---|---|
+|Displayed damage per second|1440|1330|1230|1180|1130|1070|1020|970|910|860|
 
 
   * Cannons per sequence: 1
@@ -164,7 +164,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1    |
 |---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----|
-|Displayed damage per second|1440       |1248       |1152       |1056       |960        |864        |768        |672        |576        |480  |
+|Displayed damage per second|1440       |1330       |1230       |1180       |1130       |1070       |1020       |970        |910        |860  |
 |Icon unlock position       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0|
 |Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0|
 |Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1,1,1|

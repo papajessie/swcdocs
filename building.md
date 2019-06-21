@@ -84,6 +84,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [IDT Trap (empireTrapDropship)](empireTrapDropship.html)
   * [TIE Bomber Trap (empireTrapStrikeAOE)](empireTrapStrikeAOE.html)
   * [TIE Fighter Trap (empireTrapStrikeGeneric)](empireTrapStrikeGeneric.html)
+  * [TIE Striker Trap (empireTrapStrikeHeavy)](empireTrapStrikeHeavy.html)
   * [Wall (empireWall)](empireWall.html)
 
 ### Rebellion
@@ -95,6 +96,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [LAAT Trap (rebelTrapDropship)](rebelTrapDropship.html)
   * [Y-wing Trap (rebelTrapStrikeAOE)](rebelTrapStrikeAOE.html)
   * [X-wing Trap (rebelTrapStrikeGeneric)](rebelTrapStrikeGeneric.html)
+  * [Fang Fighter Trap (rebelTrapStrikeHeavy)](rebelTrapStrikeHeavy.html)
   * [Wall (rebelWall)](rebelWall.html)
 
 ### Tusken Raiders

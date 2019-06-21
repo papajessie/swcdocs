@@ -19,6 +19,31 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Modifiers
 
+#### Modifier "Diplomat summon"
+
+  * Diplomat summon apply value as: absolute
+  * Diplomat summon buff ID: buffDiplomatSummon
+  * Diplomat summon duration: permanent
+  * Diplomat summon modifier: summon
+  * Diplomat summon ms first proc: 1s
+  * Diplomat summon name: Diplomat summon
+  * Diplomat summon stack: 0
+  * Diplomat summon summon visitors: [Rebel Soldier level 5](Soldier.html)
+  * Diplomat summon target: self
+  * Diplomat summon value: 1
+
+|Level                      |9-10  |7-8|5-6|3-4|1-2|
+|---------------------------|------|---|---|---|---|
+|Diplomat summon ms per proc|4.500s|5s |6s |8s |10s|
+
+
+  * Diplomat summon summon die with summoner: No
+  * Diplomat summon summon max proc: 29
+  * Diplomat summon summon same team: Yes
+  * Diplomat summon summon spawn points: 1,0,-1
+  * Diplomat summon summon target summoner: No
+  * Diplomat summon summon visitor type: Troop
+
 #### Modifier "Eqp hero leia damage"
 
   * Eqp hero leia damage apply value as: relativePercent

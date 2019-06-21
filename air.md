@@ -43,6 +43,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
 
 ### Empire
 
+  * [shptitleAtmosMigTrap (AtmosMigTrap)](AtmosMigTrap.html)
   * [Strix Strafing Run (FreighterEmpire)](FreighterEmpire.html)
   * [shptitleGozantiCruiser (GozantiCruiser)](GozantiCruiser.html)
   * [Imperial Dropship Transport (ImperialDropshipTrap)](ImperialDropshipTrap.html)
@@ -55,6 +56,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
 
   * [Low Altitude Assault Transport (CloneWarsGunshipTrap)](CloneWarsGunshipTrap.html)
   * [shptitleCorellianStarShuttle (CorellianStarShuttle)](CorellianStarShuttle.html)
+  * [shptitleFangFighterTrap (FangFighterTrap)](FangFighterTrap.html)
   * [Strix Strafing Run (FreighterRebel)](FreighterRebel.html)
   * [shptitleRedDot (RedDot)](RedDot.html)
   * [Seized A-wing Starfighter (SeizedAwing)](SeizedAwing.html)

@@ -19,6 +19,31 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Modifiers
 
+#### Modifier "Cargo great dane summon"
+
+  * Cargo great dane summon apply value as: absolute
+  * Cargo great dane summon buff ID: buffCargoGreatDaneSummon
+  * Cargo great dane summon duration: permanent
+  * Cargo great dane summon modifier: summon
+  * Cargo great dane summon ms first proc: 1s
+  * Cargo great dane summon name: Cargo great dane summon
+  * Cargo great dane summon stack: 0
+  * Cargo great dane summon summon visitors: [Stormtrooper level 5](Storm.html)
+  * Cargo great dane summon target: self
+  * Cargo great dane summon value: 1
+
+|Level                              |9-10  |7-8|5-6|3-4|1-2|
+|-----------------------------------|------|---|---|---|---|
+|Cargo great dane summon ms per proc|4.500s|5s |6s |8s |10s|
+
+
+  * Cargo great dane summon summon die with summoner: No
+  * Cargo great dane summon summon max proc: 29
+  * Cargo great dane summon summon same team: Yes
+  * Cargo great dane summon summon spawn points: 1,0,-1
+  * Cargo great dane summon summon target summoner: No
+  * Cargo great dane summon summon visitor type: Troop
+
 #### Modifier "Eqp hero ATAT damage"
 
   * Eqp hero ATAT damage apply value as: relativePercent

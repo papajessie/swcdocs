@@ -180,7 +180,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 ### Movement stats
 
   * Acceleration: 0
-  * Crushes walls: No
+  * Crushes walls: Yes
   * Flying unit: No
   * Max speed: 20
   * Propensity to go around obstacles: 15
