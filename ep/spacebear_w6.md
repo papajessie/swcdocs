@@ -8,8 +8,8 @@ category: episode
 
 
   * Title: Unpaid Debts
-  * Start date: 2018-01-05 20:00 UTC
-  * End date: 2018-01-11 20:00 UTC
+  * Start date: 2018-01-04 20:00 UTC
+  * End date: 2018-01-10 20:00 UTC
 
   * Task HQ11: None
 
