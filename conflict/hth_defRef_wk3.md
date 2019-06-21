@@ -5,7 +5,7 @@ category: tournament
 # Conflict on Hoth
 
   * Planet: Hoth
-  * Start date: 2017-07-11
+  * Start date: 2017-07-06
   * End date: 2017-07-12
 
 ## Rewards
