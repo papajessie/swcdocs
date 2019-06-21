@@ -81,6 +81,10 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Icon unlock scale: 0.6,0.6,0.6
   * Quality: elite
 
+|Level|10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
+|-----|---|---|---|---|---|---|---|---|---|---|
+|Order|488|487|486|485|484|483|482|481|480|479|
+
 
 ## Main stats
 
@@ -180,7 +184,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Flying unit: No
   * Max speed: 20
   * Propensity to go around obstacles: 15
-  * Rotation speed: 2
+  * Rotation speed: 2000
   * Run speed: 0
   * Run threshold: 0
   * Unit size on map: 2x3

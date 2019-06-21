@@ -9,111 +9,111 @@ Crates are given as rewards for various actions. The content is revealed only wh
 
 This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
-## Pool "lcpool_currency_t1" (x1 draw)
+## Pool "lcpool_creditsAlloy_conf1" (x1 draw)
 
-### For HQ level 10
+### On Er'Kit or Takodana or Yavin 4 for HQ level 10
 
-  * (1/6) 6000 Alloy
-  * (1/6) 6000 Credits
-  * (1/6) 7500 Alloy
-  * (1/6) 7500 Credits
-  * (1/6) 9000 Alloy
-  * (1/6) 9000 Credits
+  * (1/1) 6000 Alloy
 
-### For HQ level 6
+### On Er'Kit or Takodana or Yavin 4 for HQ level 11
 
-  * (1/6) 2560 Alloy
-  * (1/6) 2560 Credits
-  * (1/6) 3200 Alloy
-  * (1/6) 3200 Credits
-  * (1/6) 3840 Alloy
-  * (1/6) 3840 Credits
+  * (1/1) 160 Alloy
 
-### For HQ level 8
+### On Dandoran or Hoth or Tatooine for HQ level 6
 
-  * (1/6) 4000 Alloy
-  * (1/6) 4000 Credits
-  * (1/6) 5000 Alloy
-  * (1/6) 5000 Credits
-  * (1/6) 6000 Alloy
-  * (1/6) 6000 Credits
+  * (1/1) 2560 Credits
 
-### For HQ level 7
+### On Dandoran or Hoth or Tatooine for HQ level 11
 
-  * (1/6) 3200 Alloy
-  * (1/6) 3200 Credits
-  * (1/6) 4000 Alloy
-  * (1/6) 4000 Credits
-  * (1/6) 4800 Alloy
-  * (1/6) 4800 Credits
+  * (1/1) 160 Credits
 
-### For HQ level 9
+### On Er'Kit or Takodana or Yavin 4 for HQ level 7
 
-  * (1/6) 4800 Alloy
-  * (1/6) 4800 Credits
-  * (1/6) 6000 Alloy
-  * (1/6) 6000 Credits
-  * (1/6) 7200 Alloy
-  * (1/6) 7200 Credits
+  * (1/1) 3200 Alloy
 
-### For HQ level 11
+### On Dandoran or Hoth or Tatooine for HQ level 9
 
-  * (1/6) 160 Alloy
-  * (1/6) 160 Credits
-  * (1/6) 200 Alloy
-  * (1/6) 200 Credits
-  * (1/6) 240 Alloy
-  * (1/6) 240 Credits
+  * (1/1) 4800 Credits
 
-### Fallback for HQ level 10
-
-  * 7500 Credits
-
-### Fallback for HQ level 11
-
-  * 200 Credits
-
-### Fallback for HQ level 6
-
-  * 3200 Credits
-
-### Fallback for HQ level 7
-
-  * 4000 Credits
-
-### Fallback for HQ level 8
-
-  * 5000 Credits
-
-### Fallback for HQ level 9
-
-  * 6000 Credits
-
-## Pool "lcpool_losalamosStarfighterSample_conf1" (x1 draw)
-
-### For HQ level 8
-
-  * (1/1) 5000 Credits
-
-### For HQ level 10
-
-  * (1/1) 7500 Credits
-
-### For HQ level 11
-
-  * (1/1) 200 Credits
-
-### For HQ level 6
+### On Dandoran or Hoth or Tatooine for HQ level 7
 
   * (1/1) 3200 Credits
 
-### For HQ level 7
+### On Er'Kit or Takodana or Yavin 4 for HQ level 9
+
+  * (1/1) 4800 Alloy
+
+### On Dandoran or Hoth or Tatooine for HQ level 8
 
   * (1/1) 4000 Credits
 
-### For HQ level 9
+### On Er'Kit or Takodana or Yavin 4 for HQ level 8
+
+  * (1/1) 4000 Alloy
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 6
+
+  * (1/1) 2560 Alloy
+
+### On Dandoran or Hoth or Tatooine for HQ level 10
 
   * (1/1) 6000 Credits
+
+### Fallback for HQ level 10
+
+  * 6000 Credits
+
+### Fallback for HQ level 11
+
+  * 160 Credits
+
+### Fallback for HQ level 6
+
+  * 2560 Credits
+
+### Fallback for HQ level 7
+
+  * 3200 Credits
+
+### Fallback for HQ level 8
+
+  * 4000 Credits
+
+### Fallback for HQ level 9
+
+  * 4800 Credits
+
+## Pool "lcpool_losalamosStarfighterSample_conf1" (x1 draw)
+
+### For HQ level 11
+
+  * (1/2) 200 Alloy
+  * (1/2) 200 Credits
+
+### For HQ level 7
+
+  * (1/2) 4000 Alloy
+  * (1/2) 4000 Credits
+
+### For HQ level 8
+
+  * (1/2) 5000 Alloy
+  * (1/2) 5000 Credits
+
+### For HQ level 10
+
+  * (1/2) 7500 Alloy
+  * (1/2) 7500 Credits
+
+### For HQ level 6
+
+  * (1/2) 3200 Alloy
+  * (1/2) 3200 Credits
+
+### For HQ level 9
+
+  * (1/2) 6000 Alloy
+  * (1/2) 6000 Credits
 
 ### Fallback for HQ level 10
 
@@ -143,31 +143,35 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
 ### Rebellion
 
-  * (1/11) 2 data fragments of equipment [Enhanced Heat Sink](eqpRebelBurstTurretDamage)
-  * (1/11) 2 data fragments of equipment [Enhanced Heat Sink](eqpRebelMortarTurretDamage)
-  * (1/11) 2 data fragments of equipment [Enhanced Heat Sink](eqpRebelRapidFireTurretDamage)
-  * (1/11) 2 data fragments of equipment [Reinforced Mounting](eqpRebelBurstTurretHealth)
-  * (1/11) 2 data fragments of equipment [Reinforced Mounting](eqpRebelMortarTurretHealth)
-  * (1/11) 2 data fragments of equipment [Reinforced Mounting](eqpRebelRapidFireTurretHealth)
-  * (1/11) 6 data fragments of equipment [Reinforced Alloy Refinery Bracing](eqpRebelMaterialsGeneratorHealth)
-  * (1/11) 6 data fragments of equipment [Reinforced Contraband Trade Port Bracing](eqpRebelContrabandGeneratorHealth)
-  * (1/11) 6 data fragments of equipment [Reinforced Credit Market Bracing](eqpRebelCreditGeneratorHealth)
-  * (1/11) 6 data fragments of equipment [Reinforced HQ Bracing](eqpRebelHQHealth)
-  * (1/11) 6 data fragments of equipment [Reinforced Wall Bracing](eqpRebelWallHealth)
+  * (1/13) 2 data fragments of equipment [Enhanced Heat Sink](eqpRebelBurstTurretDamage)
+  * (1/13) 2 data fragments of equipment [Enhanced Heat Sink](eqpRebelMortarTurretDamage)
+  * (1/13) 2 data fragments of equipment [Enhanced Heat Sink](eqpRebelRapidFireTurretDamage)
+  * (1/13) 2 data fragments of equipment [Enhanced Heat Sink](eqpRebelRocketTurretDamage)
+  * (1/13) 2 data fragments of equipment [Reinforced Mounting](eqpRebelBurstTurretHealth)
+  * (1/13) 2 data fragments of equipment [Reinforced Mounting](eqpRebelMortarTurretHealth)
+  * (1/13) 2 data fragments of equipment [Reinforced Mounting](eqpRebelRapidFireTurretHealth)
+  * (1/13) 2 data fragments of equipment [Reinforced Mounting](eqpRebelRocketTurretHealth)
+  * (1/13) 6 data fragments of equipment [Reinforced Alloy Refinery Bracing](eqpRebelMaterialsGeneratorHealth)
+  * (1/13) 6 data fragments of equipment [Reinforced Contraband Trade Port Bracing](eqpRebelContrabandGeneratorHealth)
+  * (1/13) 6 data fragments of equipment [Reinforced Credit Market Bracing](eqpRebelCreditGeneratorHealth)
+  * (1/13) 6 data fragments of equipment [Reinforced HQ Bracing](eqpRebelHQHealth)
+  * (1/13) 6 data fragments of equipment [Reinforced Wall Bracing](eqpRebelWallHealth)
 
 ### Empire
 
-  * (1/11) 2 data fragments of equipment [Enhanced Heat Sink](eqpEmpireBurstTurretDamage)
-  * (1/11) 2 data fragments of equipment [Enhanced Heat Sink](eqpEmpireMortarTurretDamage)
-  * (1/11) 2 data fragments of equipment [Enhanced Heat Sink](eqpEmpireRapidFireTurretDamage)
-  * (1/11) 2 data fragments of equipment [Reinforced Mounting](eqpEmpireBurstTurretHealth)
-  * (1/11) 2 data fragments of equipment [Reinforced Mounting](eqpEmpireMortarTurretHealth)
-  * (1/11) 2 data fragments of equipment [Reinforced Mounting](eqpEmpireRapidFireTurretHealth)
-  * (1/11) 6 data fragments of equipment [Reinforced Alloy Refinery Bracing](eqpEmpireMaterialsGeneratorHealth)
-  * (1/11) 6 data fragments of equipment [Reinforced Contraband Trade Port Bracing](eqpEmpireContrabandGeneratorHealth)
-  * (1/11) 6 data fragments of equipment [Reinforced Credit Market Bracing](eqpEmpireCreditGeneratorHealth)
-  * (1/11) 6 data fragments of equipment [Reinforced HQ Bracing](eqpEmpireHQHealth)
-  * (1/11) 6 data fragments of equipment [Reinforced Wall Bracing](eqpEmpireWallHealth)
+  * (1/13) 2 data fragments of equipment [Enhanced Heat Sink](eqpEmpireBurstTurretDamage)
+  * (1/13) 2 data fragments of equipment [Enhanced Heat Sink](eqpEmpireMortarTurretDamage)
+  * (1/13) 2 data fragments of equipment [Enhanced Heat Sink](eqpEmpireRapidFireTurretDamage)
+  * (1/13) 2 data fragments of equipment [Enhanced Heat Sink](eqpEmpireRocketTurretDamage)
+  * (1/13) 2 data fragments of equipment [Reinforced Mounting](eqpEmpireBurstTurretHealth)
+  * (1/13) 2 data fragments of equipment [Reinforced Mounting](eqpEmpireMortarTurretHealth)
+  * (1/13) 2 data fragments of equipment [Reinforced Mounting](eqpEmpireRapidFireTurretHealth)
+  * (1/13) 2 data fragments of equipment [Reinforced Mounting](eqpEmpireRocketTurretHealth)
+  * (1/13) 6 data fragments of equipment [Reinforced Alloy Refinery Bracing](eqpEmpireMaterialsGeneratorHealth)
+  * (1/13) 6 data fragments of equipment [Reinforced Contraband Trade Port Bracing](eqpEmpireContrabandGeneratorHealth)
+  * (1/13) 6 data fragments of equipment [Reinforced Credit Market Bracing](eqpEmpireCreditGeneratorHealth)
+  * (1/13) 6 data fragments of equipment [Reinforced HQ Bracing](eqpEmpireHQHealth)
+  * (1/13) 6 data fragments of equipment [Reinforced Wall Bracing](eqpEmpireWallHealth)
 
 ### Fallback for HQ level 10
 

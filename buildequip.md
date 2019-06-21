@@ -20,6 +20,8 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Reinforced Mounting (eqpEmpireMortarTurretHealth)](eqpEmpireMortarTurretHealth.html)
   * [Enhanced Heat Sink (eqpEmpireRapidFireTurretDamage)](eqpEmpireRapidFireTurretDamage.html)
   * [Reinforced Mounting (eqpEmpireRapidFireTurretHealth)](eqpEmpireRapidFireTurretHealth.html)
+  * [Enhanced Heat Sink (eqpEmpireRocketTurretDamage)](eqpEmpireRocketTurretDamage.html)
+  * [Reinforced Mounting (eqpEmpireRocketTurretHealth)](eqpEmpireRocketTurretHealth.html)
   * [Reinforced Wall Bracing (eqpEmpireWallHealth)](eqpEmpireWallHealth.html)
 
 ### Rebellion
@@ -34,5 +36,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Reinforced Mounting (eqpRebelMortarTurretHealth)](eqpRebelMortarTurretHealth.html)
   * [Enhanced Heat Sink (eqpRebelRapidFireTurretDamage)](eqpRebelRapidFireTurretDamage.html)
   * [Reinforced Mounting (eqpRebelRapidFireTurretHealth)](eqpRebelRapidFireTurretHealth.html)
+  * [Enhanced Heat Sink (eqpRebelRocketTurretDamage)](eqpRebelRocketTurretDamage.html)
+  * [Reinforced Mounting (eqpRebelRocketTurretHealth)](eqpRebelRocketTurretHealth.html)
   * [Reinforced Wall Bracing (eqpRebelWallHealth)](eqpRebelWallHealth.html)
 

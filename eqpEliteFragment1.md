@@ -29,7 +29,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Eqp basic struct health name: Eqp basic struct health
   * Eqp basic struct health stack: 0
   * Eqp basic struct health target: self
-  * Eqp basic struct health value: 50.0%
+  * Eqp basic struct health value: 100.0%
 
 
 ### Upgrade stats
@@ -70,7 +70,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level          |10.01|09.01|08.01|07.01|06.01|05.01|04.01|03.01|02.01|01.01|
 |---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Health         |27000|24300|21600|18900|16200|13500|10800|6750 |4500 |2250 |
+|Health         |36000|32400|28800|25200|21600|18000|14400|9000 |6000 |3000 |
 |Max quantity   |120  |100  |90   |80   |70   |60   |50   |40   |30   |20   |
 |Original health|18000|16200|14400|12600|10800|9000 |7200 |4500 |3000 |1500 |
 

@@ -7,7 +7,7 @@ category: crate
 
 Crates are given as rewards for various actions. The content is revealed only when opening them, by drawing once (or more) in various prize pools. Only one prize is won for each pool per draw. The in-game description of expectations is written manually and can be wrong. The probability of obtaining one prize is indicated below; the pools change according to planet, faction and HQ level.
 
-This crate expires after 7d. The contents are one draw from each of the 3 pools.
+This crate expires after 7d. The contents are one draw from each of the 4 pools.
 
 ## Pool "lcpool_brute_conf8" (x1 draw)
 
@@ -43,103 +43,129 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
   * 250000 Credits
 
-## Pool "lcpool_currency_t13" (x1 draw)
+## Pool "lcpool_creditsAlloy_conf8" (x1 draw)
 
-### For HQ level 7
+### On Er'Kit or Takodana or Yavin 4 for HQ level 10
 
-  * (1/9) 140000 Alloy
-  * (1/9) 140000 Credits
-  * (1/9) 1600 Contraband
-  * (1/9) 175000 Alloy
-  * (1/9) 175000 Credits
-  * (1/9) 2000 Contraband
-  * (1/9) 210000 Alloy
-  * (1/9) 210000 Credits
-  * (1/9) 2400 Contraband
+  * (1/1) 480000 Alloy
 
-### For HQ level 9
+### On Dandoran or Hoth or Tatooine for HQ level 11
 
-  * (1/9) 11000 Contraband
-  * (1/9) 320000 Alloy
-  * (1/9) 320000 Credits
-  * (1/9) 400000 Alloy
-  * (1/9) 400000 Credits
-  * (1/9) 480000 Alloy
-  * (1/9) 480000 Credits
-  * (1/9) 7000 Contraband
-  * (1/9) 9000 Contraband
+  * (1/1) 5600 Credits
 
-### For HQ level 8
+### On Er'Kit or Takodana or Yavin 4 for HQ level 11
 
-  * (1/9) 220000 Alloy
-  * (1/9) 220000 Credits
-  * (1/9) 275000 Alloy
-  * (1/9) 275000 Credits
-  * (1/9) 330000 Alloy
-  * (1/9) 330000 Credits
-  * (1/9) 3600 Contraband
-  * (1/9) 4500 Contraband
-  * (1/9) 5400 Contraband
+  * (1/1) 5600 Alloy
 
-### For HQ level 11
+### On Dandoran or Hoth or Tatooine for HQ level 8
 
-  * (1/9) 0 Contraband
-  * (1/9) 0 Contraband
-  * (1/9) 0 Contraband
-  * (1/9) 5600 Alloy
-  * (1/9) 5600 Credits
-  * (1/9) 7000 Alloy
-  * (1/9) 7000 Credits
-  * (1/9) 8400 Alloy
-  * (1/9) 8400 Credits
+  * (1/1) 220000 Credits
 
-### For HQ level 6
+### On Er'Kit or Takodana or Yavin 4 for HQ level 7
 
-  * (1/9) 104000 Alloy
-  * (1/9) 104000 Credits
-  * (1/9) 130000 Alloy
-  * (1/9) 130000 Credits
-  * (1/9) 156000 Alloy
-  * (1/9) 156000 Credits
-  * (1/9) 200 Contraband
-  * (1/9) 250 Contraband
-  * (1/9) 300 Contraband
+  * (1/1) 140000 Alloy
 
-### For HQ level 10
+### On Er'Kit or Takodana or Yavin 4 for HQ level 8
 
-  * (1/9) 12000 Contraband
-  * (1/9) 14500 Contraband
-  * (1/9) 480000 Alloy
-  * (1/9) 480000 Credits
-  * (1/9) 600000 Alloy
-  * (1/9) 600000 Credits
-  * (1/9) 720000 Alloy
-  * (1/9) 720000 Credits
-  * (1/9) 9500 Contraband
+  * (1/1) 220000 Alloy
+
+### On Dandoran or Hoth or Tatooine for HQ level 6
+
+  * (1/1) 104000 Credits
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 6
+
+  * (1/1) 104000 Alloy
+
+### On Dandoran or Hoth or Tatooine for HQ level 7
+
+  * (1/1) 140000 Credits
+
+### On Dandoran or Hoth or Tatooine for HQ level 9
+
+  * (1/1) 320000 Credits
+
+### On Dandoran or Hoth or Tatooine for HQ level 10
+
+  * (1/1) 480000 Credits
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 9
+
+  * (1/1) 320000 Alloy
 
 ### Fallback for HQ level 10
 
-  * 600000 Credits
+  * 480000 Credits
 
 ### Fallback for HQ level 11
 
-  * 7000 Credits
+  * 5600 Credits
 
 ### Fallback for HQ level 6
 
-  * 130000 Credits
+  * 104000 Credits
 
 ### Fallback for HQ level 7
 
-  * 175000 Credits
+  * 140000 Credits
 
 ### Fallback for HQ level 8
 
-  * 275000 Credits
+  * 220000 Credits
 
 ### Fallback for HQ level 9
 
-  * 400000 Credits
+  * 320000 Credits
+
+## Pool "lcpool_currency_conf8" (x1 draw)
+
+### For HQ level 7
+
+  * (1/1) 1600 Contraband
+
+### For HQ level 10
+
+  * (1/1) 9500 Contraband
+
+### For HQ level 11
+
+  * (1/1) 0 Contraband
+
+### For HQ level 6
+
+  * (1/1) 200 Contraband
+
+### For HQ level 8
+
+  * (1/1) 3600 Contraband
+
+### For HQ level 9
+
+  * (1/1) 7000 Contraband
+
+### Fallback for HQ level 10
+
+  * 480000 Credits
+
+### Fallback for HQ level 11
+
+  * 5600 Credits
+
+### Fallback for HQ level 6
+
+  * 104000 Credits
+
+### Fallback for HQ level 7
+
+  * 140000 Credits
+
+### Fallback for HQ level 8
+
+  * 220000 Credits
+
+### Fallback for HQ level 9
+
+  * 320000 Credits
 
 ## Pool "lcpool_shrd_conf_eqp_tier8" (x1 draw)
 

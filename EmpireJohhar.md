@@ -112,6 +112,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Secondary attack cooldown Time: 45s
   * Secondary attack description: Rail Gun
   * Secondary attack duration: 1ms
+  * Secondary attack recast ability: No
   * Secondary attack target self: No
 
 ### Targeting

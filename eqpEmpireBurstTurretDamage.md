@@ -18,21 +18,21 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Modifiers
 
-#### Modifier "Eqp advanced struct damage"
+#### Modifier "Eqp burst turret damage"
 
-  * Eqp advanced struct damage apply value as: relativePercent
-  * Eqp advanced struct damage buff ID: buffEqpAdvancedStructDamage
-  * Eqp advanced struct damage duration: permanent
-  * Eqp advanced struct damage modifier: damage
-  * Eqp advanced struct damage ms first proc: 0s
-  * Eqp advanced struct damage ms per proc: permanent
-  * Eqp advanced struct damage name: Eqp advanced struct damage
-  * Eqp advanced struct damage stack: 0
-  * Eqp advanced struct damage target: self
+  * Eqp burst turret damage apply value as: relativePercent
+  * Eqp burst turret damage buff ID: buffEqpBurstTurretDamage
+  * Eqp burst turret damage duration: permanent
+  * Eqp burst turret damage modifier: damage
+  * Eqp burst turret damage ms first proc: 0s
+  * Eqp burst turret damage ms per proc: permanent
+  * Eqp burst turret damage name: Eqp burst turret damage
+  * Eqp burst turret damage stack: 0
+  * Eqp burst turret damage target: self
 
-|Level                           |10    |9     |8     |7    |6    |5    |4    |3    |2    |1    |
-|--------------------------------|------|------|------|-----|-----|-----|-----|-----|-----|-----|
-|Eqp advanced struct damage value|125.0%|115.0%|106.0%|97.0%|88.0%|80.0%|72.0%|64.0%|56.0%|50.0%|
+|Level                        |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
+|-----------------------------|------|------|------|------|------|------|------|------|------|------|
+|Eqp burst turret damage value|159.0%|154.0%|147.0%|142.0%|136.0%|131.0%|125.0%|120.0%|114.0%|110.0%|
 
 
 
@@ -133,132 +133,132 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                          |01.10|01.09|01.08|01.07|01.06|01.05|01.04|01.03|01.02|01.01|
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Turret damage per shot         |645  |617  |591  |565  |539  |516  |493  |470  |447  |430  |
+|Turret damage per shot         |743  |728  |708  |694  |677  |662  |645  |631  |614  |602  |
 |Turret original damage per shot|287  |287  |287  |287  |287  |287  |287  |287  |287  |287  |
 
 
 |Level                          |02.10|02.09|02.08|02.07|02.06|02.05|02.04|02.03|02.02|02.01|
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Turret damage per shot         |969  |926  |887  |849  |810  |775  |741  |706  |672  |646  |
+|Turret damage per shot         |1116 |1094 |1064 |1043 |1017 |995  |969  |948  |922  |905  |
 |Turret original damage per shot|431  |431  |431  |431  |431  |431  |431  |431  |431  |431  |
 
 
 |Level                          |03.10|03.09|03.08|03.07|03.06|03.05|03.04|03.03|03.02|03.01|
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Turret damage per shot         |1163 |1111 |1065 |1018 |971  |930  |889  |847  |806  |775  |
+|Turret damage per shot         |1339 |1313 |1276 |1251 |1220 |1194 |1163 |1137 |1106 |1085 |
 |Turret original damage per shot|517  |517  |517  |517  |517  |517  |517  |517  |517  |517  |
 
 
 |Level                          |04.10|04.09|04.08|04.07|04.06|04.05|04.04|04.03|04.02|04.01|
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Turret damage per shot         |1550 |1481 |1419 |1357 |1295 |1240 |1185 |1129 |1074 |1033 |
+|Turret damage per shot         |1784 |1750 |1701 |1667 |1626 |1591 |1550 |1515 |1474 |1446 |
 |Turret original damage per shot|689  |689  |689  |689  |689  |689  |689  |689  |689  |689  |
 
 
 |Level                          |05.10|05.09|05.08|05.07|05.06|05.05|05.04|05.03|05.02|05.01|
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Turret damage per shot         |1872 |1788 |1713 |1639 |1564 |1497 |1431 |1364 |1297 |1248 |
+|Turret damage per shot         |2154 |2113 |2055 |2013 |1963 |1921 |1872 |1830 |1780 |1747 |
 |Turret original damage per shot|832  |832  |832  |832  |832  |832  |832  |832  |832  |832  |
 
 
 |Level                          |06.10|06.09|06.08|06.07|06.06|06.05|06.04|06.03|06.02|06.01|
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Turret damage per shot         |2067 |1975 |1893 |1810 |1727 |1654 |1580 |1507 |1433 |1378 |
+|Turret damage per shot         |2380 |2334 |2269 |2223 |2168 |2122 |2067 |2021 |1966 |1929 |
 |Turret original damage per shot|919  |919  |919  |919  |919  |919  |919  |919  |919  |919  |
 
 
 |Level                          |07.10|07.09|07.08|07.07|07.06|07.05|07.04|07.03|07.02|07.01|
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Turret damage per shot         |2261 |2160 |2070 |1979 |1889 |1809 |1728 |1648 |1567 |1507 |
+|Turret damage per shot         |2602 |2552 |2482 |2432 |2371 |2321 |2261 |2211 |2150 |2110 |
 |Turret original damage per shot|1005 |1005 |1005 |1005 |1005 |1005 |1005 |1005 |1005 |1005 |
 
 
 |Level                          |08.10|08.09|08.08|08.07|08.06|08.05|08.04|08.03|08.02|08.01|
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Turret damage per shot         |2454 |2345 |2247 |2149 |2051 |1963 |1876 |1789 |1701 |1636 |
+|Turret damage per shot         |2825 |2771 |2694 |2640 |2574 |2520 |2454 |2400 |2334 |2291 |
 |Turret original damage per shot|1091 |1091 |1091 |1091 |1091 |1091 |1091 |1091 |1091 |1091 |
 
 
 |Level                          |09.10|09.09|09.08|09.07|09.06|09.05|09.04|09.03|09.02|09.01|
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Turret damage per shot         |2648 |2530 |2424 |2318 |2212 |2118 |2024 |1930 |1836 |1765 |
+|Turret damage per shot         |3048 |2989 |2907 |2848 |2777 |2718 |2648 |2589 |2518 |2471 |
 |Turret original damage per shot|1177 |1177 |1177 |1177 |1177 |1177 |1177 |1177 |1177 |1177 |
 
 
 |Level                          |10.10|10.09|10.08|10.07|10.06|10.05|10.04|10.03|10.02|10.01|
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Turret damage per shot         |2907 |2777 |2661 |2545 |2428 |2325 |2222 |2118 |2015 |1938 |
+|Turret damage per shot         |3346 |3281 |3191 |3126 |3049 |2984 |2907 |2842 |2764 |2713 |
 |Turret original damage per shot|1292 |1292 |1292 |1292 |1292 |1292 |1292 |1292 |1292 |1292 |
 
 
 |Level                                     |01.10|01.09|01.08|01.07|01.06|01.05|01.04|01.03|01.02|01.01|
 |------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret displayed damage per second        |550  |550  |550  |550  |550  |550  |550  |550  |550  |550  |
-|Turret attack calculated damage per second|1235 |1182 |1132 |1082 |1032 |988  |944  |900  |856  |823  |
-|Turret attack calculated damage per clip  |5160 |4936 |4728 |4520 |4312 |4128 |3944 |3760 |3576 |3440 |
+|Turret attack calculated damage per second|1423 |1394 |1356 |1329 |1297 |1268 |1235 |1209 |1176 |1153 |
+|Turret attack calculated damage per clip  |5944 |5824 |5664 |5552 |5416 |5296 |5160 |5048 |4912 |4816 |
 
 
 |Level                                     |02.10|02.09|02.08|02.07|02.06|02.05|02.04|02.03|02.02|02.01|
 |------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret displayed damage per second        |825  |825  |825  |825  |825  |825  |825  |825  |825  |825  |
-|Turret attack calculated damage per second|1856 |1774 |1699 |1626 |1552 |1485 |1419 |1352 |1287 |1237 |
-|Turret attack calculated damage per clip  |7752 |7408 |7096 |6792 |6480 |6200 |5928 |5648 |5376 |5168 |
+|Turret attack calculated damage per second|2138 |2096 |2038 |1998 |1948 |1906 |1856 |1816 |1766 |1734 |
+|Turret attack calculated damage per clip  |8928 |8752 |8512 |8344 |8136 |7960 |7752 |7584 |7376 |7240 |
 
 
 |Level                                     |03.10|03.09|03.08|03.07|03.06|03.05|03.04|03.03|03.02|03.01|
 |------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret displayed damage per second        |990  |990  |990  |990  |990  |990  |990  |990  |990  |990  |
-|Turret attack calculated damage per second|2228 |2128 |2040 |1950 |1860 |1782 |1703 |1622 |1544 |1485 |
-|Turret attack calculated damage per clip  |9304 |8888 |8520 |8144 |7768 |7440 |7112 |6776 |6448 |6200 |
+|Turret attack calculated damage per second|2565 |2515 |2445 |2397 |2337 |2287 |2228 |2178 |2119 |2079 |
+|Turret attack calculated damage per clip  |10712|10504|10208|10008|9760 |9552 |9304 |9096 |8848 |8680 |
 
 
 |Level                                     |04.10|04.09|04.08|04.07|04.06|04.05|04.04|04.03|04.02|04.01|
 |------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret displayed damage per second        |1320 |1320 |1320 |1320 |1320 |1320 |1320 |1320 |1320 |1320 |
-|Turret attack calculated damage per second|2970 |2837 |2719 |2600 |2481 |2376 |2270 |2163 |2057 |1979 |
-|Turret attack calculated damage per clip  |12400|11848|11352|10856|10360|9920 |9480 |9032 |8592 |8264 |
+|Turret attack calculated damage per second|3418 |3353 |3259 |3194 |3115 |3048 |2970 |2902 |2824 |2770 |
+|Turret attack calculated damage per clip  |14272|14000|13608|13336|13008|12728|12400|12120|11792|11568|
 
 
 |Level                                     |05.10|05.09|05.08|05.07|05.06|05.05|05.04|05.03|05.02|05.01|
 |------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret displayed damage per second        |1594 |1594 |1594 |1594 |1594 |1594 |1594 |1594 |1594 |1594 |
-|Turret attack calculated damage per second|3587 |3426 |3282 |3140 |2996 |2868 |2742 |2613 |2485 |2391 |
-|Turret attack calculated damage per clip  |14976|14304|13704|13112|12512|11976|11448|10912|10376|9984 |
+|Turret attack calculated damage per second|4127 |4048 |3937 |3857 |3761 |3680 |3587 |3506 |3410 |3347 |
+|Turret attack calculated damage per clip  |17232|16904|16440|16104|15704|15368|14976|14640|14240|13976|
 
 
 |Level                                     |06.10|06.09|06.08|06.07|06.06|06.05|06.04|06.03|06.02|06.01|
 |------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret displayed damage per second        |1761 |1761 |1761 |1761 |1761 |1761 |1761 |1761 |1761 |1761 |
-|Turret attack calculated damage per second|3960 |3784 |3627 |3468 |3309 |3169 |3027 |2887 |2745 |2640 |
-|Turret attack calculated damage per clip  |16536|15800|15144|14480|13816|13232|12640|12056|11464|11024|
+|Turret attack calculated damage per second|4560 |4472 |4347 |4259 |4154 |4066 |3960 |3872 |3767 |3696 |
+|Turret attack calculated damage per clip  |19040|18672|18152|17784|17344|16976|16536|16168|15728|15432|
 
 
 |Level                                     |07.10|07.09|07.08|07.07|07.06|07.05|07.04|07.03|07.02|07.01|
 |------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret displayed damage per second        |1926 |1926 |1926 |1926 |1926 |1926 |1926 |1926 |1926 |1926 |
-|Turret attack calculated damage per second|4332 |4138 |3966 |3792 |3619 |3466 |3311 |3157 |3002 |2887 |
-|Turret attack calculated damage per clip  |18088|17280|16560|15832|15112|14472|13824|13184|12536|12056|
+|Turret attack calculated damage per second|4985 |4890 |4755 |4660 |4543 |4447 |4332 |4236 |4119 |4043 |
+|Turret attack calculated damage per clip  |20816|20416|19856|19456|18968|18568|18088|17688|17200|16880|
 
 
 |Level                                     |08.10|08.09|08.08|08.07|08.06|08.05|08.04|08.03|08.02|08.01|
 |------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret displayed damage per second        |2090 |2090 |2090 |2090 |2090 |2090 |2090 |2090 |2090 |2090 |
-|Turret attack calculated damage per second|4702 |4493 |4305 |4117 |3930 |3761 |3594 |3428 |3259 |3134 |
-|Turret attack calculated damage per clip  |19632|18760|17976|17192|16408|15704|15008|14312|13608|13088|
+|Turret attack calculated damage per second|5413 |5309 |5162 |5058 |4932 |4828 |4702 |4598 |4472 |4389 |
+|Turret attack calculated damage per clip  |22600|22168|21552|21120|20592|20160|19632|19200|18672|18328|
 
 
 |Level                                     |09.10|09.09|09.08|09.07|09.06|09.05|09.04|09.03|09.02|09.01|
 |------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret displayed damage per second        |2255 |2255 |2255 |2255 |2255 |2255 |2255 |2255 |2255 |2255 |
-|Turret attack calculated damage per second|5074 |4847 |4644 |4441 |4238 |4058 |3878 |3698 |3518 |3382 |
-|Turret attack calculated damage per clip  |21184|20240|19392|18544|17696|16944|16192|15440|14688|14120|
+|Turret attack calculated damage per second|5840 |5727 |5570 |5457 |5321 |5208 |5074 |4960 |4824 |4734 |
+|Turret attack calculated damage per clip  |24384|23912|23256|22784|22216|21744|21184|20712|20144|19768|
 
 
 |Level                                     |10.10|10.09|10.08|10.07|10.06|10.05|10.04|10.03|10.02|10.01|
 |------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret displayed damage per second        |2475 |2475 |2475 |2475 |2475 |2475 |2475 |2475 |2475 |2475 |
-|Turret attack calculated damage per second|5570 |5321 |5098 |4876 |4652 |4455 |4257 |4058 |3861 |3713 |
-|Turret attack calculated damage per clip  |23256|22216|21288|20360|19424|18600|17776|16944|16120|15504|
+|Turret attack calculated damage per second|6411 |6286 |6114 |5989 |5842 |5717 |5570 |5445 |5296 |5198 |
+|Turret attack calculated damage per clip  |26768|26248|25528|25008|24392|23872|23256|22736|22112|21704|
 
 
   * Turret attack cannons per sequence: 1
@@ -334,13 +334,13 @@ Seriously, we don't really know what to do with these.
 |Xp    |70         |65        |60        |55        |50        |45        |40        |35        |30        |25        |
 
 
-I could not show the following roles, because I was not programmed to : buffEqpAdvancedStructDamagepresentation
-buffEqpAdvancedStructDamage:assetName
-buffEqpAdvancedStructDamage:assetProfile
-buffEqpAdvancedStructDamage:audioAbilityEvent
-buffEqpAdvancedStructDamage:bundleName
-buffEqpAdvancedStructDamage:impactAssetNameEmpire
-buffEqpAdvancedStructDamage:impactAssetNameRebel
-buffEqpAdvancedStructDamage:muzzleAssetNameEmpire
-buffEqpAdvancedStructDamage:muzzleAssetNameRebel
-buffEqpAdvancedStructDamage:projectileAttachmentBundle
+I could not show the following roles, because I was not programmed to : buffEqpBurstTurretDamagepresentation
+buffEqpBurstTurretDamage:assetName
+buffEqpBurstTurretDamage:assetProfile
+buffEqpBurstTurretDamage:audioAbilityEvent
+buffEqpBurstTurretDamage:bundleName
+buffEqpBurstTurretDamage:impactAssetNameEmpire
+buffEqpBurstTurretDamage:impactAssetNameRebel
+buffEqpBurstTurretDamage:muzzleAssetNameEmpire
+buffEqpBurstTurretDamage:muzzleAssetNameRebel
+buffEqpBurstTurretDamage:projectileAttachmentBundle

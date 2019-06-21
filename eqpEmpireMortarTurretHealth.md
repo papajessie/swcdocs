@@ -18,21 +18,21 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Modifiers
 
-#### Modifier "Eqp advanced struct health"
+#### Modifier "Eqp mortar turret health"
 
-  * Eqp advanced struct health apply value as: relativePercentOfMax
-  * Eqp advanced struct health buff ID: buffEqpAdvancedStructHealth
-  * Eqp advanced struct health duration: permanent
-  * Eqp advanced struct health modifier: maxHealth
-  * Eqp advanced struct health ms first proc: 0s
-  * Eqp advanced struct health ms per proc: permanent
-  * Eqp advanced struct health name: Eqp advanced struct health
-  * Eqp advanced struct health stack: 0
-  * Eqp advanced struct health target: self
+  * Eqp mortar turret health apply value as: relativePercentOfMax
+  * Eqp mortar turret health buff ID: buffEqpMortarTurretHealth
+  * Eqp mortar turret health duration: permanent
+  * Eqp mortar turret health modifier: maxHealth
+  * Eqp mortar turret health ms first proc: 0s
+  * Eqp mortar turret health ms per proc: permanent
+  * Eqp mortar turret health name: Eqp mortar turret health
+  * Eqp mortar turret health stack: 0
+  * Eqp mortar turret health target: self
 
-|Level                           |10    |9     |8     |7    |6    |5    |4    |3    |2    |1    |
-|--------------------------------|------|------|------|-----|-----|-----|-----|-----|-----|-----|
-|Eqp advanced struct health value|125.0%|115.0%|106.0%|97.0%|88.0%|80.0%|72.0%|64.0%|56.0%|50.0%|
+|Level                         |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
+|------------------------------|------|------|------|------|------|------|------|------|------|------|
+|Eqp mortar turret health value|159.0%|154.0%|147.0%|142.0%|136.0%|131.0%|125.0%|120.0%|114.0%|110.0%|
 
 
 
@@ -87,7 +87,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Cross materials|3000 |3000 |3000 |3000 |3000 |3000 |3000 |3000 |3000 |3000 |
 |Cross time     |1m   |1m   |1m   |1m   |1m   |1m   |1m   |1m   |1m   |1m   |
-|Health         |11250|10750|10300|9850 |9400 |9000 |8600 |8200 |7800 |7500 |
+|Health         |12950|12700|12349|12100|11800|11550|11250|11000|10699|10500|
 |Max quantity   |2    |2    |2    |2    |2    |2    |2    |2    |2    |2    |
 |Original health|5000 |5000 |5000 |5000 |5000 |5000 |5000 |5000 |5000 |5000 |
 |Time           |1m   |1m   |1m   |1m   |1m   |1m   |1m   |1m   |1m   |1m   |
@@ -97,7 +97,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Cross materials|6000 |6000 |6000 |6000 |6000 |6000 |6000 |6000 |6000 |6000 |
 |Cross time     |2m   |2m   |2m   |2m   |2m   |2m   |2m   |2m   |2m   |2m   |
-|Health         |16875|16125|15450|14775|14100|13500|12900|12300|11700|11250|
+|Health         |19425|19050|18524|18150|17700|17325|16875|16500|16049|15750|
 |Max quantity   |4    |4    |4    |4    |4    |4    |4    |4    |4    |4    |
 |Original health|7500 |7500 |7500 |7500 |7500 |7500 |7500 |7500 |7500 |7500 |
 |Time           |30m  |30m  |30m  |30m  |30m  |30m  |30m  |30m  |30m  |30m  |
@@ -107,7 +107,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Cross materials|30000|30000|30000|30000|30000|30000|30000|30000|30000|30000|
 |Cross time     |3m   |3m   |3m   |3m   |3m   |3m   |3m   |3m   |3m   |3m   |
-|Health         |20250|19350|18540|17730|16920|16200|15480|14760|14040|13500|
+|Health         |23310|22860|22229|21780|21240|20790|20250|19800|19259|18900|
 |Max quantity   |6    |6    |6    |6    |6    |6    |6    |6    |6    |6    |
 |Original health|9000 |9000 |9000 |9000 |9000 |9000 |9000 |9000 |9000 |9000 |
 |Time           |4h   |4h   |4h   |4h   |4h   |4h   |4h   |4h   |4h   |4h   |
@@ -117,7 +117,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Cross materials|90000|90000|90000|90000|90000|90000|90000|90000|90000|90000|
 |Cross time     |4m   |4m   |4m   |4m   |4m   |4m   |4m   |4m   |4m   |4m   |
-|Health         |27000|25800|24720|23640|22560|21600|20640|19680|18720|18000|
+|Health         |31080|30480|29639|29040|28320|27720|27000|26400|25679|25200|
 |Max quantity   |8    |8    |8    |8    |8    |8    |8    |8    |8    |8    |
 |Original health|12000|12000|12000|12000|12000|12000|12000|12000|12000|12000|
 |Time           |16h  |16h  |16h  |16h  |16h  |16h  |16h  |16h  |16h  |16h  |
@@ -127,7 +127,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |---------------|------|------|------|------|------|------|------|------|------|------|
 |Cross materials|180000|180000|180000|180000|180000|180000|180000|180000|180000|180000|
 |Cross time     |5m    |5m    |5m    |5m    |5m    |5m    |5m    |5m    |5m    |5m    |
-|Health         |32625 |31175 |29870 |28565 |27260 |26100 |24940 |23780 |22620 |21750 |
+|Health         |37555 |36830 |35815 |35090 |34220 |33495 |32625 |31900 |31029 |30450 |
 |Max quantity   |10    |10    |10    |10    |10    |10    |10    |10    |10    |10    |
 |Original health|14500 |14500 |14500 |14500 |14500 |14500 |14500 |14500 |14500 |14500 |
 |Time           |1d12h |1d12h |1d12h |1d12h |1d12h |1d12h |1d12h |1d12h |1d12h |1d12h |
@@ -137,7 +137,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |---------------|------|------|------|------|------|------|------|------|------|------|
 |Cross materials|480000|480000|480000|480000|480000|480000|480000|480000|480000|480000|
 |Cross time     |6m    |6m    |6m    |6m    |6m    |6m    |6m    |6m    |6m    |6m    |
-|Health         |36000 |34400 |32960 |31520 |30080 |28800 |27520 |26240 |24960 |24000 |
+|Health         |41440 |40640 |39519 |38720 |37760 |36960 |36000 |35200 |34239 |33600 |
 |Max quantity   |12    |12    |12    |12    |12    |12    |12    |12    |12    |12    |
 |Original health|16000 |16000 |16000 |16000 |16000 |16000 |16000 |16000 |16000 |16000 |
 |Time           |2d12h |2d12h |2d12h |2d12h |2d12h |2d12h |2d12h |2d12h |2d12h |2d12h |
@@ -147,7 +147,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |---------------|------|------|------|------|------|------|------|------|------|------|
 |Cross materials|600000|600000|600000|600000|600000|600000|600000|600000|600000|600000|
 |Cross time     |7m    |7m    |7m    |7m    |7m    |7m    |7m    |7m    |7m    |7m    |
-|Health         |39375 |37625 |36050 |34475 |32900 |31500 |30100 |28700 |27300 |26250 |
+|Health         |45325 |44450 |43224 |42350 |41300 |40425 |39375 |38500 |37449 |36750 |
 |Max quantity   |14    |14    |14    |14    |14    |14    |14    |14    |14    |14    |
 |Original health|17500 |17500 |17500 |17500 |17500 |17500 |17500 |17500 |17500 |17500 |
 |Time           |4d    |4d    |4d    |4d    |4d    |4d    |4d    |4d    |4d    |4d    |
@@ -157,7 +157,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |---------------|------|------|------|------|------|------|------|------|------|------|
 |Cross materials|900000|900000|900000|900000|900000|900000|900000|900000|900000|900000|
 |Cross time     |8m    |8m    |8m    |8m    |8m    |8m    |8m    |8m    |8m    |8m    |
-|Health         |49500 |47300 |45320 |43340 |41360 |39600 |37840 |36080 |34320 |33000 |
+|Health         |56980 |55880 |54339 |53240 |51920 |50820 |49500 |48400 |47079 |46200 |
 |Max quantity   |16    |16    |16    |16    |16    |16    |16    |16    |16    |16    |
 |Original health|22000 |22000 |22000 |22000 |22000 |22000 |22000 |22000 |22000 |22000 |
 |Time           |6d    |6d    |6d    |6d    |6d    |6d    |6d    |6d    |6d    |6d    |
@@ -167,7 +167,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |---------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 |Cross materials|2400000|2400000|2400000|2400000|2400000|2400000|2400000|2400000|2400000|2400000|
 |Cross time     |9m     |9m     |9m     |9m     |9m     |9m     |9m     |9m     |9m     |9m     |
-|Health         |55125  |52675  |50470  |48265  |46060  |44100  |42140  |40180  |38220  |36750  |
+|Health         |63455  |62230  |60514  |59290  |57820  |56595  |55125  |53900  |52429  |51450  |
 |Max quantity   |18     |18     |18     |18     |18     |18     |18     |18     |18     |18     |
 |Original health|24500  |24500  |24500  |24500  |24500  |24500  |24500  |24500  |24500  |24500  |
 |Time           |1w1d   |1w1d   |1w1d   |1w1d   |1w1d   |1w1d   |1w1d   |1w1d   |1w1d   |1w1d   |
@@ -177,7 +177,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |---------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 |Cross materials|3600000|3600000|3600000|3600000|3600000|3600000|3600000|3600000|3600000|3600000|
 |Cross time     |10m    |10m    |10m    |10m    |10m    |10m    |10m    |10m    |10m    |10m    |
-|Health         |60750  |58050  |55620  |53190  |50760  |48600  |46440  |44280  |42120  |40500  |
+|Health         |69930  |68580  |66690  |65340  |63720  |62370  |60750  |59400  |57779  |56700  |
 |Max quantity   |20     |20     |20     |20     |20     |20     |20     |20     |20     |20     |
 |Original health|27000  |27000  |27000  |27000  |27000  |27000  |27000  |27000  |27000  |27000  |
 |Time           |1w3d   |1w3d   |1w3d   |1w3d   |1w3d   |1w3d   |1w3d   |1w3d   |1w3d   |1w3d   |
@@ -315,13 +315,13 @@ Seriously, we don't really know what to do with these.
 |Xp    |70         |65        |60        |55        |50        |45        |40        |35        |30        |25        |
 
 
-I could not show the following roles, because I was not programmed to : buffEqpAdvancedStructHealthpresentation
-buffEqpAdvancedStructHealth:assetName
-buffEqpAdvancedStructHealth:assetProfile
-buffEqpAdvancedStructHealth:audioAbilityEvent
-buffEqpAdvancedStructHealth:bundleName
-buffEqpAdvancedStructHealth:impactAssetNameEmpire
-buffEqpAdvancedStructHealth:impactAssetNameRebel
-buffEqpAdvancedStructHealth:muzzleAssetNameEmpire
-buffEqpAdvancedStructHealth:muzzleAssetNameRebel
-buffEqpAdvancedStructHealth:projectileAttachmentBundle
+I could not show the following roles, because I was not programmed to : buffEqpMortarTurretHealthpresentation
+buffEqpMortarTurretHealth:assetName
+buffEqpMortarTurretHealth:assetProfile
+buffEqpMortarTurretHealth:audioAbilityEvent
+buffEqpMortarTurretHealth:bundleName
+buffEqpMortarTurretHealth:impactAssetNameEmpire
+buffEqpMortarTurretHealth:impactAssetNameRebel
+buffEqpMortarTurretHealth:muzzleAssetNameEmpire
+buffEqpMortarTurretHealth:muzzleAssetNameRebel
+buffEqpMortarTurretHealth:projectileAttachmentBundle

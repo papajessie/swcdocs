@@ -9,103 +9,79 @@ Crates are given as rewards for various actions. The content is revealed only wh
 
 This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
-## Pool "lcpool_currency_t8" (x1 draw)
+## Pool "lcpool_creditsAlloy_conf6" (x1 draw)
 
-### For HQ level 11
+### On Dandoran or Hoth or Tatooine for HQ level 6
 
-  * (3/51) 0 Contraband
-  * (3/51) 0 Contraband
-  * (3/51) 0 Contraband
-  * (7/51) 1600 Alloy
-  * (7/51) 1600 Credits
-  * (7/51) 2000 Alloy
-  * (7/51) 2000 Credits
-  * (7/51) 2400 Alloy
-  * (7/51) 2400 Credits
+  * (1/1) 32800 Credits
 
-### For HQ level 6
+### On Dandoran or Hoth or Tatooine for HQ level 10
 
-  * (3/51) 20 Contraband
-  * (3/51) 25 Contraband
-  * (3/51) 30 Contraband
-  * (7/51) 32800 Alloy
-  * (7/51) 32800 Credits
-  * (7/51) 41000 Alloy
-  * (7/51) 41000 Credits
-  * (7/51) 49200 Alloy
-  * (7/51) 49200 Credits
+  * (1/1) 152000 Credits
 
-### For HQ level 10
+### On Dandoran or Hoth or Tatooine for HQ level 8
 
-  * (3/51) 500 Contraband
-  * (3/51) 625 Contraband
-  * (3/51) 750 Contraband
-  * (7/51) 152000 Alloy
-  * (7/51) 152000 Credits
-  * (7/51) 190000 Alloy
-  * (7/51) 190000 Credits
-  * (7/51) 228000 Alloy
-  * (7/51) 228000 Credits
+  * (1/1) 68000 Credits
 
-### For HQ level 9
+### On Er'Kit or Takodana or Yavin 4 for HQ level 7
 
-  * (3/51) 400 Contraband
-  * (3/51) 500 Contraband
-  * (3/51) 600 Contraband
-  * (7/51) 100000 Alloy
-  * (7/51) 100000 Credits
-  * (7/51) 125000 Alloy
-  * (7/51) 125000 Credits
-  * (7/51) 150000 Alloy
-  * (7/51) 150000 Credits
+  * (1/1) 52000 Alloy
 
-### For HQ level 8
+### On Er'Kit or Takodana or Yavin 4 for HQ level 11
 
-  * (3/51) 240 Contraband
-  * (3/51) 300 Contraband
-  * (3/51) 360 Contraband
-  * (7/51) 102000 Alloy
-  * (7/51) 102000 Credits
-  * (7/51) 68000 Alloy
-  * (7/51) 68000 Credits
-  * (7/51) 85000 Alloy
-  * (7/51) 85000 Credits
+  * (1/1) 1600 Alloy
 
-### For HQ level 7
+### On Er'Kit or Takodana or Yavin 4 for HQ level 9
 
-  * (3/51) 100 Contraband
-  * (3/51) 120 Contraband
-  * (3/51) 80 Contraband
-  * (7/51) 52000 Alloy
-  * (7/51) 52000 Credits
-  * (7/51) 65000 Alloy
-  * (7/51) 65000 Credits
-  * (7/51) 78000 Alloy
-  * (7/51) 78000 Credits
+  * (1/1) 100000 Alloy
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 6
+
+  * (1/1) 32800 Alloy
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 10
+
+  * (1/1) 152000 Alloy
+
+### On Dandoran or Hoth or Tatooine for HQ level 9
+
+  * (1/1) 100000 Credits
+
+### On Dandoran or Hoth or Tatooine for HQ level 7
+
+  * (1/1) 52000 Credits
+
+### On Dandoran or Hoth or Tatooine for HQ level 11
+
+  * (1/1) 1600 Credits
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 8
+
+  * (1/1) 68000 Alloy
 
 ### Fallback for HQ level 10
 
-  * 190000 Credits
+  * 304000 Credits
 
 ### Fallback for HQ level 11
 
-  * 2000 Credits
+  * 3200 Credits
 
 ### Fallback for HQ level 6
 
-  * 41000 Credits
+  * 65600 Credits
 
 ### Fallback for HQ level 7
 
-  * 65000 Credits
+  * 104000 Credits
 
 ### Fallback for HQ level 8
 
-  * 85000 Credits
+  * 136000 Credits
 
 ### Fallback for HQ level 9
 
-  * 125000 Credits
+  * 200000 Credits
 
 ## Pool "lcpool_rider_conf5" (x1 draw)
 

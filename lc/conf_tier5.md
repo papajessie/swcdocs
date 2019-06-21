@@ -79,85 +79,79 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
   * 150000 Credits
 
-## Pool "lcpool_currency_t10" (x1 draw)
+## Pool "lcpool_creditsAlloy_conf5" (x1 draw)
 
-### For HQ level 11
+### On Dandoran or Hoth or Tatooine for HQ level 10
 
-  * (1/6) 2400 Alloy
-  * (1/6) 2400 Credits
-  * (1/6) 3000 Alloy
-  * (1/6) 3000 Credits
-  * (1/6) 3600 Alloy
-  * (1/6) 3600 Credits
+  * (1/1) 240000 Credits
 
-### For HQ level 10
+### On Dandoran or Hoth or Tatooine for HQ level 8
 
-  * (1/6) 240000 Alloy
-  * (1/6) 240000 Credits
-  * (1/6) 300000 Alloy
-  * (1/6) 300000 Credits
-  * (1/6) 360000 Alloy
-  * (1/6) 360000 Credits
+  * (1/1) 112000 Credits
 
-### For HQ level 6
+### On Dandoran or Hoth or Tatooine for HQ level 7
 
-  * (1/6) 52000 Alloy
-  * (1/6) 52000 Credits
-  * (1/6) 65000 Alloy
-  * (1/6) 65000 Credits
-  * (1/6) 78000 Alloy
-  * (1/6) 78000 Credits
+  * (1/1) 80000 Credits
 
-### For HQ level 8
+### On Er'Kit or Takodana or Yavin 4 for HQ level 10
 
-  * (1/6) 112000 Alloy
-  * (1/6) 112000 Credits
-  * (1/6) 140000 Alloy
-  * (1/6) 140000 Credits
-  * (1/6) 168000 Alloy
-  * (1/6) 168000 Credits
+  * (1/1) 240000 Alloy
 
-### For HQ level 9
+### On Er'Kit or Takodana or Yavin 4 for HQ level 11
 
-  * (1/6) 160000 Alloy
-  * (1/6) 160000 Credits
-  * (1/6) 200000 Alloy
-  * (1/6) 200000 Credits
-  * (1/6) 240000 Alloy
-  * (1/6) 240000 Credits
+  * (1/1) 2400 Alloy
 
-### For HQ level 7
+### On Er'Kit or Takodana or Yavin 4 for HQ level 6
 
-  * (1/6) 100000 Alloy
-  * (1/6) 100000 Credits
-  * (1/6) 120000 Alloy
-  * (1/6) 120000 Credits
-  * (1/6) 80000 Alloy
-  * (1/6) 80000 Credits
+  * (1/1) 52000 Alloy
+
+### On Dandoran or Hoth or Tatooine for HQ level 11
+
+  * (1/1) 2400 Credits
+
+### On Dandoran or Hoth or Tatooine for HQ level 9
+
+  * (1/1) 160000 Credits
+
+### On Dandoran or Hoth or Tatooine for HQ level 6
+
+  * (1/1) 52000 Credits
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 9
+
+  * (1/1) 160000 Alloy
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 8
+
+  * (1/1) 112000 Alloy
+
+### On Er'Kit or Takodana or Yavin 4 for HQ level 7
+
+  * (1/1) 80000 Alloy
 
 ### Fallback for HQ level 10
 
-  * 300000 Credits
+  * 240000 Credits
 
 ### Fallback for HQ level 11
 
-  * 3000 Credits
+  * 2400 Credits
 
 ### Fallback for HQ level 6
 
-  * 65000 Credits
+  * 52000 Credits
 
 ### Fallback for HQ level 7
 
-  * 100000 Credits
+  * 80000 Credits
 
 ### Fallback for HQ level 8
 
-  * 140000 Credits
+  * 112000 Credits
 
 ### Fallback for HQ level 9
 
-  * 200000 Credits
+  * 160000 Credits
 
 ## Pool "lcpool_shrd_conf_eqp_tier5" (x1 draw)
 

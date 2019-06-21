@@ -114,6 +114,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Secondary attack cooldown Time: 15s
   * Secondary attack description: Grenade
   * Secondary attack duration: 3.500s
+  * Secondary attack recast ability: Yes
   * Secondary attack target self: No
 
 ### Targeting
@@ -262,6 +263,6 @@ Seriously, we don't really know what to do with these.
 
 |Level|3     |2     |1     |
 |-----|------|------|------|
-|Order|228803|228802|228801|
+|Order|215603|215602|215601|
 
 

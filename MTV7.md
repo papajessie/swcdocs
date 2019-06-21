@@ -110,6 +110,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Secondary attack cooldown Time: 2m10s
   * Secondary attack description: MTVIon_Shot
   * Secondary attack duration: 5s
+  * Secondary attack recast ability: No
   * Secondary attack target self: No
 
 ### Targeting

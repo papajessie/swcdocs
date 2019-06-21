@@ -114,6 +114,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Secondary attack cooldown Time: 15s
   * Secondary attack description: Lightsaber Defend
   * Secondary attack duration: 10s
+  * Secondary attack recast ability: No
   * Secondary attack target self: Yes
 
 ### Targeting

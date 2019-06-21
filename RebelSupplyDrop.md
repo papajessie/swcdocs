@@ -104,8 +104,6 @@ These are all sorts of user interface settings, that should not interfere with g
 
   * Arcs: No
   * Asset name: healingship_rbl-mod
-  * Attachment asset: healingshipcargo_rbl-mod
-  * Attachment asset bundle: healingshipcargo_rbl-mod
   * Audio attack: "sfx_attack_dropship_01":100
   * Audio impact: "sfx_attack_droid_medic_1":50,"sfx_attack_droid_medic_2":50
   * Audio movement: "sfx_movement_freighter_1":100
@@ -129,9 +127,11 @@ These are all sorts of user interface settings, that should not interfere with g
   * Spin speed: 0
   * Unlocked by event: false
 
-|Level                      |10|9 |8 |7 |6 |5 |4 |3 |2 |1 |
-|---------------------------|--|--|--|--|--|--|--|--|--|--|
-|Displayed damage per second|30|29|28|27|26|25|24|23|22|21|
+|Level                      |10                       |9                        |8                        |7                        |6                        |5                        |4                        |3                        |2                        |1                       |
+|---------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|------------------------|
+|Attachment asset           |healingshipcargo9_rbl-mod|healingshipcargo8_rbl-mod|healingshipcargo7_rbl-mod|healingshipcargo6_rbl-mod|healingshipcargo5_rbl-mod|healingshipcargo4_rbl-mod|healingshipcargo3_rbl-mod|healingshipcargo2_rbl-mod|healingshipcargo1_rbl-mod|healingshipcargo_rbl-mod|
+|Attachment asset bundle    |healingshipcargo9_rbl-mod|healingshipcargo8_rbl-mod|healingshipcargo7_rbl-mod|healingshipcargo6_rbl-mod|healingshipcargo5_rbl-mod|healingshipcargo4_rbl-mod|healingshipcargo3_rbl-mod|healingshipcargo2_rbl-mod|healingshipcargo1_rbl-mod|healingshipcargo_rbl-mod|
+|Displayed damage per second|30                       |29                       |28                       |27                       |26                       |25                       |24                       |23                       |22                       |21                      |
 
 
 ## Uninterpreted stats
