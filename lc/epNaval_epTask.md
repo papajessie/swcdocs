@@ -209,6 +209,8 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
   * (3/84) 1 data fragments of equipment [Shoretrooper](eqpEmpirePentagonTrooper)
   * (3/84) 1 data fragments of equipment [Snowtrooper](eqpEmpireSnowtrooper)
   * (3/84) 1 data fragments of equipment [TX-225](eqpEmpireHovertank)
+  * (3/84) 1 data fragments of unlockable air support [TIE Advanced](TieAdvanced)
+  * (3/84) 1 data fragments of unlockable air support [VT-49 Decimator](VT49)
   * (3/84) 1 data fragments of unlockable troop [IG-86 Assassin Droid](IG86Droid)
   * (3/84) 1 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
   * (3/84) 1 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
@@ -216,8 +218,6 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
   * (3/84) 1 data fragments of unlockable troop [SD-K4](HeroEmpireSpiderDroid)
   * (3/84) 1 data fragments of unlockable troop [Shock Trooper](Shock)
   * (3/84) 1 data fragments of unlockable troop [Tognath Marksman](EmpireTognath)
-  * (3/84) 1 data fragments of unlockable troop [trptitleshrdspecialAttackTieAdvanced](shrd_specialAttackTieAdvanced)
-  * (3/84) 1 data fragments of unlockable troop [trptitleshrdspecialAttackVT49](shrd_specialAttackVT49)
 
 ### Fallback for HQ level 10
 
