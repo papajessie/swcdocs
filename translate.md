@@ -1300,7 +1300,7 @@ category: strings
     WAR_HELP_PREP_WARBASE_TITLE '[F2D62F]Construct a Defensive Outpost[-]'
     WAR_HELP_PREP_WARN_BODY 'Once the War Phase begins, you will not be able to edit or request troops for your Defensive Outpost.'
     WAR_HELP_PREP_WARN_TITLE '[F2D62F]Time-Limited Editing[-]'
-    WAR_HELP_REWARD_BODY 'Earn unique [F2D62F]Supply Crates[-] only from Squad Wars with 100% refills of Credits or Alloy plus Data Fragments!\n\nSquad War winners also receive 10 [F2D62F]Reputation[-] each.'
+    WAR_HELP_REWARD_BODY 'Earn unique [F2D62F]Supply Crates[-] only from Squad Wars with a chance for 100% refills of Credits or Alloy, plus Data Fragments!\n\nSquad War winners also receive 10 [F2D62F]Reputation[-] each.'
     WAR_HELP_WARBASE_EDIT_BODY "There's no looting in a Squad War, so design your Defensive Outpost to maximize protection of your HQ. "
     WAR_HELP_WARBASE_EDIT_TITLE '[F2D62F]Base Layout[-]'
     WAR_HELP_WARBASE_PERMANENCE_BODY 'After each defense, Traps, Droidekas and troop donations, are rearmed and refilled 100% on your Defensive Outpost.'
@@ -4997,7 +4997,7 @@ category: strings
     hn_cc_1_desOps_pre_r_title 'Coming Soon: New Unit Unlock'
     hn_cc_1_dobjannounce_body 'Planetary Objectives will be assigned on a daily basis. Now complete tasks and collect updated Supply Crate rewards every day!'
     hn_cc_1_dobjannounce_title 'Daily Objectives'
-    hn_cc_1_epSpacebear_w1_e_body 'The brand new [c][FFB74A]Commander Events[-][/c] system is here! Play at your own pace to earn currency, Data Fragments, and more! Each week offers a new set of rewards, starting with the new [c][FFB74A]614-AvA speeder bike[-][/c]!'
+    hn_cc_1_epSpacebear_w1_e_body 'The brand new [c][FFB74A]Commander Events[-][/c] system is here! Play at your own pace and earn more rewards. Check out new content each week celebrating Star Wars: The Last Jedi, in theaters 12/15, starting with the new [c][FFB74A]614-AvA speeder bike[-][/c]!'
     hn_cc_1_epSpacebear_w1_r_body 'The brand new [c][FFB74A]Commander Events[-][/c] system is here! Play at your own pace and earn more rewards. Check out new content each week celebrating Star Wars: The Last Jedi, in theaters 12/15, starting with the [c][FFB74A]V-4X-D Ski Speeder[-][/c] from the movie!'
     hn_cc_1_epSpacebear_w1_title 'New Event, New Rewards!'
     hn_cc_1_epSpacebear_w3_body 'This week continues the celebration of Star Wars: The Last Jedi, in theaters now! Experience new content in the updated Commander Events system, including the [c][FFB74A]<Golden Mile Creature>[-][/c] from the movie.'
@@ -5992,7 +5992,7 @@ category: strings
     hn_dev_newHeroEvent_title 'Heavy Firepower Event'
     hn_dev_sosw_body '[c][FFAA33]Summer of Squad Wars[-][/c]\n•\xa0Victory Crates now contain Data Fragments for classic units:\n\n• Empire elite Data Fragments:\n- VT-49 Decimator\n- TIE Advanced\n- Johhar Kessen\n- MTV-7\n- Shock Trooper\n\n• Rebel elite Data Fragments:\n- HWK-290\n- A-wing Starfighter\n- Johhar kessen\n- AT-RT Walker\n- Vanguard\n\n• Squad Wars that end in a Stalemate will now award both sides a new crate with better rewards.'
     hn_dev_sosw_title 'Squad Wars Updates'
-    hn_dev_test_body "[u][FFAA33][url=http://www.procatinator.com]Cat Videos[/url][-][/u]\nUse the internet. It's cool. It's stylish. It's fun and somewhat shady.\n\n"
+    hn_dev_test_body 'PLACEHOLDER URL TEST BODY'
     hn_dev_test_title 'PLACEHOLDER URL TEST'
     hn_dev_verticalCrates_body '[c][FFAA33]Bronzium Data Fragment Crate Update[-][/c]\n• The Bronzium Data Fragment Crate has been updated with new fragments for recently added rewards, including Guard Reserve equipment.\n\n[c][FFAA33]Weekly Crate Rotation[-][/c]\n• Each week the Shop will feature a rotating crate dedicated to Data Fragments for specific types of units/equipment.\n•\xa0The first week features the [c][FFB74A]Infantry Data Fragment Crate[-][/c], including equipment skins for Desert, Forest, and Arctic troops!\n•\xa0Check back for new crates, dedicated to Data Fragments for infantry, heroes, and more.'
     hn_dev_verticalCrates_title 'Data Fragment Crate Updates'
@@ -12000,7 +12000,7 @@ category: strings
     trp_desc_ATRT "Rebel tinkering has allowed these Clone Wars era walkers to keep pace with Imperial advancements. They'll quickly make their way to resource buildings. [ffb300]Upon deployment, the pilot targets the closest turret with an ion blast, greatly reducing its damage for 15 seconds.[-]"
     trp_desc_ATST 'These stilt-legged scout vehicles are workhorses, useful for a wide variety of missions.'
     trp_desc_ATTE 'Rebel mechanics have made special modifications to keep these Clone Wars era AT-TE walkers running. They are equipped to take on infantry and vehicles alike, but slow and vulnerable to anti-vehicle fire.'
-    trp_desc_ApeMan 'The Empire normally will not associate with non-human species. However, the <Ape Man> are a strong and disciplined, making them an ideal foot-soldier unit.\n[CC3366]Resilience: This unit takes less damage from attacks, the longer it remains in battle.[-]'
+    trp_desc_ApeMan 'The Empire normally will not associate with non-human species. However, the <Ape Man> are strong and disciplined, making them an ideal foot-soldier unit.\\n[CC3366]Resilience: This unit takes less damage from attacks, the longer it remains in battle.[-]'
     trp_desc_Bantha 'Banthas are indigenous to Tatooine and are used by the Rebel alliance as a sturdy beast of war, trained to ram walls and knock them down.'
     trp_desc_BigMouthAlien 'The amphibious Drabatan Saboteurs are fierce commandos on the battlefield, charging into combat with full-throated war cries. The Drabatan Saboteur employs a sonic grenade to create micro-fractures in enemy defenses, temporarily increasing the damage taken.'
     trp_desc_ChampionEmpireDroideka 'This Clone Wars era Droideka was refurbished by smugglers to protect Contraband. Combat improvements have made it highly lethal, but maintenance heavy. Shielded and highly mobile, the Droideka Sentinel excels against troops.'
@@ -12039,7 +12039,7 @@ category: strings
     trp_desc_ErkitGeneralist 'Conscripted into the "Militia" on Er\'Kit, these units are generalists who attack the closest target. They are vulnerable to mortar fire.'
     trp_desc_ErkitSniper "Snipers represent the few members of the Er'Kit militia who have actual combat training or experience, and use it to focus enemy troops. They are slow, lightly armored, and susceptible to starship strikes while firing."
     trp_desc_ErkitTank 'Salvaged from Clone Wars battlefields across the outer rim and sold as scrap by junkers, the venerable AAT1 continues to be refurbished and used in smaller scale conflicts across the galaxy.It prefers to target turrets.'
-    trp_desc_FurCoat 'While the <FurCoat> normally prefer peace, they will unite in conflict to defend themselves. Their immense strength makes them fearsome opponents able to take large amounts of damage.\n[CC3366]Resilience: This unit takes less damage from attacks, the longer it remains in battle.[-]'
+    trp_desc_FurCoat 'While the <Fur Coat> normally prefer peace, they will unite in conflict to defend themselves. Their immense strength makes them fearsome opponents able to take large amounts of damage.\\n[CC3366]Resilience: This unit takes less damage from attacks, the longer it remains in battle.[-]'
     trp_desc_Hailfire 'Developed by the CIS during the Clone Wars, the IG-227 Hailfire droid has been adapted by the Rebels with weaponry capable of destroying turrets as well as vehicles. Their light armor makes them fast, but vulnerable to infantry.'
     trp_desc_HeavyRebel 'Heavy Soldiers carry rapid fire blasters, capable of inflicting devastating damage, particularly to shields. In order to maintain mobility, they wear lighter armor, so screen them with more durable units.'
     trp_desc_HeavySandSoldier 'These elite soldiers have the training and grit needed to carry large rapid-fire blasters into battle in desert environments. They are stronger and deal higher damage than their all-weather counterparts.'
