@@ -135,13 +135,13 @@ This crate expires after 7d. The contents are one draw from each of the 5 pools.
 
 ## Pool "lcpool_rogue1v3_shrd_conf_tier8_starfighter" (x1 draw)
 
-### Empire
-
-  * (1/1) 4 data fragments of unlockable air support [TIE Striker](AtmosMig)
-
 ### Rebellion
 
-  * (1/1) 4 data fragments of unlockable air support [Fang Fighter](FangFighter)
+  * (1/1) 10 data fragments of unlockable air support [Fang Fighter](FangFighter)
+
+### Empire
+
+  * (1/1) 10 data fragments of unlockable air support [TIE Striker](AtmosMig)
 
 ### Fallback for HQ level 10
 

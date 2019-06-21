@@ -85,13 +85,13 @@ This crate expires after 7d. The contents are one draw from each of the 4 pools.
 
 ## Pool "lcpool_rogue1v3_shrd_conf_tier7_merc" (x1 draw)
 
-### Empire
-
-  * (1/1) 4 data fragments of unlockable troop [Security Droid](SecurityDroid)
-
 ### Rebellion
 
-  * (1/1) 4 data fragments of unlockable troop [Drabatan Saboteur](BigMouthAlien)
+  * (1/1) 8 data fragments of unlockable troop [Drabatan Saboteur](BigMouthAlien)
+
+### Empire
+
+  * (1/1) 8 data fragments of unlockable troop [Security Droid](SecurityDroid)
 
 ### Fallback for HQ level 10
 
