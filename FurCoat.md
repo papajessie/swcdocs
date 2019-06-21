@@ -1,9 +1,9 @@
 ---
-title: Fur Coat (FurCoat)
+title: Bufopel Protector (FurCoat)
 category: unit
 ---
 
-# Fur Coat (FurCoat)
+# Bufopel Protector (FurCoat)
 
 You can read an [explanation  of the various unit stats](unitexplained.md).
 
@@ -19,9 +19,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Unit capacity: 4
   * Type: infantry
 
-|Level |10   |9    |8    |7    |6    |5    |4    |3    |2    |1   |
-|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|
-|Health|16320|15560|14800|14050|13290|12540|11780|11030|10270|9520|
+|Level |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Health|20400|18580|17220|16320|15410|14500|13600|12690|11780|10880|
 
 
 ### Training stats
@@ -70,7 +70,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Resilience value: -25.0%
 
 
-## Main attack : Storm
+## Main attack : Melee Vibro Mace
 
 ### Targeting
 
@@ -84,7 +84,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Shooting
 
-  * Animation delay: 0s
+  * Animation delay: 500ms
   * Charge time: 400ms
   * Clip retargeting: No
   * Gun shooting sequence: 1
@@ -94,29 +94,29 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Retargeting offset: 14
   * Self-centered targeting: No
   * Shot count: 1
-  * Shot delay: 0s
+  * Shot delay: 500ms
   * Target locking: No
 
-|Level          |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
-|---------------|---|---|---|---|---|---|---|---|---|---|
-|Damage per shot|445|425|405|385|365|340|320|300|280|260|
+|Level          |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|---------------|----|----|----|----|----|----|----|----|----|----|
+|Damage per shot|2195|2120|2075|2050|2025|2005|1980|1955|1930|1910|
 
 
 ### Projectile
 
-|Level                       |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
-|----------------------------|---|---|---|---|---|---|---|---|---|---|
-|Displayed damage per second |835|724|668|612|557|501|445|390|362|302|
-|Calculated damage per second|494|472|450|427|405|377|355|333|311|288|
-|Calculated damage per cycle |445|425|405|385|365|340|320|300|280|260|
+|Level                       |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|----------------------------|----|----|----|----|----|----|----|----|----|----|
+|Displayed damage per second |2195|2120|2075|2050|2025|2005|1980|1955|1930|1910|
+|Calculated damage per second|1567|1514|1482|1464|1446|1432|1414|1396|1378|1364|
+|Calculated damage per cycle |2195|2120|2075|2050|2025|2005|1980|1955|1930|1910|
 
 
   * Cannons per sequence: 1
-  * Shooting cycle duration: 900ms
-  * Directional: Yes
-  * Is deflectable: Yes
-  * Max speed: 15
-  * Damage multipliers: **(100)**: Droideka, Flying infantry, Flying vehicle, Headquarters, Heavy infantry, Heavy infantry hero, Heavy vehicle, Heavy vehicule hero, Infantry, Infantry hero, Light vehicle, Other building, Ressource generator, Shield, Shield generator, Storage, Support troop, Trap, Turret, Vehicule hero, Wall
+  * Shooting cycle duration: 1.400s
+  * Directional: No
+  * Is deflectable: No
+  * Max speed: 18
+  * Damage multipliers: **(300)**: Flying infantry, Infantry, Infantry hero, Support troop, **(250)**: Heavy infantry, Heavy infantry hero, **(200)**: Flying vehicle, Light vehicle, Vehicule hero, **(150)**: Heavy vehicle, Heavy vehicule hero, **(100)**: Droideka, Headquarters, Other building, Shield, Shield generator, Turret, Wall, **(50)**: Ressource generator, Storage, **(0)**: Trap
   * Pass through shield: No
   * Salvos: 1
 
@@ -133,10 +133,13 @@ These stats internal to the system link different parts of data together.
 
 These are all sorts of user interface settings, that should not interfere with gameplay.
 
-  * Arcs: No
-  * Asset name: stotrper_emp-ani
-  * Bullet: fx_blaster_beam_r_sm
-  * Bundle name: stotrper_emp-ani
+  * Arcs: Yes
+  * Asset name: furcoat_rbl-ani
+  * Audio attack: "sfx_attack_furcoat_01":33,"sfx_attack_furcoat_02":33,"sfx_attack_furcoat_03":34
+  * Audio death: "sfx_death_furcoat_01":33,"sfx_death_furcoat_02":33,"sfx_death_furcoat_03":34
+  * Audio placement: "sfx_placement_furcoat_01":33,"sfx_placement_furcoat_02":33,"sfx_placement_furcoat_03":34
+  * Audio train: "sfx_ui_unitcomplete_furcoat_01":100
+  * Bundle name: furcoat_rbl-ani
   * Event button action: galaxy
   * Event button data: planet1 planet3 planet6 planet8 planet21 planet23
   * Event button string: hn_open_galaxy
@@ -144,23 +147,22 @@ These are all sorts of user interface settings, that should not interfere with g
   * Factory rotation: 0
   * Factory scale factor: 1
   * Favorite target type: infantry
-  * Hit spark: fx_blaster_hit_r_sm
-  * Icon camera position: 12.13,10.63,15.32
-  * Icon closeup camera position: 1.93,1.69,9.65
-  * Icon closeup lookat position: -0.01,2.73,-0.82
-  * Icon lookat position: 0.02,1.69,0
+  * Icon camera position: 7.96,8.84,21.58
+  * Icon closeup camera position: -14.18,5,14.81
+  * Icon closeup lookat position: 1.05,1.88,-0.63
+  * Icon lookat position: -0.29,1.42,-0.89
   * Max scale: 100
-  * Muzzle flash: fx_blaster_flash_r_sm
-  * Name: Storm
-  * Spin speed: 0
+  * Muzzle flash: fx_melee_headbutt_med
+  * Name: Melee Vibro Mace
+  * Spin speed: 2
   * Targeted type: ENEMIES
   * Unlocked by campaign: Yes
   * Unlocked by event: true
   * Unlocked by tournament: Yes
 
-|Level                      |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
-|---------------------------|---|---|---|---|---|---|---|---|---|---|
-|Displayed damage per second|835|724|668|612|557|501|445|390|362|302|
+|Level                      |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|---------------------------|----|----|----|----|----|----|----|----|----|----|
+|Displayed damage per second|2195|2120|2075|2050|2025|2005|1980|1955|1930|1910|
 
 
 ## Uninterpreted stats

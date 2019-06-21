@@ -13,19 +13,19 @@ This crate expires after 7d. The contents are one draw from one pool only.
 
 ### Rebellion for HQ level 6
 
-  * (1/1) 32 data fragments of unlockable troop [Fur Coat](FurCoat)
+  * (1/1) 32 data fragments of unlockable troop [Bufopel Protector](FurCoat)
 
 ### Empire for HQ level 6
 
-  * (1/1) 32 data fragments of unlockable troop [Ape Man](ApeMan)
-
-### Empire for HQ levels 7-11
-
-  * (1/1) 32 data fragments of unlockable troop [Golden Mile Creature](EmpireGoldenMileCreature)
+  * (1/1) 32 data fragments of unlockable troop [Ongidae Oppressor](ApeMan)
 
 ### Rebellion for HQ levels 7-11
 
-  * (1/1) 32 data fragments of unlockable troop [Golden Mile Creature](RebelGoldenMileCreature)
+  * (1/1) 32 data fragments of unlockable troop [Fathier Rider](RebelGoldenMileCreature)
+
+### Empire for HQ levels 7-11
+
+  * (1/1) 32 data fragments of unlockable troop [Fathier Rider](EmpireGoldenMileCreature)
 
 ### Fallback for HQ level 10
 

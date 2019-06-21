@@ -13,11 +13,11 @@ This crate expires after 7d. The contents are one draw from one pool only.
 
 ### Rebellion
 
-  * (1/1) 32 data fragments of unlockable troop [Fur Coat](FurCoat)
+  * (1/1) 32 data fragments of unlockable troop [Bufopel Protector](FurCoat)
 
 ### Empire
 
-  * (1/1) 32 data fragments of unlockable troop [Ape Man](ApeMan)
+  * (1/1) 32 data fragments of unlockable troop [Ongidae Oppressor](ApeMan)
 
 ### Fallback for HQ level 10
 

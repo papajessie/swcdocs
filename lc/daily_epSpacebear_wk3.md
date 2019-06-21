@@ -95,7 +95,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
   * (3/16) 1 data fragments of unlockable air support [HWK-290](HWK290)
   * (3/16) 1 data fragments of unlockable troop [AT-RT Walker](ATRT)
-  * (5/16) 2 troop sample [Golden Mile Creature](RebelGoldenMileCreature)
+  * (5/16) 2 troop sample [Fathier Rider](RebelGoldenMileCreature)
   * (5/16) 2 troop sample [V-4X-D Ski Speeder](PolarShip)
 
 ### Empire
@@ -103,7 +103,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (3/16) 1 data fragments of unlockable air support [VT-49 Decimator](VT49)
   * (3/16) 1 data fragments of unlockable troop [MTV-7](MTV7)
   * (5/16) 2 troop sample [614-AvA](614AVA)
-  * (5/16) 2 troop sample [Golden Mile Creature](EmpireGoldenMileCreature)
+  * (5/16) 2 troop sample [Fathier Rider](EmpireGoldenMileCreature)
 
 ### Fallback for HQ level 10
 

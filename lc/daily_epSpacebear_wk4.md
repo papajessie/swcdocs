@@ -91,21 +91,21 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
 ## Pool "lcpool_epSpacebear_daily_wk4" (x1 draw)
 
-### Rebellion
-
-  * (3/21) 1 data fragments of unlockable air support [HWK-290](HWK290)
-  * (3/21) 1 data fragments of unlockable troop [AT-RT Walker](ATRT)
-  * (5/21) 2 troop sample [Fur Coat](FurCoat)
-  * (5/21) 2 troop sample [Golden Mile Creature](RebelGoldenMileCreature)
-  * (5/21) 2 troop sample [V-4X-D Ski Speeder](PolarShip)
-
 ### Empire
 
   * (3/21) 1 data fragments of unlockable air support [VT-49 Decimator](VT49)
   * (3/21) 1 data fragments of unlockable troop [MTV-7](MTV7)
   * (5/21) 2 troop sample [614-AvA](614AVA)
-  * (5/21) 2 troop sample [Ape Man](ApeMan)
-  * (5/21) 2 troop sample [Golden Mile Creature](EmpireGoldenMileCreature)
+  * (5/21) 2 troop sample [Fathier Rider](EmpireGoldenMileCreature)
+  * (5/21) 2 troop sample [Ongidae Oppressor](ApeMan)
+
+### Rebellion
+
+  * (3/21) 1 data fragments of unlockable air support [HWK-290](HWK290)
+  * (3/21) 1 data fragments of unlockable troop [AT-RT Walker](ATRT)
+  * (5/21) 2 troop sample [Bufopel Protector](FurCoat)
+  * (5/21) 2 troop sample [Fathier Rider](RebelGoldenMileCreature)
+  * (5/21) 2 troop sample [V-4X-D Ski Speeder](PolarShip)
 
 ### Fallback for HQ level 10
 

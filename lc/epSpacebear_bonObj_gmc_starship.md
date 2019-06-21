@@ -13,6 +13,11 @@ This crate expires after 7d. The contents are decided by 3 draws from 2 differen
 
 ## Pool "lcpool_epSpacebear_bonObj_gmc_starship_shrd1" (x1 draw)
 
+### Empire for HQ levels 7-11
+
+  * (2/11) 4 data fragments of unlockable troop [Fathier Rider](EmpireGoldenMileCreature)
+  * (9/11) 3 data fragments of unlockable troop [Fathier Rider](EmpireGoldenMileCreature)
+
 ### Empire for HQ level 6
 
   * (2/11) 4 data fragments of unlockable troop [614-AvA](614AVA)
@@ -25,13 +30,8 @@ This crate expires after 7d. The contents are decided by 3 draws from 2 differen
 
 ### Rebellion for HQ levels 7-11
 
-  * (2/11) 4 data fragments of unlockable troop [Golden Mile Creature](RebelGoldenMileCreature)
-  * (9/11) 3 data fragments of unlockable troop [Golden Mile Creature](RebelGoldenMileCreature)
-
-### Empire for HQ levels 7-11
-
-  * (2/11) 4 data fragments of unlockable troop [Golden Mile Creature](EmpireGoldenMileCreature)
-  * (9/11) 3 data fragments of unlockable troop [Golden Mile Creature](EmpireGoldenMileCreature)
+  * (2/11) 4 data fragments of unlockable troop [Fathier Rider](RebelGoldenMileCreature)
+  * (9/11) 3 data fragments of unlockable troop [Fathier Rider](RebelGoldenMileCreature)
 
 ### Fallback for HQ level 10
 
@@ -59,11 +59,11 @@ This crate expires after 7d. The contents are decided by 3 draws from 2 differen
 
 ## Pool "lcpool_epSpacebear_bonObj_gmc_starship_shrd2" (x2 draws)
 
-### Rebellion for HQ levels 7-11
+### Rebellion for HQ level 6
 
-  * (1/23) 4 data fragments of unlockable troop [Golden Mile Creature](RebelGoldenMileCreature)
-  * (1/23) 5 data fragments of unlockable troop [Golden Mile Creature](RebelGoldenMileCreature)
+  * (1/23) 4 data fragments of unlockable troop [V-4X-D Ski Speeder](PolarShip)
   * (1/23) 5 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
+  * (1/23) 5 data fragments of unlockable troop [V-4X-D Ski Speeder](PolarShip)
   * (1/23) 6 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
   * (1/23) 6 data fragments of unlockable troop [Tognath Marksman](RebelTognath)
   * (2/23) 3 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
@@ -74,11 +74,11 @@ This crate expires after 7d. The contents are decided by 3 draws from 2 differen
   * (3/23) 4 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
   * (3/23) 4 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
 
-### Rebellion for HQ level 6
+### Rebellion for HQ levels 7-11
 
-  * (1/23) 4 data fragments of unlockable troop [V-4X-D Ski Speeder](PolarShip)
+  * (1/23) 4 data fragments of unlockable troop [Fathier Rider](RebelGoldenMileCreature)
+  * (1/23) 5 data fragments of unlockable troop [Fathier Rider](RebelGoldenMileCreature)
   * (1/23) 5 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
-  * (1/23) 5 data fragments of unlockable troop [V-4X-D Ski Speeder](PolarShip)
   * (1/23) 6 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
   * (1/23) 6 data fragments of unlockable troop [Tognath Marksman](RebelTognath)
   * (2/23) 3 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
@@ -106,8 +106,8 @@ This crate expires after 7d. The contents are decided by 3 draws from 2 differen
 
 ### Empire for HQ levels 7-11
 
-  * (1/23) 4 data fragments of unlockable troop [Golden Mile Creature](EmpireGoldenMileCreature)
-  * (1/23) 5 data fragments of unlockable troop [Golden Mile Creature](EmpireGoldenMileCreature)
+  * (1/23) 4 data fragments of unlockable troop [Fathier Rider](EmpireGoldenMileCreature)
+  * (1/23) 5 data fragments of unlockable troop [Fathier Rider](EmpireGoldenMileCreature)
   * (1/23) 5 data fragments of unlockable troop [Shock Trooper](Shock)
   * (1/23) 6 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
   * (1/23) 6 data fragments of unlockable troop [Tognath Marksman](EmpireTognath)

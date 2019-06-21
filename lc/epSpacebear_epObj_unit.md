@@ -109,19 +109,19 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
 ## Pool "lcpool_epSpacebear_epObj_unit_shrd" (x1 draw)
 
-### Rebellion
-
-  * (1/20) 1 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
-  * (11/20) 1 data fragments of unlockable troop [Fur Coat](FurCoat)
-  * (4/20) 1 data fragments of unlockable air support [HWK-290](HWK290)
-  * (4/20) 1 data fragments of unlockable troop [AT-RT Walker](ATRT)
-
 ### Empire
 
   * (1/20) 1 data fragments of unlockable troop [Shock Trooper](Shock)
-  * (11/20) 1 data fragments of unlockable troop [Ape Man](ApeMan)
+  * (11/20) 1 data fragments of unlockable troop [Ongidae Oppressor](ApeMan)
   * (4/20) 1 data fragments of unlockable air support [VT-49 Decimator](VT49)
   * (4/20) 1 data fragments of unlockable troop [MTV-7](MTV7)
+
+### Rebellion
+
+  * (1/20) 1 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
+  * (11/20) 1 data fragments of unlockable troop [Bufopel Protector](FurCoat)
+  * (4/20) 1 data fragments of unlockable air support [HWK-290](HWK290)
+  * (4/20) 1 data fragments of unlockable troop [AT-RT Walker](ATRT)
 
 ### Fallback for HQ level 10
 
@@ -155,8 +155,8 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
   * (3/19) 2 air support sample [VT-49 Decimator](VT49)
   * (3/19) 2 troop sample [MTV-7](MTV7)
   * (3/19) 3 troop sample [Shock Trooper](Shock)
-  * (4/19) 2 troop sample [Ape Man](ApeMan)
-  * (4/19) 3 troop sample [Ape Man](ApeMan)
+  * (4/19) 2 troop sample [Ongidae Oppressor](ApeMan)
+  * (4/19) 3 troop sample [Ongidae Oppressor](ApeMan)
 
 ### Rebellion
 
@@ -164,8 +164,8 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
   * (3/19) 2 air support sample [HWK-290](HWK290)
   * (3/19) 2 troop sample [AT-RT Walker](ATRT)
   * (3/19) 3 troop sample [Rebel Vanguard](Vanguard)
-  * (4/19) 2 troop sample [Fur Coat](FurCoat)
-  * (4/19) 3 troop sample [Fur Coat](FurCoat)
+  * (4/19) 2 troop sample [Bufopel Protector](FurCoat)
+  * (4/19) 3 troop sample [Bufopel Protector](FurCoat)
 
 ### Fallback for HQ level 10
 
