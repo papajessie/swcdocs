@@ -603,7 +603,7 @@ category: strings
     LESS_MIN_AGO '< 1m'
     LEVEL 'Level {0}'
     LIMITED_EDITION_CATEGORY_BANNER 'Limited Time Event'
-    LIMITED_EDITION_JEWEL 'Arctic Ops'
+    LIMITED_EDITION_JEWEL 'Event'
     LIMITED_TIME_REWARD 'Limited Time Rewards!'
     LOADER_DISPLAY_NAME_DANDORAN 'Dandoran'
     LOADER_DISPLAY_NAME_DANDORANSICKNESS 'Dandoran'
