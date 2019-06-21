@@ -2632,6 +2632,7 @@ category: strings
     crate_title_lc_epMilestone_spacebear_gmc_unit 'Event Crate'
     crate_title_lc_epMilestone_spacebear_starship 'Event Crate'
     crate_title_lc_epMilestone_spacebear_unit 'Event Crate'
+    crate_title_lc_epSpacebearStore_SPD 'Premium Event Crate'
     crate_title_lc_epSpacebearStore_wk1 'Premium Event Crate'
     crate_title_lc_epSpacebear_bonObj_gmc_starship 'Elite Event Crate'
     crate_title_lc_epSpacebear_bonObj_gmc_unit 'Elite Event Crate'

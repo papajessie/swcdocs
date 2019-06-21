@@ -230,6 +230,7 @@ title: Index of crates
   * [Event Crate (lc_epMilestone_spacebear_gmc_unit)](lc_epMilestone_spacebear_gmc_unit.html)
   * [Event Crate (lc_epMilestone_spacebear_starship)](lc_epMilestone_spacebear_starship.html)
   * [Event Crate (lc_epMilestone_spacebear_unit)](lc_epMilestone_spacebear_unit.html)
+  * [Premium Event Crate (lc_epSpacebearStore_SPD)](lc_epSpacebearStore_SPD.html)
   * [Premium Event Crate (lc_epSpacebearStore_wk1)](lc_epSpacebearStore_wk1.html)
   * [Elite Event Crate (lc_epSpacebear_bonObj_gmc_starship)](lc_epSpacebear_bonObj_gmc_starship.html)
   * [Elite Event Crate (lc_epSpacebear_bonObj_gmc_unit)](lc_epSpacebear_bonObj_gmc_unit.html)
