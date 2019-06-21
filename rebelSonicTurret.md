@@ -75,12 +75,12 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 
   * Turret attack calculated damage per second: 0
+  * Turret attack beam damage: 0
 
 |Level                                   |10|9 |8 |7 |6 |5 |4 |3 |2|1|
 |----------------------------------------|--|--|--|--|--|--|--|--|-|-|
 |Turret displayed damage per second      |35|30|24|20|18|15|12|10|5|3|
 |Turret attack calculated damage per clip|10|9 |8 |7 |6 |5 |4 |3 |2|1|
-|Turret attack beam damage               |49|35|28|28|21|21|14|14|7|7|
 
 
   * Turret attack cannons per sequence: 1

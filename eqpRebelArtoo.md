@@ -1,0 +1,389 @@
+---
+title: Artoo  Threepio (eqpRebelArtoo)
+category: unit
+---
+
+# Artoo  Threepio (eqpRebelArtoo)
+
+You can read an [explanation  of the various unit stats](unitexplained.md).
+
+## Equipment stats
+
+### Basic stats
+
+  * Affected units: [R2-D2](HeroR2D2.html)
+  * Side: rebel
+  * Planets where equipment is available: Tatooine, Dandoran, Er'Kit, Yavin 4, Hoth, Takodana
+  * Buildable unit: true
+  * Unit capacity: 13
+
+### Modifiers
+
+#### Modifier "Eqp rebel artoo health"
+
+  * Eqp rebel artoo health apply value as: relativePercentOfMax
+  * Eqp rebel artoo health buff ID: buffEqpRebelArtooHealth
+  * Eqp rebel artoo health duration: permanent
+  * Eqp rebel artoo health modifier: maxHealth
+  * Eqp rebel artoo health ms first proc: 0s
+  * Eqp rebel artoo health ms per proc: permanent
+  * Eqp rebel artoo health name: Eqp rebel artoo health
+  * Eqp rebel artoo health stack: 0
+  * Eqp rebel artoo health target: self
+  * Eqp rebel artoo health value: 200.0%
+
+
+#### Modifier "Summon C3 PO"
+
+  * Summon C3 PO apply value as: absolute
+  * Summon C3 PO buff ID: buffSummonC3PO
+  * Summon C3 PO duration: permanent
+  * Summon C3 PO modifier: summon
+  * Summon C3 PO ms first proc: 500ms
+  * Summon C3 PO ms per proc: permanent
+  * Summon C3 PO name: Summon C3 PO
+  * Summon C3 PO stack: 1
+  * Summon C3 PO target: self
+  * Summon C3 PO value: 1
+
+|Level                       |10                                            |9                                            |8                                            |7                                            |6                                            |5                                            |4                                            |3                                            |2                                            |1                                            |
+|----------------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+|Summon C3 PO summon visitors|["trp_title_HeroC3PO" level 10](HeroC3PO.html)|["trp_title_HeroC3PO" level 9](HeroC3PO.html)|["trp_title_HeroC3PO" level 8](HeroC3PO.html)|["trp_title_HeroC3PO" level 7](HeroC3PO.html)|["trp_title_HeroC3PO" level 6](HeroC3PO.html)|["trp_title_HeroC3PO" level 5](HeroC3PO.html)|["trp_title_HeroC3PO" level 4](HeroC3PO.html)|["trp_title_HeroC3PO" level 3](HeroC3PO.html)|["trp_title_HeroC3PO" level 2](HeroC3PO.html)|["trp_title_HeroC3PO" level 1](HeroC3PO.html)|
+
+
+  * Summon C3 PO summon die with summoner: Yes
+  * Summon C3 PO summon max proc: 1
+  * Summon C3 PO summon same team: Yes
+  * Summon C3 PO summon spawn points: 0,0,-1
+  * Summon C3 PO summon target summoner: Yes
+  * Summon C3 PO summon visitor type: Troop
+
+### Upgrade stats
+
+|Level         |10                                     |9                                     |8                                     |7                                     |6                                     |5                                     |4                                     |3                                     |2                                     |1   |
+|--------------|---------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|----|
+|Upgrade shards|220                                    |180                                   |130                                   |100                                   |70                                    |50                                    |30                                    |20                                    |10                                    |20  |
+|Upgrade time  |1w3d                                   |1w                                    |5d                                    |3d                                    |2d                                    |12h                                   |6h                                    |2h                                    |45m                                   |0s  |
+|Building      |[Research Lab 10](rebelOffenseLab.html)|[Research Lab 9](rebelOffenseLab.html)|[Research Lab 8](rebelOffenseLab.html)|[Research Lab 7](rebelOffenseLab.html)|[Research Lab 6](rebelOffenseLab.html)|[Research Lab 5](rebelOffenseLab.html)|[Research Lab 4](rebelOffenseLab.html)|[Research Lab 3](rebelOffenseLab.html)|[Research Lab 2](rebelOffenseLab.html)|None|
+
+
+### Presentation and internal stats
+
+|Level|10        |9        |8        |7        |6        |5        |4        |3        |2        |1        |
+|-----|----------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+|Skins|sknArtoo10|sknArtoo9|sknArtoo8|sknArtoo7|sknArtoo6|sknArtoo5|sknArtoo4|sknArtoo3|sknArtoo2|sknArtoo1|
+
+
+  * Asset name: r2d2c3po_rbl-ani
+  * Bundle name: r2d2c3po_rbl-ani
+  * Equipment description: eqpRebelArtoo_description
+  * Equipment name: eqpRebelArtoo_name
+  * Icon camera position: 6.09,6.95,17.61
+  * Icon closeup camera position: 6.09,6.95,17.61
+  * Icon closeup lookat position: -0.71,1.31,-0.53
+  * Icon lookat position: -0.71,1.31,-0.53
+  * Quality: elite
+
+|Level|10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
+|-----|---|---|---|---|---|---|---|---|---|---|
+|Order|598|597|596|595|594|593|592|591|590|589|
+
+
+## Main stats
+
+### Unit stats
+
+  * Armor type: healerInfantry
+  * Side: Rebellion
+  * Buildable unit: Yes
+  * Role: Generic
+  * Shield cooldown: 0s
+  * Shield health: 0
+  * Shield range: 0
+  * Unit capacity: 1
+  * Type: hero
+
+|Level          |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
+|---------------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Health         |72000      |62400     |57600     |52800     |48000     |43200     |38400     |33600     |28800     |24000     |
+|Original health|24000      |20800     |19200     |17600     |16000     |14400     |12800     |11200     |9600      |8000      |
+
+
+### Training stats
+
+|Level        |10.01-10.10                            |09.01-9.10                            |08.01-8.10                            |07.01-7.10                            |06.01-6.10                            |05.01-5.10                            |04.01-4.10                            |03.01-3.10                            |02.01-2.10                            |01.01-1.10                                 |
+|-------------|---------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|-------------------------------------------|
+|Training time|10m                                    |9m40s                                 |9m20s                                 |4m30s                                 |4m20s                                 |4m10s                                 |4m                                    |3m50s                                 |3m40s                                 |3m30s                                      |
+|Training cost|4600$                                  |4200$                                 |4000$                                 |3400$                                 |3000$                                 |2600$                                 |2200$                                 |1800$                                 |1400$                                 |1000$                                      |
+|Building     |[Research Lab 10](rebelOffenseLab.html)|[Research Lab 9](rebelOffenseLab.html)|[Research Lab 8](rebelOffenseLab.html)|[Research Lab 7](rebelOffenseLab.html)|[Research Lab 6](rebelOffenseLab.html)|[Research Lab 5](rebelOffenseLab.html)|[Research Lab 4](rebelOffenseLab.html)|[Research Lab 3](rebelOffenseLab.html)|[Research Lab 2](rebelOffenseLab.html)|[Hero Command 5](rebelTacticalCommand.html)|
+
+
+### Upgrading stats
+
+|Level               |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
+|--------------------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Upgrade time        |1w5d       |1w1d      |6d        |4d        |2d12h     |20h       |7h        |2h30m     |1h        |0s        |
+|Upgrade requirements|2500000$   |1500000$  |450000$   |225000$   |135000$   |50000$    |20000$    |10000$    |5000$     |3000$     |
+
+
+### Movement stats
+
+  * Acceleration: 0
+  * Crushes walls: No
+  * Ignores walls: Yes
+  * Flying unit: No
+  * Max speed: 15
+  * Propensity to go around obstacles: 15
+  * Rotation speed: 7854
+  * Run speed: 0
+  * Run threshold: 0
+  * Unit size on map: 1x1
+  * Support follow distance: 5
+
+## Main attack : Artoo Stun
+
+### Targeting
+
+  * Attack shield border: No
+  * Max attack range: 3
+  * Min attack range: 0
+  * New rotation speed: 7854
+  * Target preference strength: 90
+  * Target preferences: **Turret (100)**, Droideka (0), Flying infantry (0), Flying vehicle (0), Headquarters (0), Heavy infantry (0), Heavy infantry hero (0), Heavy vehicle (0), Heavy vehicule hero (0), Infantry (0), Infantry hero (0), Light vehicle (0), Other building (0), Ressource generator (0), Shield (0), Shield generator (0), Storage (0), Support troop (0), Trap (0), Vehicule hero (0), Wall (0)
+  * View range: 8
+
+### Shooting
+
+  * Animation delay: 0s
+  * Charge time: 500ms
+  * Clip retargeting: No
+  * Damage per shot: 0
+  * Gun shooting sequence: 1
+  * Impact delay: 1s
+  * Can shoot over walls: No
+  * Reload time: 4s
+  * Retargeting offset: 4
+  * Self-centered targeting: Yes
+  * Shot count: 1
+  * Shot delay: 100ms
+  * Target locking: Yes
+
+### Projectile
+
+  * Calculated damage per second: 0
+  * Calculated damage per cycle: 0
+
+|Level                      |04.01-4.04 |03.09-3.10                 |03.05-3.08         |03.01-3.04 |02.09-2.10                 |02.05-2.08         |02.01-2.04 |01.09-1.10                 |01.05-1.08         |01.01-1.04 |
+|---------------------------|-----------|---------------------------|-------------------|-----------|---------------------------|-------------------|-----------|---------------------------|-------------------|-----------|
+|Displayed damage per second|3520       |3080                       |3080               |3080       |2640                       |2640               |2640       |2200                       |2200               |2200       |
+|Splash damage percentages  |100,100,100|100,100,100,100,100,100,100|100,100,100,100,100|100,100,100|100,100,100,100,100,100,100|100,100,100,100,100|100,100,100|100,100,100,100,100,100,100|100,100,100,100,100|100,100,100|
+
+
+|Level                      |07.05-7.08         |07.01-7.04 |06.09-6.10                 |06.05-6.08         |06.01-6.04 |05.09-5.10                 |05.05-5.08         |05.01-5.04 |04.09-4.10                 |04.05-4.08         |
+|---------------------------|-------------------|-----------|---------------------------|-------------------|-----------|---------------------------|-------------------|-----------|---------------------------|-------------------|
+|Displayed damage per second|4840               |4840       |4400                       |4400               |4400       |3960                       |3960               |3960       |3520                       |3520               |
+|Splash damage percentages  |100,100,100,100,100|100,100,100|100,100,100,100,100,100,100|100,100,100,100,100|100,100,100|100,100,100,100,100,100,100|100,100,100,100,100|100,100,100|100,100,100,100,100,100,100|100,100,100,100,100|
+
+
+|Level                      |10.09-10.10                |10.05-10.08        |10.01-10.04|09.09-9.10                 |09.05-9.08         |09.01-9.04 |08.09-8.10                 |08.05-8.08         |08.01-8.04 |07.09-7.10                 |
+|---------------------------|---------------------------|-------------------|-----------|---------------------------|-------------------|-----------|---------------------------|-------------------|-----------|---------------------------|
+|Displayed damage per second|6600                       |6600               |6600       |5720                       |5720               |5720       |5280                       |5280               |5280       |4840                       |
+|Splash damage percentages  |100,100,100,100,100,100,100|100,100,100,100,100|100,100,100|100,100,100,100,100,100,100|100,100,100,100,100|100,100,100|100,100,100,100,100,100,100|100,100,100,100,100|100,100,100|100,100,100,100,100,100,100|
+
+
+  * Cannons per sequence: 1
+  * Shooting cycle duration: 4.500s
+  * Directional: Yes
+  * Is deflectable: No
+  * Max speed: 18
+  * Damage multipliers: **(100)**: Turret, **(0)**: Droideka, Flying infantry, Flying vehicle, Headquarters, Heavy infantry, Heavy infantry hero, Heavy vehicle, Heavy vehicule hero, Infantry, Infantry hero, Light vehicle, Other building, Ressource generator, Shield, Shield generator, Storage, Support troop, Trap, Vehicule hero, Wall
+  * Pass through shield: No
+  * Salvos: 1
+
+#### Modifier "Eqp rebel artoo"
+
+  * Eqp rebel artoo apply value as: absolute
+  * Eqp rebel artoo buff ID: buffEqpRebelArtoo
+  * Eqp rebel artoo modifier: stun
+  * Eqp rebel artoo ms first proc: 0s
+  * Eqp rebel artoo ms per proc: permanent
+  * Eqp rebel artoo damage multipliers: **(100)**: Eqp rebel artoo turret, **(0)**: Eqp rebel artoo droideka, Eqp rebel artoo flying infantry, Eqp rebel artoo flying vehicle, Eqp rebel artoo headquarters, Eqp rebel artoo heavy infantry, Eqp rebel artoo heavy infantry hero, Eqp rebel artoo heavy vehicle, Eqp rebel artoo heavy vehicule hero, Eqp rebel artoo infantry, Eqp rebel artoo infantry hero, Eqp rebel artoo light vehicle, Eqp rebel artoo other building, Eqp rebel artoo ressource generator, Eqp rebel artoo shield, Eqp rebel artoo shield generator, Eqp rebel artoo storage, Eqp rebel artoo support troop, Eqp rebel artoo trap, Eqp rebel artoo vehicule hero, Eqp rebel artoo wall
+  * Eqp rebel artoo name: Eqp rebel artoo
+  * Eqp rebel artoo stack: 1
+  * Eqp rebel artoo target: enemies
+  * Eqp rebel artoo value: 0
+
+|Level                   |01.10|01.09 |01.08|01.07 |01.06 |01.05 |01.04 |01.03 |01.02 |01.01|
+|------------------------|-----|------|-----|------|------|------|------|------|------|-----|
+|Eqp rebel artoo duration|2s   |1.750s|2s   |1.750s|1.500s|1.250s|1.750s|1.500s|1.250s|1s   |
+
+
+|Level                   |02.10|02.09 |02.08|02.07 |02.06 |02.05 |02.04 |02.03 |02.02 |02.01|
+|------------------------|-----|------|-----|------|------|------|------|------|------|-----|
+|Eqp rebel artoo duration|2s   |1.750s|2s   |1.750s|1.500s|1.250s|1.750s|1.500s|1.250s|1s   |
+
+
+|Level                   |03.10|03.09 |03.08|03.07 |03.06 |03.05 |03.04 |03.03 |03.02 |03.01|
+|------------------------|-----|------|-----|------|------|------|------|------|------|-----|
+|Eqp rebel artoo duration|2s   |1.750s|2s   |1.750s|1.500s|1.250s|1.750s|1.500s|1.250s|1s   |
+
+
+|Level                   |04.10|04.09 |04.08|04.07 |04.06 |04.05 |04.04 |04.03 |04.02 |04.01|
+|------------------------|-----|------|-----|------|------|------|------|------|------|-----|
+|Eqp rebel artoo duration|2s   |1.750s|2s   |1.750s|1.500s|1.250s|1.750s|1.500s|1.250s|1s   |
+
+
+|Level                   |05.10|05.09 |05.08|05.07 |05.06 |05.05 |05.04 |05.03 |05.02 |05.01|
+|------------------------|-----|------|-----|------|------|------|------|------|------|-----|
+|Eqp rebel artoo duration|2s   |1.750s|2s   |1.750s|1.500s|1.250s|1.750s|1.500s|1.250s|1s   |
+
+
+|Level                   |06.10|06.09 |06.08|06.07 |06.06 |06.05 |06.04 |06.03 |06.02 |06.01|
+|------------------------|-----|------|-----|------|------|------|------|------|------|-----|
+|Eqp rebel artoo duration|2s   |1.750s|2s   |1.750s|1.500s|1.250s|1.750s|1.500s|1.250s|1s   |
+
+
+|Level                   |07.10|07.09 |07.08|07.07 |07.06 |07.05 |07.04 |07.03 |07.02 |07.01|
+|------------------------|-----|------|-----|------|------|------|------|------|------|-----|
+|Eqp rebel artoo duration|2s   |1.750s|2s   |1.750s|1.500s|1.250s|1.750s|1.500s|1.250s|1s   |
+
+
+|Level                   |08.10|08.09 |08.08|08.07 |08.06 |08.05 |08.04 |08.03 |08.02 |08.01|
+|------------------------|-----|------|-----|------|------|------|------|------|------|-----|
+|Eqp rebel artoo duration|2s   |1.750s|2s   |1.750s|1.500s|1.250s|1.750s|1.500s|1.250s|1s   |
+
+
+|Level                   |09.10|09.09 |09.08|09.07 |09.06 |09.05 |09.04 |09.03 |09.02 |09.01|
+|------------------------|-----|------|-----|------|------|------|------|------|------|-----|
+|Eqp rebel artoo duration|2s   |1.750s|2s   |1.750s|1.500s|1.250s|1.750s|1.500s|1.250s|1s   |
+
+
+|Level                   |10.10|10.09 |10.08|10.07 |10.06 |10.05 |10.04 |10.03 |10.02 |10.01|
+|------------------------|-----|------|-----|------|------|------|------|------|------|-----|
+|Eqp rebel artoo duration|2s   |1.750s|2s   |1.750s|1.500s|1.250s|1.750s|1.500s|1.250s|1s   |
+
+
+
+## Internal stats
+
+These stats internal to the system link different parts of data together.
+
+  * Unit ID: HeroR2D2
+
+|Level      |01.10             |01.09             |01.08             |01.07             |01.06             |01.05             |01.04             |01.03             |01.02             |01.01             |
+|-----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo1|
+|Hero data  |hero1             |hero1             |hero1             |hero1             |hero1             |hero1             |hero1             |hero1             |hero1             |hero1             |
+
+
+|Level      |02.10             |02.09             |02.08             |02.07             |02.06             |02.05             |02.04             |02.03             |02.02             |02.01             |
+|-----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo1|
+|Hero data  |hero2             |hero2             |hero2             |hero2             |hero2             |hero2             |hero2             |hero2             |hero2             |hero2             |
+
+
+|Level      |03.10             |03.09             |03.08             |03.07             |03.06             |03.05             |03.04             |03.03             |03.02             |03.01             |
+|-----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo1|
+|Hero data  |hero3             |hero3             |hero3             |hero3             |hero3             |hero3             |hero3             |hero3             |hero3             |hero3             |
+
+
+|Level      |04.10             |04.09             |04.08             |04.07             |04.06             |04.05             |04.04             |04.03             |04.02             |04.01             |
+|-----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo1|
+|Hero data  |hero4             |hero4             |hero4             |hero4             |hero4             |hero4             |hero4             |hero4             |hero4             |hero4             |
+
+
+|Level      |05.10             |05.09             |05.08             |05.07             |05.06             |05.05             |05.04             |05.03             |05.02             |05.01             |
+|-----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo1|
+|Hero data  |hero5             |hero5             |hero5             |hero5             |hero5             |hero5             |hero5             |hero5             |hero5             |hero5             |
+
+
+|Level      |06.10             |06.09             |06.08             |06.07             |06.06             |06.05             |06.04             |06.03             |06.02             |06.01             |
+|-----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo1|
+|Hero data  |hero6             |hero6             |hero6             |hero6             |hero6             |hero6             |hero6             |hero6             |hero6             |hero6             |
+
+
+|Level      |07.10             |07.09             |07.08             |07.07             |07.06             |07.05             |07.04             |07.03             |07.02             |07.01             |
+|-----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo1|
+|Hero data  |hero7             |hero7             |hero7             |hero7             |hero7             |hero7             |hero7             |hero7             |hero7             |hero7             |
+
+
+|Level      |08.10             |08.09             |08.08             |08.07             |08.06             |08.05             |08.04             |08.03             |08.02             |08.01             |
+|-----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo1|
+|Hero data  |hero8             |hero8             |hero8             |hero8             |hero8             |hero8             |hero8             |hero8             |hero8             |hero8             |
+
+
+|Level      |09.10             |09.09             |09.08             |09.07             |09.06             |09.05             |09.04             |09.03             |09.02             |09.01             |
+|-----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo1|
+|Hero data  |hero9             |hero9             |hero9             |hero9             |hero9             |hero9             |hero9             |hero9             |hero9             |hero9             |
+
+
+|Level      |10.10             |10.09             |10.08             |10.07             |10.06             |10.05             |10.04             |10.03             |10.02             |10.01             |
+|-----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo5|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo4|buffEqpRebelArtoo3|buffEqpRebelArtoo2|buffEqpRebelArtoo1|
+|Hero data  |hero10            |hero10            |hero10            |hero10            |hero10            |hero10            |hero10            |hero10            |hero10            |hero10            |
+
+
+## Presentation stats
+
+These are all sorts of user interface settings, that should not interfere with gameplay.
+
+  * Arcs: No
+  * Asset name: r2d2_rbl-ani
+  * Audio attack: "sfx_status_electric_01":100
+  * Audio death: "sfx_death_hero_r2d2_1":100
+  * Audio placement: "sfx_placement_hero_r2d2_1":100
+  * Bundle name: r2d2_rbl-ani
+  * Decal asset name: tac_hero_rbl
+  * Decal bundle name: tac_hero_rbl
+  * Decal size: 160
+  * Eqp rebel artoo asset profile: vfxProfile_stun
+  * Factory rotation: 0
+  * Factory scale factor: 1
+  * Favorite target type: vehicles
+  * Hologram uid: HeroHologramR2D2
+  * Icon asset name: r2d2c3po_rbl-ani
+  * Icon bundle name: r2d2c3po_rbl-ani
+  * Icon camera position: 6.86,7.75,19.87
+  * Icon closeup camera position: 6.86,7.75,19.87
+  * Icon closeup lookat position: -0.8,1.4,-0.53
+  * Icon lookat position: -0.8,1.4,-0.53
+  * Max scale: 200
+  * Name: Artoo Stun
+  * Spin speed: 0
+  * Targeted type: ALLIES
+
+|Level                      |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
+|---------------------------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Displayed damage per second|6600       |5720      |5280      |4840      |4400      |3960      |3520      |3080      |2640      |2200      |
+
+
+## Uninterpreted stats
+
+Seriously, we don't really know what to do with these.
+
+  * Arming delay: 0
+  * Auto spawn rate scale: 2
+  * Auto spawn spreading scale: 2
+  * Eqp rebel artoo is refreshing: Yes
+  * Eqp rebel artoo tags: stun
+  * Max scale: No
+  * Seeks target: No
+  * Splash: 0
+  * Streams: no
+  * Strict cool down: No
+  * Target in range modifier: 1
+  * Xp: 0
+
+|Level      |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
+|-----------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Order      |210510     |210509    |210508    |210507    |210506    |210505    |210504    |210503    |210502    |210501    |
+|Point value|60         |52        |48        |44        |40        |36        |32        |28        |24        |20        |
+
+

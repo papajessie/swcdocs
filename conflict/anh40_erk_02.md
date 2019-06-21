@@ -1,12 +1,12 @@
 ---
-title: Arctic Ops Conflict on Tatooine (conflict_arcOps_tat_03)
+title: Conflict on ErKit (conflict_anh40_erk_02)
 category: tournament
 ---
-# Arctic Ops Conflict on Tatooine
+# Conflict on ErKit
 
-  * Planet: Tatooine
-  * Start date: 2017-03-30
-  * End date: 2017-04-05
+  * Planet: Er'Kit
+  * Start date: 2017-04-27
+  * End date: 2017-05-03
 
 ## Rewards
 
@@ -17,4 +17,4 @@ category: tournament
   * Bronzium II League: A "[Bronzium Conflict Crate (lc_conf_tier5)](lc_conf_tier5.html)"
   * Bronzium I League: 2 "[Bronzium Conflict Crates (lc_conf_tier6)](lc_conf_tier6.html)"
   * Obsidian League: A "[Obsidian Conflict Crate (lc_conf_tier7)](lc_conf_tier7.html)"
-  * Ultra Chrome League: A "[Ultra Chrome Conflict Crate (lc_conf_arcOps_tier8_beastEqp)](lc_conf_arcOps_tier8_beastEqp.html)"
+  * Ultra Chrome League: A "[Ultra Chrome Conflict Crate (lc_conf_anh40_tier8_evtUnit)](lc_conf_anh40_tier8_evtUnit.html)"

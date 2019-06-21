@@ -3,9 +3,13 @@ title: Index of crates
 ---
 # Crates
 
+  * [Premium Death Star Crate (lc_anh40Store)](lc_anh40Store.html)
   * [Premium Arctic Ops Crate (lc_arcOpsStore)](lc_arcOpsStore.html)
   * [Bronzium Data Fragment Crate (lc_bronziumEqpStore)](lc_bronziumEqpStore.html)
   * [Carbonite Data Fragment Crate (lc_carboniteEqpStore)](lc_carboniteEqpStore.html)
+  * [Ultra Chrome Conflict Crate (lc_conf_anh40_tier8_evtUnit)](lc_conf_anh40_tier8_evtUnit.html)
+  * [cratetitlelcconfanh40tier8wk3eqp (lc_conf_anh40_tier8_wk3eqp)](lc_conf_anh40_tier8_wk3eqp.html)
+  * [cratetitlelcconfanh40tier8wk4eqp (lc_conf_anh40_tier8_wk4eqp)](lc_conf_anh40_tier8_wk4eqp.html)
   * [Ultra Chrome Conflict Crate (lc_conf_arcOps_tier8_beastEqp)](lc_conf_arcOps_tier8_beastEqp.html)
   * [Ultra Chrome Conflict Crate (lc_conf_arcOps_tier8_evtUnit)](lc_conf_arcOps_tier8_evtUnit.html)
   * [Ultra Chrome Conflict Crate (lc_conf_arcOps_tier8_heroEqp)](lc_conf_arcOps_tier8_heroEqp.html)
@@ -69,6 +73,7 @@ title: Index of crates
   * [Obsidian Conflict Crate (lc_conf_tier7)](lc_conf_tier7.html)
   * [Ultra Chrome Conflict Crate (lc_conf_tier8)](lc_conf_tier8.html)
   * [Daily Crate (lc_daily)](lc_daily.html)
+  * [Daily Death Star Crate (lc_daily_anh40)](lc_daily_anh40.html)
   * [Daily Arctic Ops Crate (lc_daily_arcOps)](lc_daily_arcOps.html)
   * [Daily Desert Ops Crate (lc_daily_desBiome)](lc_daily_desBiome.html)
   * [Daily Forest Ops Crate (lc_daily_forBiome)](lc_daily_forBiome.html)
@@ -79,6 +84,7 @@ title: Index of crates
   * [Carbonite Crate (lc_mraid_tier1)](lc_mraid_tier1.html)
   * [Durasteel Crate (lc_mraid_tier2)](lc_mraid_tier2.html)
   * [Bronzium Crate (lc_mraid_tier3)](lc_mraid_tier3.html)
+  * [Death Star Crate (lc_obje_anh40_tier3)](lc_obje_anh40_tier3.html)
   * [Arctic Ops Crate (lc_obje_arcOps_tier3)](lc_obje_arcOps_tier3.html)
   * [Desert Ops Crate (lc_obje_desBiome_tier3)](lc_obje_desBiome_tier3.html)
   * [Forest Ops Crate (lc_obje_forBiome_tier3)](lc_obje_forBiome_tier3.html)
@@ -86,6 +92,7 @@ title: Index of crates
   * [Carbonite Objectives Crate (lc_obje_tier1)](lc_obje_tier1.html)
   * [Durasteel Objectives Crate (lc_obje_tier2)](lc_obje_tier2.html)
   * [Bronzium Objectives Crate (lc_obje_tier3)](lc_obje_tier3.html)
+  * [Death Star Crate (lc_raid_anh40_tier3)](lc_raid_anh40_tier3.html)
   * [Arctic Ops Crate (lc_raid_arcOps_tier3)](lc_raid_arcOps_tier3.html)
   * [Desert Ops Crate (lc_raid_desBiome_tier3)](lc_raid_desBiome_tier3.html)
   * [Forest Ops Crate (lc_raid_forBiome_tier3)](lc_raid_forBiome_tier3.html)

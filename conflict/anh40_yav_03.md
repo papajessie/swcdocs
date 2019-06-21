@@ -1,12 +1,12 @@
 ---
-title: Arctic Ops Conflict on Tatooine (conflict_arcOps_tat_03)
+title: Conflict on Yavin 4 (conflict_anh40_yav_03)
 category: tournament
 ---
-# Arctic Ops Conflict on Tatooine
+# Conflict on Yavin 4
 
-  * Planet: Tatooine
-  * Start date: 2017-03-30
-  * End date: 2017-04-05
+  * Planet: Yavin 4
+  * Start date: 2017-05-04
+  * End date: 2017-05-10
 
 ## Rewards
 
@@ -17,4 +17,4 @@ category: tournament
   * Bronzium II League: A "[Bronzium Conflict Crate (lc_conf_tier5)](lc_conf_tier5.html)"
   * Bronzium I League: 2 "[Bronzium Conflict Crates (lc_conf_tier6)](lc_conf_tier6.html)"
   * Obsidian League: A "[Obsidian Conflict Crate (lc_conf_tier7)](lc_conf_tier7.html)"
-  * Ultra Chrome League: A "[Ultra Chrome Conflict Crate (lc_conf_arcOps_tier8_beastEqp)](lc_conf_arcOps_tier8_beastEqp.html)"
+  * Ultra Chrome League: A "["crate_title_lc_conf_anh40_tier8_wk3eqp" (lc_conf_anh40_tier8_wk3eqp)](lc_conf_anh40_tier8_wk3eqp.html)"

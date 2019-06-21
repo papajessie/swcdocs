@@ -37,6 +37,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Mobile Heavy Cannon (MHC)](MHC.html)
   * [MTV-7 (MTV7)](MTV7.html)
   * [Probe Droid (ProbeDroid)](ProbeDroid.html)
+  * [Imperial Astromedic (R5Medic)](R5Medic.html)
   * [Scout Trooper (Scout)](Scout.html)
   * [Security Droid (SecurityDroid)](SecurityDroid.html)
   * [Shock Trooper (Shock)](Shock.html)
@@ -78,6 +79,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Twilek Incinerator (RebelTwilekIncinerator)](RebelTwilekIncinerator.html)
   * [Rebel Soldier (Soldier)](Soldier.html)
   * [T2-B Repulsor Tank (T2BTank)](T2BTank.html)
+  * [WED Treadwell Repair Droid (Treadwell)](Treadwell.html)
   * [Rebel Vanguard (Vanguard)](Vanguard.html)
   * [Wookiee Warrior (Wookie)](Wookie.html)
 
@@ -163,6 +165,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Heavy Sand Soldier (HeavySandSoldier)](HeavySandSoldier.html)
   * [trptitleHeavySoldierDropshipTrap (HeavySoldierDropshipTrap)](HeavySoldierDropshipTrap.html)
   * [AT-AP Veteran (HeroATAP)](HeroATAP.html)
+  * [trptitleHeroC3PO (HeroC3PO)](HeroC3PO.html)
   * [Oto Vans (HeroSoldier)](HeroSoldier.html)
   * [trptitleJuggernautFakeHero (JuggernautFakeHero)](JuggernautFakeHero.html)
   * [Rebel Commando (PentagonSoldier)](PentagonSoldier.html)

@@ -194,7 +194,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 ### Targeting
 
   * Attack shield border: No
-  * Max attack range: 6
+  * Max attack range: 8
   * Min attack range: 0
   * New rotation speed: 2000
   * Target preference strength: 90
