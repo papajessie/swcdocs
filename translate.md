@@ -4997,7 +4997,7 @@ category: strings
     hn_cc_1_desOps_pre_r_title 'Coming Soon: New Unit Unlock'
     hn_cc_1_dobjannounce_body 'Planetary Objectives will be assigned on a daily basis. Now complete tasks and collect updated Supply Crate rewards every day!'
     hn_cc_1_dobjannounce_title 'Daily Objectives'
-    hn_cc_1_epSpacebear_w1_e_body 'The brand new [c][FFB74A]Commander Events[-][/c] system is here! Play at your own pace and earn more rewards. Check out new content each week celebrating Star Wars: The Last Jedi, in theaters 12/15, starting with the new [c][FFB74A]614-AvA speeder bike[-][/c]!'
+    hn_cc_1_epSpacebear_w1_e_body 'The brand new [c][FFB74A]Commander Events[-][/c] system is here! Play at your own pace to earn currency, Data Fragments, and more! Each week offers a new set of rewards, starting with the new [c][FFB74A]614-AvA speeder bike[-][/c]!'
     hn_cc_1_epSpacebear_w1_r_body 'The brand new [c][FFB74A]Commander Events[-][/c] system is here! Play at your own pace and earn more rewards. Check out new content each week celebrating Star Wars: The Last Jedi, in theaters 12/15, starting with the [c][FFB74A]V-4X-D Ski Speeder[-][/c] from the movie!'
     hn_cc_1_epSpacebear_w1_title 'New Event, New Rewards!'
     hn_cc_1_epSpacebear_w3_body 'This week continues the celebration of Star Wars: The Last Jedi, in theaters now! Experience new content in the updated Commander Events system, including the [c][FFB74A]<Golden Mile Creature>[-][/c] from the movie.'
