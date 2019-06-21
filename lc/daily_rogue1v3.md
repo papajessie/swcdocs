@@ -91,17 +91,17 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
 ## Pool "lcpool_rogue1v3_shrd_daily" (x1 draw)
 
-### Rebellion
-
-  * (1/3) 1 data fragments of unlockable air support [Fang Fighter](FangFighter)
-  * (1/3) 1 data fragments of unlockable troop [Drabatan Saboteur](BigMouthAlien)
-  * (1/3) 1 troop sample [Stolen TX-225](RebelHovertankSample)
-
 ### Empire
 
+  * (1/3) 1 data fragments of equipment [TX-225](eqpEmpireHovertank)
   * (1/3) 1 data fragments of unlockable air support [TIE Striker](AtmosMig)
   * (1/3) 1 data fragments of unlockable troop [Security Droid](SecurityDroid)
-  * (1/3) 1 troop sample [TX-225](EmpireHovertankSample)
+
+### Rebellion
+
+  * (1/3) 1 data fragments of equipment [Stolen TX-225](eqpRebelHovertank)
+  * (1/3) 1 data fragments of unlockable air support [Fang Fighter](FangFighter)
+  * (1/3) 1 data fragments of unlockable troop [Drabatan Saboteur](BigMouthAlien)
 
 ### Fallback for HQ level 10
 
