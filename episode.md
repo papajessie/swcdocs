@@ -23,3 +23,6 @@ title: Index of episodes
   * [Explosive Finish Part I (ep_demoDroid_p1)](ep_demoDroid_p1.html)
   * [Explosive Finish Part II (ep_demoDroid_p2)](ep_demoDroid_p2.html)
   * [Explosive Finish Flash Event (ep_demoDroid_p3)](ep_demoDroid_p3.html)
+  * [Naval Assault Part I (ep_epNaval_p1)](ep_epNaval_p1.html)
+  * [Naval Assault Part II (ep_epNaval_p2)](ep_epNaval_p2.html)
+  * [Naval Assault Part III (ep_epNaval_p3)](ep_epNaval_p3.html)
