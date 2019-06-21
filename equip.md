@@ -20,6 +20,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Shoretrooper (eqpEmpirePentagonTrooper)](eqpEmpirePentagonTrooper.html)
   * [Desert Jump Trooper (eqpEmpireSandJumpTrooper)](eqpEmpireSandJumpTrooper.html)
   * [Sandtrooper (eqpEmpireSandtrooper)](eqpEmpireSandtrooper.html)
+  * [Arctic Jump Trooper (eqpEmpireSnowJumpTrooper)](eqpEmpireSnowJumpTrooper.html)
   * [Snowtrooper (eqpEmpireSnowtrooper)](eqpEmpireSnowtrooper.html)
 
 ### Rebellion
@@ -29,6 +30,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Captain Han Solo (eqpRebelCaptainSolo)](eqpRebelCaptainSolo.html)
   * [Senator Leia Organa (eqpRebelDiplomat)](eqpRebelDiplomat.html)
   * [Cold-weather Heavy Soldier (eqpRebelEchoBaseHeavySoldier)](eqpRebelEchoBaseHeavySoldier.html)
+  * [Arctic Jetpack Trooper (eqpRebelEchoBaseJetpackTrooper)](eqpRebelEchoBaseJetpackTrooper.html)
   * [Cold-weather Soldier (eqpRebelEchoBaseSoldier)](eqpRebelEchoBaseSoldier.html)
   * [Heavy Desert Soldier (eqpRebelHeavySandSoldier)](eqpRebelHeavySandSoldier.html)
   * [Stolen TX-225 (eqpRebelHovertank)](eqpRebelHovertank.html)

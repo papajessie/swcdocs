@@ -8,3 +8,4 @@ title: Index of episodes
   * [Tactical Defenses Event (ep_defRef)](ep_defRef.html)
   * [Desert Operations Jump Troopers  Desert Operations Jetpack Troopers (ep_desBiome_Jetpack)](ep_desBiome_Jetpack.html)
   * [Forest Operations Jump Troopers  Forest Operations Jetpack Troopers (ep_forBiome_Jetpack)](ep_forBiome_Jetpack.html)
+  * [Arctic Operations Jump Troopers  Arctic Operations Jetpack Troopers (ep_arcBiome_Jetpack)](ep_arcBiome_Jetpack.html)

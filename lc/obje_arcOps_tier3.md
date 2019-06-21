@@ -9,35 +9,29 @@ Crates are given as rewards for various actions. The content is revealed only wh
 
 This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
-## Pool "lcpool_arcOps_shrd" (x1 draw)
+## Pool "lcpool_arcBiome_Jetpack_shrd" (x1 draw)
 
 ### Empire
 
-  * (1/34) 2 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
-  * (2/34) 2 data fragments of equipment [Cold Weather AT-MP Mark III](eqpEmpireArcticATMP)
-  * (2/34) 2 data fragments of equipment [Heavy Sandtrooper](eqpEmpireHeavySandtrooper)
-  * (2/34) 2 data fragments of equipment [Heavy Shoretrooper](eqpEmpirePentagonHeavyTrooper)
-  * (3/34) 2 data fragments of equipment [Cold-weather Mobile Heavy Cannon](eqpEmpireArcticMHC)
-  * (3/34) 2 data fragments of equipment [Modified INT-4 Interceptor](eqpEmpireArcticINT4)
-  * (3/34) 2 data fragments of equipment [Sandtrooper](eqpEmpireSandtrooper)
-  * (4/34) 1 data fragments of unlockable troop [MTV-7](MTV7)
-  * (4/34) 2 data fragments of equipment [Heavy Snowtrooper](eqpEmpireHeavySnowtrooper)
-  * (4/34) 2 data fragments of equipment [Shoretrooper](eqpEmpirePentagonTrooper)
-  * (6/34) 2 data fragments of equipment [Snowtrooper](eqpEmpireSnowtrooper)
+  * (1/10) 2 troop sample [Jump Trooper](EmpireJumptrooper)
+  * (1/10) 3 data fragments of equipment [Cold-weather Mobile Heavy Cannon](eqpEmpireArcticMHC)
+  * (1/10) 3 data fragments of equipment [Heavy Snowtrooper](eqpEmpireHeavySnowtrooper)
+  * (1/10) 3 data fragments of equipment [Snowtrooper](eqpEmpireSnowtrooper)
+  * (1/10) 3 data fragments of unlockable troop [IG-86 Assassin Droid](IG86Droid)
+  * (1/10) 3 data fragments of unlockable troop [MTV-7](MTV7)
+  * (2/10) 2 data fragments of equipment [Arctic Jump Trooper](eqpEmpireSnowJumpTrooper)
+  * (2/10) 4 data fragments of equipment [Arctic Jump Trooper](eqpEmpireSnowJumpTrooper)
 
 ### Rebellion
 
-  * (1/34) 2 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
-  * (2/34) 2 data fragments of equipment [Captain Han Solo](eqpRebelCaptainSolo)
-  * (2/34) 2 data fragments of equipment [Gigoran Fighter](eqpRebelShaggyAlien)
-  * (2/34) 2 data fragments of equipment [Heavy Desert Soldier](eqpRebelHeavySandSoldier)
-  * (3/34) 2 data fragments of equipment [Cold-weather Hailfire Droid](eqpRebelArcticHailfire)
-  * (3/34) 2 data fragments of equipment [Desert Soldier](eqpRebelSandSoldier)
-  * (3/34) 2 data fragments of equipment [Tauntaun Rider](eqpRebelTauntaun)
-  * (4/34) 1 data fragments of unlockable troop [AT-RT Walker](ATRT)
-  * (4/34) 2 data fragments of equipment [Cold-weather Heavy Soldier](eqpRebelEchoBaseHeavySoldier)
-  * (4/34) 2 data fragments of equipment [Rebel Commando](eqpRebelPentagonSoldier)
-  * (6/34) 2 data fragments of equipment [Cold-weather Soldier](eqpRebelEchoBaseSoldier)
+  * (1/10) 2 troop sample [Jetpack Trooper](RebelJetpackTrooper)
+  * (1/10) 3 data fragments of equipment [Cold-weather Hailfire Droid](eqpRebelArcticHailfire)
+  * (1/10) 3 data fragments of equipment [Cold-weather Heavy Soldier](eqpRebelEchoBaseHeavySoldier)
+  * (1/10) 3 data fragments of equipment [Cold-weather Soldier](eqpRebelEchoBaseSoldier)
+  * (1/10) 3 data fragments of unlockable troop [AT-RT Walker](ATRT)
+  * (1/10) 3 data fragments of unlockable troop [Iakaru Warrior](IakaruWarrior)
+  * (2/10) 2 data fragments of equipment [Arctic Jetpack Trooper](eqpRebelEchoBaseJetpackTrooper)
+  * (2/10) 4 data fragments of equipment [Arctic Jetpack Trooper](eqpRebelEchoBaseJetpackTrooper)
 
 ### Fallback for HQ level 10
 
@@ -63,23 +57,17 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
   * 150000 Credits
 
-## Pool "lcpool_arcOps_smpl" (x1 draw)
-
-### Empire
-
-  * (1/6) 1 troop sample [MTV-7](MTV7)
-  * (1/6) 2 troop sample [IG-86 Assassin Droid](IG86Droid)
-  * (1/6) 2 troop sample [MTV-7](MTV7)
-  * (1/6) 3 troop sample [MTV-7](MTV7)
-  * (2/6) 1 troop sample [IG-86 Assassin Droid](IG86Droid)
+## Pool "lcpool_arcBiome_Jetpack_smpl" (x1 draw)
 
 ### Rebellion
 
-  * (1/6) 1 troop sample [AT-RT Walker](ATRT)
-  * (1/6) 2 troop sample [AT-RT Walker](ATRT)
-  * (1/6) 2 troop sample [Iakaru Warrior](IakaruWarrior)
-  * (1/6) 3 troop sample [AT-RT Walker](ATRT)
-  * (2/6) 1 troop sample [Iakaru Warrior](IakaruWarrior)
+  * (1/2) 1 troop sample [AT-RT Walker](ATRT)
+  * (1/2) 1 troop sample [Iakaru Warrior](IakaruWarrior)
+
+### Empire
+
+  * (1/2) 1 troop sample [IG-86 Assassin Droid](IG86Droid)
+  * (1/2) 1 troop sample [MTV-7](MTV7)
 
 ### Fallback for HQ level 10
 

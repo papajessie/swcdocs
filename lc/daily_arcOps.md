@@ -9,15 +9,15 @@ Crates are given as rewards for various actions. The content is revealed only wh
 
 This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
-## Pool "lcpool_arcOps_shrd_daily" (x1 draw)
+## Pool "lcpool_arcBiome_Jetpack_daily" (x1 draw)
 
 ### Empire
 
-  * (1/1) 1 data fragments of equipment [Snowtrooper](eqpEmpireSnowtrooper)
+  * (1/1) 1 data fragments of equipment [Arctic Jump Trooper](eqpEmpireSnowJumpTrooper)
 
 ### Rebellion
 
-  * (1/1) 1 data fragments of equipment [Cold-weather Soldier](eqpRebelEchoBaseSoldier)
+  * (1/1) 1 data fragments of equipment [Arctic Jetpack Trooper](eqpRebelEchoBaseJetpackTrooper)
 
 ### Fallback for HQ level 10
 

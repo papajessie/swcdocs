@@ -403,11 +403,14 @@ category: strings
     EQUIPMENT_UPGRADE_LOCKED 'Collect {0} data fragments to upgrade'
     ERROR 'Error'
     EVENT_DETAILS_HEADER_ANH40 '40th Anniversary Objectives'
+    EVENT_DETAILS_HEADER_ANH40RR 'Black Market Objectives'
+    EVENT_DETAILS_HEADER_ANH40RR_3X 'Black Market Objective Rush - 3x Until 8/23!'
     EVENT_DETAILS_HEADER_ANH40_DBL '40th Anniversary Objective Rush - 2x Until 5/3!'
     EVENT_DETAILS_HEADER_ARCTIC_OPS 'Arctic Ops Objectives'
     EVENT_DETAILS_HEADER_ARCTIC_OPS_DBL 'Arctic Ops Objective Rush - 2x Until 3/30!'
     EVENT_DETAILS_HEADER_DESERT_OPS 'Desert Ops Objectives'
     EVENT_DETAILS_HEADER_EXPIRED_ANH40 '40th Anniversary Objectives - Expired'
+    EVENT_DETAILS_HEADER_EXPIRED_ANH40RR 'Black Market Objectives - Expired'
     EVENT_DETAILS_HEADER_EXPIRED_ARCTIC_OPS 'Arctic Ops Objectives - Expired'
     EVENT_DETAILS_HEADER_EXPIRED_DESERT_OPS 'Desert Ops Objectives - Expired'
     EVENT_DETAILS_HEADER_EXPIRED_FOREST_OPS 'Forest Ops Objectives - Expired'
@@ -418,6 +421,8 @@ category: strings
     EVENT_DETAILS_HEADER_MAZ "Maz's Objectives"
     EVENT_DETAILS_HEADER_ROGUE_ONE 'Event Objectives'
     EVENT_OBJECTIVES_ANH40 '40th Anniversary Objectives'
+    EVENT_OBJECTIVES_ANH40RR 'Black Market Objectives'
+    EVENT_OBJECTIVES_ANH40RR_3X 'Black Market Objective Rush'
     EVENT_OBJECTIVES_ANH40_DBL '40th Anniversary Objective Rush'
     EVENT_OBJECTIVES_ARCTIC_OPS 'Arctic Ops Objectives'
     EVENT_OBJECTIVES_ARCTIC_OPS_DBL 'Arctic Ops Objective Rush'
@@ -2358,6 +2363,14 @@ category: strings
     crate_title_lc_conf_anh40_tier8_evtUnit 'Ultra Chrome Conflict Crate'
     crate_title_lc_conf_anh40_tier8_wk3eqp 'Ultra Chrome Conflict Crate'
     crate_title_lc_conf_anh40_tier8_wk4eqp 'Ultra Chrome Conflict Crate'
+    crate_title_lc_conf_anh40rr_evtEqp_tier5 'Bronzium Conflict Crate'
+    crate_title_lc_conf_anh40rr_evtEqp_tier6 'Bronzium Conflict Crate'
+    crate_title_lc_conf_anh40rr_evtEqp_tier7 'Obsidian Conflict Crate'
+    crate_title_lc_conf_anh40rr_evtEqp_tier8 'Ultra Chrome Conflict Crate'
+    crate_title_lc_conf_anh40rr_evtUnit_tier5 'Bronzium Conflict Crate'
+    crate_title_lc_conf_anh40rr_evtUnit_tier6 'Bronzium Conflict Crate'
+    crate_title_lc_conf_anh40rr_evtUnit_tier7 'Obsidian Conflict Crate'
+    crate_title_lc_conf_anh40rr_evtUnit_tier8 'Ultra Chrome Conflict Crate'
     crate_title_lc_conf_arcBiome_Jetpack_tier5 'Bronzium Conflict Crate'
     crate_title_lc_conf_arcBiome_Jetpack_tier6 'Bronzium Conflict Crate'
     crate_title_lc_conf_arcBiome_Jetpack_tier7 'Obsidian Conflict Crate'
@@ -2475,6 +2488,10 @@ category: strings
     crate_title_lc_death_raid1 'Carbonite Supply Crate'
     crate_title_lc_death_raid2 'Durasteel Supply Crate'
     crate_title_lc_death_raid3 'Bronzium Supply Crate'
+    crate_title_lc_deathstar_spd_v1 'Ultra Death Star Crate'
+    crate_title_lc_deathstar_spd_v2 'Ultra Death Star Crate'
+    crate_title_lc_deathstar_spdbonus_v1 'Death Star Crate: Bonus Reward'
+    crate_title_lc_deathstar_spdbonus_v2 'Death Star Crate: Bonus Reward'
     crate_title_lc_defRefStore 'Premium Tactical Defenses Crate'
     crate_title_lc_defRef_SPD1 'Extreme Tactical Defenses Crate'
     crate_title_lc_defRef_SPD1_v2 'Extreme Tactical Defenses Crate'
@@ -2605,6 +2622,14 @@ category: strings
     dia_anh40_03_r 'You must retrieve as many fragments as you can before the Empire is able to recover them. Seek out supply crates likely to contain them.'
     dia_anh40_04_e 'You are cleared to use any means necessary. Claim the crates by force, or trade for them. End of message. Good luck, Commander.'
     dia_anh40_04_r 'Use any means at your disposal, Commander, whether through battle or trade. May the Force be with you.'
+    dia_anh40rr_00_e "It's been a while, Operative. I have some information, about a certain battle station, that you might find interesting."
+    dia_anh40rr_00_r "It's been a while, Agent. I have some information, about a certain battle station, that you might find interesting."
+    dia_anh40rr_01 "As you might know, the Death Star shot all kinds of debris into space when it exploded. That includes data fragments from the station's computer."
+    dia_anh40rr_02 'Certain enterprising individuals have been collecting those very data fragments and packaging them in high-grade crates.'
+    dia_anh40rr_03 "I've seen data fragments for powerful equipment..."
+    dia_anh40rr_04 '...as well as some useful droid schematics.'
+    dia_anh40rr_05_e "The black market is buzzing, Operative. Don't wait to hunt down these crates. I'm always happy to sell you some. You know me, I never refuse crystals."
+    dia_anh40rr_05_r "The black market is buzzing, Agent. Don't wait to hunt down these crates. I'm always happy to sell you some. You know me, I never refuse crystals."
     dia_arcBiome_Jetpack_01_e "After so much time on Tatooine, I can't believe how cold Hoth gets! Our Jetpack Troopers need some new equipment so they don't freeze, flying through the winds."
     dia_arcBiome_Jetpack_01_r "After so much time on Tatooine, I can't believe how cold Hoth gets! Our Jump Troopers need some new equipment so they don't freeze, flying through the winds."
     dia_arcBiome_Jetpack_02_e "These modified jetpacks can fly faster and deal more damage, even on a frozen rock like Hoth. Ice and snow won't stop us, partner. We'll meet the Rebels head on!"
@@ -3750,6 +3775,10 @@ category: strings
     epPanel_anh40_header 'Celebrate the 40th Anniversary of Star Wars'
     epPanel_anh40_r_body "Collect Death Star Crates and earn Data Fragments for the new [c][FFB74A]Artoo & Threepio[-][/c] equipment. With this equipment, R2-D2 changes from vehicle repair to stunning enemy turrets, with C-3PO's help!\n\nDeath Star Crates are found in Objectives, Shop, and Infonet (once daily.) Also in Heroic Defense starting 5/2."
     epPanel_anh40_title 'Star Wars: 40th Anniversary Event'
+    epPanel_anh40rr_e_body 'Collect Death Star Crates and earn Data Fragments for [c][FFB74A]Lord Vader[-][/c] equipment. With this equipment, Darth Vader will bring troopers of the 501st Legion with him into battle!\n\nDeath Star Crates are in Objectives and the Shop until 8/23. Collect your Daily Death Star Crate each day until 8/17.'
+    epPanel_anh40rr_header 'Death Star Crates Have Reappeared on the Black Market!'
+    epPanel_anh40rr_r_body 'Collect Death Star Crates and earn Data Fragments for the newly updated [c][FFB74A]Artoo & Threepio[-][/c] equipment. With this equipment, R2-D2 changes from vehicle repair to stunning [c][FFB74A]and damaging[-][/c] enemy turrets!\n\nDeath Star Crates are in Objectives and the Shop until 8/23. Collect your Daily Death Star Crate each day until 8/17.'
+    epPanel_anh40rr_title 'Death Star Crates'
     epPanel_arcBiome_Jetpack_e_body 'Unlock new [c][FFAA33]Arctic Jump Trooper[-][/c] equipment, which boosts damage and move speeds on Hoth! These Data Fragments can be found in any Bronzium or better crate, but fragments drop rates are highest in [c][FFAA33]Arctic Ops Crates[-][/c].\n\nArctic Ops Crates can only be found this week! Find them in Objectives and the daily crate. Premium crates are in the Shop.'
     epPanel_arcBiome_Jetpack_header_e 'Equip your Jump Troopers for Freezing Temperatures'
     epPanel_arcBiome_Jetpack_header_r 'Equip your Jetpack Troopers for Freezing Temperatures'
@@ -3779,6 +3808,9 @@ category: strings
     epWidg_anh40_wk2_title '2x Objectives until 5/1!'
     epWidg_anh40_wk3_title 'Death Star Crates in Heroic Defense!'
     epWidg_anh40_wk4_title 'Event Ends 5/17! Act now!'
+    epWidg_anh40rr_wk1_title 'Death Star Crates are back!'
+    epWidg_anh40rr_wk2_title '2x Crate Rewards in Conflicts!'
+    epWidg_anh40rr_wk3_title 'Triple Crates in Objectives!'
     epws_arcBiome_Jetpack_e_title 'Arctic Operations: Jump Troopers'
     epws_arcBiome_Jetpack_r_title 'Arctic Operations: Jetpack Troopers'
     epws_defRef_wk1_title 'Tactical Defenses Event!'
@@ -3866,7 +3898,7 @@ category: strings
     eqpEmpireWallHealth_name 'Reinforced Wall Bracing'
     eqpRebelArcticHailfire_description 'These IG-227 Hailfire droids have been retrofitted for increased effectiveness in sub-zero temperatures. They employ a powerful missle volley, but have light armor and will need protection.'
     eqpRebelArcticHailfire_name 'Cold-weather Hailfire Droid'
-    eqpRebelArtoo_description "This pair of droids has a knack for getting in and out of trouble. Threepio follows his companion into combat as Artoo closes in and disables enemy turrets. Upgrading this equipment increases the range of Artoo's disable effect."
+    eqpRebelArtoo_description 'This pair of droids has a knack for trouble. Threepio follows his companion into combat as Artoo closes in to disable and damage enemy turrets. Upgrading this equipment increases the range of the effect.'
     eqpRebelArtoo_name 'Artoo & Threepio'
     eqpRebelBarracksSummonHeavy_description 'A guard wave of [c][FFB74A]1 Vanguard[-][/c] will appear from each Barrack shortly after the battle starts. Additional guard waves will periodically appear during the battle. [c][FFB74A]Research higher levels of this Guard Reserve to make Vanguards appear more often.[-][/c]'
     eqpRebelBarracksSummonHeavy_name 'Guard Reserve: Anti-vehicle'
@@ -4461,6 +4493,16 @@ category: strings
     hn_cc_1_anh40_pre_e_title 'Coming Soon: New Unit Unlock'
     hn_cc_1_anh40_pre_r_body 'Coming soon! Unlock the WED Treadwell Repair Droid, which repairs vehicles in the heat of combat. Compete in Conflicts during the [c][FFB74A]Star Wars: 40th Anniversary[-][/c] event!'
     hn_cc_1_anh40_pre_r_title 'Coming Soon: New Unit Unlock'
+    hn_cc_1_anhrr_HQ2-5_announce_e_body '[c][FFB74A]Black Market[-][/c] event runs from 8/3 to 8/23!\nCollect Death Star Crates and earn Data Fragments for the [c][FFB74A]Imperial Astromedic[-][/c]. The Imperial Astromedic heals injuries with advanced bacta-based technologies!'
+    hn_cc_1_anhrr_HQ2-5_announce_r_body '[c][FFB74A]Black Market[-][/c] event runs from 8/3 to 8/23!\nCollect Death Star Crates and earn Data Fragments for the [c][FFB74A]WED Treadwell[-][/c]. The WED Treadwell makes field repairs to vehicles in the heat of combat!'
+    hn_cc_1_anhrr_HQ2-5_final_e_body "Don't miss your chance to unlock the [c][FFB74A]Imperial Astromedic[-][/c]! These Data Fragments can't be found after 8/23. Get Death Star Crates now from Objectives, Conflicts and the Shop!"
+    hn_cc_1_anhrr_HQ2-5_final_r_body "Don't miss your chance to unlock the [c][FFB74A]WED Treadwell[-][/c]! These Data Fragments can't be found after 8/23. Get Death Star Crates now from Objectives, Conflicts and the Shop!"
+    hn_cc_1_anhrr_HQ6+_announce_e_body 'The [c][FFB74A]Black Market[-][/c] event runs from 8/3 to 8/23!\nCollect Death Star Crates and earn Data Fragments for the [c][FFB74A]Lord Vader[-][/c] equipment. With this equipment, Darth Vader will bring troopers of the 501st Legion with him into battle! Also unlock the [c][FFB74A]Imperial Astromedic[-][/c] and take advantage of its advanced bacta-based technologies to heal injuries!'
+    hn_cc_1_anhrr_HQ6+_announce_r_body 'The [c][FFB74A]Black Market[-][/c] event runs from 8/3 to 8/23!!\nCollect Death Star Crates and earn Data Fragments for the new [c][FFB74A]Artoo & Threepio[-][/c] equipment. With this equipment, R2-D2 closes in to stun and damage enemy turrets, with C-3PO by his side! Also unlock the [c][FFB74A]WED Treadwell[-][/c] to make field repairs to vehicles in the heat of combat!'
+    hn_cc_1_anhrr_HQ6+_final_e_body "Don't miss your chance to unlock [c][FFB74A]Lord Vader[-][/c] equipment and the [c][FFB74A]Imperial Astromedic[-][/c]! These Data Fragments can't be found after 8/23. Get Death Star Crates now from Objectives, Conflicts and the Shop!"
+    hn_cc_1_anhrr_HQ6+_final_r_body "Don't miss your chance to unlock [c][FFB74A]Artoo & Threepio[-][/c] equipment and the [c][FFB74A]WED Treadwell[-][/c]! These Data Fragments can't be found after 8/23. Get Death Star Crates now from Objectives, Conflicts and the Shop!"
+    hn_cc_1_anhrr_announce_title 'Black Market: Death Star Crates'
+    hn_cc_1_anhrr_final_title 'Black Market Event ending 8/23'
     hn_cc_1_anniversary2_body "Claim your Droideka and Krayt Dragon gift units in celebration of Star Wars: Commander's 2nd anniversary!"
     hn_cc_1_anniversary2_title 'Special Anniversary Giveaway!'
     hn_cc_1_arcBiome_Jetpack_body_e 'Arctic Ops: Jump Trooper runs from 7/27 to 8/2!\nFor a limited time, Arctic Ops Crates are back! These crates have a good chance of containing Arctic equipment, including the new Arctic Jump Trooper!'
@@ -5164,6 +5206,16 @@ category: strings
     hn_cc_3_anh40_conf01_e_title 'Last Chance to Unlock Imperial Astromedic'
     hn_cc_3_anh40_conf01_r_body '[c][FFB74A]Star Wars: 40th Anniversary[-][/c] event ends 5/17!\n\nLast chance to unlock and upgrade the WED Treadwell Repair Droid! Join the final Conflicts of the event, ending 5/17.'
     hn_cc_3_anh40_conf01_r_title 'Last Chance to Unlock WED Treadwell Repair Droid'
+    hn_cc_3_anhrr_HQ2-5_dbl_conf_e_body "During this week's Black Market Event, earn double the number of crates from conflicts! Unlock/upgrade the Imperial Astromedic before the event ends!"
+    hn_cc_3_anhrr_HQ2-5_dbl_conf_r_body "During this week's Black Market Event, earn double the number of crates from conflicts! Unlock/upgrade the WED Treadwell before the event ends!"
+    hn_cc_3_anhrr_HQ2-5_obj_3x_e_body 'This week only, all objectives reward Black Market Death Star Crates! Earn triple the crates for more chances to get Data Fragments for the [c][FFB74A]Imperial Astromedic[-][/c]!\n\nPremium Death Star Crates are also available in the Shop.'
+    hn_cc_3_anhrr_HQ2-5_obj_3x_r_body 'This week only, all objectives reward Black Market Death Star Crates! Earn triple the crates for more chances to get Data Fragments for  the [c][FFB74A]WED Treadwell[-][/c]!\n\nPremium Death Star Crates are also available in the Shop.'
+    hn_cc_3_anhrr_HQ6+_dbl_conf_e_body "During this week's Black Market Event, earn double the number of crates from conflicts! Unlock/upgrade the Imperial Astromedic and Lord Vader equipment before the event ends!"
+    hn_cc_3_anhrr_HQ6+_dbl_conf_r_body "During this week's Black Market Event, earn double the number of crates from conflicts! Unlock/upgrade the WED Treadwell and Artoo & Threepio equipment before the event ends!"
+    hn_cc_3_anhrr_HQ6+_obj_3x_e_body 'This week only, all objectives reward Black Market Death Star Crates! Earn triple the crates for more chances to get Data Fragments for [c][FFB74A]Lord Vader[-][/c] equipment and the [c][FFB74A]Imperial Astromedic[-][/c]!\n\nPremium Death Star Crates are also available in the Shop.'
+    hn_cc_3_anhrr_HQ6+obj_3x_r_body 'This week only, all objectives reward Black Market Death Star Crates! Earn triple the crates for more chances to get Data Fragments for [c][FFB74A]Artoo & Threepio[-][/c] equipment and the [c][FFB74A]WED Treadwell[-][/c]!\n\nPremium Death Star Crates are also available in the Shop.'
+    hn_cc_3_anhrr_dbl_conf_title '2x Conflict Rewards! Ends 8/17'
+    hn_cc_3_anhrr_obj_3x_title 'Triple Crate Objectives! Ends 8/23'
     hn_cc_3_arcOps_HQ2-5_obj_e_body 'This week only, get new objectives twice per day! Earn double the Arctic Ops Crates, with more chances to earn Data Fragments for the resource-plundering MTV-7! Ends 3/30!\n\nPremium Arctic Ops Crates also available in the Store.'
     hn_cc_3_arcOps_HQ2-5_obj_e_title '2x Arctic Objective Rush! Ends 3/30!'
     hn_cc_3_arcOps_HQ2-5_obj_r_body 'This week only, get new objectives twice per day! Earn double the Arctic Ops Crates, with more chances to earn Data Fragments for the resource-plundering AT-RT Walker! Ends 3/30!\n\nPremium Arctic Ops Crates also available in the Store.'
@@ -5430,6 +5482,8 @@ category: strings
     hn_dev_4-9-0_01_title 'Patch 4.10.0.1'
     hn_dev_4-9-0_body '[c][FFAA33]New Event UI[-][/c]\n• See quick updates about the current event right from your home base.\n• Tap to see detailed information about event crates, possible rewards, and more!\n\n[c][FFAA33]Limited-Time Event: [i]Star Wars: 40th Anniversary[/i][-][/c]\n• Celebrate the 40th Anniversary of Star Wars, from 4/19 to 5/17!\n• Death Star Crates can be earned until event ends on 5/17. Find them in Heroic Defense (starting 5/2), Objectives, HQ Inventory (once per day), and in the Shop!\n\n[c][FFAA33]Reward Highlights[-][/c]\n• New Empire equipment skin: Lord Vader - Darth Vader will bring troopers of the 501st Legion with him into battle. Found in Death Star Crates.\n\n• New Empire unit: Empire Imperial Astromedic - heals infantry in battle. Found in Conflict Ultra Chrome league.\n\n• New Rebel equipment skin: Artoo & Threepio - R2-D2 changes from vehicle repair to stunning enemy turrets, with C-3PO at his side. Ignores walls. Is not healed by WED Treadwell Repair Droid. Found in Death Star Crates.\n\n• New Rebel unit: WED Treadwell Repair Droid - repairs vehicles in battle. Found in Conflict Ultra Chrome league.\n\n• Only unlockable/upgradeable during the event!\n• See below for full list of event rewards.\n\n[c][FFAA33]Death Star Crates[-][/c]\n• Death Star Crate disappears when the event ends!\n• Standard event crates have a good chance to drop event rewards.\n• Premium Death Star Crates are guaranteed to drop event rewards. Find them in the Shop!\n\n[c][FFAA33][i]Star Wars: 40th Anniversary[/i] Event Rewards[-][/c]\n• Elite Data Fragments for Rebels:\n      Artoo & Threepio (Eqp)\n      Desert Soldier (Eqp)\n      Heavy Desert Soldier (Eqp)\n      Ithorian Infiltrator (Unit)\n      Rebel Vanguard (Unit)\n      Johhar Kessen (Unit)\n      \n• Elite Data Fragments for Empire:\n      Lord Vader (Eqp)\n      Sand Trooper (Eqp)\n      Heavy Sand Trooper (Eqp)\n      Kubaz Invader (Unit)\n      Shock Trooper (Unit)\n      Johhar Kessen (Unit)'
     hn_dev_4-9-0_title 'Version 4.9.0'
+    hn_dev_anh40rr_body "[c][FFAA33]Limited-Time Event: Black Market Death Star Crates[-][/c]\n• Event Data Fragments can be earned until event ends on 8/23!\n• Empire equipment skin: Lord Vader - Darth Vader will bring troopers of the 501st Legion with him into battle.\n• [c][FFAA33]Updated![-][/c] Rebel equipment skin: Artoo & Threepio - R2-D2 changes from vehicle repair to stunning and damaging enemy turrets, with C-3PO's help.\n• Empire unit: Empire Imperial Astromedic - heals infantry in battle.\n• Rebel unit: WED Treadwell Repair Droid - repairs vehicles in battle.\n\n[c][FFAA33]How To Earn[-][/c]\n• Event Conflicts award event Data Fragments in Conflict Bronzium league or better.\n• Find Death Star Crates in Objectives and in the Shop! Daily Death Star Crate can be found in HQ Inventory each day until 8/17.\n• Event Data Fragments have a chance to drop in Death Star Crates. (Crates disappear when event ends.)\n• Event Data Fragments are guaranteed in Premium Death Star Crates in the Shop. (Crates disappear when event ends.)"
+    hn_dev_anh40rr_title 'Black Market Death Star Crates'
     hn_dev_arcBiome_Jetpack_body '[c][FFAA33]New Arctic Equipment[-][/c]\n• New Empire equipment skin: Arctic Jump Trooper - Increases Jump Trooper movement speed and damage on Hoth\n• New Rebel equipment skin: Arctic Jetpack Trooper - Increases Jetpack Trooper movement speed and damage on Hoth'
     hn_dev_arcBiome_Jetpack_title 'New Arctic Equipment'
     hn_dev_auth_remap_body 'We have fixed the issue that reset base progress for some players. Once your original base has been recovered, please sync your game to your preferred platform to ensure that your game progress is saved.\n\nIf your base was reset and has not been recovered, please contact Disney Support via the Help menu.'
@@ -5788,8 +5842,8 @@ category: strings
     lcfly_descEmpireRiderSample '[c][C8E8FF]Luggabeast Munitioneer Samples[-][/c]'
     lcfly_descEmpireSandJumpTrooper 'Desert Jump Trooper'
     lcfly_descEmpireSandJumpTrooperFragments '[c][FFB74A]Desert Jump Trooper[-][/c] Data Fragments'
-    lcfly_descEmpireSnowJumpTrooper '[c][FFB74A]Jump Snowtrooper[-][/c]'
-    lcfly_descEmpireSnowJumpTrooperFragments '[c][FFB74A]Jump Snowtrooper[-][/c] Data Fragments'
+    lcfly_descEmpireSnowJumpTrooper '[c][FFB74A]Arctic Jump Trooper[-][/c]'
+    lcfly_descEmpireSnowJumpTrooperFragments '[c][FFB74A]Arctic Jump Trooper[-][/c] Data Fragments'
     lcfly_descEqpEmpireArcticATMP '[c][FFB74A]Cold Weather AT-MP Mark III[-][/c]'
     lcfly_descEqpEmpireArcticATMPFragments '[c][FFB74A]Cold Weather AT-MP Mark III[-][/c] Data Fragments'
     lcfly_descEqpEmpireArcticINT4 '[c][FFB74A]Modified INT-4 Interceptor[-][/c]'
@@ -10114,6 +10168,8 @@ category: strings
     s_infoDesc_anh40_crate 'Contains Data Fragments for elite equipment and troops'
     s_infoDesc_anh40_eqp_e 'Lord Vader is accompanied by stormtroopers'
     s_infoDesc_anh40_eqp_r 'R2-D2 disables enemy turrets, with C-3PO at his side'
+    s_infoDesc_anh40rr_unit_e 'Heals injuries with bacta-based technology'
+    s_infoDesc_anh40rr_unit_r 'Repairs vehicles in the heat of combat'
     s_infoDesc_arcBiome_Jetpack_eqp_e 'Increases damage and move speed on arctic worlds'
     s_infoDesc_arcBiome_Jetpack_eqp_r 'Increases damage and move speed on arctic worlds'
     s_infoDesc_arcOps_crate 'Contains Data Fragments for arctic equipment and troops'
@@ -10139,6 +10195,8 @@ category: strings
     s_infoTitle_anh40_crate 'Death Star Crate'
     s_infoTitle_anh40_eqp_e 'Equipment for Darth Vader'
     s_infoTitle_anh40_eqp_r 'Equipment for R2-D2'
+    s_infoTitle_anh40rr_unit_e 'Imperial Astromedic'
+    s_infoTitle_anh40rr_unit_r 'WED Treadwell Repair Droid'
     s_infoTitle_arcBiome_Jetpack_eqp_e 'Arctic Jump Trooper Equipment'
     s_infoTitle_arcBiome_Jetpack_eqp_r 'Arctic Jetpack Trooper Equipment'
     s_infoTitle_arcOps_crate 'Arctic Ops Crate'
@@ -10258,7 +10316,7 @@ category: strings
     skn_title_sknEmpireHovertank 'TX-225'
     skn_title_sknEmpirePentagonJumpTrooper 'Forest Jump Trooper'
     skn_title_sknEmpireSandJumpTrooper 'Desert Jump Trooper'
-    skn_title_sknEmpireSnowJumpTrooper 'Jump Snowtrooper'
+    skn_title_sknEmpireSnowJumpTrooper 'Arctic Jump Trooper'
     skn_title_sknHeavySandtrooper 'Heavy Sandtrooper'
     skn_title_sknHeavySnowtrooper 'Heavy Snowtrooper'
     skn_title_sknINT41 'Modified INT-4 Interceptor'
@@ -10275,7 +10333,7 @@ category: strings
     skn_title_sknPentagonHeavyTrooper 'Heavy Shoretrooper'
     skn_title_sknPentagonSoldier 'Rebel Commando'
     skn_title_sknPentagonTrooper 'Shoretrooper'
-    skn_title_sknRebelEchoBaseJetpackTrooper 'Cold-weather Jetpack Trooper'
+    skn_title_sknRebelEchoBaseJetpackTrooper 'Arctic Jetpack Trooper'
     skn_title_sknRebelHovertank 'Stolen TX-225'
     skn_title_sknRebelPentagonJetpackTrooper 'Forest Jetpack Trooper'
     skn_title_sknRebelSandJetpackTrooper 'Desert Jetpack Trooper'
@@ -10625,6 +10683,9 @@ category: strings
     tournament_title_conflict_dan_20170714 'Conflict on Dandoran'
     tournament_title_conflict_dan_20170721 'Conflict on Dandoran'
     tournament_title_conflict_dan_20170728 'Conflict on Dandoran'
+    tournament_title_conflict_dan_20170803 'Conflict on Dandoran'
+    tournament_title_conflict_dan_20170809 'Conflict on Dandoran'
+    tournament_title_conflict_dan_20170815 'Conflict on Dandoran'
     tournament_title_conflict_dan_20170831 'Conflict on Dandoran'
     tournament_title_conflict_dan_21 'Conflict at Varsa Meadows'
     tournament_title_conflict_dan_22 'Conflict at Mynock Grottos'
@@ -10707,6 +10768,9 @@ category: strings
     tournament_title_conflict_erk_20170713 "Conflict on Er'Kit"
     tournament_title_conflict_erk_20170720 "Conflict on Er'Kit"
     tournament_title_conflict_erk_20170727 "Conflict on Er'Kit"
+    tournament_title_conflict_erk_20170805 "Conflict on Er'Kit"
+    tournament_title_conflict_erk_20170811 "Conflict on Er'Kit"
+    tournament_title_conflict_erk_20170817 "Conflict on Er'Kit"
     tournament_title_conflict_erk_20170831 "Conflict on Er'Kit"
     tournament_title_conflict_erk_21 "Johhar Kessen spotted on Er'Kit"
     tournament_title_conflict_erk_22 'Conflict at Luun Heights'
@@ -10773,6 +10837,9 @@ category: strings
     tournament_title_conflict_hth_20170715 'Conflict on Hoth'
     tournament_title_conflict_hth_20170722 'Conflict on Hoth'
     tournament_title_conflict_hth_20170729 'Conflict on Hoth'
+    tournament_title_conflict_hth_20170806 'Conflict on Hoth'
+    tournament_title_conflict_hth_20170812 'Conflict on Hoth'
+    tournament_title_conflict_hth_20170818 'Conflict on Hoth'
     tournament_title_conflict_hth_20170831 'Conflict on Hoth'
     tournament_title_conflict_hth_21 'Looter Vehicles at Icefall Plains'
     tournament_title_conflict_hth_22 "Conflict at Shyloah's Crest"
@@ -10804,6 +10871,9 @@ category: strings
     tournament_title_conflict_tak_20170714 'Conflict on Takodana'
     tournament_title_conflict_tak_20170721 'Conflict on Takodana'
     tournament_title_conflict_tak_20170728 'Conflict on Takodana'
+    tournament_title_conflict_tak_20170803 'Conflict on Takodana'
+    tournament_title_conflict_tak_20170809 'Conflict on Takodana'
+    tournament_title_conflict_tak_20170815 'Conflict on Takodana'
     tournament_title_conflict_tak_20170831 'Conflict on Takodana'
     tournament_title_conflict_tat_00 '[3fdb4f]Crystals[-] Conflict on Tatooine'
     tournament_title_conflict_tat_01 'Conflict at Boonta Eve'
@@ -10830,6 +10900,9 @@ category: strings
     tournament_title_conflict_tat_20170713 'Conflict on Tatooine'
     tournament_title_conflict_tat_20170720 'Conflict on Tatooine'
     tournament_title_conflict_tat_20170727 'Conflict on Tatooine'
+    tournament_title_conflict_tat_20170803 'Conflict on Tatooine'
+    tournament_title_conflict_tat_20170810 'Conflict on Tatooine'
+    tournament_title_conflict_tat_20170817 'Conflict on Tatooine'
     tournament_title_conflict_tat_20170831 'Conflict on Tatooine'
     tournament_title_conflict_tat_21 'Conflict at Jundland Chasm'
     tournament_title_conflict_tat_22 'Conflict at Boonta Eve'
@@ -10946,6 +11019,9 @@ category: strings
     tournament_title_conflict_yav_20170715 'Conflict on Yavin 4'
     tournament_title_conflict_yav_20170722 'Conflict on Yavin 4'
     tournament_title_conflict_yav_20170729 'Conflict on Yavin 4'
+    tournament_title_conflict_yav_20170807 'Conflict on Yavin 4'
+    tournament_title_conflict_yav_20170812 'Conflict on Yavin 4'
+    tournament_title_conflict_yav_20170818 'Conflict on Yavin 4'
     tournament_title_conflict_yav_20170831 'Conflict on Yavin 4'
     tournament_title_conflict_yav_21 'Conflict at Skygazer Hill'
     tournament_title_conflict_yav_22 'Conflict at Massassi Valley'
