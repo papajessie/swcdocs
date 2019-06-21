@@ -23,7 +23,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level |10    |9     |8     |7     |6     |5     |4     |3     |2    |1    |
 |------|------|------|------|------|------|------|------|------|-----|-----|
-|Health|152260|151400|141500|132300|123750|115790|108390|101500|95080|89100|
+|Health|190325|181680|169800|145530|136125|115790|108390|101500|95080|89100|
 
 
 ### Training stats
@@ -77,7 +77,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level          |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |---------------|----|----|----|----|----|----|----|----|----|----|
-|Damage per shot|4980|4810|4650|4500|4350|4210|4070|3940|3810|3690|
+|Damage per shot|6225|5772|5580|4950|4785|4210|4070|3940|3810|3690|
 
 
 ### Projectile
@@ -85,10 +85,10 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Displayed damage per second: 2928
   * Splash damage percentages: 100,50
 
-|Level                       |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|----------------------------|----|----|----|----|----|----|----|----|----|----|
-|Calculated damage per second|2165|2091|2021|1956|1891|1830|1769|1713|1656|1604|
-|Calculated damage per cycle |9960|9620|9300|9000|8700|8420|8140|7880|7620|7380|
+|Level                       |10   |9    |8    |7   |6   |5   |4   |3   |2   |1   |
+|----------------------------|-----|-----|-----|----|----|----|----|----|----|----|
+|Calculated damage per second|2706 |2509 |2426 |2152|2080|1830|1769|1713|1656|1604|
+|Calculated damage per cycle |12450|11544|11160|9900|9570|8420|8140|7880|7620|7380|
 
 
   * Cannons per sequence: 2

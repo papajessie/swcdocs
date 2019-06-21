@@ -21,9 +21,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Unit capacity: 20
   * Type: mercenary
 
-|Level |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
-|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Health|99000|85800|79200|72600|66000|59400|52800|46200|39600|33000|
+|Level |10    |9     |8    |7    |6    |5    |4    |3    |2    |1    |
+|------|------|------|-----|-----|-----|-----|-----|-----|-----|-----|
+|Health|123750|102960|95040|79860|72600|59400|52800|46200|39600|33000|
 
 
 ### Training stats
@@ -77,7 +77,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level          |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |---------------|----|----|----|----|----|----|----|----|----|----|
-|Damage per shot|3600|3456|3360|3264|3120|3072|3024|2976|2928|2880|
+|Damage per shot|4500|4147|4032|3590|3432|3072|3024|2976|2928|2880|
 
 
 ### Projectile
@@ -87,8 +87,8 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |Level                       |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|----|----|----|----|----|----|----|----|----|----|
 |Displayed damage per second |3600|3456|3360|3264|3120|3072|3024|2976|2928|2880|
-|Calculated damage per second|1565|1502|1460|1419|1356|1335|1314|1293|1273|1252|
-|Calculated damage per cycle |7200|6912|6720|6528|6240|6144|6048|5952|5856|5760|
+|Calculated damage per second|1956|1803|1753|1560|1492|1335|1314|1293|1273|1252|
+|Calculated damage per cycle |9000|8294|8064|7180|6864|6144|6048|5952|5856|5760|
 
 
   * Cannons per sequence: 2

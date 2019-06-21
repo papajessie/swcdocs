@@ -3,6 +3,9 @@ title: Index of conflicts
 ---
 # Conflicts
 
+  * [Conflict on ErKit (conflict_erk_20170614)](conflict_erk_20170614.html) on Er'Kit
+  * [Conflict on Hoth (conflict_hth_20170614)](conflict_hth_20170614.html) on Hoth
+  * [Conflict on Tatooine (conflict_tat_20170614)](conflict_tat_20170614.html) on Tatooine
   * [Conflict on Yavin 4 (conflict_yav_rogue1v3_wk4)](conflict_yav_rogue1v3_wk4.html) on Yavin 4
   * [Conflict on ErKit (conflict_erk_rogue1v3_wk4)](conflict_erk_rogue1v3_wk4.html) on Er'Kit
   * [Conflict on Dandoran (conflict_dan_rogue1v3_wk4)](conflict_dan_rogue1v3_wk4.html) on Dandoran

@@ -41,8 +41,8 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
   * Building ID: empireWall
 
-  * Asset name: datadisc_neu-mod
-  * Bundle name: datadisc_neu-mod
+  * Asset name: datadisc_neu-mod_tier1
+  * Bundle name: datadisc_neu-mod_tier1
   * Equipment description: eqpBasicFragment_description
   * Equipment name: eqpBasicFragment_name
   * Icon camera position: 4.68,3.17,9.41
