@@ -4,6 +4,7 @@ title: Index of crates
 # Crates
 
   * [Premium Death Star Crate (lc_anh40Store)](lc_anh40Store.html)
+  * [Ultimate Death Star Crate (lc_anh40Store_SPDbogo)](lc_anh40Store_SPDbogo.html)
   * [Premium Arctic Ops Crate (lc_arcOpsStore)](lc_arcOpsStore.html)
   * [Bronzium Data Fragment Crate (lc_bronziumEqpStore)](lc_bronziumEqpStore.html)
   * [Carbonite Data Fragment Crate (lc_carboniteEqpStore)](lc_carboniteEqpStore.html)
@@ -92,6 +93,7 @@ title: Index of crates
   * [Carbonite Objectives Crate (lc_obje_tier1)](lc_obje_tier1.html)
   * [Durasteel Objectives Crate (lc_obje_tier2)](lc_obje_tier2.html)
   * [Bronzium Objectives Crate (lc_obje_tier3)](lc_obje_tier3.html)
+  * [Compensation Crate (lc_playerCredit)](lc_playerCredit.html)
   * [Death Star Crate (lc_raid_anh40_tier3)](lc_raid_anh40_tier3.html)
   * [Arctic Ops Crate (lc_raid_arcOps_tier3)](lc_raid_arcOps_tier3.html)
   * [Desert Ops Crate (lc_raid_desBiome_tier3)](lc_raid_desBiome_tier3.html)
