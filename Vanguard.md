@@ -62,7 +62,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Min attack range: 0
   * New rotation speed: 7854
   * Target preference strength: 100
-  * Target preferences: **Trap (90)**, Droideka (50), Flying infantry (50), Flying vehicle (50), Headquarters (50), Heavy infantry (50), Heavy vehicle (50), Infantry (50), Light vehicle (50), Other building (50), Ressource generator (50), Shield (50), Shield generator (50), Storage (50), Support troop (50), Turret (50), Heavy infantry hero (1), Heavy vehicule hero (1), Infantry hero (1), Vehicule hero (1), Wall (1)
+  * Target preferences: **Trap (90)**, _Heavy vehicle (70)_, _Light vehicle (60)_, Flying infantry (50), Flying vehicle (50), Support troop (50), Droideka (40), Headquarters (40), Heavy infantry (40), Infantry (40), Other building (40), Ressource generator (40), Shield (40), Shield generator (40), Storage (40), Turret (40), Heavy infantry hero (1), Heavy vehicule hero (1), Infantry hero (1), Vehicule hero (1), Wall (1)
   * View range: 21
 
 ### Shooting
@@ -101,7 +101,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Directional: Yes
   * Is deflectable: No
   * Max speed: 18
-  * Damage multipliers: **(700)**: Wall, **(500)**: Trap, **(200)**: Headquarters, **(100)**: Droideka, Flying vehicle, Light vehicle, Vehicule hero, **(75)**: Heavy vehicle, Heavy vehicule hero, Other building, Ressource generator, Shield, Shield generator, Storage, Turret, **(50)**: Flying infantry, Infantry, Infantry hero, Support troop, **(25)**: Heavy infantry, Heavy infantry hero
+  * Damage multipliers: **(700)**: Wall, **(500)**: Trap, **(200)**: Headquarters, **(100)**: Droideka, Flying vehicle, Light vehicle, Vehicule hero, **(90)**: Heavy vehicle, **(75)**: Heavy vehicule hero, Other building, Ressource generator, Shield, Shield generator, Storage, Turret, **(50)**: Flying infantry, Infantry, Infantry hero, Support troop, **(25)**: Heavy infantry, Heavy infantry hero
   * Pass through shield: Yes
   * Salvos: 1
 

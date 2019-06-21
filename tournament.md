@@ -3,6 +3,24 @@ title: Index of conflicts
 ---
 # Conflicts
 
+  * [Conflict on Yavin 4 (conflict_yav_defRef_wk3)](conflict_yav_defRef_wk3.html) on Yavin 4
+  * [Conflict on ErKit (conflict_erk_defRef_wk3)](conflict_erk_defRef_wk3.html) on Er'Kit
+  * [Conflict on Dandoran (conflict_dan_defRef_wk3)](conflict_dan_defRef_wk3.html) on Dandoran
+  * [Conflict on Takodana (conflict_tfa_defRef_wk3)](conflict_tfa_defRef_wk3.html) on Takodana
+  * [Conflict on Hoth (conflict_hth_defRef_wk3)](conflict_hth_defRef_wk3.html) on Hoth
+  * [Conflict on Tatooine (conflict_tat_defRef_wk3)](conflict_tat_defRef_wk3.html) on Tatooine
+  * [Conflict on Yavin 4 (conflict_yav_defRef_wk2)](conflict_yav_defRef_wk2.html) on Yavin 4
+  * [Conflict on ErKit (conflict_erk_defRef_wk2)](conflict_erk_defRef_wk2.html) on Er'Kit
+  * [Conflict on Dandoran (conflict_dan_defRef_wk2)](conflict_dan_defRef_wk2.html) on Dandoran
+  * [Conflict on Takodana (conflict_tfa_defRef_wk2)](conflict_tfa_defRef_wk2.html) on Takodana
+  * [Conflict on Hoth (conflict_hth_defRef_wk2)](conflict_hth_defRef_wk2.html) on Hoth
+  * [Conflict on Tatooine (conflict_tat_defRef_wk2)](conflict_tat_defRef_wk2.html) on Tatooine
+  * [Conflict on Yavin 4 (conflict_yav_defRef_wk1)](conflict_yav_defRef_wk1.html) on Yavin 4
+  * [Conflict on ErKit (conflict_erk_defRef_wk1)](conflict_erk_defRef_wk1.html) on Er'Kit
+  * [Conflict on Dandoran (conflict_dan_defRef_wk1)](conflict_dan_defRef_wk1.html) on Dandoran
+  * [Conflict on Takodana (conflict_tfa_defRef_wk1)](conflict_tfa_defRef_wk1.html) on Takodana
+  * [Conflict on Hoth (conflict_hth_defRef_wk1)](conflict_hth_defRef_wk1.html) on Hoth
+  * [Conflict on Tatooine (conflict_tat_defRef_wk1)](conflict_tat_defRef_wk1.html) on Tatooine
   * [Conflict on ErKit (conflict_erk_20170614)](conflict_erk_20170614.html) on Er'Kit
   * [Conflict on Hoth (conflict_hth_20170614)](conflict_hth_20170614.html) on Hoth
   * [Conflict on Tatooine (conflict_tat_20170614)](conflict_tat_20170614.html) on Tatooine
