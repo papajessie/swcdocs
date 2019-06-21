@@ -100,7 +100,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level|10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
 |-----|---|---|---|---|---|---|---|---|---|---|
-|Order|618|617|616|615|614|613|612|611|610|609|
+|Order|628|627|626|625|624|623|622|621|620|619|
 
 
 ## Main stats

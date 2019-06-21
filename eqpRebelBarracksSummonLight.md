@@ -125,7 +125,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level|10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
 |-----|---|---|---|---|---|---|---|---|---|---|
-|Order|608|607|606|605|604|603|602|601|600|599|
+|Order|618|617|616|615|614|613|612|611|610|609|
 
 
 ## Main stats
