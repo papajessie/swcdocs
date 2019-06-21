@@ -10,3 +10,4 @@ title: Index of episodes
   * [Forest Operations Jump Troopers  Forest Operations Jetpack Troopers (ep_forBiome_Jetpack)](ep_forBiome_Jetpack.html)
   * [Arctic Operations Jump Troopers  Arctic Operations Jetpack Troopers (ep_arcBiome_Jetpack)](ep_arcBiome_Jetpack.html)
   * [Death Star Crates (ep_anh40rr)](ep_anh40rr.html)
+  * [Heavy Firepower (ep_newHeroEvent)](ep_newHeroEvent.html)

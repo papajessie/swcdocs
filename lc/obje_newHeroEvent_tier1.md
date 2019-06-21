@@ -1,9 +1,9 @@
 ---
-title: Weapons Research Crate (lc_raid_rogue1v3_tier3)
+title: Weapons Research Crate (lc_obje_newHeroEvent_tier1)
 category: crate
 ---
 
-# Weapons Research Crate (lc_raid_rogue1v3_tier3)
+# Weapons Research Crate (lc_obje_newHeroEvent_tier1)
 
 Crates are given as rewards for various actions. The content is revealed only when opening them, by drawing once (or more) in various prize pools. Only one prize is won for each pool per draw. The in-game description of expectations is written manually and can be wrong. The probability of obtaining one prize is indicated below; the pools change according to planet, faction and HQ level.
 
@@ -107,37 +107,31 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
   * 50000 Credits
 
-## Pool "lcpool_rogue1v3_shrd" (x1 draw)
-
-### Rebellion
-
-  * (1/18) 3 data fragments of equipment [Gigoran Fighter](eqpRebelShaggyAlien)
-  * (1/18) 3 data fragments of equipment [Rebel Commando](eqpRebelPentagonSoldier)
-  * (1/18) 3 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
-  * (1/18) 3 data fragments of equipment [Stolen TX-225](eqpRebelHovertank)
-  * (1/18) 4 data fragments of equipment [Gigoran Fighter](eqpRebelShaggyAlien)
-  * (1/18) 4 data fragments of equipment [Rebel Commando](eqpRebelPentagonSoldier)
-  * (1/18) 4 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
-  * (1/18) 4 data fragments of equipment [Stolen TX-225](eqpRebelHovertank)
-  * (2/18) 3 data fragments of unlockable troop [Drabatan Saboteur](BigMouthAlien)
-  * (2/18) 4 data fragments of unlockable troop [Drabatan Saboteur](BigMouthAlien)
-  * (2/18) 5 data fragments of unlockable air support [Fang Fighter](FangFighter)
-  * (4/18) 4 data fragments of unlockable air support [Fang Fighter](FangFighter)
+## Pool "lcpool_newHeroEvent_shrd" (x1 draw)
 
 ### Empire
 
-  * (1/18) 3 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
-  * (1/18) 3 data fragments of equipment [Heavy Shoretrooper](eqpEmpirePentagonHeavyTrooper)
-  * (1/18) 3 data fragments of equipment [Shoretrooper](eqpEmpirePentagonTrooper)
-  * (1/18) 3 data fragments of equipment [TX-225](eqpEmpireHovertank)
-  * (1/18) 4 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
-  * (1/18) 4 data fragments of equipment [Heavy Shoretrooper](eqpEmpirePentagonHeavyTrooper)
-  * (1/18) 4 data fragments of equipment [Shoretrooper](eqpEmpirePentagonTrooper)
-  * (1/18) 4 data fragments of equipment [TX-225](eqpEmpireHovertank)
-  * (2/18) 3 data fragments of unlockable troop [Security Droid](SecurityDroid)
-  * (2/18) 4 data fragments of unlockable troop [Security Droid](SecurityDroid)
-  * (2/18) 5 data fragments of unlockable air support [TIE Striker](AtmosMig)
-  * (4/18) 4 data fragments of unlockable air support [TIE Striker](AtmosMig)
+  * (1/16) 1 data fragments of unlockable troop [Death Trooper](HeroDeathTrooper)
+  * (1/16) 1 data fragments of unlockable troop [Tognath Marksman](EmpireTognath)
+  * (2/16) 1 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
+  * (2/16) 2 data fragments of equipment [TX-225](eqpEmpireHovertank)
+  * (2/16) 2 data fragments of unlockable air support [TIE Striker](AtmosMig)
+  * (2/16) 2 data fragments of unlockable troop [Death Trooper](HeroDeathTrooper)
+  * (2/16) 2 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
+  * (2/16) 2 data fragments of unlockable troop [Security Droid](SecurityDroid)
+  * (2/16) 2 data fragments of unlockable troop [Tognath Marksman](EmpireTognath)
+
+### Rebellion
+
+  * (1/16) 1 data fragments of unlockable troop [Elite AT-TE Walker](HeroATTE)
+  * (1/16) 1 data fragments of unlockable troop [Tognath Marksman](RebelTognath)
+  * (2/16) 1 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
+  * (2/16) 2 data fragments of equipment [Stolen TX-225](eqpRebelHovertank)
+  * (2/16) 2 data fragments of unlockable air support [Fang Fighter](FangFighter)
+  * (2/16) 2 data fragments of unlockable troop [Drabatan Saboteur](BigMouthAlien)
+  * (2/16) 2 data fragments of unlockable troop [Elite AT-TE Walker](HeroATTE)
+  * (2/16) 2 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
+  * (2/16) 2 data fragments of unlockable troop [Tognath Marksman](RebelTognath)
 
 ### Fallback for HQ level 10
 
