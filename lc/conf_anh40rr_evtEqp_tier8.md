@@ -11,15 +11,13 @@ This crate expires after 7d. The contents are one draw from each of the 4 pools.
 
 ## Pool "lcpool_anh40rr_shrd_conf_evtEqp_tier8" (x1 draw)
 
-### Empire
-
-  * (1/2) 15 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
-  * (1/2) 20 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
-
 ### Rebellion
 
-  * (1/2) 15 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
-  * (1/2) 20 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
+  * (1/1) 20 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
+
+### Empire
+
+  * (1/1) 20 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
 
 ### Fallback for HQ level 10
 
