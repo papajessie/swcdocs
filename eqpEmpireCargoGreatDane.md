@@ -393,7 +393,7 @@ These are all sorts of user interface settings, that should not interfere with g
   * Favorite target type: shieldGenerator
   * Gun position: "atst_emp_rig_MASTER_MOVER/atst_emp_rig_locator_gun":1
   * Hit spark: fx_blaster_hit_r_med
-  * Hologram uid: HeroHologramEmpire2
+  * Hologram uid: EquipmentHologramCargoGreatDane
   * Icon camera position: 60.76,41.44,65.65
   * Icon closeup camera position: 60.76,41.44,65.65
   * Icon closeup lookat position: -2.37,5.58,-1.37

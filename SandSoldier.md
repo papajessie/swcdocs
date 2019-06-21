@@ -1,9 +1,9 @@
 ---
-title: Sand Soldier (SandSoldier)
+title: Desert Soldier (SandSoldier)
 category: unit
 ---
 
-# Sand Soldier (SandSoldier)
+# Desert Soldier (SandSoldier)
 
 You can read an [explanation  of the various unit stats](unitexplained.md).
 

@@ -17,4 +17,4 @@ category: tournament
   * Bronzium II League: A "[Bronzium Conflict Crate (lc_conf_losalamosStarfighterSample_tier5)](lc_conf_losalamosStarfighterSample_tier5.html)"
   * Bronzium I League: 2 "[Bronzium Conflict Crates (lc_conf_losalamosStarfighterSample_tier6)](lc_conf_losalamosStarfighterSample_tier6.html)"
   * Obsidian League: A "[Obsidian Conflict Crate (lc_conf_losalamosStarfighterSample_tier7)](lc_conf_losalamosStarfighterSample_tier7.html)"
-  * Ultra Chrome League: A "["crate_title_lc_conf_anh40_tier8_wk4eqp" (lc_conf_anh40_tier8_wk4eqp)](lc_conf_anh40_tier8_wk4eqp.html)"
+  * Ultra Chrome League: A "[Ultra Chrome Conflict Crate (lc_conf_anh40_tier8_wk4eqp)](lc_conf_anh40_tier8_wk4eqp.html)"

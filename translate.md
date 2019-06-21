@@ -400,12 +400,12 @@ category: strings
     EQUIPMENT_TAB_UNITS 'Units'
     EQUIPMENT_UPGRADE_LOCKED 'Collect {0} data fragments to upgrade'
     ERROR 'Error'
-    EVENT_DETAILS_HEADER_ANH40 'A New Hope Objectives'
-    EVENT_DETAILS_HEADER_ANH40_DBL 'A New Hope Objective Rush - 2x Until 4/26!'
+    EVENT_DETAILS_HEADER_ANH40 '40th Anniversary Objectives'
+    EVENT_DETAILS_HEADER_ANH40_DBL '40th Anniversary Objective Rush - 2x Until 5/3!'
     EVENT_DETAILS_HEADER_ARCTIC_OPS 'Arctic Ops Objectives'
     EVENT_DETAILS_HEADER_ARCTIC_OPS_DBL 'Arctic Ops Objective Rush - 2x Until 3/30!'
     EVENT_DETAILS_HEADER_DESERT_OPS 'Desert Ops Objectives'
-    EVENT_DETAILS_HEADER_EXPIRED_ANH40 'A New Hope Objectives - Expired'
+    EVENT_DETAILS_HEADER_EXPIRED_ANH40 '40th Anniversary Objectives - Expired'
     EVENT_DETAILS_HEADER_EXPIRED_ARCTIC_OPS 'Arctic Ops Objectives - Expired'
     EVENT_DETAILS_HEADER_EXPIRED_DESERT_OPS 'Desert Ops Objectives - Expired'
     EVENT_DETAILS_HEADER_EXPIRED_FOREST_OPS 'Forest Ops Objectives - Expired'
@@ -415,8 +415,8 @@ category: strings
     EVENT_DETAILS_HEADER_FOREST_OPS_DBL 'Forest Ops Objective Rush - 2x Until 3/2!'
     EVENT_DETAILS_HEADER_MAZ "Maz's Objectives"
     EVENT_DETAILS_HEADER_ROGUE_ONE 'Event Objectives'
-    EVENT_OBJECTIVES_ANH40 'A New Hope Objectives'
-    EVENT_OBJECTIVES_ANH40_DBL 'A New Hope Objective Rush'
+    EVENT_OBJECTIVES_ANH40 '40th Anniversary Objectives'
+    EVENT_OBJECTIVES_ANH40_DBL '40th Anniversary Objective Rush'
     EVENT_OBJECTIVES_ARCTIC_OPS 'Arctic Ops Objectives'
     EVENT_OBJECTIVES_ARCTIC_OPS_DBL 'Arctic Ops Objective Rush'
     EVENT_OBJECTIVES_DESERT_OPS 'Desert Ops Objectives'
@@ -1416,7 +1416,7 @@ category: strings
     bat_name_GenericBattle '.'
     bat_name_HawkCompanyBase 'Hawk Company Base'
     bat_name_HawkCompanyOutpost 'Hawk Company Outpost'
-    bat_name_HomeEmpire 'Empire Garisson'
+    bat_name_HomeEmpire 'Empire Garrison'
     bat_name_HomeRebel 'Rebel Base'
     bat_name_ImperialResearchFacility 'Imperial Research Facility'
     bat_name_JabbasMenagerie "Jabba's Menagerie"
@@ -1841,6 +1841,7 @@ category: strings
     bld_desc_empireTrapMiniTurret 'When this proximity trap is triggered by enemy troops, a stationary attack droid is spawned in its place.'
     bld_desc_empireTrapStrikeAOE 'This trap triggers when enemy troops get too close. A TIE Bomber is called to strike at the trap location, destroying most vehicles of equal level.'
     bld_desc_empireTrapStrikeGeneric 'This trap triggers when enemy troops get too close. A TIE fighter is called to strike at the trap location, devastating infantry of equal level.'
+    bld_desc_empireTrapStrikeHeavy 'This trap triggers when enemy troops get too close. A TIE Striker is called to bombard the trap location, dealing heavy damage to infantry in a large radius.'
     bld_desc_empireWall 'Walls are a basic and effective form of defense, best suited to protecting valuable targets such as resource storage, HQ, and turrets. Upgrading walls increases their health.'
     bld_desc_empire_ab_BurstTurret 'Burst Turrets are manned by groups of infantry using mounted guns. Their armor-piercing capabilities are effective against bruisers (heavily armored units).'
     bld_desc_empire_ab_Mortar 'Mortars lob explosive bundles in an arc at incoming enemies, dealing moderate damage to a medium area. They are most effective against clustered ground troops.'
@@ -1882,6 +1883,7 @@ category: strings
     bld_desc_rebelTrapMiniTurret 'When this proximity trap is triggered by enemy troops, a stationary attack droid is spawned in its place.'
     bld_desc_rebelTrapStrikeAOE 'This trap triggers when enemy troops get too close. A Y-wing Bomber is called to strike at the trap location, destroying most vehicles of equal level.'
     bld_desc_rebelTrapStrikeGeneric 'This trap triggers when enemy troops get too close. An X-wing fighter is called to strike at the trap location, devastating infantry of equal level.'
+    bld_desc_rebelTrapStrikeHeavy 'This trap triggers when enemy troops get too close. A Fang Fighter is called to bombard the trap location, dealing heavy damage to infantry in a large radius.'
     bld_desc_rebelWall 'Walls are a basic and effective form of defense, best suited to protecting valuable targets such as resource storage, HQ, and turrets. Upgrading walls increases their health.'
     bld_desc_rebel_ab_BurstTurret 'Burst Turrets are manned by groups of infantry using mounted guns. Their armor-piercing capabilities are effective against bruisers (heavily armored units).'
     bld_desc_rebel_ab_Mortar 'Mortars lob explosive bundles in an arc at incoming enemies, dealing moderate damage to a medium area. They are most effective against clustered ground troops.'
@@ -1956,6 +1958,7 @@ category: strings
     bld_title_empireTrapMiniTurret 'Mini-Turret Trap'
     bld_title_empireTrapStrikeAOE 'TIE Bomber Trap'
     bld_title_empireTrapStrikeGeneric 'TIE Fighter Trap'
+    bld_title_empireTrapStrikeHeavy 'TIE Striker Trap'
     bld_title_empireTrapTIEBomber 'TIE Bomber Trap'
     bld_title_empireTrapTIEFighter 'TIE Fighter Trap'
     bld_title_empireWall 'Wall'
@@ -2027,6 +2030,7 @@ category: strings
     bld_title_rebelTrapMiniTurret 'Mini-Turret Trap'
     bld_title_rebelTrapStrikeAOE 'Y-wing Trap'
     bld_title_rebelTrapStrikeGeneric 'X-wing Trap'
+    bld_title_rebelTrapStrikeHeavy 'Fang Fighter Trap'
     bld_title_rebelTrapXWing 'X-wing Trap'
     bld_title_rebelTrapYWing 'Y-wing Trap'
     bld_title_rebelWall 'Wall'
@@ -2139,7 +2143,7 @@ category: strings
     campaign_points_expire_notice_title 'Event Points Expire'
     celebrationCrystalBonus_title 'May the Fourth be with you!'
     ch11_tbft_e_koshspawn 'Captain Kosh has taken to the field in an Elite AT-AT!'
-    ch11_tbft_e_minibossspawn 'The garisson commander has entered the battle!'
+    ch11_tbft_e_minibossspawn 'The garrison commander has entered the battle!'
     ch11_tbft_r_jennicaspawn 'Jennica Pierce has taken to the field in an upgraded AT-TE!'
     ch11_tbft_r_minibossspawn 'The base leader has entered the battle!'
     cmp_desc_chapter_11_tbft_e 'The time has come to deal a decisive blow and defeat the Rebels on Tatooine once and for all.'
@@ -2171,12 +2175,12 @@ category: strings
     cmp_desc_cmp_6_bh_e 'With the local Mercenaries under heel, Kosh has a special assignment of a deeply personal matter for you to attend to on Tatooine...'
     cmp_desc_cmp_7_bs_e 'Kosh sends you an urgent message to bring your forces to a Tusken camp in the desert...'
     cmp_desc_cmp_7_rsf_r "The time has come to hit the Imperial garrison on Tatooine with a decisive and swift strike so severe they won't know what happened."
-    cmp_desc_cmp_7_tat_e "With Kosh's secret shipment missing, someone needs to take the blame. If you can't get it back, that somone is you."
+    cmp_desc_cmp_7_tat_e "With Kosh's secret shipment missing, someone needs to take the blame. If you can't get it back, that someone is you."
     cmp_desc_cmp_7_wos_r 'Jennica sends you an urgent message to bring your forces and meet her in the desert...'
     cmp_desc_cmp_8_dotd_e 'With the situation with Liana resolved for now your attention is drawn back to Tatooine and a more local concern...'
     cmp_desc_cmp_8_dotd_r 'With the Imperial presence on Tatooine destroyed the time has come to turn attentions to more local concerns...'
     cmp_desc_cmp_8_rsf_r "It's time to strike at the Empire on Tatooine in a major way."
-    cmp_desc_cmp_8_tat_e "With Kosh's secret shipment missing, someone needs to take the blame. If you can't get it back, that somone is you."
+    cmp_desc_cmp_8_tat_e "With Kosh's secret shipment missing, someone needs to take the blame. If you can't get it back, that someone is you."
     cmp_desc_cmp_9_sas_e "The key to uncovering the Rebel's secret main base may lie with finding a missing senator and underworld figure. Luckily, General Veers has a plan..."
     cmp_desc_cmp_9_sas_r 'Han Solo has a daring plan to free an influential senator and underworld figure from the clutches of an Imperial detention facility. But he needs your help...'
     cmp_desc_cmp_fue 'Establish your base on Tatooine and then choose a faction!'
@@ -2343,6 +2347,8 @@ category: strings
     crate_title_lc_carbonite_raid 'Carbonite Crate'
     crate_title_lc_conf_anh40_tier8_eqp 'Ultra Chrome Conflict Crate'
     crate_title_lc_conf_anh40_tier8_evtUnit 'Ultra Chrome Conflict Crate'
+    crate_title_lc_conf_anh40_tier8_wk3eqp 'Ultra Chrome Conflict Crate'
+    crate_title_lc_conf_anh40_tier8_wk4eqp 'Ultra Chrome Conflict Crate'
     crate_title_lc_conf_arcOps_tier8_beastEqp 'Ultra Chrome Conflict Crate'
     crate_title_lc_conf_arcOps_tier8_evtUnit 'Ultra Chrome Conflict Crate'
     crate_title_lc_conf_arcOps_tier8_heroEqp 'Ultra Chrome Conflict Crate'
@@ -2397,6 +2403,18 @@ category: strings
     crate_title_lc_conf_rider_tier6 'Bronzium Conflict Crate'
     crate_title_lc_conf_rider_tier7 'Obsidian Conflict Crate'
     crate_title_lc_conf_rider_tier8 'Ultra Chrome Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier5_hovertank 'Bronzium Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier5_merc 'Bronzium Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier5_starfighter 'Bronzium Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier6_hovertank 'Bronzium Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier6_merc 'Bronzium Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier6_starfighter 'Bronzium Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier7_hovertank 'Obsidian Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier7_merc 'Obsidian Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier7_starfighter 'Obsidian Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier8_hovertank 'Ultra Chrome Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier8_merc 'Ultra Chrome Conflict Crate'
+    crate_title_lc_conf_rogue1v3_tier8_starfighter 'Ultra Chrome Conflict Crate'
     crate_title_lc_conf_tier1 'Carbonite Conflict Crate'
     crate_title_lc_conf_tier2 'Carbonite Conflict Crate'
     crate_title_lc_conf_tier3 'Durasteel Conflict Crate'
@@ -2509,7 +2527,7 @@ category: strings
     desc_prize_tieadv_06_e 'Unlock a single use of the TIE Advanced Strike! This starship strike deals high damage to shields.'
     desc_prize_tieadv_unlock 'Unlock the TIE Advanced Strike! This starship strike deals high damage to shields. By purchasing this unlock, you will be able to commission your own TIE Advanced Strikes in your Starship Command. Available during Campaign II.'
     dia_anh40_00_e 'Commander, I have instructions to deliver a message. For your eyes only.'
-    dia_anh40_00_r 'Commander, this is Princess Leia Organa of the Rebel Alliance. I have a mission for you of utmost importance.'
+    dia_anh40_00_r 'Commander, this is Leia Organa of the Rebel Alliance. I have a mission for you of utmost importance.'
     dia_anh40_01_e 'The destruction of the Death Star has emboldened the Rebels, and your services are needed now more than ever.'
     dia_anh40_01_r 'The destruction of the Death Star gave us renewed hope for freedom in the galaxy, yet it still poses a grave threat.'
     dia_anh40_02_e "Data fragments from the station's computer were flung through space by the explosion, including valuable unit schematics."
@@ -2774,7 +2792,7 @@ category: strings
     dia_evt_4_eotf_r_13_outro2 "This base didn't have any useful intel, but if there's one base, there's bound to be more."
     dia_evt_4_eotf_r_14_intro1 "Attack another [F2D62F]Imperial Operative[-] and see if you can find any intelligence on the Empire's Er'Kit operation."
     dia_evt_4_eotf_r_14_outro1 "If this is right... the Empire has an extensive presence on Er'Kit that they've managed to keep hidden really well."
-    dia_evt_4_eotf_r_14_outro2 "I knew the Empire had to be involved in this some way.I'll start checking around on Er'Kit for Imperial presence."
+    dia_evt_4_eotf_r_14_outro2 "I knew the Empire had to be involved in this some way. I'll start checking around on Er'Kit for Imperial presence."
     dia_evt_4_eotf_r_16_outro1 "I'm getting a distress call from your partner, Agent. you should head back to your base!"
     dia_evt_4_eotf_r_17_intro1 'Incoming!'
     dia_evt_4_eotf_r_17_outro1 "That's not the last of them."
@@ -3329,6 +3347,13 @@ category: strings
     dia_raid_r_outro1 "Ha! Is that all they've got? You knocked them down a peg or two, partner! That's what you get, Imperial dogs!"
     dia_raid_vehicles_e_intro1 'Rebel scum think they can slip by our sensors with these rattling piles of scrap they call vehicles? They will regret attempting a raid on THIS garrison, Operative.'
     dia_raid_vehicles_r_intro1 "The Imperials have never been great at covert tactics, Agent. Your confidence tells me you're prepared to take on this raid of enemy vehicles."
+    dia_rogue1v3_00 "Hey, partner. Kada Jahr contacted me with a good offer. We should take her on up on it, before it's gone."
+    dia_rogue1v3_02 'The Data Fragments are found in [c][F2D62F]Weapons Research Crates[-][/c]. This can get you access to elite mercenaries, starfighters, and equipment. Some of this gear is even more powerful than before!'
+    dia_rogue1v3_03 "Earn these crates by completing my special [c][F2D62F]objectives[-][/c]. I don't mind trading them for crystals, either."
+    dia_rogue1v3_e_01 'Hello, Operative. I have another line on Data Fragments taken from the Empire’s old Advanced Weapons Research division, the one that used to be directed by Orson Krennic.'
+    dia_rogue1v3_e_04 "I'll have these crates for a [c][F2D62F]limited time[-][/c]. Believe me, Operative, you don't want to miss these Data Fragments."
+    dia_rogue1v3_r_01 'Hello, Agent. I have another line on Data Fragments taken from the Empire’s old Advanced Weapons Research division, the one that used to be directed by Orson Krennic.'
+    dia_rogue1v3_r_04 "I'll have these crates for a [c][F2D62F]limited time[-][/c]. Believe me, Agent, you don't want to miss these Data Fragments."
     dia_sce_1_gwar_e_0_intro1 "Partner, I'm hearin' chatter in the Cantina that someone's taken exception to our operations here."
     dia_sce_1_gwar_e_0_intro2 "From what I've heard, some pretty hefty mercs are on their way. We best be on alert."
     dia_sce_1_gwar_e_1_intro1 'Looks like what I overheard at the Cantina was true. Scouts are reporting mercs inbound!'
@@ -3422,7 +3447,7 @@ category: strings
     dia_tut_con1_e_03 "I think I see where this is goin', and it smells like [F2D62F]Contraband[-] smugglin'. Maybe we should get Kosh involved. I'll loop him in."
     dia_tut_con1_e_04 'Operative Saponza has filled me in on the goings on.'
     dia_tut_con1_e_05 'As you well know, the Rebel Alliance has become more than just a nuisance, and my superiors have tasked me with finding "alternative" solutions.'
-    dia_tut_con1_e_06 "While the idea of smuggling Contraband goes against my better judgement, I'm willing to listen in this case."
+    dia_tut_con1_e_06 "While the idea of smuggling Contraband goes against my better judgment, I'm willing to listen in this case."
     dia_tut_con1_e_07 'Jabba is impressed with the security of this garrison. It offers the protection needed to keep [F2D62F]Contraband[-] safe from the Rebel scum.'
     dia_tut_con1_e_08 "Get to the point, criminal. What's in it for the Empire?"
     dia_tut_con1_e_09 'Very well, Captain Kosh... In exchange, your garrison will have access to this [F2D62F]Contraband[-], and may exchange it for additional... firepower.'
@@ -3434,19 +3459,19 @@ category: strings
     dia_tut_con1_r_03 "I think I see where this is goin', and it smells like [F2D62F]Contraband[-] smugglin'. Maybe we should get Jennica involved. I'll loop her in."
     dia_tut_con1_r_04 'Agent Saponza has filled me in on the goings on, Agent.'
     dia_tut_con1_r_05 'As you well know, the Empire has become quite a problem for us, and my superiors have tasked me with finding "alternative" solutions.'
-    dia_tut_con1_r_06 "While the idea of smuggling Contraband goes against my better judgement, I'm willing to listen in this case."
+    dia_tut_con1_r_06 "While the idea of smuggling Contraband goes against my better judgment, I'm willing to listen in this case."
     dia_tut_con1_r_07 'Jabba is impressed with the security of this base. It offers the protection needed to keep [F2D62F]Contraband[-] hidden from the clutches of the Empire.'
     dia_tut_con1_r_08 "Interesting. If we choose to protect Jabba's precious cargo, what's in it for us?"
     dia_tut_con1_r_09 'In exchange, you will have access to this [F2D62F]Contraband[-], and may exchange it for additional... firepower.'
     dia_tut_con1_r_10 'Until you have built a [F2D62F]Trade Port[-] to accept shipments, you may store any Contraband you come across on your adventures, Commander.'
     dia_tut_con1_r_11 'In order to ensure the protection of Contraband, I suggest you spend what you secure to purchase a [F2D62F]Droideka Sentinel[-].'
     dia_tut_con1_r_12 'Agreed. You may proceed, Agent.'
-    dia_tut_con2_e_01 "I see you've decided to ensure the safety of our Contraband shipments. Have you met your new security liason, [F2D62F]Kada Jahr[-]?"
+    dia_tut_con2_e_01 "I see you've decided to ensure the safety of our Contraband shipments. Have you met your new security liaison, [F2D62F]Kada Jahr[-]?"
     dia_tut_con2_e_02 "Hello Commander. I'd fill you in on my background, but I don't think you really want to know, do you?"
     dia_tut_con2_e_03 'This is dangerous ground you’re treading. Sure you can handle it?'
     dia_tut_con2_e_04 'This [F2D62F]Droideka Sentinel[-] is a Clone Wars era battle droid, refurbished and modified for guardianship, but also very useful for attacks.'
     dia_tut_con2_e_05 'For the best protection, I suggest you upgrade your Droideka Sentinel as soon as possible. Use [F2D62F]Contraband[-] to do this.'
-    dia_tut_con2_r_01 "I see you've decided to ensure the safety of our Contraband shipments. Have you met your new security liason, [F2D62F]Kada Jahr[-]?"
+    dia_tut_con2_r_01 "I see you've decided to ensure the safety of our Contraband shipments. Have you met your new security liaison, [F2D62F]Kada Jahr[-]?"
     dia_tut_con2_r_02 "Hello Commander. I'd fill you in on my background, but I don't think you really want to know, do you?"
     dia_tut_con2_r_03 'This is dangerous ground you’re treading. Sure you can handle it?'
     dia_tut_con2_r_04 'This [F2D62F]Droideka Sentinel[-] is a Clone Wars era battle droid, refurbished and modified for guardianship, but also very useful for attacks.'
@@ -3624,9 +3649,9 @@ category: strings
     entityType_vehicle 'Vehicles'
     entityType_wall 'Walls'
     epPanel_anh40_e_body 'Collect Death Star Crates and earn Data Fragments for the new [c][FFB74A]Lord Vader[-][/c] equipment. With this equipment, Darth Vader will bring troopers of the 501st Legion with him into battle!\n\nDeath Star Crates are found in Objectives, Shop, and Infonet (once daily.) Also in Heroic Defense starting 5/2.'
-    epPanel_anh40_header 'Celebrate the 40th Anniversary of Star Wars: A New Hope'
+    epPanel_anh40_header 'Celebrate the 40th Anniversary of Star Wars'
     epPanel_anh40_r_body "Collect Death Star Crates and earn Data Fragments for the new [c][FFB74A]Artoo & Threepio[-][/c] equipment. With this equipment, R2-D2 changes from vehicle repair to stunning enemy turrets, with C-3PO's help!\n\nDeath Star Crates are found in Objectives, Shop, and Infonet (once daily.) Also in Heroic Defense starting 5/2."
-    epPanel_anh40_title 'Star Wars: A New Hope 40th Anniversary Event'
+    epPanel_anh40_title 'Star Wars: 40th Anniversary Event'
     epWidg_anh40_wk1_title '40th Anniversary Event!'
     epWidg_anh40_wk2_title '2x Objectives until 5/1!'
     epWidg_anh40_wk3_title 'Death Star Crates in Heroic Defense!'
@@ -4248,25 +4273,25 @@ category: strings
     hn_cc_1_amazon_rc21_bonus_title 'Special Amazon Offer!'
     hn_cc_1_android_rc21_bonus_body 'Celebrate the end of the year with Google Play! Purchase select crates from the Store before 1/6 and get 2x value!'
     hn_cc_1_android_rc21_bonus_title 'Special Google Play Offer!'
-    hn_cc_1_anh40_HQ2-5_announce_e_body '[c][FFB74A]Star Wars: A New Hope 40th Anniversary[-][/c] event run from 4/19 to 5/19!\nCollect Death Star Crates and earn Data Fragments for the trap-hunting Shock Trooper and sniper hero Johhar Kessen.'
-    hn_cc_1_anh40_HQ2-5_announce_e_title 'Celebrate the 40th Anniversary of Star Wars: A New Hope'
-    hn_cc_1_anh40_HQ2-5_announce_r_body '[c][FFB74A]Star Wars: A New Hope 40th Anniversary[-][/c] event run from 4/19 to 5/19!\nCollect Death Star Crates and earn Data Fragments for the trap-hunting Vanguard and sniper hero Johhar Kessen.'
-    hn_cc_1_anh40_HQ2-5_announce_r_title 'Celebrate the 40th Anniversary of Star Wars: A New Hope'
+    hn_cc_1_anh40_HQ2-5_announce_e_body '[c][FFB74A]Star Wars: 40th Anniversary[-][/c] event run from 4/19 to 5/19!\nCollect Death Star Crates and earn Data Fragments for the trap-hunting Shock Trooper and sniper hero Johhar Kessen.'
+    hn_cc_1_anh40_HQ2-5_announce_e_title 'Celebrate the 40th Anniversary of Star Wars'
+    hn_cc_1_anh40_HQ2-5_announce_r_body '[c][FFB74A]Star Wars: 40th Anniversary[-][/c] event run from 4/19 to 5/19!\nCollect Death Star Crates and earn Data Fragments for the trap-hunting Vanguard and sniper hero Johhar Kessen.'
+    hn_cc_1_anh40_HQ2-5_announce_r_title 'Celebrate the 40th Anniversary of Star Wars'
     hn_cc_1_anh40_HQ2-5_final_e_body "Don't miss your chance to unlock and upgrade the shield-blasting [c][FFB74A]Kubaz Invader[-][/c] unit! These Data Fragments can't be found after 5/19. Get Death Star Crates now from Objectives, Heroic Defense, and the Shop!"
-    hn_cc_1_anh40_HQ2-5_final_e_title 'Star Wars: A New Hope 40th Anniversary event ends 5/19'
+    hn_cc_1_anh40_HQ2-5_final_e_title 'Star Wars: 40th Anniversary event ends 5/19'
     hn_cc_1_anh40_HQ2-5_final_r_body "Don't miss your chance to unlock and upgrade the shield-blasting [c][FFB74A]Ithorian Infiltrator[-][/c] unit! These Data Fragments can't be found after 5/19. Get Death Star Crates now from Objectives, Heroic Defense, and the Shop!"
-    hn_cc_1_anh40_HQ2-5_final_r_title 'Star Wars: A New Hope 40th Anniversary event ends 5/19'
-    hn_cc_1_anh40_HQ6-10_announce_e_body '[c][FFB74A]Star Wars: A New Hope 40th Anniversary[-][/c] event runs from 4/19 to 5/19!\nCollect Death Star Crates and earn Data Fragments for the new [c][FFB74A]Lord Vader[-][/c] equipment. With this equipment, Darth Vader will bring troopers of the 501st Legion with him into battle!'
-    hn_cc_1_anh40_HQ6-10_announce_e_title 'Celebrate the 40th Anniversary of Star Wars: A New Hope'
-    hn_cc_1_anh40_HQ6-10_announce_r_body '[c][FFB74A]Star Wars: A New Hope 40th Anniversary[-][/c] event runs from 4/19 to 5/19!\nCollect Death Star Crates and earn Data Fragments for the new [c][FFB74A]Artoo & Threepio[-][/c] equipment. With this equipment, R2-D2 closes in and stuns enemy turrets, with C-3PO by his side!'
-    hn_cc_1_anh40_HQ6-10_announce_r_title 'Celebrate the 40th Anniversary of Star Wars: A New Hope'
+    hn_cc_1_anh40_HQ2-5_final_r_title 'Star Wars: 40th Anniversary event ends 5/19'
+    hn_cc_1_anh40_HQ6-10_announce_e_body '[c][FFB74A]Star Wars: 40th Anniversary[-][/c] event runs from 4/19 to 5/19!\nCollect Death Star Crates and earn Data Fragments for the new [c][FFB74A]Lord Vader[-][/c] equipment. With this equipment, Darth Vader will bring troopers of the 501st Legion with him into battle!'
+    hn_cc_1_anh40_HQ6-10_announce_e_title 'Celebrate the 40th Anniversary of Star Wars'
+    hn_cc_1_anh40_HQ6-10_announce_r_body '[c][FFB74A]Star Wars: 40th Anniversary[-][/c] event runs from 4/19 to 5/19!\nCollect Death Star Crates and earn Data Fragments for the new [c][FFB74A]Artoo & Threepio[-][/c] equipment. With this equipment, R2-D2 closes in and stuns enemy turrets, with C-3PO by his side!'
+    hn_cc_1_anh40_HQ6-10_announce_r_title 'Celebrate the 40th Anniversary of Star Wars'
     hn_cc_1_anh40_HQ6-10_final_e_body "Don't miss your chance to unlock [c][FFB74A]Lord Vader[-][/c] equipment! These Data Fragments can't be found after 5/19. Get Death Star Crates now from Objectives, Heroic Defense, and the Shop!"
-    hn_cc_1_anh40_HQ6-10_final_e_title 'Star Wars: A New Hope 40th Anniversary event ends 5/19'
+    hn_cc_1_anh40_HQ6-10_final_e_title 'Star Wars: 40th Anniversary event ends 5/19'
     hn_cc_1_anh40_HQ6-10_final_r_body "Don't miss your chance to unlock [c][FFB74A]Artoo & Threepio[-][/c] equipment! These Data Fragments can't be found after 5/19. Get Death Star Crates now from Objectives, Heroic Defense, and the Shop!"
-    hn_cc_1_anh40_HQ6-10_final_r_title 'Star Wars: A New Hope 40th Anniversary event ends 5/19'
-    hn_cc_1_anh40_pre_e_body 'Coming soon! Unlock the Imperial Astromedic, which heals infantry units using advanced bacta-based technologies. Compete in Conflicts during the [c][FFB74A]Star Wars: A New Hope 40th Anniversary[-][/c] event!'
+    hn_cc_1_anh40_HQ6-10_final_r_title 'Star Wars: 40th Anniversary event ends 5/19'
+    hn_cc_1_anh40_pre_e_body 'Coming soon! Unlock the Imperial Astromedic, which heals infantry units using advanced bacta-based technologies. Compete in Conflicts during the [c][FFB74A]Star Wars: 40th Anniversary[-][/c] event!'
     hn_cc_1_anh40_pre_e_title 'Coming Soon: New Unit Unlock'
-    hn_cc_1_anh40_pre_r_body 'Coming soon! Unlock the WED Treadwell Repair Droid, which repairs vehicles in the heat of combat. Compete in Conflicts during the [c][FFB74A]Star Wars: A New Hope 40th Anniversary[-][/c] event!'
+    hn_cc_1_anh40_pre_r_body 'Coming soon! Unlock the WED Treadwell Repair Droid, which repairs vehicles in the heat of combat. Compete in Conflicts during the [c][FFB74A]Star Wars: 40th Anniversary[-][/c] event!'
     hn_cc_1_anh40_pre_r_title 'Coming Soon: New Unit Unlock'
     hn_cc_1_anniversary2_body "Claim your Droideka and Krayt Dragon gift units in celebration of Star Wars: Commander's 2nd anniversary!"
     hn_cc_1_anniversary2_title 'Special Anniversary Giveaway!'
@@ -4290,6 +4315,10 @@ category: strings
     hn_cc_1_arcOps_pre_e_title 'Coming Soon: New Unit Unlock'
     hn_cc_1_arcOps_pre_r_body 'Coming up soon! Unlock the turret-blasting Iakaru Warrior by competing in Conflicts during the Arctic Operations Event!'
     hn_cc_1_arcOps_pre_r_title 'Coming Soon: New Unit Unlock'
+    hn_cc_1_bioBo_e_body 'Unit unlocks from the previous Desert, Forest, and Arctic Operations are coming back for one week only. Fight to unlock and upgrade the [c][F2D62F]Kubaz Invader[-][/c], [c][F2D62F]Tognath Marksman[-][/c] mercenary, and [c][F2D62F]IG-86\xa0Assassin Droid[-][/c]!'
+    hn_cc_1_bioBo_e_title 'Unit Unlock Rewards in Conflict Outbreak!'
+    hn_cc_1_bioBo_r_body 'Unit unlocks from the previous Desert, Forest, and Arctic Operations are coming back for one week only. Fight to unlock and upgrade the [c][F2D62F]Ithorian Infiltrator[-][/c], [c][F2D62F]Tognath Marksman[-][/c] mercenary, and [c][F2D62F]Iakaru Warrior[-][/c]!'
+    hn_cc_1_bioBo_r_title 'Unit Unlock Rewards in Conflict Outbreak!'
     hn_cc_1_brute_body 'Dowutin Hunters are tough as durasteel rivets, and carry enough firepower to nearly level any base - giving new meaning to the term heavy infantry.'
     hn_cc_1_brute_title 'New Mercenary: Dowutin Hunter'
     hn_cc_1_cantina_ongoing_body 'The toughest fighters in the galaxy are waiting for orders. Build your Cantina today and hire these powerful mercenaries!'
@@ -4764,6 +4793,8 @@ category: strings
     hn_cc_1_tatooine_spec_conflict_start_body_r 'Imperial troops have been spotted on Tatooine! Vanguard Data Fragments await Commanders at the top of their game!'
     hn_cc_1_tatooine_spec_conflict_start_title_e 'Shock Trooper Upgrades on Tatooine'
     hn_cc_1_tatooine_spec_conflict_start_title_r 'Vanguard Upgrades on Tatooine'
+    hn_cc_1_techissues_0406_body 'Recent matchmaking issues have paired some players with opponents that were too powerful. The issue has been resolved. We apologize and offer these crystals to help get you back to defeating the opposition!'
+    hn_cc_1_techissues_0406_title 'Matchmaking Fix'
     hn_cc_1_tfa1_btn 'Get Tickets'
     hn_cc_1_tfa2_btn 'Get Tickets'
     hn_cc_1_tfa_dvd_promo_android_body 'Star Wars: The Force Awakens is now available. Get it today on Google Play.'
@@ -4931,13 +4962,13 @@ category: strings
     hn_cc_3_anh40_HQ6-10_raid_e_title 'Death Star Crates in Heroic Defense'
     hn_cc_3_anh40_HQ6-10_raid_r_body 'Three-star Heroic Defenses now reward Death Star Crates! Maximize your turret-disabling [c][FFB74A]Artoo & Threepio[-][/c] equipment unlocks.\n\nDeath Star Crates also available in Objectives and Store until 5/19.'
     hn_cc_3_anh40_HQ6-10_raid_r_title 'Death Star Crates in Heroic Defense'
-    hn_cc_3_anh40_conf00_e_body 'Available until event ends on 5/19\nImperial Astromedics heal infantry units in battle, using bacta-based technologies. Claim your free samples now, then fight to unlock it permanently! Only available during the [c][FFB74A]Star Wars: A New Hope 40th Anniversary[-][/c] event!'
+    hn_cc_3_anh40_conf00_e_body 'Available until event ends on 5/19\nImperial Astromedics heal infantry units in battle, using bacta-based technologies. Claim your free samples now, then fight to unlock it permanently! Only available during the [c][FFB74A]Star Wars: 40th Anniversary[-][/c] event!'
     hn_cc_3_anh40_conf00_e_title 'New Unit Unlock in Conflicts'
-    hn_cc_3_anh40_conf00_r_body 'Available until event ends on 5/19\nWED Treadwell droids repair vehicles in the heat of combat. Claim your free samples now, then fight to unlock it permanently! Only available during the [c][FFB74A]Star Wars: A New Hope 40th Anniversary[-][/c] event!'
+    hn_cc_3_anh40_conf00_r_body 'Available until event ends on 5/19\nWED Treadwell droids repair vehicles in the heat of combat. Claim your free samples now, then fight to unlock it permanently! Only available during the [c][FFB74A]Star Wars: 40th Anniversary[-][/c] event!'
     hn_cc_3_anh40_conf00_r_title 'New Unit Unlock in Conflicts'
-    hn_cc_3_anh40_conf01_e_body '[c][FFB74A]Star Wars: A New Hope 40th Anniversary[-][/c] event ends 5/19!\n\nLast chance to unlock and upgrade the Imperial Astromedic! Join the final Conflicts of the event, ending 5/19.'
+    hn_cc_3_anh40_conf01_e_body '[c][FFB74A]Star Wars: 40th Anniversary[-][/c] event ends 5/19!\n\nLast chance to unlock and upgrade the Imperial Astromedic! Join the final Conflicts of the event, ending 5/19.'
     hn_cc_3_anh40_conf01_e_title 'Last Chance to Unlock Imperial Astromedic'
-    hn_cc_3_anh40_conf01_r_body '[c][FFB74A]Star Wars: A New Hope 40th Anniversary[-][/c] event ends 5/19!\n\nLast chance to unlock and upgrade the WED Treadwell Repair Droid! Join the final Conflicts of the event, ending 5/19.'
+    hn_cc_3_anh40_conf01_r_body '[c][FFB74A]Star Wars: 40th Anniversary[-][/c] event ends 5/19!\n\nLast chance to unlock and upgrade the WED Treadwell Repair Droid! Join the final Conflicts of the event, ending 5/19.'
     hn_cc_3_anh40_conf01_r_title 'Last Chance to Unlock WED Treadwell Repair Droid'
     hn_cc_3_arcOps_HQ2-5_obj_e_body 'This week only, get new objectives twice per day! Earn double the Arctic Ops Crates, with more chances to earn Data Fragments for the resource-plundering MTV-7! Ends 3/30!\n\nPremium Arctic Ops Crates also available in the Store.'
     hn_cc_3_arcOps_HQ2-5_obj_e_title '2x Arctic Objective Rush! Ends 3/30!'
@@ -4965,12 +4996,14 @@ category: strings
     hn_cc_3_arcOps_conf01_r_title 'Last Chance to Unlock Iakaru Warrior'
     hn_cc_3_atmosMIG_body 'The TIE Strike is especially effective against vehicle units, using powerful proton bombs to cause massive damage across a wide area. Collect Data Fragments for this starship only during the Rogue One Special Event!'
     hn_cc_3_atmosMIG_title 'Special Event Starships'
+    hn_cc_3_atmosMIG_title2 'TIE Striker'
     hn_cc_3_atrt_buff_body 'The AT-RT has been upgraded, and is better than ever at bypassing enemy defenses. Compete on the conflict on Hoth to claim these powerful units!'
     hn_cc_3_atrt_buff_title 'AT-RT Upgrades!'
     hn_cc_3_awing_buff_body "The TIE Advanced and A-wing Starships have had their blasters recalibrated. Fight your way to the top of Dandoran's conflicts to unlock them!"
     hn_cc_3_awing_buff_title 'TIE Advanced and A-wing Recalibrated!'
     hn_cc_3_bigMouthAlien_body "The Drabatan Saboteur uses sonic grenades to weaken enemy defenses, increasing the damage they'll take. Collect Data Fragments for this mercenary during the Rogue One Special Event!"
     hn_cc_3_bigMouthAlien_title 'Special Event Unit'
+    hn_cc_3_bigMouthAlien_title2 'Drabatan Saboteur'
     hn_cc_3_desBiome_conf00_e_body 'Desert Ops Conflict Unlock: Ends on 2/15\nKubaz Invaders rush in and take down shield generators with ease. Claim your free samples now, then fight to unlock it permanently! Only available during Desert Ops Event!'
     hn_cc_3_desBiome_conf00_e_title 'New Unit Unlock in Conflicts'
     hn_cc_3_desBiome_conf00_r_body 'Desert Ops Conflict Unlock: Ends on 2/15\nIthorian Infiltrators rush in and take down shield generators with ease. Claim your free samples now, then fight to unlock it permanently! Only available during Desert Ops Event!'
@@ -4989,8 +5022,10 @@ category: strings
     hn_cc_3_desBiome_raid_r_title 'Desert Ops Crates now in Heroic Defense'
     hn_cc_3_enforcerDroid_body "The Security Droid uses sonic grenades to weaken enemy defenses, increasing the damage they'll take. Collect Data Fragments for this mercenary during the Rogue One Special Event!"
     hn_cc_3_enforcerDroid_title 'Special Event Unit'
+    hn_cc_3_enforcerDroid_title2 'Security Droid'
     hn_cc_3_fangFighter_body 'The Fang Fighter is especially effective against vehicle units, using a barrage of proton torpedos to cause massive damage across a wide area. Collect Data Fragments for this starship only during the Rogue One Special Event!'
     hn_cc_3_fangFighter_title 'Special Event Starships'
+    hn_cc_3_fangFighter_title2 'Fang Fighter'
     hn_cc_3_forBiome_HQ2-5_obj_e_body 'This week only, get new objectives twice per day! Earn double the Forest Ops Crates, with more chances to earn Data Fragments for the anti-infantry VT-49 Decimator and shield-busting TIE Advanced Starfighters! Ends 3/2!\n\nPremium Forest Ops Crates also available in the Store.'
     hn_cc_3_forBiome_HQ2-5_obj_e_title '2x Forest Objectives! Ends 3/2!'
     hn_cc_3_forBiome_HQ2-5_obj_r_body 'This week only, get new objectives twice per day! Earn double the Forest Ops Crates, with more chances to earn Data Fragments for the anti-infantry HWK-290 and shield-busting A-wing Starfighters! Ends 3/2!\n\nPremium Forest Ops Crates also available in the Store.'
@@ -5017,6 +5052,8 @@ category: strings
     hn_cc_3_forBiome_conf01_r_title 'Last Chance to Unlock Tognath Marksman'
     hn_cc_3_hovertank_body_e 'Designed for heavy transport, the TX-225 is slow but devastating versus defensive structures. While normally a powerful Equipment upgrade to the 2-M Tank, these special samples can be deployed on their own.'
     hn_cc_3_hovertank_body_r 'Designed for heavy transport, the Stolen TX-225 is slow but devastating versus defensive structures. While normally a powerful Equipment upgrade to the AAT-1 Tank, these special samples can be deployed on their own.'
+    hn_cc_3_hovertank_title2_e 'TX-225 Tank'
+    hn_cc_3_hovertank_title2_r 'Stolen TX-225 Tank'
     hn_cc_3_hovertank_title_e 'Special Event Equipment'
     hn_cc_3_hovertank_title_r 'Special Event Equipment'
     hn_cc_3_hwk_buff_body 'The new HWK-290s now boast higly improved anti-vehicle napalm ordnance. Compete in the conflict on Yavin 4 to take them for a spin!'
@@ -5065,6 +5102,24 @@ category: strings
     hn_cc_rc21announce_body 'New Rogue One inspired units are now available in this limited-time event! Collect Data Fragments from special Weapons Research Crates to unlock these powerful units!'
     hn_cc_rc21announce_title 'Rogue One Special Event'
     hn_cc_read_more 'Read More'
+    hn_cc_rogue1v3_conf_body_e "During this week's Rogue One Event, earn double the number of Crates from Conflicts! Unlock/upgrade the Security Droid, TIE Striker and TX-225 Tank before the event ends!"
+    hn_cc_rogue1v3_conf_body_r "During this week's Rogue One Event, earn double the number of Crates from Conflicts! Unlock/upgrade the Drabatan Saboteur, Fang Figher and Stolen TX-225 Tank before the event ends!"
+    hn_cc_rogue1v3_conf_title '2x Conflict Rewards! Ends 6/7'
+    hn_cc_rogue1v3_ending_body_e 'Last chance to unlock and upgrade the Security Droid, TIE Striker and TX-244 Tank! Collect Weapons Crates from Heroic Defense, Objectives and the Shop until the event ends!'
+    hn_cc_rogue1v3_ending_body_r 'Last chance to unlock and upgrade the Drabatan Saboteur, Fang Fighter and Stolen TX-244 Tank! Collect Weapons Crates from Heroic Defense, Objectives and the Shop until the event ends!'
+    hn_cc_rogue1v3_ending_title 'Rogue One Event Ending 6/14'
+    hn_cc_rogue1v3_obj_body_e 'This week only, get new objectives twice per day! Earn double the Weapons Research Crates for more chances to get Data Fragments for Security Droids, TIE Strikers and TX-225 Tanks!\n\nPremium Weapon Research Crates also available in the Store.'
+    hn_cc_rogue1v3_obj_body_r 'This week only, get new objectives twice per day! Earn double the Weapons Research Crates for more chances to get Data Fragments for Drabatan Saboteurs, Fang Fighters and Stolen TX-225 Tanks!\n\nPremium Weapon Research Crates also available in the Store.'
+    hn_cc_rogue1v3_obj_title '2x Objectives! Ends 5/31'
+    hn_cc_rogue1v3_preview_body_e 'Rogue One inspired units will be returning for a limited-time event! Collect Data Fragments from special Weapons Research Crates to unlock the Security Droid, TIE Striker and TX-225 Tank!'
+    hn_cc_rogue1v3_preview_body_r 'Rogue One inspired units will be returning for a limited-time event! Collect Data Fragments from special Weapons Research Crates to unlock the Drabatan Saboteur, Fang Fighter and Stolen TX-225 Tank!'
+    hn_cc_rogue1v3_preview_title 'Rogue One Event Returns'
+    hn_cc_rogue1v3_raids_body_e 'Maximize your unlocks/upgrades for the Rogue One Event with 3x the raids per day until 6/14!'
+    hn_cc_rogue1v3_raids_body_r 'Maximize your unlocks/upgrades for the Rogue One Event with 3x the raids per day until 6/14!'
+    hn_cc_rogue1v3_raids_title '3x Raid Rush! Ends 6/14'
+    hn_cc_rogue1v3_release_body_e 'Rogue One inspired units are now available during a limited-time event! Collect Data Fragments from special Weapons Research Crates to unlock the Security Droid, TIE Striker and TX-225 Tank!'
+    hn_cc_rogue1v3_release_body_r 'Rogue One inspired units are available during a limited-time event! Collect Data Fragments from special Weapons Research Crates to unlock the Drabatan Saboteur, Fang Fighter and Stolen TX-225 Tank!'
+    hn_cc_rogue1v3_release_title 'Rogue One Event'
     hn_character_name_title '{0}:'
     hn_collect_now_cta 'Collect Now'
     hn_commandcenter_tab 'Commander News'
@@ -5165,7 +5220,7 @@ category: strings
     hn_dev_4-7-1_title 'Patch 4.8.0'
     hn_dev_4-9-0_00_body '[c][FFAA33]Balance Updates[-][/c]\n• Tuning changes to address equipment power imbalances and allow for a wider array of strategies.\n\n[c][FFAA33]Equipment Skins[-][/c]\n• Reduced health and damage multiplier on equipment skins for Empire Stormtrooper, Heavy Stormtrooper.\n• Reduced health and damage multiplier on equipment skins for Rebel Soldier, Heavy Soldier.\n• Affected Equipment:\n- Sandtrooper / Shoretrooper / Snowtrooper\n- Heavy Sandtrooper / Heavy Shoretrooper / Heavy Snowtrooper\n- Desert Soldier / Commando / Cold-weather Soldier\n- Heavy Desert Soldier / Gigoran Fighter / Cold-weather Heavy Soldier\n\n[c][FFAA33]Defensive Equipment[-][/c]\n• Increased health multiplier of equipment for Burst Turrets, Mortar Turrets.\n• Increased damage multiplier of equipment for Burst Turrets, Mortar Turrets\n• Affected Equipment:\n- Reinforced Mounting (Burst Turret)\n- Reinforced Mounting (Mortar Turret)\n- Enhanced Heat Sink (Burst Turret)\n- Enhanced Heat Sink (Mortar Turret)'
     hn_dev_4-9-0_00_title 'Patch 4.8.0.1'
-    hn_dev_4-9-0_body "[c][FFAA33]New Event UI[-][/c]\n• See quick updates about the current event right from your base's HUD.\n• Tap to see detailed information about event crates, possible rewards, and more!\n\n[c][FFAA33]Limited-Time Event: [i]Star Wars: A New Hope 40th Anniversary[/i][-][/c]\n• Celebrate the 40th Anniversary of Star Wars: A New Hope, from 4/19 to 5/19!\n• Death Star Crates can be earned until event ends on 5/19. Find them in Heroic Defense (starting 5/2), Objectives, HQ Inventory (once per day), and in the Shop!\n• New Empire equipment skin: Lord Vader - Darth Vader will bring troopers of the 501st Legion with him into battle.\n• New Rebel equipment skin: Artoo & Threepio - R2-D2 changes from vehicle repair to stunning enemy turrets, with C-3PO at his side. Ignores walls. Is not healed by WED Treadwell Repair Droid.\n• New Empire unit: Empire Imperial Astromedic - heals infantry in battle.\n• New Rebel unit: WED Treadwell Repair Droid - repairs vehicles in battle.\n\n[c][FFAA33][i]Star Wars: A New Hope 40th Anniversary[/i] Rewards[-][/c]\n• See below for full list of possible Elite Data Fragment rewards.\n• Higher chance to drop in Death Star Crates. (Crates disappear when event ends.)\n• Guaranteed chance to drop in Premium Death Star Crates in the Shop. (Crates disappear when event ends.)\n• Event Conflicts: Unlock the all-new Rebel WED Treadwell Repair Droid or Empire Imperial Astromedic unit in Conflict Ultra Chrome league - only unlockable/upgradeable during the event!\n\n[c][FFAA33]Elite Data Fragments for Equipment[-][/c]\n• Rebel: Artoo & Threepio, Desert Soldier, Heavy Desert Soldier\n• Empire: Lord Vader, Sand Trooper, Heavy Sand Trooper\n\n[c][FFAA33]Elite Data Fragments for Units[-][/c]\n• Rebel: Ithorian Infiltrator, Rebel Vanguard, Johhar Kessen\n• Empire: Kubaz Invader, Shock Trooper, Johhar Kessen"
+    hn_dev_4-9-0_body '[c][FFAA33]New Event UI[-][/c]\n• See quick updates about the current event right from your home base.\n• Tap to see detailed information about event crates, possible rewards, and more!\n\n[c][FFAA33]Limited-Time Event: [i]Star Wars: 40th Anniversary[/i][-][/c]\n• Celebrate the 40th Anniversary of Star Wars, from 4/19 to 5/19!\n• Death Star Crates can be earned until event ends on 5/19. Find them in Heroic Defense (starting 5/2), Objectives, HQ Inventory (once per day), and in the Shop!\n\n[c][FFAA33]Reward Highlights[-][/c]\n• New Empire equipment skin: Lord Vader - Darth Vader will bring troopers of the 501st Legion with him into battle. Found in Death Star Crates.\n\n• New Empire unit: Empire Imperial Astromedic - heals infantry in battle. Found in Conflict Ultra Chrome league.\n\n• New Rebel equipment skin: Artoo & Threepio - R2-D2 changes from vehicle repair to stunning enemy turrets, with C-3PO at his side. Ignores walls. Is not healed by WED Treadwell Repair Droid. Found in Death Star Crates.\n\n• New Rebel unit: WED Treadwell Repair Droid - repairs vehicles in battle. Found in Conflict Ultra Chrome league.\n\n• Only unlockable/upgradeable during the event!\n• See below for full list of event rewards.\n\n[c][FFAA33]Death Star Crates[-][/c]\n• Death Star Crate disappears when the event ends!\n• Standard event crates have a good chance to drop event rewards.\n• Premium Death Star Crates are guaranteed to drop event rewards. Find them in the Shop!\n\n[c][FFAA33][i]Star Wars: 40th Anniversary[/i] Event Rewards[-][/c]\n• Elite Data Fragments for Rebels:\n      Artoo & Threepio (Eqp)\n      Desert Soldier (Eqp)\n      Heavy Desert Soldier (Eqp)\n      Ithorian Infiltrator (Unit)\n      Rebel Vanguard (Unit)\n      Johhar Kessen (Unit)\n      \n• Elite Data Fragments for Empire:\n      Lord Vader (Eqp)\n      Sand Trooper (Eqp)\n      Heavy Sand Trooper (Eqp)\n      Kubaz Invader (Unit)\n      Shock Trooper (Unit)\n      Johhar Kessen (Unit)'
     hn_dev_4-9-0_title 'Version 4.9.0'
     hn_dev_forumNotice_body 'As a valued player, we want to inform you that the official Star Wars: Commander forums will no longer be available as of March 3, 2017. \n\nThis has no relation to the game’s development, which is unaffected by this change. We will continue to add brand new content and features to the game for you to enjoy. For more information, visit our customer service site below.'
     hn_dev_forumNotice_title 'Notice:'
@@ -5173,6 +5228,8 @@ category: strings
     hn_dev_test_title 'PLACEHOLDER URL TEST'
     hn_devnotes_tab 'Developer Notes'
     hn_dnotes_4 'Url test!'
+    hn_dnotes_turretSwap_body '[c][FFAA33]Turret Swap Update[-][/c] \n• Tuning adjustments to turret swapping cost and time'
+    hn_dnotes_turretSwap_title 'Patch 4.8.0.1.1'
     hn_done 'DONE'
     hn_facebook_cta 'Facebook'
     hn_faction_leader '{0} Faction Leader'
@@ -5538,13 +5595,13 @@ category: strings
     lcfly_descEqpRebelEchoBaseSoldier '[c][FFB74A]Cold-weather Soldier[-][/c]'
     lcfly_descEqpRebelEchoBaseSoldierFragments '[c][FFB74A]Cold-weather Soldier[-][/c] Data Fragments'
     lcfly_descEqpRebelHQHealth '[c][809596]Reinforced HQ Bracing[-][/c]'
-    lcfly_descEqpRebelHeavySandSoldier '[c][FFB74A]Heavy Sand Soldier[-][/c]'
+    lcfly_descEqpRebelHeavySandSoldier '[c][FFB74A]Heavy Desert Soldier[-][/c]'
     lcfly_descEqpRebelHovertank '[c][FFB74A]Stolen TX-225[-][/c]'
     lcfly_descEqpRebelPentagonSoldier '[c][FFB74A]Rebel Commando[-][/c]'
     lcfly_descEqpRebelRapidFireTurretHealth '[c][99B4FF]Reinforced Mounting[-][/c]'
     lcfly_descEqpRebelRocketTurretDamage '[c][99B4FF]Enhanced Heat Sink[-][/c]'
-    lcfly_descEqpRebelSandSoldier '[c][FFB74A]Sand Soldier[-][/c]'
-    lcfly_descEqpRebelSandSoldierFragments '[c][FFB74A]Sand Soldier[-][/c] Data Fragments'
+    lcfly_descEqpRebelSandSoldier '[c][FFB74A]Desert Soldier[-][/c]'
+    lcfly_descEqpRebelSandSoldierFragments '[c][FFB74A]Desert Soldier[-][/c] Data Fragments'
     lcfly_descEqpRebelShaggyAlien '[c][FFB74A]Gigoran Fighter[-][/c]'
     lcfly_descEqpRebelShaggyAlienFragments '[c][FFB74A]Gigoran Fighter[-][/c] Data Fragments'
     lcfly_descEqpRebelTauntaun '[c][FFB74A]Tauntaun Rider[-][/c]'
@@ -5679,12 +5736,12 @@ category: strings
     lcfly_subset_descEqpRebelEchoBaseHeavySoldier '      ∫  Cold-weather Heavy Soldier'
     lcfly_subset_descEqpRebelEchoBaseSoldier '      ∫  Cold-weather Soldier'
     lcfly_subset_descEqpRebelHQHealth '      ∫  Reinforced HQ Bracing'
-    lcfly_subset_descEqpRebelHeavySandSoldier '      ∫  Heavy Sand Soldier'
+    lcfly_subset_descEqpRebelHeavySandSoldier '      ∫  Heavy Desert Soldier'
     lcfly_subset_descEqpRebelHovertank '      ∫  Stolen TX-225'
     lcfly_subset_descEqpRebelPentagonSoldier '      ∫  Rebel Commando'
     lcfly_subset_descEqpRebelRapidFireTurretHealth '      ∫  Reinforced Mounting'
     lcfly_subset_descEqpRebelRocketTurretDamage '      ∫  Enhanced Heat Sink'
-    lcfly_subset_descEqpRebelSandSoldier '      ∫  Sand Soldier'
+    lcfly_subset_descEqpRebelSandSoldier '      ∫  Desert Soldier'
     lcfly_subset_descEqpRebelShaggyAlien '      ∫  Gigoran Fighter'
     lcfly_subset_descEqpRebelTauntaun '      ∫  Tauntaun Rider'
     lcfly_subset_descEqpRebelWallHealth '      ∫  Reinforced Wall Bracing'
@@ -9478,6 +9535,7 @@ category: strings
     reward_hn_anniversary_title 'Free Krayt Dragons and Droidekas '
     reward_hn_arcOps_unitsample_title_e 'IG-86 Assassin Droids'
     reward_hn_arcOps_unitsample_title_r 'Iakaru Warriors'
+    reward_hn_dnotes_crystals_title 'Crystals'
     reward_hn_forestOps_unitsample_title_e 'Tognath Marksmen'
     reward_hn_forestOps_unitsample_title_r 'Tognath Marksmen'
     reward_hn_iospromo_title 'App Store Exclusive Gift'
@@ -10151,6 +10209,7 @@ category: strings
     tournament_title_conflict_anh40_erk_02 "Conflict on Er'Kit"
     tournament_title_conflict_anh40_erk_04 "Conflict on Er'Kit"
     tournament_title_conflict_anh40_hth_01 'Conflict on Hoth'
+    tournament_title_conflict_anh40_hth_02 'Conflict on Hoth'
     tournament_title_conflict_anh40_hth_04 'Conflict on Hoth'
     tournament_title_conflict_anh40_tak_01 'Conflict on Takodana'
     tournament_title_conflict_anh40_tak_03 'Conflict on Takodana'
@@ -10179,6 +10238,12 @@ category: strings
     tournament_title_conflict_arcOps_tat_03 'Arctic Ops Conflict on Tatooine'
     tournament_title_conflict_arcOps_tat_04 'Arctic Ops Conflict on Tatooine'
     tournament_title_conflict_arcOps_yav_03 'Arctic Ops Conflict on Yavin 4'
+    tournament_title_conflict_bioBoOps_dan_01 'Conflict on Dandoran'
+    tournament_title_conflict_bioBoOps_tak_01 'Conflict on Takodana'
+    tournament_title_conflict_bioBoOps_yav_01 'Conflict on Yavin 4'
+    tournament_title_conflict_bioBo_erk_01 "Conflict on Er'Kit"
+    tournament_title_conflict_bioBo_hth_01 'Conflict on Hoth'
+    tournament_title_conflict_bioBo_tat_01 'Conflict on Tatooine'
     tournament_title_conflict_dan_00 '[3fdb4f]Crystals[-] Conflict on Dandoran'
     tournament_title_conflict_dan_01 'Conflict at Mynock Grottos'
     tournament_title_conflict_dan_02 "Conflict at Smuggler's Basin"
@@ -10240,6 +10305,10 @@ category: strings
     tournament_title_conflict_dan_58 'Conflict at Varsa Meadows'
     tournament_title_conflict_dan_59 "Conflict at Smuggler's Basin"
     tournament_title_conflict_dan_60 'Conflict at Mynock Grottos'
+    tournament_title_conflict_dan_rogue1v3_wk1 'Conflict on Dandoran'
+    tournament_title_conflict_dan_rogue1v3_wk2 'Conflict on Dandoran'
+    tournament_title_conflict_dan_rogue1v3_wk3 'Conflict on Dandoran'
+    tournament_title_conflict_dan_rogue1v3_wk4 'Conflict on Dandoran'
     tournament_title_conflict_desert_dan_01 'Desert Ops\xa0Conflict on Dandoran'
     tournament_title_conflict_desert_erk_01 "Desert Ops\xa0Conflict on Er'Kit"
     tournament_title_conflict_desert_hth_01 'Desert Ops\xa0Conflict on Hoth'
@@ -10290,6 +10359,10 @@ category: strings
     tournament_title_conflict_erk_38 'Conflict at Gundark Pass'
     tournament_title_conflict_erk_39 'Conflict at Gundark Pass'
     tournament_title_conflict_erk_40 'Conflict at Luun Heights'
+    tournament_title_conflict_erk_rogue1v3_wk1 "Conflict on Er'Kit"
+    tournament_title_conflict_erk_rogue1v3_wk2 "Conflict on Er'Kit"
+    tournament_title_conflict_erk_rogue1v3_wk3 "Conflict on Er'Kit"
+    tournament_title_conflict_erk_rogue1v3_wk4 "Conflict on Er'Kit"
     tournament_title_conflict_forestOps_dan_01 'Forest Ops Conflict on Dandoran'
     tournament_title_conflict_forestOps_dan_02 'Forest Ops Conflict on Dandoran'
     tournament_title_conflict_forestOps_erk_01 "Forest Ops Conflict on Er'Kit"
@@ -10344,6 +10417,10 @@ category: strings
     tournament_title_conflict_hth_38 'Conflict at Wampa Mountain'
     tournament_title_conflict_hth_39 'Conflict at Icefall Plains'
     tournament_title_conflict_hth_40 "Conflict at Shyloah's Crest"
+    tournament_title_conflict_hth_rogue1v3_wk1 'Conflict on Hoth'
+    tournament_title_conflict_hth_rogue1v3_wk2 'Conflict on Hoth'
+    tournament_title_conflict_hth_rogue1v3_wk3 'Conflict on Hoth'
+    tournament_title_conflict_hth_rogue1v3_wk4 'Conflict on Hoth'
     tournament_title_conflict_tat_00 '[3fdb4f]Crystals[-] Conflict on Tatooine'
     tournament_title_conflict_tat_01 'Conflict at Boonta Eve'
     tournament_title_conflict_tat_02 'Conflict at Anchorhead Pass'
@@ -10407,6 +10484,10 @@ category: strings
     tournament_title_conflict_tat_60 'Conflict at Jundland Chasm'
     tournament_title_conflict_tat_rc15_brute 'Conflict at Boonta Eve'
     tournament_title_conflict_tat_rc15_rider 'Conflict at Anchorhead Pass'
+    tournament_title_conflict_tat_rogue1v3_wk1 'Conflict on Tatooine'
+    tournament_title_conflict_tat_rogue1v3_wk2 'Conflict on Tatooine'
+    tournament_title_conflict_tat_rogue1v3_wk3 'Conflict on Tatooine'
+    tournament_title_conflict_tat_rogue1v3_wk4 'Conflict on Tatooine'
     tournament_title_conflict_tfa_08 'Conflict on Takodana'
     tournament_title_conflict_tfa_09 'Conflict on Takodana'
     tournament_title_conflict_tfa_10 'Conflict on Takodana'
@@ -10442,6 +10523,10 @@ category: strings
     tournament_title_conflict_tfa_40 'Conflict on Takodana'
     tournament_title_conflict_tfa_rc15_brute 'Conflict on Takodana'
     tournament_title_conflict_tfa_rc15_rider 'Conflict on Takodana'
+    tournament_title_conflict_tfa_rogue1v3_wk1 'Conflict on Takodana'
+    tournament_title_conflict_tfa_rogue1v3_wk2 'Conflict on Takodana'
+    tournament_title_conflict_tfa_rogue1v3_wk3 'Conflict on Takodana'
+    tournament_title_conflict_tfa_rogue1v3_wk4 'Conflict on Takodana'
     tournament_title_conflict_yav_00 '[3fdb4f]Crystals[-] Conflict on Yavin 4'
     tournament_title_conflict_yav_01 'Conflict at Massassi Valley'
     tournament_title_conflict_yav_02 'Conflict at Skygazer Hill'
@@ -10483,6 +10568,10 @@ category: strings
     tournament_title_conflict_yav_38 'Conflict at Skygazer Hill'
     tournament_title_conflict_yav_39 'Conflict at Massassi Valley'
     tournament_title_conflict_yav_40 'Conflict at Skygazer Hill'
+    tournament_title_conflict_yav_rogue1v3_wk1 'Conflict on Yavin 4'
+    tournament_title_conflict_yav_rogue1v3_wk2 'Conflict on Yavin 4'
+    tournament_title_conflict_yav_rogue1v3_wk3 'Conflict on Yavin 4'
+    tournament_title_conflict_yav_rogue1v3_wk4 'Conflict on Yavin 4'
     tournament_title_mini_tournament_01 'Special Tournament: Mounted Units'
     tournament_title_theme_tournament_02 'Double Event Points!'
     tournament_title_theme_tournament_03 'Gamorrean Warriors Tournament!'
@@ -10771,7 +10860,7 @@ category: strings
     trp_title_FueHeroHanSolo 'Han Solo'
     trp_title_Hailfire 'Rebel Hailfire Droid'
     trp_title_HeavyRebel 'Heavy Soldier'
-    trp_title_HeavySandSoldier 'Heavy Sand Soldier'
+    trp_title_HeavySandSoldier 'Heavy Desert Soldier'
     trp_title_HeavySandtrooper 'Heavy Sandtrooper'
     trp_title_HeavySnowtrooper 'Heavy Snowtrooper'
     trp_title_HeavyStorm 'Heavy Stormtrooper'
@@ -10823,7 +10912,7 @@ category: strings
     trp_title_RebelStormDeath 'Undead Trooper'
     trp_title_RebelTognath 'Tognath Marksman'
     trp_title_RebelTwilekIncinerator "Twi'lek Incinerator"
-    trp_title_SandSoldier 'Sand Soldier'
+    trp_title_SandSoldier 'Desert Soldier'
     trp_title_Sandtrooper 'Sandtrooper'
     trp_title_Scout 'Scout Trooper'
     trp_title_SecurityDroid 'Security Droid'

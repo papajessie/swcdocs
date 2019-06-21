@@ -1,12 +1,12 @@
 ---
-title: Conflict on Yavin 4 (conflict_anh40_yav_03)
+title: Conflict on Hoth (conflict_bioBo_hth_01)
 category: tournament
 ---
-# Conflict on Yavin 4
+# Conflict on Hoth
 
-  * Planet: Yavin 4
-  * Start date: 2017-05-04
-  * End date: 2017-05-10
+  * Planet: Hoth
+  * Start date: 2017-04-13
+  * End date: 2017-04-19
 
 ## Rewards
 
@@ -17,4 +17,4 @@ category: tournament
   * Bronzium II League: A "[Bronzium Conflict Crate (lc_conf_tier5)](lc_conf_tier5.html)"
   * Bronzium I League: 2 "[Bronzium Conflict Crates (lc_conf_tier6)](lc_conf_tier6.html)"
   * Obsidian League: A "[Obsidian Conflict Crate (lc_conf_tier7)](lc_conf_tier7.html)"
-  * Ultra Chrome League: A "[Ultra Chrome Conflict Crate (lc_conf_anh40_tier8_wk3eqp)](lc_conf_anh40_tier8_wk3eqp.html)"
+  * Ultra Chrome League: A "[Ultra Chrome Conflict Crate (lc_conf_arcOps_tier8_evtUnit)](lc_conf_arcOps_tier8_evtUnit.html)"

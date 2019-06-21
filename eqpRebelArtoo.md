@@ -30,7 +30,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Eqp rebel artoo health name: Eqp rebel artoo health
   * Eqp rebel artoo health stack: 0
   * Eqp rebel artoo health target: self
-  * Eqp rebel artoo health value: 200.0%
+  * Eqp rebel artoo health value: 300.0%
 
 
 #### Modifier "Summon C3 PO"
@@ -78,10 +78,10 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Bundle name: r2d2c3po_rbl-ani
   * Equipment description: eqpRebelArtoo_description
   * Equipment name: eqpRebelArtoo_name
-  * Icon camera position: 6.09,6.95,17.61
-  * Icon closeup camera position: 6.09,6.95,17.61
-  * Icon closeup lookat position: -0.71,1.31,-0.53
-  * Icon lookat position: -0.71,1.31,-0.53
+  * Icon camera position: 7.47,8.24,21.49
+  * Icon closeup camera position: 7.47,8.24,21.49
+  * Icon closeup lookat position: -0.8,1.4,-0.53
+  * Icon lookat position: -0.8,1.4,-0.53
   * Quality: elite
 
 |Level|10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
@@ -105,7 +105,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level          |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
 |---------------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|Health         |72000      |62400     |57600     |52800     |48000     |43200     |38400     |33600     |28800     |24000     |
+|Health         |96000      |83200     |76800     |70400     |64000     |57600     |51200     |44800     |38400     |32000     |
 |Original health|24000      |20800     |19200     |17600     |16000     |14400     |12800     |11200     |9600      |8000      |
 
 
@@ -202,16 +202,16 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 #### Modifier "Eqp rebel artoo"
 
-  * Eqp rebel artoo apply value as: absolute
+  * Eqp rebel artoo apply value as: relativePercentOfMax
   * Eqp rebel artoo buff ID: buffEqpRebelArtoo
   * Eqp rebel artoo modifier: stun
   * Eqp rebel artoo ms first proc: 0s
   * Eqp rebel artoo ms per proc: permanent
-  * Eqp rebel artoo damage multipliers: **(100)**: Eqp rebel artoo turret, **(0)**: Eqp rebel artoo droideka, Eqp rebel artoo flying infantry, Eqp rebel artoo flying vehicle, Eqp rebel artoo headquarters, Eqp rebel artoo heavy infantry, Eqp rebel artoo heavy infantry hero, Eqp rebel artoo heavy vehicle, Eqp rebel artoo heavy vehicule hero, Eqp rebel artoo infantry, Eqp rebel artoo infantry hero, Eqp rebel artoo light vehicle, Eqp rebel artoo other building, Eqp rebel artoo ressource generator, Eqp rebel artoo shield, Eqp rebel artoo shield generator, Eqp rebel artoo storage, Eqp rebel artoo support troop, Eqp rebel artoo trap, Eqp rebel artoo vehicule hero, Eqp rebel artoo wall
+  * Eqp rebel artoo damage multipliers: **(100%)**: Eqp rebel artoo turret, **(0%)**: Eqp rebel artoo droideka, Eqp rebel artoo flying infantry, Eqp rebel artoo flying vehicle, Eqp rebel artoo headquarters, Eqp rebel artoo heavy infantry, Eqp rebel artoo heavy infantry hero, Eqp rebel artoo heavy vehicle, Eqp rebel artoo heavy vehicule hero, Eqp rebel artoo infantry, Eqp rebel artoo infantry hero, Eqp rebel artoo light vehicle, Eqp rebel artoo other building, Eqp rebel artoo ressource generator, Eqp rebel artoo shield, Eqp rebel artoo shield generator, Eqp rebel artoo storage, Eqp rebel artoo support troop, Eqp rebel artoo trap, Eqp rebel artoo vehicule hero, Eqp rebel artoo wall
   * Eqp rebel artoo name: Eqp rebel artoo
   * Eqp rebel artoo stack: 1
   * Eqp rebel artoo target: enemies
-  * Eqp rebel artoo value: 0
+  * Eqp rebel artoo value: 0.0%
 
 |Level                   |01.10|01.09 |01.08|01.07 |01.06 |01.05 |01.04 |01.03 |01.02 |01.01|
 |------------------------|-----|------|-----|------|------|------|------|------|------|-----|
@@ -347,11 +347,11 @@ These are all sorts of user interface settings, that should not interfere with g
   * Factory rotation: 0
   * Factory scale factor: 1
   * Favorite target type: vehicles
-  * Hologram uid: HeroHologramR2D2
+  * Hologram uid: EquipmentHologramArtoo
   * Icon asset name: r2d2c3po_rbl-ani
   * Icon bundle name: r2d2c3po_rbl-ani
-  * Icon camera position: 6.86,7.75,19.87
-  * Icon closeup camera position: 6.86,7.75,19.87
+  * Icon camera position: 7.47,8.24,21.49
+  * Icon closeup camera position: 7.47,8.24,21.49
   * Icon closeup lookat position: -0.8,1.4,-0.53
   * Icon lookat position: -0.8,1.4,-0.53
   * Max scale: 200

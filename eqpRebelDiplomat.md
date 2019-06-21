@@ -391,7 +391,7 @@ These are all sorts of user interface settings, that should not interfere with g
   * Favorite target type: infantry
   * Gun position: "soldier_rbl_rig_MASTER_MOVER/soldier_rbl_rig_locator_gun":1
   * Hit spark: fx_blaster_hit_b_sm
-  * Hologram uid: HeroHologramRebel3
+  * Hologram uid: EquipmentHologramDiplomat
   * Icon camera position: 11.53,12.65,14.23
   * Icon closeup camera position: 1.92,0.99,7.73
   * Icon closeup lookat position: 0.08,2.36,0.19

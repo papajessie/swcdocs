@@ -1,9 +1,9 @@
 ---
-title: Heavy Sand Soldier (HeavySandSoldier)
+title: Heavy Desert Soldier (HeavySandSoldier)
 category: unit
 ---
 
-# Heavy Sand Soldier (HeavySandSoldier)
+# Heavy Desert Soldier (HeavySandSoldier)
 
 You can read an [explanation  of the various unit stats](unitexplained.md).
 

@@ -394,7 +394,7 @@ These are all sorts of user interface settings, that should not interfere with g
   * Favorite target type: turret
   * Gun position: "atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun1":1,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun2":2,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun3":3,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun4":4,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun5":5,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun6":6,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun7":7,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun8":8,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun9":9,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun10":10,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun11":11,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun12":12,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun13":13,"atmphero_emp_rig_MASTER_MOVER/atmphero_emp_rig_locator_gun14":14
   * Hit spark: fx_rocket_hit_r_sm
-  * Hologram uid: HeroHologramEmpire3
+  * Hologram uid: EquipmentHologramArcticATMP
   * Icon camera position: 30.91,24.5,44.6
   * Icon closeup camera position: 30.91,24.5,44.6
   * Icon closeup lookat position: -0.67,3.32,-1.05
