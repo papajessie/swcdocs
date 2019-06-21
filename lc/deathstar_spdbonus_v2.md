@@ -12,37 +12,41 @@ This crate expires after 7d. The contents are decided by 7 draws from 1 differen
 
 ## Pool "lcpool_anh40rrStore_shrd" (x7 draws)
 
-### Empire
-
-  * (1/26) 5 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
-  * (1/26) 5 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
-  * (1/26) 5 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
-  * (1/26) 5 data fragments of unlockable troop [Shock Trooper](Shock)
-  * (1/26) 6 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
-  * (2/26) 4 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
-  * (2/26) 5 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
-  * (2/26) 6 data fragments of unlockable troop [Imperial Astromedic](R5Medic)
-  * (3/26) 4 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
-  * (3/26) 4 data fragments of unlockable troop [Imperial Astromedic](R5Medic)
-  * (3/26) 4 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
-  * (3/26) 4 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
-  * (3/26) 4 data fragments of unlockable troop [Shock Trooper](Shock)
-
 ### Rebellion
 
-  * (1/26) 5 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
-  * (1/26) 5 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
-  * (1/26) 5 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
-  * (1/26) 5 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
-  * (1/26) 6 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
-  * (2/26) 4 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
-  * (2/26) 5 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
-  * (2/26) 6 data fragments of unlockable troop [WED Treadwell Repair Droid](Treadwell)
-  * (3/26) 4 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
-  * (3/26) 4 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
-  * (3/26) 4 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
-  * (3/26) 4 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
-  * (3/26) 4 data fragments of unlockable troop [WED Treadwell Repair Droid](Treadwell)
+  * (1/28) 5 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
+  * (1/28) 5 data fragments of unlockable troop [Elite AT-TE Walker](HeroATTE)
+  * (1/28) 5 data fragments of unlockable troop [Elite AT-TE Walker](HeroATTE)
+  * (1/28) 5 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
+  * (1/28) 5 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
+  * (1/28) 5 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
+  * (1/28) 6 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
+  * (2/28) 4 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
+  * (2/28) 5 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
+  * (2/28) 6 data fragments of unlockable troop [WED Treadwell Repair Droid](Treadwell)
+  * (3/28) 4 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
+  * (3/28) 4 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
+  * (3/28) 4 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
+  * (3/28) 4 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
+  * (3/28) 4 data fragments of unlockable troop [WED Treadwell Repair Droid](Treadwell)
+
+### Empire
+
+  * (1/28) 5 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
+  * (1/28) 5 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
+  * (1/28) 5 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
+  * (1/28) 5 data fragments of unlockable troop [Shock Trooper](Shock)
+  * (1/28) 6 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
+  * (1/28) 6 data fragments of unlockable troop [Death Trooper](HeroDeathTrooper)
+  * (1/28) 6 data fragments of unlockable troop [Death Trooper](HeroDeathTrooper)
+  * (2/28) 4 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
+  * (2/28) 5 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
+  * (2/28) 6 data fragments of unlockable troop [Imperial Astromedic](R5Medic)
+  * (3/28) 4 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
+  * (3/28) 4 data fragments of unlockable troop [Imperial Astromedic](R5Medic)
+  * (3/28) 4 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
+  * (3/28) 4 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
+  * (3/28) 4 data fragments of unlockable troop [Shock Trooper](Shock)
 
 ### Fallback for HQ level 10
 

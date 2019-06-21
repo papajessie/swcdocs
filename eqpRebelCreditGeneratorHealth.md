@@ -49,19 +49,19 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
   * Building ID: rebelCreditGenerator
 
+  * Equipment description: eqpRebelCreditGeneratorHealth_description
+  * Equipment name: eqpRebelCreditGeneratorHealth_name
   * Icon unlock position: 0,0.5,0
   * Icon unlock rotation: 0,55,0
   * Icon unlock scale: 0.5,0.5,0.5
   * Quality: basic
 
-|Level                |10                                          |8-9                                      |7                                        |6                                        |5                                        |4                                        |3                                        |2                                        |1                                        |
-|---------------------|--------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-|Asset name           |tradecenter_rbl-mod-up8                     |tradecenter_rbl-mod-up8                  |tradecenter_rbl-mod-up7                  |tradecenter_rbl-mod-up6                  |tradecenter_rbl-mod-up5                  |tradecenter_rbl-mod-up4                  |tradecenter_rbl-mod-up3                  |tradecenter_rbl-mod-up2                  |tradecenter_rbl-mod-up1                  |
-|Bundle name          |tradecenter_rbl-mod-up8                     |tradecenter_rbl-mod-up8                  |tradecenter_rbl-mod-up7                  |tradecenter_rbl-mod-up6                  |tradecenter_rbl-mod-up5                  |tradecenter_rbl-mod-up4                  |tradecenter_rbl-mod-up3                  |tradecenter_rbl-mod-up2                  |tradecenter_rbl-mod-up1                  |
-|Equipment description|eqpRebelMaterialsGeneratorHealth_description|eqpRebelCreditGeneratorHealth_description|eqpRebelCreditGeneratorHealth_description|eqpRebelCreditGeneratorHealth_description|eqpRebelCreditGeneratorHealth_description|eqpRebelCreditGeneratorHealth_description|eqpRebelCreditGeneratorHealth_description|eqpRebelCreditGeneratorHealth_description|eqpRebelCreditGeneratorHealth_description|
-|Equipment name       |eqpRebelMaterialsGeneratorHealth_name       |eqpRebelCreditGeneratorHealth_name       |eqpRebelCreditGeneratorHealth_name       |eqpRebelCreditGeneratorHealth_name       |eqpRebelCreditGeneratorHealth_name       |eqpRebelCreditGeneratorHealth_name       |eqpRebelCreditGeneratorHealth_name       |eqpRebelCreditGeneratorHealth_name       |eqpRebelCreditGeneratorHealth_name       |
-|Icon camera position |-47.05,30.01,16.18                          |-47.05,30.01,16.18                       |-44.52,31.83,19.62                       |-41.78,30.16,18.87                       |-41.78,30.16,18.87                       |-41.78,30.16,18.87                       |-37.88,27.43,16.68                       |-37.88,27.43,16.68                       |-37.88,27.43,16.68                       |
-|Icon lookat position |0.37,1.54,-0.73                             |0.37,1.54,-0.73                          |0.57,1.54,-0.46                          |0.68,1.63,-0.05                          |0.68,1.63,-0.05                          |0.68,1.63,-0.05                          |0.52,1.62,-0.41                          |0.52,1.62,-0.41                          |0.52,1.62,-0.41                          |
+|Level               |8-10                   |7                      |6                      |5                      |4                      |3                      |2                      |1                      |
+|--------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+|Asset name          |tradecenter_rbl-mod-up8|tradecenter_rbl-mod-up7|tradecenter_rbl-mod-up6|tradecenter_rbl-mod-up5|tradecenter_rbl-mod-up4|tradecenter_rbl-mod-up3|tradecenter_rbl-mod-up2|tradecenter_rbl-mod-up1|
+|Bundle name         |tradecenter_rbl-mod-up8|tradecenter_rbl-mod-up7|tradecenter_rbl-mod-up6|tradecenter_rbl-mod-up5|tradecenter_rbl-mod-up4|tradecenter_rbl-mod-up3|tradecenter_rbl-mod-up2|tradecenter_rbl-mod-up1|
+|Icon camera position|-47.05,30.01,16.18     |-44.52,31.83,19.62     |-41.78,30.16,18.87     |-41.78,30.16,18.87     |-41.78,30.16,18.87     |-37.88,27.43,16.68     |-37.88,27.43,16.68     |-37.88,27.43,16.68     |
+|Icon lookat position|0.37,1.54,-0.73        |0.57,1.54,-0.46        |0.68,1.63,-0.05        |0.68,1.63,-0.05        |0.68,1.63,-0.05        |0.52,1.62,-0.41        |0.52,1.62,-0.41        |0.52,1.62,-0.41        |
 
 
 |Level|10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
