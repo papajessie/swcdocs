@@ -122,6 +122,7 @@ title: Index of crates
   * [Ultra Chrome Conflict Crate (lc_conf_tier8)](lc_conf_tier8.html)
   * [Daily Crate (lc_daily)](lc_daily.html)
   * [Daily Death Star Crate (lc_daily_anh40)](lc_daily_anh40.html)
+  * [Daily Anniversary Crate (lc_daily_anniversary)](lc_daily_anniversary.html)
   * [Daily Arctic Ops Crate (lc_daily_arcOps)](lc_daily_arcOps.html)
   * [Daily Tactical Defenses Crate (lc_daily_defRef)](lc_daily_defRef.html)
   * [Daily Desert Ops Crate (lc_daily_desBiome)](lc_daily_desBiome.html)
