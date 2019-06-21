@@ -9,17 +9,17 @@ Crates are given as rewards for various actions. The content is revealed only wh
 
 This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
-## Pool "lcpool_anh40_shrd_daily" (x1 draw)
+## Pool "lcpool_anh40rr_daily" (x1 draw)
 
 ### Rebellion
 
-  * (1/2) 1 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
-  * (1/2) 1 data fragments of equipment [Heavy Desert Soldier](eqpRebelHeavySandSoldier)
+  * (2/4) 1 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
+  * (2/4) 1 data fragments of unlockable troop [WED Treadwell Repair Droid](Treadwell)
 
 ### Empire
 
-  * (1/2) 1 data fragments of equipment [Heavy Sandtrooper](eqpEmpireHeavySandtrooper)
-  * (1/2) 1 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
+  * (2/4) 1 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
+  * (2/4) 1 data fragments of unlockable troop [Imperial Astromedic](R5Medic)
 
 ### Fallback for HQ level 10
 

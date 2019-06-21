@@ -9,66 +9,6 @@ Crates are given as rewards for various actions. The content is revealed only wh
 
 This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
-## Pool "lcpool_anh40_shrd" (x1 draw)
-
-### Rebellion
-
-  * (1/19) 1 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
-  * (1/19) 2 data fragments of equipment [Captain Han Solo](eqpRebelCaptainSolo)
-  * (1/19) 2 data fragments of equipment [Cold-weather Hailfire Droid](eqpRebelArcticHailfire)
-  * (1/19) 2 data fragments of equipment [Cold-weather Heavy Soldier](eqpRebelEchoBaseHeavySoldier)
-  * (1/19) 2 data fragments of equipment [Cold-weather Soldier](eqpRebelEchoBaseSoldier)
-  * (1/19) 2 data fragments of equipment [Gigoran Fighter](eqpRebelShaggyAlien)
-  * (1/19) 2 data fragments of equipment [Rebel Commando](eqpRebelPentagonSoldier)
-  * (1/19) 2 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
-  * (1/19) 2 data fragments of equipment [Tauntaun Rider](eqpRebelTauntaun)
-  * (1/19) 2 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
-  * (1/19) 2 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
-  * (2/19) 2 data fragments of equipment [Heavy Desert Soldier](eqpRebelHeavySandSoldier)
-  * (3/19) 2 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
-  * (3/19) 2 data fragments of equipment [Desert Soldier](eqpRebelSandSoldier)
-
-### Empire
-
-  * (1/19) 1 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
-  * (1/19) 2 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
-  * (1/19) 2 data fragments of equipment [Cold Weather AT-MP Mark III](eqpEmpireArcticATMP)
-  * (1/19) 2 data fragments of equipment [Cold-weather Mobile Heavy Cannon](eqpEmpireArcticMHC)
-  * (1/19) 2 data fragments of equipment [Heavy Shoretrooper](eqpEmpirePentagonHeavyTrooper)
-  * (1/19) 2 data fragments of equipment [Heavy Snowtrooper](eqpEmpireHeavySnowtrooper)
-  * (1/19) 2 data fragments of equipment [Modified INT-4 Interceptor](eqpEmpireArcticINT4)
-  * (1/19) 2 data fragments of equipment [Shoretrooper](eqpEmpirePentagonTrooper)
-  * (1/19) 2 data fragments of equipment [Snowtrooper](eqpEmpireSnowtrooper)
-  * (1/19) 2 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
-  * (1/19) 2 data fragments of unlockable troop [Shock Trooper](Shock)
-  * (2/19) 2 data fragments of equipment [Heavy Sandtrooper](eqpEmpireHeavySandtrooper)
-  * (3/19) 2 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
-  * (3/19) 2 data fragments of equipment [Sandtrooper](eqpEmpireSandtrooper)
-
-### Fallback for HQ level 10
-
-  * 225000 Credits
-
-### Fallback for HQ level 11
-
-  * 2500 Credits
-
-### Fallback for HQ level 6
-
-  * 50000 Credits
-
-### Fallback for HQ level 7
-
-  * 80000 Credits
-
-### Fallback for HQ level 8
-
-  * 110000 Credits
-
-### Fallback for HQ level 9
-
-  * 150000 Credits
-
 ## Pool "lcpool_anh40_smpl" (x1 draw)
 
 ### Empire
@@ -110,6 +50,54 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 ### Fallback for HQ level 9
 
   * 25000 Credits
+
+## Pool "lcpool_anh40rr_shrd" (x1 draw)
+
+### Rebellion
+
+  * (1/14) 1 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
+  * (1/14) 1 data fragments of unlockable troop [WED Treadwell Repair Droid](Treadwell)
+  * (2/14) 2 data fragments of equipment [Artoo  Threepio](eqpRebelArtoo)
+  * (2/14) 2 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
+  * (2/14) 2 data fragments of unlockable troop [Ithorian Infiltrator](IthorianInfiltrator)
+  * (2/14) 2 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
+  * (2/14) 2 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
+  * (2/14) 2 data fragments of unlockable troop [WED Treadwell Repair Droid](Treadwell)
+
+### Empire
+
+  * (1/14) 1 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
+  * (1/14) 1 data fragments of unlockable troop [Imperial Astromedic](R5Medic)
+  * (2/14) 2 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
+  * (2/14) 2 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
+  * (2/14) 2 data fragments of unlockable troop [Imperial Astromedic](R5Medic)
+  * (2/14) 2 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
+  * (2/14) 2 data fragments of unlockable troop [Kubaz Invader](KubazInvader)
+  * (2/14) 2 data fragments of unlockable troop [Shock Trooper](Shock)
+
+### Fallback for HQ level 10
+
+  * 225000 Credits
+
+### Fallback for HQ level 11
+
+  * 2500 Credits
+
+### Fallback for HQ level 6
+
+  * 50000 Credits
+
+### Fallback for HQ level 7
+
+  * 80000 Credits
+
+### Fallback for HQ level 8
+
+  * 110000 Credits
+
+### Fallback for HQ level 9
+
+  * 150000 Credits
 
 ## Pool "lcpool_currency_t9" (x1 draw)
 
