@@ -33,7 +33,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |Level                                             |10                                   |9                                    |8                                    |7                                    |6                                    |5                                    |4                                    |3                                    |2                                    |1                                    |
 |--------------------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
 |Eqp empire barracks summon heavy A ms per proc    |30s                                  |31s                                  |32s                                  |33s                                  |34s                                  |36s                                  |37s                                  |38s                                  |39s                                  |40s                                  |
-|Eqp empire barracks summon heavy A summon visitors|[Sniper Trooper level 6](Sniper.html)|[Sniper Trooper level 6](Sniper.html)|[Sniper Trooper level 6](Sniper.html)|[Sniper Trooper level 5](Sniper.html)|[Sniper Trooper level 5](Sniper.html)|[Sniper Trooper level 5](Sniper.html)|[Sniper Trooper level 5](Sniper.html)|[Sniper Trooper level 4](Sniper.html)|[Sniper Trooper level 4](Sniper.html)|[Sniper Trooper level 4](Sniper.html)|
+|Eqp empire barracks summon heavy A summon visitors|[Sniper Trooper level 4](Sniper.html)|[Sniper Trooper level 3](Sniper.html)|[Sniper Trooper level 3](Sniper.html)|[Sniper Trooper level 3](Sniper.html)|[Sniper Trooper level 2](Sniper.html)|[Sniper Trooper level 2](Sniper.html)|[Sniper Trooper level 2](Sniper.html)|[Sniper Trooper level 1](Sniper.html)|[Sniper Trooper level 1](Sniper.html)|[Sniper Trooper level 1](Sniper.html)|
 
 
   * Eqp empire barracks summon heavy A summon die with summoner: No
@@ -42,31 +42,6 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Eqp empire barracks summon heavy A summon spawn points: 0,0,0
   * Eqp empire barracks summon heavy A summon target summoner: No
   * Eqp empire barracks summon heavy A summon visitor type: Troop
-
-#### Modifier "Eqp empire barracks summon heavy B"
-
-  * Eqp empire barracks summon heavy B apply value as: absolute
-  * Eqp empire barracks summon heavy B buff ID: buffEqpEmpireBarracksSummonHeavyB
-  * Eqp empire barracks summon heavy B duration: permanent
-  * Eqp empire barracks summon heavy B modifier: summon
-  * Eqp empire barracks summon heavy B ms first proc: 3s
-  * Eqp empire barracks summon heavy B name: Eqp empire barracks summon heavy B
-  * Eqp empire barracks summon heavy B stack: 1
-  * Eqp empire barracks summon heavy B target: self
-  * Eqp empire barracks summon heavy B value: 1
-
-|Level                                             |10                                         |9                                          |8                                          |7                                          |6                                          |5                                          |4                                          |3                                          |2                                          |1                                          |
-|--------------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-|Eqp empire barracks summon heavy B ms per proc    |55s                                        |57s                                        |59s                                        |1m1s                                       |1m3s                                       |1m4s                                       |1m6s                                       |1m8s                                       |1m10s                                      |1m12s                                      |
-|Eqp empire barracks summon heavy B summon visitors|[Imperial Astromedic level 5](R5Medic.html)|[Imperial Astromedic level 5](R5Medic.html)|[Imperial Astromedic level 4](R5Medic.html)|[Imperial Astromedic level 4](R5Medic.html)|[Imperial Astromedic level 3](R5Medic.html)|[Imperial Astromedic level 3](R5Medic.html)|[Imperial Astromedic level 2](R5Medic.html)|[Imperial Astromedic level 2](R5Medic.html)|[Imperial Astromedic level 1](R5Medic.html)|[Imperial Astromedic level 1](R5Medic.html)|
-
-
-  * Eqp empire barracks summon heavy B summon die with summoner: No
-  * Eqp empire barracks summon heavy B summon max proc: 10
-  * Eqp empire barracks summon heavy B summon same team: Yes
-  * Eqp empire barracks summon heavy B summon spawn points: 0,0,0
-  * Eqp empire barracks summon heavy B summon target summoner: No
-  * Eqp empire barracks summon heavy B summon visitor type: Troop
 
 ### Upgrade stats
 

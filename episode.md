@@ -13,3 +13,4 @@ title: Index of episodes
   * [Heavy Firepower (ep_newHeroEvent)](ep_newHeroEvent.html)
   * [Naval Assault (ep_navalEvt)](ep_navalEvt.html)
   * [Undead Offensive (ep_undeadEvt)](ep_undeadEvt.html)
+  * [Guard Reserve Conflict Outbreak (ep_defRef_outbreak)](ep_defRef_outbreak.html)
