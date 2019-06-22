@@ -212,11 +212,12 @@ These are all sorts of user interface settings, that should not interfere with g
   * Unlocked by event: true
   * Unlocked by tournament: Yes
 
-|Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1             |
-|---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|
-|Displayed damage per second|8150       |7750       |7150       |6750       |6200       |5800       |5250       |4650       |3850       |3100          |
-|Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,-20-,0      |
-|Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.65,0.65,0.65|
+|Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1               |
+|---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|----------------|
+|Displayed damage per second|8150       |7750       |7150       |6750       |6200       |5800       |5250       |4650       |3850       |3100            |
+|Icon unlock position       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|-0.75,0.375,0.25|
+|Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|2.5,-21,-1.5    |
+|Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.6,0.6,0.6     |
 
 
 ## Uninterpreted stats
