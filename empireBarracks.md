@@ -64,13 +64,13 @@ These are all sorts of user interface settings, that should not interfere with g
   * Destruct FX: fx_debris_{0}x{1}
   * Stash order: 230
 
-|Level               |8-10                |7                   |6                   |5                   |4                   |3                   |2                   |1                   |
-|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|Asset name          |barracks_emp-mod-up8|barracks_emp-mod-up7|barracks_emp-mod-up6|barracks_emp-mod-up5|barracks_emp-mod-up4|barracks_emp-mod-up3|barracks_emp-mod-up2|barracks_emp-mod-up1|
-|Bundle name         |barracks_emp-mod-up8|barracks_emp-mod-up7|barracks_emp-mod-up6|barracks_emp-mod-up5|barracks_emp-mod-up4|barracks_emp-mod-up3|barracks_emp-mod-up2|barracks_emp-mod-up1|
-|Icon camera position|-50.51,41.92,41.7   |-50.51,41.92,41.7   |-27.84,27.67,44.85  |-27.84,27.67,44.85  |-27.84,27.67,44.85  |-27.84,27.67,44.85  |-27.84,27.67,44.85  |-27.84,27.67,44.85  |
-|Icon lookat position|0.28,1.29,-0.14     |0.28,1.29,-0.14     |-0.03,1.75,1.33     |-0.03,1.75,1.33     |-0.03,1.75,1.33     |-0.03,1.75,1.33     |-0.03,1.75,1.33     |-0.03,1.75,1.33     |
-|Store tab           |(not found)         |(not found)         |(not found)         |(not found)         |(not found)         |(not found)         |(not found)         |army                |
+|Level               |10                   |9                   |8                   |7                   |6                   |5                   |4                   |3                   |2                   |1                   |
+|--------------------|---------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|Asset name          |barracks_emp-mod-up10|barracks_emp-mod-up9|barracks_emp-mod-up8|barracks_emp-mod-up7|barracks_emp-mod-up6|barracks_emp-mod-up5|barracks_emp-mod-up4|barracks_emp-mod-up3|barracks_emp-mod-up2|barracks_emp-mod-up1|
+|Bundle name         |barracks_emp-mod-up10|barracks_emp-mod-up9|barracks_emp-mod-up8|barracks_emp-mod-up7|barracks_emp-mod-up6|barracks_emp-mod-up5|barracks_emp-mod-up4|barracks_emp-mod-up3|barracks_emp-mod-up2|barracks_emp-mod-up1|
+|Icon camera position|-50.51,41.92,41.7    |-50.51,41.92,41.7   |-50.51,41.92,41.7   |-50.51,41.92,41.7   |-27.84,27.67,44.85  |-27.84,27.67,44.85  |-27.84,27.67,44.85  |-27.84,27.67,44.85  |-27.84,27.67,44.85  |-27.84,27.67,44.85  |
+|Icon lookat position|0.28,1.29,-0.14      |0.28,1.29,-0.14     |0.28,1.29,-0.14     |0.28,1.29,-0.14     |-0.03,1.75,1.33     |-0.03,1.75,1.33     |-0.03,1.75,1.33     |-0.03,1.75,1.33     |-0.03,1.75,1.33     |-0.03,1.75,1.33     |
+|Store tab           |(not found)          |(not found)         |(not found)         |(not found)         |(not found)         |(not found)         |(not found)         |(not found)         |(not found)         |army                |
 
 
 ## Uninterpreted stats

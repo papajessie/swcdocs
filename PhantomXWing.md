@@ -117,9 +117,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Sum X wing target: enemies
   * Sum X wing value: 1
 
-|Level                     |10                                       |8-9                                     |6-7                                     |4-5                                     |1-3                                     |
-|--------------------------|-----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
-|Sum X wing summon visitors|[X-wing Starfighter level 10](XWing.html)|[X-wing Starfighter level 9](XWing.html)|[X-wing Starfighter level 8](XWing.html)|[X-wing Starfighter level 7](XWing.html)|[X-wing Starfighter level 6](XWing.html)|
+|Level                     |10                                                        |8-9                                                      |6-7                                                      |4-5                                                      |1-3                                                      |
+|--------------------------|----------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+|Sum X wing summon visitors|["shp_title_XWingEqpSummon" level 10](XWingEqpSummon.html)|["shp_title_XWingEqpSummon" level 9](XWingEqpSummon.html)|["shp_title_XWingEqpSummon" level 8](XWingEqpSummon.html)|["shp_title_XWingEqpSummon" level 7](XWingEqpSummon.html)|["shp_title_XWingEqpSummon" level 6](XWingEqpSummon.html)|
 
 
   * Sum X wing summon die with summoner: No

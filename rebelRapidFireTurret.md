@@ -60,7 +60,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 ### Shooting
 
   * Turret animation delay: 0s
-  * Turret charge time: 600ms
+  * Turret charge time: 515ms
   * Turret clip retargeting: Yes
   * Turret gun shooting sequence: 1,2
   * Turret impact delay: 250ms
@@ -77,12 +77,12 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |Level                                     |10  |9   |8   |7   |6   |5   |4   |3   |2  |1  |
 |------------------------------------------|----|----|----|----|----|----|----|----|---|---|
 |Turret displayed damage per second        |2250|2050|1900|1750|1600|1450|1200|900 |750|500|
-|Turret attack calculated damage per second|1351|1224|1099|974 |849 |724 |600 |451 |374|249|
+|Turret attack calculated damage per second|1398|1267|1137|1008|879 |750 |621 |467 |387|258|
 |Turret attack calculated damage per clip  |3378|3060|2748|2436|2124|1812|1500|1128|936|624|
 
 
   * Turret attack cannons per sequence: 2
-  * Turret attack cliptime: 2.500s
+  * Turret attack cliptime: 2.415s
   * Turret attack directional: Yes
   * Turret attack is deflectable: Yes
   * Turret attack max speed: 20

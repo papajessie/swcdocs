@@ -54,7 +54,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Turret max attack range: 9
   * Turret min attack range: 0
   * Turret target preference strength: 90
-  * Turret target preferences: **Turret droideka (60)**, **Turret flying infantry (60)**, **Turret flying vehicle (60)**, **Turret headquarters (60)**, **Turret heavy infantry (60)**, **Turret heavy vehicle (60)**, **Turret infantry (60)**, **Turret light vehicle (60)**, **Turret other building (60)**, **Turret ressource generator (60)**, **Turret storage (60)**, **Turret support troop (60)**, **Turret turret (60)**, Turret heavy infantry hero (1), Turret heavy vehicule hero (1), Turret infantry hero (1), Turret vehicule hero (1), Turret wall (1)
+  * Turret target preferences: **Turret flying infantry (80)**, **Turret heavy infantry (80)**, _Turret droideka (60)_, _Turret flying vehicle (60)_, _Turret headquarters (60)_, _Turret heavy vehicle (60)_, _Turret infantry (60)_, _Turret light vehicle (60)_, _Turret other building (60)_, _Turret ressource generator (60)_, _Turret storage (60)_, _Turret support troop (60)_, _Turret turret (60)_, Turret heavy infantry hero (1), Turret heavy vehicule hero (1), Turret infantry hero (1), Turret vehicule hero (1), Turret wall (1)
   * Turret view range: 10
 
 ### Shooting
@@ -69,16 +69,16 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Turret shot count: 8
   * Turret shot delay: 175ms
 
-|Level                 |10  |9   |8   |7   |6  |5  |4  |3  |2  |1  |
-|----------------------|----|----|----|----|---|---|---|---|---|---|
-|Turret damage per shot|1292|1177|1091|1005|919|832|689|517|431|287|
+|Level                 |10  |9   |8   |7   |6   |5  |4  |3  |2  |1  |
+|----------------------|----|----|----|----|----|---|---|---|---|---|
+|Turret damage per shot|1432|1305|1209|1114|1019|923|764|573|477|318|
 
 
-|Level                                     |10   |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|------------------------------------------|-----|----|----|----|----|----|----|----|----|----|
-|Turret displayed damage per second        |2475 |2255|2090|1926|1761|1594|1320|990 |825 |550 |
-|Turret attack calculated damage per second|2475 |2255|2090|1925|1760|1594|1320|990 |825 |549 |
-|Turret attack calculated damage per clip  |10336|9416|8728|8040|7352|6656|5512|4136|3448|2296|
+|Level                                     |10   |9    |8   |7   |6   |5   |4   |3   |2   |1   |
+|------------------------------------------|-----|-----|----|----|----|----|----|----|----|----|
+|Turret displayed damage per second        |2475 |2255 |2090|1926|1761|1594|1320|990 |825 |550 |
+|Turret attack calculated damage per second|2743 |2500 |2316|2134|1952|1768|1463|1097|914 |609 |
+|Turret attack calculated damage per clip  |11456|10440|9672|8912|8152|7384|6112|4584|3816|2544|
 
 
   * Turret attack cannons per sequence: 1
@@ -86,7 +86,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Turret attack directional: Yes
   * Turret attack is deflectable: Yes
   * Turret attack max speed: 10
-  * Turret attack damage multipliers: **(125)**: Turret attack heavy infantry, Turret attack heavy infantry hero, Turret attack heavy vehicle, Turret attack heavy vehicule hero, **(100)**: Turret attack droideka, Turret attack flying infantry, Turret attack flying vehicle, Turret attack headquarters, Turret attack infantry, Turret attack infantry hero, Turret attack light vehicle, Turret attack other building, Turret attack ressource generator, Turret attack shield, Turret attack shield generator, Turret attack storage, Turret attack support troop, Turret attack trap, Turret attack turret, Turret attack vehicule hero, Turret attack wall
+  * Turret attack damage multipliers: **(140)**: Turret attack flying infantry, Turret attack flying vehicle, **(125)**: Turret attack heavy infantry, Turret attack heavy infantry hero, Turret attack heavy vehicle, Turret attack heavy vehicule hero, **(100)**: Turret attack droideka, Turret attack headquarters, Turret attack infantry, Turret attack infantry hero, Turret attack light vehicle, Turret attack other building, Turret attack ressource generator, Turret attack shield, Turret attack shield generator, Turret attack storage, Turret attack support troop, Turret attack trap, Turret attack turret, Turret attack vehicule hero, Turret attack wall
   * Turret attack pass through shield: No
   * Turret attack salvos: 8
 
@@ -121,7 +121,7 @@ These are all sorts of user interface settings, that should not interfere with g
   * Turret attack muzzle flash: fx_blaster_flash_r_sm
   * Turret attack name: Empire Burst Turret
   * Turret attack spin speed: 0
-  * Turret favorite target type: infantry
+  * Turret favorite target type: bruiserInfantry
   * Turret gun position: "locator_gun":1
   * Turret max scale: 0
   * Turret tracker name: n/a

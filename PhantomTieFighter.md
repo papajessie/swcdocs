@@ -117,9 +117,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Sum tie fighter target: enemies
   * Sum tie fighter value: 1
 
-|Level                          |10                                     |8-9                                   |6-7                                   |4-5                                   |1-3                                   |
-|-------------------------------|---------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-|Sum tie fighter summon visitors|[TIE fighter level 10](TieFighter.html)|[TIE fighter level 9](TieFighter.html)|[TIE fighter level 8](TieFighter.html)|[TIE fighter level 7](TieFighter.html)|[TIE fighter level 6](TieFighter.html)|
+|Level                          |10                                                                  |8-9                                                                |6-7                                                                |4-5                                                                |1-3                                                                |
+|-------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+|Sum tie fighter summon visitors|["shp_title_TieFighterEqpSummon" level 10](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 9](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 8](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 7](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 6](TieFighterEqpSummon.html)|
 
 
   * Sum tie fighter summon die with summoner: No
