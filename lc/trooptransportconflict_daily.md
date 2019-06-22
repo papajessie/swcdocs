@@ -1763,19 +1763,19 @@ This crate expires after 7d. The contents are one draw from each of the 4 pools.
 
 ## Pool "lcpool_trooptransportconflict_daily" (x1 draw)
 
-### Rebellion
-
-  * (1/5) 1 data fragments of unlockable troop [A-A5 Speeder Truck](RebelTransportVehicle)
-  * (1/5) 2 data fragments of equipment [Stolen TX-225](eqpRebelHovertank)
-  * (1/5) 2 troop sample [TX-225](EmpireHovertankSample)
-  * (2/5) 2 troop sample [A-A5 Speeder Truck](RebelTransportVehicle)
-
 ### Empire
 
   * (1/5) 1 data fragments of unlockable troop [Imperial Troop Transport](EmpireTransportVehicle)
   * (1/5) 2 data fragments of equipment [TX-225](eqpEmpireHovertank)
-  * (1/5) 2 troop sample [Stolen TX-225](RebelHovertankSample)
+  * (1/5) 2 troop sample [TX-225](EmpireHovertankSample)
   * (2/5) 2 troop sample [Imperial Troop Transport](EmpireTransportVehicle)
+
+### Rebellion
+
+  * (1/5) 1 data fragments of unlockable troop [A-A5 Speeder Truck](RebelTransportVehicle)
+  * (1/5) 2 data fragments of equipment [Stolen TX-225](eqpRebelHovertank)
+  * (1/5) 2 troop sample [Stolen TX-225](RebelHovertankSample)
+  * (2/5) 2 troop sample [A-A5 Speeder Truck](RebelTransportVehicle)
 
 ### Fallback for HQ level 10
 
