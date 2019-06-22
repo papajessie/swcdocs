@@ -86,11 +86,11 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Projectile
 
-|Level                       |10      |9       |8       |7       |6       |5       |4       |3       |2       |1       |
-|----------------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-|Displayed damage per second |3253.333|3157.778|3082.222|3008.889|2877.778|2857.778|2837.778|2817.778|2762.222|2746.667|
-|Calculated damage per second|3253    |3157    |3082    |3008    |2877    |2857    |2837    |2817    |2762    |2746    |
-|Calculated damage per cycle |10248   |9947    |9709    |9478    |9065    |9002    |8939    |8876    |8701    |8652    |
+|Level                       |10   |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|----------------------------|-----|----|----|----|----|----|----|----|----|----|
+|Displayed damage per second |3253 |3158|3082|3009|2878|2858|2838|2818|2762|2747|
+|Calculated damage per second|3253 |3157|3082|3008|2877|2857|2837|2817|2762|2746|
+|Calculated damage per cycle |10248|9947|9709|9478|9065|9002|8939|8876|8701|8652|
 
 
   * Cannons per sequence: 1
@@ -142,7 +142,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Displayed damage per second|3253.333   |3157.778   |3082.222   |3008.889   |2877.778   |2857.778   |2837.778   |2817.778   |2762.222   |2746.667   |
+|Displayed damage per second|3253       |3158       |3082       |3009       |2878       |2858       |2838       |2818       |2762       |2747       |
 |Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1.2,1.2,1.2|
 
 

@@ -93,17 +93,27 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
 ### Empire
 
-  * (1/4) 1 data fragments of equipment [Guard Reserve Anti-infantry](eqpEmpireFactorySummonLight)
-  * (1/4) 1 data fragments of equipment [Guard Reserve Light Infantry](eqpEmpireBarracksSummonLight)
-  * (1/4) 1 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
-  * (1/4) 1 data fragments of unlockable troop [Shock Trooper](Shock)
+  * (1/15) 1 data fragments of equipment [Guard Reserve Anti-infantry](eqpEmpireFactorySummonLight)
+  * (1/15) 1 data fragments of equipment [Guard Reserve Light Infantry](eqpEmpireBarracksSummonLight)
+  * (1/15) 1 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
+  * (1/15) 1 data fragments of unlockable troop [Shock Trooper](Shock)
+  * (2/15) 1 troop sample [Shock Trooper](Shock)
+  * (2/15) 2 troop sample [Johhar Kessen](EmpireJohhar)
+  * (2/15) 2 troop sample [Shock Trooper](Shock)
+  * (2/15) 3 troop sample [Johhar Kessen](EmpireJohhar)
+  * (3/15) 2 troop sample [IG-86 Assassin Droid](IG86Droid)
 
 ### Rebellion
 
-  * (1/4) 1 data fragments of equipment [Guard Reserve Anti-infantry](eqpRebelFactorySummonLight)
-  * (1/4) 1 data fragments of equipment [Guard Reserve Light Infantry](eqpRebelBarracksSummonLight)
-  * (1/4) 1 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
-  * (1/4) 1 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
+  * (1/15) 1 data fragments of equipment [Guard Reserve Anti-infantry](eqpRebelFactorySummonLight)
+  * (1/15) 1 data fragments of equipment [Guard Reserve Light Infantry](eqpRebelBarracksSummonLight)
+  * (1/15) 1 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
+  * (1/15) 1 data fragments of unlockable troop [Rebel Vanguard](Vanguard)
+  * (2/15) 1 troop sample [Rebel Vanguard](Vanguard)
+  * (2/15) 2 troop sample [Johhar Kessen](RebelJohhar)
+  * (2/15) 2 troop sample [Rebel Vanguard](Vanguard)
+  * (2/15) 3 troop sample [Johhar Kessen](RebelJohhar)
+  * (3/15) 2 troop sample [Iakaru Warrior](IakaruWarrior)
 
 ### Fallback for HQ level 10
 
