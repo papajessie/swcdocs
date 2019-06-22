@@ -5454,8 +5454,10 @@ category: strings
     hn_cc_1_adcolonytest_title 'ADCOLONY TEST'
     hn_cc_1_alloy_sale_body 'Alloy is on sale for a limited time. Buy alloy for a discounted price in the shop or when upgrading buildings. Don’t miss out on this special deal!'
     hn_cc_1_alloy_sale_title 'Limited Time Alloy Sale!'
+    hn_cc_1_amazon_body 'Star Wars™: Commander will no longer be playable on Amazon devices starting on January 7, 2019. While you can continue to play until then, we are no longer accepting payments from Amazon devices. To continue playing the game on iOS, Android or Facebook Gameroom, please Facebook connect in-game on your Amazon device before January 7, then Facebook connect in-game on your platform of choice. Thank you.'
     hn_cc_1_amazon_rc21_bonus_body 'Celebrate Amazon Digital Deals Day! Purchase select crates from the Store today and get 2x value!'
     hn_cc_1_amazon_rc21_bonus_title 'Special Amazon Offer!'
+    hn_cc_1_amazon_title 'Amazon Service Ending Soon'
     hn_cc_1_android_rc21_bonus_body 'Celebrate the end of the year with Google Play! Purchase select crates from the Store before 1/6 and get 2x value!'
     hn_cc_1_android_rc21_bonus_title 'Special Google Play Offer!'
     hn_cc_1_anh40_HQ2-5_announce_e_body '[c][FFB74A]Star Wars: 40th Anniversary[-][/c] event run from 4/19 to 5/17!\nCollect Death Star Crates and earn Data Fragments for the trap-hunting Shock Trooper and sniper hero Johhar Kessen.'
@@ -6998,6 +7000,7 @@ category: strings
     hn_open_devnotes 'Dev Notes'
     hn_open_episode 'Go To Event'
     hn_open_erk "Go to Er'Kit"
+    hn_open_facebook_connect 'Facebook Connect'
     hn_open_galaxy 'Go to Galaxy'
     hn_open_home 'Go to Base'
     hn_open_hth 'Go to Hoth'
