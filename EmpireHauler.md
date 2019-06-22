@@ -70,13 +70,13 @@ These are all sorts of user interface settings, that should not interfere with g
   * Unit rotation: 3.14159260000000006840537025709636509418487548828125
   * Unlocked by event: true
 
-|Level                      |10                     |9                      |8                      |7                  |6                  |5                  |4                  |3                  |2                  |1                  |
-|---------------------------|-----------------------|-----------------------|-----------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
-|Attachment asset           |haulercargoatat_emp-ani|haulercargoatat_emp-ani|haulercargoatat_emp-ani|haulercargo_emp-mod|haulercargo_emp-mod|haulercargo_emp-mod|haulercargo_emp-mod|haulercargo_emp-mod|haulercargo_emp-mod|haulercargo_emp-mod|
-|Displayed damage per second|5400                   |5070                   |4770                   |4440               |4110               |3780               |3480               |3150               |2820               |2490               |
-|Icon unlock position       |(not found)            |(not found)            |(not found)            |(not found)        |(not found)        |(not found)        |(not found)        |(not found)        |(not found)        |-2,-109.3,-30.3    |
-|Icon unlock rotation       |(not found)            |(not found)            |(not found)            |(not found)        |(not found)        |(not found)        |(not found)        |(not found)        |(not found)        |-5.5,100.8,1.25    |
-|Icon unlock scale          |(not found)            |(not found)            |(not found)            |(not found)        |(not found)        |(not found)        |(not found)        |(not found)        |(not found)        |1.3,1.3,1.3        |
+|Level                      |10                     |9                      |8                      |7                      |6                      |5                  |4                  |3                  |2                  |1                  |
+|---------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+|Attachment asset           |haulercargoatat_emp-ani|haulercargoatat_emp-ani|haulercargoatat_emp-ani|haulercargoatat_emp-ani|haulercargoatat_emp-ani|haulercargo_emp-mod|haulercargo_emp-mod|haulercargo_emp-mod|haulercargo_emp-mod|haulercargo_emp-mod|
+|Displayed damage per second|5400                   |5070                   |4770                   |4440                   |4110                   |3780               |3480               |3150               |2820               |2490               |
+|Icon unlock position       |(not found)            |(not found)            |(not found)            |(not found)            |(not found)            |(not found)        |(not found)        |(not found)        |(not found)        |-2,-109.3,-30.3    |
+|Icon unlock rotation       |(not found)            |(not found)            |(not found)            |(not found)            |(not found)            |(not found)        |(not found)        |(not found)        |(not found)        |-5.5,100.8,1.25    |
+|Icon unlock scale          |(not found)            |(not found)            |(not found)            |(not found)            |(not found)            |(not found)        |(not found)        |(not found)        |(not found)        |1.3,1.3,1.3        |
 
 
 ## Uninterpreted stats

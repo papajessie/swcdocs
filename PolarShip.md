@@ -83,34 +83,34 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Reload time: 500ms
   * Self-centered targeting: No
   * Shot count: 3
-  * Shot delay: 300ms
   * Target locking: No
 
-|Level          |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
-|---------------|---|---|---|---|---|---|---|---|---|---|
-|Damage per shot|790|765|740|720|680|545|510|495|480|460|
+|Level          |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Damage per shot|790  |765  |740  |720  |680  |545  |510  |495  |480  |460  |
+|Shot delay     |200ms|200ms|200ms|200ms|300ms|300ms|300ms|300ms|300ms|300ms|
 
 
 ### Projectile
 
 |Level                       |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |1650|1580|1520|1460|1090|1050|1010|970 |930 |900 |
-|Calculated damage per second|1755|1700|1644|1600|1511|1211|1133|1100|1066|1022|
+|Displayed damage per second |2060|2000|1930|1880|1510|1210|1130|1100|1070|1020|
+|Calculated damage per second|2060|1995|1930|1878|1511|1211|1133|1100|1066|1022|
 |Calculated damage per cycle |2370|2295|2220|2160|2040|1635|1530|1485|1440|1380|
 
 
   * Cannons per sequence: 2
-  * Shooting cycle duration: 1.350s
   * Directional: Yes
   * Is deflectable: Yes
   * Max speed: 18
   * Pass through shield: No
   * Salvos: 3
 
-|Level             |7-10                                                                                                                                                                                                                                                                                                                                                                                            |1-6                                                                                                                                                                                                                                                                                                                                                    |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Damage multipliers|**(250)**: Flying infantry, Infantry, Support troop, **(225)**: Flying vehicle, Light vehicle, **(200)**: Heavy vehicle, **(175)**: Heavy infantry, **(100)**: Droideka, Heavy infantry hero, Heavy vehicule hero, Infantry hero, Vehicule hero, **(75)**: Wall, **(50)**: Headquarters, **(25)**: Other building, Ressource generator, Shield, Shield generator, Storage, Turret, **(0)**: Trap|**(150)**: Flying infantry, Infantry, Infantry hero, Support troop, **(125)**: Heavy infantry, Heavy infantry hero, **(100)**: Droideka, Headquarters, Other building, Ressource generator, Shield, Shield generator, Storage, Trap, Turret, Wall, **(75)**: Flying vehicle, Light vehicle, Vehicule hero, **(50)**: Heavy vehicle, Heavy vehicule hero|
+|Level                  |7-10                                                                                                                                                                                                                                                                                                                                                                                            |1-6                                                                                                                                                                                                                                                                                                                                                    |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Shooting cycle duration|1.150s                                                                                                                                                                                                                                                                                                                                                                                          |1.350s                                                                                                                                                                                                                                                                                                                                                 |
+|Damage multipliers     |**(250)**: Flying infantry, Infantry, Support troop, **(225)**: Flying vehicle, Light vehicle, **(200)**: Heavy vehicle, **(175)**: Heavy infantry, **(100)**: Droideka, Heavy infantry hero, Heavy vehicule hero, Infantry hero, Vehicule hero, **(75)**: Wall, **(50)**: Headquarters, **(25)**: Other building, Ressource generator, Shield, Shield generator, Storage, Turret, **(0)**: Trap|**(150)**: Flying infantry, Infantry, Infantry hero, Support troop, **(125)**: Heavy infantry, Heavy infantry hero, **(100)**: Droideka, Headquarters, Other building, Ressource generator, Shield, Shield generator, Storage, Trap, Turret, Wall, **(75)**: Flying vehicle, Light vehicle, Vehicule hero, **(50)**: Heavy vehicle, Heavy vehicule hero|
 
 
 ## Internal stats
@@ -155,7 +155,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10                        |9                         |8                         |7                         |6               |5               |4               |3               |2               |1               |
 |---------------------------|--------------------------|--------------------------|--------------------------|--------------------------|----------------|----------------|----------------|----------------|----------------|----------------|
-|Displayed damage per second|1650                      |1580                      |1520                      |1460                      |1090            |1050            |1010            |970             |930             |900             |
+|Displayed damage per second|2060                      |2000                      |1930                      |1880                      |1510            |1210            |1130            |1100            |1070            |1020            |
 |Name                       |Rebel Speeder Bike Upgrade|Rebel Speeder Bike Upgrade|Rebel Speeder Bike Upgrade|Rebel Speeder Bike Upgrade|T7-V Speederbike|T7-V Speederbike|T7-V Speederbike|T7-V Speederbike|T7-V Speederbike|T7-V Speederbike|
 
 
