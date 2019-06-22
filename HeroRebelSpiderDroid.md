@@ -88,7 +88,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
 |----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Displayed damage per second |6000 |9315 |8935 |8560 |8185 |7805 |7430 |7050 |6675 |6295 |5920 |
+|Displayed damage per second |9690 |9315 |8935 |8560 |8185 |7805 |7430 |7050 |6675 |6295 |5920 |
 |Calculated damage per second|8152 |7958 |7635 |7313 |6990 |6669 |6347 |6024 |5701 |5381 |5058 |
 |Calculated damage per cycle |16794|16395|15730|15065|14400|13740|13075|12410|11745|11085|10420|
 
@@ -232,7 +232,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1             |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|
 |Deploy vfx                 |vfx_prestige_deploy_small_reb|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)   |
-|Displayed damage per second|6000                         |9315       |8935       |8560       |8185       |7805       |7430       |7050       |6675       |6295       |5920          |
+|Displayed damage per second|9690                         |9315       |8935       |8560       |8185       |7805       |7430       |7050       |6675       |6295       |5920          |
 |Icon unlock position       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
 |Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
 |Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.75,0.75,0.75|

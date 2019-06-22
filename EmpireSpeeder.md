@@ -95,7 +95,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1  |
 |----------------------------|----|----|----|----|----|----|----|----|----|----|---|
-|Displayed damage per second |1520|1980|1850|1740|1620|1270|1190|1110|1050|980 |920|
+|Displayed damage per second |2190|1980|1850|1740|1620|1270|1190|1110|1050|980 |920|
 |Calculated damage per second|4105|3954|3702|3474|3245|1266|1190|1114|1047|980 |923|
 |Calculated damage per cycle |3592|3460|3240|3040|2840|1330|1250|1170|1100|1030|970|
 
@@ -146,7 +146,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10                         |9                          |8                          |7                          |6               |5               |4               |3               |2               |1               |
 |---------------------------|-----------------------------|---------------------------|---------------------------|---------------------------|---------------------------|----------------|----------------|----------------|----------------|----------------|----------------|
 |Deploy vfx                 |vfx_prestige_deploy_large_emp|(not found)                |(not found)                |(not found)                |(not found)                |(not found)     |(not found)     |(not found)     |(not found)     |(not found)     |(not found)     |
-|Displayed damage per second|1520                         |1980                       |1850                       |1740                       |1620                       |1270            |1190            |1110            |1050            |980             |920             |
+|Displayed damage per second|2190                         |1980                       |1850                       |1740                       |1620                       |1270            |1190            |1110            |1050            |980             |920             |
 |Name                       |Empire Speeder Bike Upgrade  |Empire Speeder Bike Upgrade|Empire Speeder Bike Upgrade|Empire Speeder Bike Upgrade|Empire Speeder Bike Upgrade|T7-E Speederbike|T7-E Speederbike|T7-E Speederbike|T7-E Speederbike|T7-E Speederbike|T7-E Speederbike|
 |Prestige                   |true                         |(not found)                |(not found)                |(not found)                |(not found)                |(not found)     |(not found)     |(not found)     |(not found)     |(not found)     |(not found)     |
 

@@ -93,11 +93,11 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Projectile
 
-|Level                       |11  |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
-|----------------------------|----|---|---|---|---|---|---|---|---|---|---|
-|Displayed damage per second |1910|360|330|310|280|270|250|240|220|210|190|
-|Calculated damage per second|379 |361|333|314|285|266|247|238|219|209|190|
-|Calculated damage per cycle |398 |380|350|330|300|280|260|250|230|220|200|
+|Level                       |11 |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
+|----------------------------|---|---|---|---|---|---|---|---|---|---|---|
+|Displayed damage per second |380|360|330|310|280|270|250|240|220|210|190|
+|Calculated damage per second|379|361|333|314|285|266|247|238|219|209|190|
+|Calculated damage per cycle |398|380|350|330|300|280|260|250|230|220|200|
 
 
   * Cannons per sequence: 1
@@ -146,7 +146,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|1910                         |360        |330        |310        |280        |270        |250        |240        |220        |210        |190        |
+|Displayed damage per second|380                          |360        |330        |310        |280        |270        |250        |240        |220        |210        |190        |
 |Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 
 

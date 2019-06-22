@@ -91,7 +91,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
 |----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Displayed damage per second |9315 |6000 |5200 |4800 |4400 |4000 |3599 |3200 |2800 |2400 |2000 |
+|Displayed damage per second |6320 |6000 |5200 |4800 |4400 |4000 |3600 |3200 |2800 |2400 |2000 |
 |Calculated damage per second|6321 |6083 |5686 |5316 |4966 |4643 |4430 |4227 |4024 |3812 |3600 |
 |Calculated damage per cycle |20544|19770|18480|17280|16140|15090|14400|13740|13080|12390|11700|
 
@@ -228,7 +228,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|9315                         |6000       |5200       |4800       |4400       |4000       |3599       |3200       |2800       |2400       |2000       |
+|Displayed damage per second|6320                         |6000       |5200       |4800       |4400       |4000       |3600       |3200       |2800       |2400       |2000       |
 |Icon unlock position       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0      |
 |Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0      |
 |Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1,1,1      |

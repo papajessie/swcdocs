@@ -32,7 +32,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |-------------|----------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------|
 |Training time|30s                                     |30s                                     |30s                                    |29s                                    |29s                                    |28s                                    |28s                                    |28s                                    |27s                                    |27s                                    |26s                              |
 |Training cost|240$                                    |230$                                    |220$                                   |210$                                   |210$                                   |200$                                   |200$                                   |190$                                   |170$                                   |160$                                   |150$                             |
-|Building     |[Research Lab 11](empireOffenseLab.html)|[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Barracks 2](empireBarracks.html)|
+|Building     |[Research Lab 11](empireOffenseLab.html)|[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Barracks 1](empireBarracks.html)|
 
 
 ### Upgrading stats
@@ -116,7 +116,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|----|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |1440|360 |330 |310 |280 |270 |250 |240 |220 |210 |190 |
+|Displayed damage per second |390 |360 |330 |310 |280 |270 |250 |240 |220 |210 |190 |
 |Calculated damage per second|1382|1344|1282|1220|1158|1096|1055|993 |951 |910 |868 |
 |Calculated damage per cycle |2004|1950|1860|1770|1680|1590|1530|1440|1380|1320|1260|
 
@@ -181,7 +181,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1             |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|
 |Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)   |
-|Displayed damage per second|1440                         |360        |330        |310        |280        |270        |250        |240        |220        |210        |190           |
+|Displayed damage per second|390                          |360        |330        |310        |280        |270        |250        |240        |220        |210        |190           |
 |Icon unlock position       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
 |Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
 |Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1.25,1.25,1.25|

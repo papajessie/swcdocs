@@ -89,11 +89,11 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Projectile
 
-|Level                       |11   |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|----------------------------|-----|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |24631|7800|6760|6240|5720|5200|4680|4160|3640|3120|2600|
-|Calculated damage per second|4412 |4085|3540|3268|2996|2723|2451|2179|1906|1634|1361|
-|Calculated damage per cycle |9266 |8580|7436|6864|6292|5720|5148|4576|4004|3432|2860|
+|Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|----------------------------|----|----|----|----|----|----|----|----|----|----|----|
+|Displayed damage per second |9080|7800|6760|6240|5720|5200|4680|4160|3640|3120|2600|
+|Calculated damage per second|4412|4085|3540|3268|2996|2723|2451|2179|1906|1634|1361|
+|Calculated damage per cycle |9266|8580|7436|6864|6292|5720|5148|4576|4004|3432|2860|
 
 
   * Cannons per sequence: 1
@@ -148,7 +148,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|24631                        |7800       |6760       |6240       |5720       |5200       |4680       |4160       |3640       |3120       |2600       |
+|Displayed damage per second|9080                         |7800       |6760       |6240       |5720       |5200       |4680       |4160       |3640       |3120       |2600       |
 |Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 
 

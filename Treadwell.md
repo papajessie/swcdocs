@@ -32,7 +32,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |-------------|---------------------------------------|---------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------|
 |Training time|2m4s                                   |2m                                     |1m56s                                 |1m52s                                 |1m48s                                 |1m44s                                 |1m40s                                 |1m36s                                 |1m32s                                 |1m28s                                 |1m20s                           |
 |Training cost|1000$                                  |920$                                   |840$                                  |800$                                  |680$                                  |600$                                  |520$                                  |440$                                  |360$                                  |280$                                  |200$                            |
-|Building     |[Research Lab 11](rebelOffenseLab.html)|[Research Lab 10](rebelOffenseLab.html)|[Research Lab 9](rebelOffenseLab.html)|[Research Lab 8](rebelOffenseLab.html)|[Research Lab 7](rebelOffenseLab.html)|[Research Lab 6](rebelOffenseLab.html)|[Research Lab 5](rebelOffenseLab.html)|[Research Lab 4](rebelOffenseLab.html)|[Research Lab 3](rebelOffenseLab.html)|[Research Lab 2](rebelOffenseLab.html)|[Barracks 2](rebelBarracks.html)|
+|Building     |[Research Lab 11](rebelOffenseLab.html)|[Research Lab 10](rebelOffenseLab.html)|[Research Lab 9](rebelOffenseLab.html)|[Research Lab 8](rebelOffenseLab.html)|[Research Lab 7](rebelOffenseLab.html)|[Research Lab 6](rebelOffenseLab.html)|[Research Lab 5](rebelOffenseLab.html)|[Research Lab 4](rebelOffenseLab.html)|[Research Lab 3](rebelOffenseLab.html)|[Research Lab 2](rebelOffenseLab.html)|[Barracks 1](rebelBarracks.html)|
 
 
 ### Upgrading stats
@@ -87,9 +87,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Calculated damage per cycle: 0
   * Splash damage percentages: 100,100,100,100
 
-|Level                      |11 |10  |9   |8   |7   |6   |5   |4   |3  |2  |1  |
-|---------------------------|---|----|----|----|----|----|----|----|---|---|---|
-|Displayed damage per second|144|1440|1330|1230|1180|1130|1070|1020|970|910|860|
+|Level                      |11  |10  |9   |8   |7   |6   |5   |4   |3  |2  |1  |
+|---------------------------|----|----|----|----|----|----|----|----|---|---|---|
+|Displayed damage per second|1493|1440|1330|1230|1180|1130|1070|1020|970|910|860|
 
 
   * Cannons per sequence: 1
@@ -165,7 +165,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_small_reb|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|144                          |1440       |1330       |1230       |1180       |1130       |1070       |1020       |970        |910        |860        |
+|Displayed damage per second|1493                         |1440       |1330       |1230       |1180       |1130       |1070       |1020       |970        |910        |860        |
 |Icon unlock position       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0      |
 |Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0      |
 |Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1,1,1      |

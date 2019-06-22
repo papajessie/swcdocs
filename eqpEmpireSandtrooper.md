@@ -366,7 +366,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11.10|11.09|11.08|11.07|11.06|11.05|11.04|11.03|11.02|11.01|
 |----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Displayed damage per second |300  |300  |300  |300  |300  |300  |300  |300  |300  |300  |
+|Displayed damage per second |880  |880  |880  |880  |880  |880  |880  |880  |880  |880  |
 |Calculated damage per second|3710 |3546 |3396 |3246 |3096 |2946 |2810 |2675 |2553 |2450 |
 |Calculated damage per cycle |5195 |4965 |4755 |4545 |4335 |4125 |3935 |3745 |3575 |3430 |
 
@@ -419,7 +419,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Decal asset name           |(not found)                  |troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|
 |Decal bundle name          |(not found)                  |troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|
 |Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |
-|Displayed damage per second|300                          |835               |724               |668               |612               |557               |501               |445               |390               |362               |302               |
+|Displayed damage per second|880                          |835               |724               |668               |612               |557               |501               |445               |390               |362               |302               |
 |Prestige                   |true                         |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |
 
 

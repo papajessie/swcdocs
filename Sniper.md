@@ -93,7 +93,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|----|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |3340|2310|2002|1848|1694|1540|1386|1232|1078|924 |770 |
+|Displayed damage per second |2430|2310|2002|1848|1694|1540|1386|1232|1078|924 |770 |
 |Calculated damage per second|2495|2310|2002|1848|1694|1540|1386|1232|1078|924 |770 |
 |Calculated damage per cycle |8109|7509|6507|6006|5508|5007|4506|4005|3504|3003|2505|
 
@@ -143,7 +143,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|3340                         |2310       |2002       |1848       |1694       |1540       |1386       |1232       |1078       |924        |770        |
+|Displayed damage per second|2430                         |2310       |2002       |1848       |1694       |1540       |1386       |1232       |1078       |924        |770        |
 |Favorite target type       |heroes                       |infantry   |infantry   |infantry   |infantry   |infantry   |infantry   |infantry   |infantry   |infantry   |infantry   |
 |Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 

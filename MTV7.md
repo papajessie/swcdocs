@@ -89,7 +89,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|----|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |2262|3290|3140|3000|2860|2730|2610|2490|2380|2280|2184|
+|Displayed damage per second |3420|3290|3140|3000|2860|2730|2610|2490|2380|2280|2184|
 |Calculated damage per second|3219|3133|2990|2857|2723|2600|2485|2371|2266|2171|2080|
 |Calculated damage per cycle |3380|3290|3140|3000|2860|2730|2610|2490|2380|2280|2184|
 
@@ -226,7 +226,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_large_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|2262                         |3290       |3140       |3000       |2860       |2730       |2610       |2490       |2380       |2280       |2184       |
+|Displayed damage per second|3420                         |3290       |3140       |3000       |2860       |2730       |2610       |2490       |2380       |2280       |2184       |
 |Icon unlock position       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0      |
 |Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0      |
 |Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1,1,1      |

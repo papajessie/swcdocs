@@ -91,7 +91,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|----|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |3600|1690|1620|1530|1460|1390|1350|1280|1230|1170|1120|
+|Displayed damage per second |1770|1690|1620|1530|1460|1390|1350|1280|1230|1170|1120|
 |Calculated damage per second|1732|1691|1622|1531|1462|1394|1348|1280|1234|1165|1120|
 |Calculated damage per cycle |3032|2960|2840|2680|2560|2440|2360|2240|2160|2040|1960|
 
@@ -140,7 +140,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|3600                         |1690       |1620       |1530       |1460       |1390       |1350       |1280       |1230       |1170       |1120       |
+|Displayed damage per second|1770                         |1690       |1620       |1530       |1460       |1390       |1350       |1280       |1230       |1170       |1120       |
 |Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 
 

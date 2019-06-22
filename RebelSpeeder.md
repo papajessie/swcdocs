@@ -95,7 +95,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|----|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |1465|1650|1580|1520|1460|1090|1050|1010|970 |930 |900 |
+|Displayed damage per second |1830|1650|1580|1520|1460|1090|1050|1010|970 |930 |900 |
 |Calculated damage per second|1686|1645|1577|1520|1462|1093|1048|1013|968 |933 |897 |
 |Calculated damage per cycle |2952|2880|2760|2660|2560|2460|2360|2280|2180|2100|2020|
 
@@ -146,7 +146,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10                        |9                         |8                         |7                         |6               |5               |4               |3               |2               |1               |
 |---------------------------|-----------------------------|--------------------------|--------------------------|--------------------------|--------------------------|----------------|----------------|----------------|----------------|----------------|----------------|
 |Deploy vfx                 |vfx_prestige_deploy_small_reb|(not found)               |(not found)               |(not found)               |(not found)               |(not found)     |(not found)     |(not found)     |(not found)     |(not found)     |(not found)     |
-|Displayed damage per second|1465                         |1650                      |1580                      |1520                      |1460                      |1090            |1050            |1010            |970             |930             |900             |
+|Displayed damage per second|1830                         |1650                      |1580                      |1520                      |1460                      |1090            |1050            |1010            |970             |930             |900             |
 |Name                       |Rebel Speeder Bike Upgrade   |Rebel Speeder Bike Upgrade|Rebel Speeder Bike Upgrade|Rebel Speeder Bike Upgrade|Rebel Speeder Bike Upgrade|T7-V Speederbike|T7-V Speederbike|T7-V Speederbike|T7-V Speederbike|T7-V Speederbike|T7-V Speederbike|
 |Prestige                   |true                         |(not found)               |(not found)               |(not found)               |(not found)               |(not found)     |(not found)     |(not found)     |(not found)     |(not found)     |(not found)     |
 

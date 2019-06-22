@@ -90,7 +90,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
 |----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Displayed damage per second |630  |6038 |5663 |5288 |4913 |4538 |4163 |3788 |3413 |3038 |
+|Displayed damage per second |6038 |6038 |5663 |5288 |4913 |4538 |4163 |3788 |3413 |3038 |
 |Calculated damage per second|4502 |4261 |4021 |3780 |3540 |3300 |3059 |2818 |2578 |2337 |
 |Calculated damage per cycle |20710|19604|18498|17392|16286|15180|14072|12966|11860|10754|
 
@@ -142,12 +142,12 @@ These are all sorts of user interface settings, that should not interfere with g
   * Targeted type: ENEMIES
   * Unlocked by event: true
 
-|Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
-|---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Displayed damage per second|630        |6038       |5663       |5288       |4913       |4538       |4163       |3788       |3413       |3038       |
-|Icon unlock position       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,-0.75,0  |
-|Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,-30,0    |
-|Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.6,0.6,0.6|
+|Level                      |9-10       |8          |7          |6          |5          |4          |3          |2          |1          |
+|---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|Displayed damage per second|6038       |5663       |5288       |4913       |4538       |4163       |3788       |3413       |3038       |
+|Icon unlock position       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,-0.75,0  |
+|Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,-30,0    |
+|Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.6,0.6,0.6|
 
 
 ## Uninterpreted stats

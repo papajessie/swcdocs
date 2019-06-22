@@ -91,7 +91,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11  |10  |9   |8  |7  |6  |5  |4  |3  |2  |1  |
 |----------------------------|----|----|----|---|---|---|---|---|---|---|---|
-|Displayed damage per second |300 |835 |724 |668|612|557|501|445|390|362|302|
+|Displayed damage per second |880 |835 |724 |668|612|557|501|445|390|362|302|
 |Calculated damage per second|902 |835 |724 |668|612|557|501|445|390|362|302|
 |Calculated damage per cycle |1263|1170|1014|936|858|780|702|624|546|507|423|
 
@@ -144,7 +144,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Decal asset name           |(not found)                  |troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|
 |Decal bundle name          |(not found)                  |troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|troop_stotrper_emp|
 |Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |
-|Displayed damage per second|300                          |835               |724               |668               |612               |557               |501               |445               |390               |362               |302               |
+|Displayed damage per second|880                          |835               |724               |668               |612               |557               |501               |445               |390               |362               |302               |
 |Prestige                   |true                         |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |(not found)       |
 
 

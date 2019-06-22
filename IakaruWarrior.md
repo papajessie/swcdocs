@@ -32,7 +32,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |-------------|---------------------------------------|---------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------|
 |Training time|2m35s                                  |2m30s                                  |2m25s                                 |2m20s                                 |2m15s                                 |2m10s                                 |2m5s                                  |2m                                    |1m55s                                 |1m50s                                 |1m45s                           |
 |Training cost|3125$                                  |2875$                                  |2625$                                 |2500$                                 |2125$                                 |1875$                                 |1625$                                 |1375$                                 |1125$                                 |875$                                  |625$                            |
-|Building     |[Research Lab 11](rebelOffenseLab.html)|[Research Lab 10](rebelOffenseLab.html)|[Research Lab 9](rebelOffenseLab.html)|[Research Lab 8](rebelOffenseLab.html)|[Research Lab 7](rebelOffenseLab.html)|[Research Lab 6](rebelOffenseLab.html)|[Research Lab 5](rebelOffenseLab.html)|[Research Lab 4](rebelOffenseLab.html)|[Research Lab 3](rebelOffenseLab.html)|[Research Lab 2](rebelOffenseLab.html)|[Barracks 2](rebelBarracks.html)|
+|Building     |[Research Lab 11](rebelOffenseLab.html)|[Research Lab 10](rebelOffenseLab.html)|[Research Lab 9](rebelOffenseLab.html)|[Research Lab 8](rebelOffenseLab.html)|[Research Lab 7](rebelOffenseLab.html)|[Research Lab 6](rebelOffenseLab.html)|[Research Lab 5](rebelOffenseLab.html)|[Research Lab 4](rebelOffenseLab.html)|[Research Lab 3](rebelOffenseLab.html)|[Research Lab 2](rebelOffenseLab.html)|[Barracks 1](rebelBarracks.html)|
 
 
 ### Upgrading stats
@@ -92,7 +92,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11   |10   |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|-----|-----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |3253 |3231 |3140|3067|2991|2862|2844|2824|2807|2744|2733|
+|Displayed damage per second |3280 |3231 |3140|3067|2991|2862|2844|2824|2807|2744|2733|
 |Calculated damage per second|3284 |3231 |3140|3066|2991|2862|2844|2824|2806|2744|2733|
 |Calculated damage per cycle |10346|10178|9891|9660|9422|9016|8960|8897|8841|8645|8610|
 
@@ -147,7 +147,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_small_reb|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|3253                         |3231       |3140       |3067       |2991       |2862       |2844       |2824       |2807       |2744       |2733       |
+|Displayed damage per second|3280                         |3231       |3140       |3067       |2991       |2862       |2844       |2824       |2807       |2744       |2733       |
 |Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1.2,1.2,1.2|
 |Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 

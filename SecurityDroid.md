@@ -90,10 +90,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Projectile
 
-  * Displayed damage per second: 1920
-
 |Level                       |5   |4   |3   |2   |1   |
 |----------------------------|----|----|----|----|----|
+|Displayed damage per second |2545|2335|2130|1920|1920|
 |Calculated damage per second|1154|1063|972 |881 |784 |
 |Calculated damage per cycle |2540|2340|2140|1940|1725|
 
@@ -202,7 +201,6 @@ These are all sorts of user interface settings, that should not interfere with g
   * Bundle name: securitydroid_con-ani
   * Defense reduction asset name: fx_grenade_sonic_debuff
   * Defense reduction bundle name: fx_grenade
-  * Displayed damage per second: 1920
   * Event button action: galaxy
   * Event button data: planet1 planet3 planet6 planet8 planet21 planet23
   * Event button string: hn_open_galaxy
@@ -235,6 +233,11 @@ These are all sorts of user interface settings, that should not interfere with g
   * Spin speed: 0
   * Targeted type: ENEMIES
   * Unlocked by event: true
+
+|Level                      |5   |4   |3   |1-2 |
+|---------------------------|----|----|----|----|
+|Displayed damage per second|2545|2335|2130|1920|
+
 
 ## Uninterpreted stats
 

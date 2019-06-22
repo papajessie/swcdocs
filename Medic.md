@@ -91,7 +91,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                      |11          |10             |9              |8              |7              |6              |5              |4              |3              |2              |1              |
 |---------------------------|------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-|Displayed damage per second|2350        |2693           |2334           |2155           |1976           |1795           |1616           |1437           |1257           |1078           |865            |
+|Displayed damage per second|2837        |2693           |2334           |2155           |1976           |1795           |1616           |1437           |1257           |1078           |865            |
 |Splash damage percentages  |100100100100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|
 
 
@@ -164,7 +164,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_small_reb|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|2350                         |2693       |2334       |2155       |1976       |1795       |1616       |1437       |1257       |1078       |865        |
+|Displayed damage per second|2837                         |2693       |2334       |2155       |1976       |1795       |1616       |1437       |1257       |1078       |865        |
 |Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 
 

@@ -90,7 +90,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |10   |9    |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|-----|-----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |8150 |3115 |2875|2640|2400|2160|1915|1675|1435|1200|
+|Displayed damage per second |3354 |3115 |2875|2640|2400|2160|1915|1675|1435|1200|
 |Calculated damage per second|3591 |3112 |2875|2638|2396|2158|1917|1675|1437|1201|
 |Calculated damage per cycle |11672|10116|9344|8576|7788|7016|6232|5444|4672|3904|
 
@@ -241,7 +241,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Displayed damage per second|8150       |3115       |2875       |2640       |2400       |2160       |1915       |1675       |1435       |1200       |
+|Displayed damage per second|3354       |3115       |2875       |2640       |2400       |2160       |1915       |1675       |1435       |1200       |
 |Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1.2,1.2,1.2|
 
 

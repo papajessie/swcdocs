@@ -91,7 +91,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                      |11          |10             |9              |8              |7              |6              |5              |4              |3              |2              |1              |
 |---------------------------|------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-|Displayed damage per second|360         |1440           |1248           |1152           |1056           |960            |864            |768            |672            |576            |480            |
+|Displayed damage per second|1574        |1440           |1248           |1152           |1056           |960            |864            |768            |672            |576            |480            |
 |Splash damage percentages  |100100100100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|100,100,100,100|
 
 
@@ -162,7 +162,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|360                          |1440       |1248       |1152       |1056       |960        |864        |768        |672        |576        |480        |
+|Displayed damage per second|1574                         |1440       |1248       |1152       |1056       |960        |864        |768        |672        |576        |480        |
 |Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 
 

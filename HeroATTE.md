@@ -88,7 +88,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11   |10   |9    |8    |7    |6    |5    |4    |3    |2   |1   |
 |----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|----|
-|Displayed damage per second |5401 |5401 |4680 |4320 |3961 |3601 |3240 |2880 |2521 |2161|1800|
+|Displayed damage per second |5688 |5401 |4680 |4320 |3961 |3601 |3240 |2880 |2521 |2161|1800|
 |Calculated damage per second|10273|9511 |8240 |7606 |6975 |6340 |5705 |5071 |4440 |3804|3169|
 |Calculated damage per cycle |23628|21876|18954|17496|16044|14583|13122|11664|10212|8751|7290|
 
@@ -152,7 +152,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_large_reb|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|5401                         |5401       |4680       |4320       |3961       |3601       |3240       |2880       |2521       |2161       |1800       |
+|Displayed damage per second|5688                         |5401       |4680       |4320       |3961       |3601       |3240       |2880       |2521       |2161       |1800       |
 |Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,-20,0    |
 |Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.5,0.5,0.5|
 |Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|

@@ -88,11 +88,11 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
   * Splash damage percentages: 100,70,30,20
 
-|Level                       |11   |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|----------------------------|-----|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |16192|2195|2045|1930|1845|1765|1695|1630|1570|1520|1490|
-|Calculated damage per second|919  |900 |869 |851 |841 |830 |822 |812 |802 |792 |783 |
-|Calculated damage per cycle |3434 |3365|3250|3181|3143|3104|3074|3035|2997|2959|2928|
+|Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|----------------------------|----|----|----|----|----|----|----|----|----|----|----|
+|Displayed damage per second |2270|2195|2045|1930|1845|1765|1695|1630|1570|1520|1490|
+|Calculated damage per second|919 |900 |869 |851 |841 |830 |822 |812 |802 |792 |783 |
+|Calculated damage per cycle |3434|3365|3250|3181|3143|3104|3074|3035|2997|2959|2928|
 
 
   * Cannons per sequence: 1
@@ -146,7 +146,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_small_reb|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|16192                        |2195       |2045       |1930       |1845       |1765       |1695       |1630       |1570       |1520       |1490       |
+|Displayed damage per second|2270                         |2195       |2045       |1930       |1845       |1765       |1695       |1630       |1570       |1520       |1490       |
 |Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 
 

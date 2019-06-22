@@ -92,7 +92,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                      |10  |9   |8   |7   |6   |5   |4   |3   |2   |1  |
 |---------------------------|----|----|----|----|----|----|----|----|----|---|
-|Displayed damage per second|7800|2334|2155|1976|1795|1616|1437|1257|1078|865|
+|Displayed damage per second|2510|2334|2155|1976|1795|1616|1437|1257|1078|865|
 
 
   * Cannons per sequence: 1
@@ -163,7 +163,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10  |9   |8   |7   |6   |5   |4   |3   |2   |1  |
 |---------------------------|----|----|----|----|----|----|----|----|----|---|
-|Displayed damage per second|7800|2334|2155|1976|1795|1616|1437|1257|1078|865|
+|Displayed damage per second|2510|2334|2155|1976|1795|1616|1437|1257|1078|865|
 
 
 ## Uninterpreted stats
