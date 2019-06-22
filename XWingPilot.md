@@ -37,12 +37,8 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Upgrading stats
 
+  * Upgrade time: 5s
   * Upgrade requirements: 32 data fragments
-
-|Level       |10    |9     |8     |7  |6     |5     |4     |3  |2     |1     |
-|------------|------|------|------|---|------|------|------|---|------|------|
-|Upgrade time|45m50s|44m35s|43m15s|42m|40m45s|39m30s|38m15s|37m|35m45s|34m10s|
-
 
 ### Movement stats
 

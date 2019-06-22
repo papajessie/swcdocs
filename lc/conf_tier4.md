@@ -9,7 +9,7 @@ Crates are given as rewards for various actions. The content is revealed only wh
 
 This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
-## Pool "lcpool_creditsAlloy_conf3" (x1 draw)
+## Pool "lcpool_creditsAlloy_conf4" (x1 draw)
 
 ### On Er'Kit or Takodana or Yavin 4 for HQ level 11
 
@@ -61,27 +61,27 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
 ### Fallback for HQ level 10
 
-  * 88000 Credits
+  * 180000 Credits
 
 ### Fallback for HQ level 11
 
-  * 1000 Credits
+  * 2000 Credits
 
 ### Fallback for HQ level 6
 
-  * 20000 Credits
+  * 40000 Credits
 
 ### Fallback for HQ level 7
 
-  * 33600 Credits
+  * 64000 Credits
 
 ### Fallback for HQ level 8
 
-  * 40000 Credits
+  * 88000 Credits
 
 ### Fallback for HQ level 9
 
-  * 56000 Credits
+  * 120000 Credits
 
 ## Pool "lcpool_shrd_conf_tier3" (x1 draw)
 
