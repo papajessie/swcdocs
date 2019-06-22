@@ -11,9 +11,13 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
 ## Pool "lcpool_conf_newHalfSkins_tier7" (x1 draw)
 
-### Always
+### Empire
 
-  * No items, see the fallback option below
+  * (1/1) 16 data fragments of equipment [Enhanced AT-MP Walker](eqpEmpireATMPHalfSkin)
+
+### Rebellion
+
+  * (1/1) 16 data fragments of equipment [Enhanced AT-AP Walker](eqpRebelATAPHalfSkin)
 
 ### Fallback for HQ level 10
 
