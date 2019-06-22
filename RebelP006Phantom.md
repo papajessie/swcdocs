@@ -139,15 +139,15 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                           |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |--------------------------------|----|----|----|----|----|----|----|----|----|----|
-|Secondary attack damage per shot|3200|3022|2844|2667|2489|2311|2133|1956|1778|1600|
+|Secondary attack damage per shot|4000|3860|3710|3560|3390|3210|3020|2830|2620|2400|
 
 
   * Secondary attack shot splash damage percentages: 100,80,50,20,10
 
-|Level                                             |10   |9    |8   |7   |6   |5   |4   |3   |2   |1   |
-|--------------------------------------------------|-----|-----|----|----|----|----|----|----|----|----|
-|Secondary attack shot calculated damage per second|10666|10073|9480|8890|8296|7703|7110|6520|5926|5333|
-|Secondary attack shot calculated damage per clip  |3200 |3022 |2844|2667|2489|2311|2133|1956|1778|1600|
+|Level                                             |10   |9    |8    |7    |6    |5    |4    |3   |2   |1   |
+|--------------------------------------------------|-----|-----|-----|-----|-----|-----|-----|----|----|----|
+|Secondary attack shot calculated damage per second|13333|12866|12366|11866|11300|10700|10066|9433|8733|8000|
+|Secondary attack shot calculated damage per clip  |4000 |3860 |3710 |3560 |3390 |3210 |3020 |2830|2620|2400|
 
 
   * Secondary attack shot cannons per sequence: 1
