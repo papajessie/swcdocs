@@ -11,13 +11,17 @@ This crate expires after 7d. The contents are one draw from one pool only.
 
 ## Pool "lcpool_epRogue1_p3_final" (x1 draw)
 
+### Rebellion for HQ level 6
+
+  * (1/1) 32 data fragments of unlockable troop [Johhar Kessen](RebelJohhar)
+
 ### Empire for HQ levels 7-11
 
   * (1/1) 32 data fragments of unlockable troop [Security Droid](SecurityDroid)
 
-### For HQ level 6
+### Empire for HQ level 6
 
-  * No items, see the fallback option below
+  * (1/1) 32 data fragments of unlockable troop [Johhar Kessen](EmpireJohhar)
 
 ### Rebellion for HQ levels 7-11
 
