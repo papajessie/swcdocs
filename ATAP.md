@@ -21,9 +21,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Unit capacity: 10
   * Type: vehicle
 
-|Level |11   |10   |9    |8    |7    |6   |5   |4   |3   |2   |1   |
-|------|-----|-----|-----|-----|-----|----|----|----|----|----|----|
-|Health|12408|12000|11320|10680|10090|9530|9000|8510|8050|7610|7200|
+|Level |11   |10   |9    |8    |7    |6    |5    |4    |3    |2   |1   |
+|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|----|
+|Health|21095|19615|17815|16215|14810|13560|12460|11505|10675|9955|9360|
 
 
 ### Training stats
@@ -91,7 +91,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |11   |10   |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|-----|-----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |3736 |3610 |3400|3200|3030|2860|2690|2550|2410|2290|2160|
+|Displayed damage per second |3735 |3605 |3395|3200|3030|2865|2695|2555|2415|2290|2160|
 |Calculated damage per second|3733 |3607 |3396|3200|3031|2863|2694|2554|2414|2287|2161|
 |Calculated damage per cycle |10640|10280|9680|9120|8640|8160|7680|7280|6880|6520|6160|
 
@@ -139,7 +139,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Deploy vfx                 |vfx_prestige_deploy_large_reb|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
-|Displayed damage per second|3736                         |3610       |3400       |3200       |3030       |2860       |2690       |2550       |2410       |2290       |2160       |
+|Displayed damage per second|3735                         |3605       |3395       |3200       |3030       |2865       |2695       |2555       |2415       |2290       |2160       |
 |Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 
 

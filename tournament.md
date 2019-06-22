@@ -3,6 +3,30 @@ title: Index of conflicts
 ---
 # Conflicts
 
+  * [tournamenttitleconflictyav20181129 (conflict_yav_20181129)](conflict_yav_20181129.html) on Yavin 4
+  * [tournamenttitleconflicterk20181129 (conflict_erk_20181129)](conflict_erk_20181129.html) on Er'Kit
+  * [tournamenttitleconflictdan20181129 (conflict_dan_20181129)](conflict_dan_20181129.html) on Dandoran
+  * [tournamenttitleconflicttak20181129 (conflict_tak_20181129)](conflict_tak_20181129.html) on Takodana
+  * [tournamenttitleconflicthth20181129 (conflict_hth_20181129)](conflict_hth_20181129.html) on Hoth
+  * [tournamenttitleconflicttat20181129 (conflict_tat_20181129)](conflict_tat_20181129.html) on Tatooine
+  * [tournamenttitleconflictyav20181122 (conflict_yav_20181122)](conflict_yav_20181122.html) on Yavin 4
+  * [tournamenttitleconflicterk20181122 (conflict_erk_20181122)](conflict_erk_20181122.html) on Er'Kit
+  * [tournamenttitleconflictdan20181122 (conflict_dan_20181122)](conflict_dan_20181122.html) on Dandoran
+  * [tournamenttitleconflicttak20181122 (conflict_tak_20181122)](conflict_tak_20181122.html) on Takodana
+  * [tournamenttitleconflicthth20181122 (conflict_hth_20181122)](conflict_hth_20181122.html) on Hoth
+  * [tournamenttitleconflicttat20181122 (conflict_tat_20181122)](conflict_tat_20181122.html) on Tatooine
+  * [tournamenttitleconflictyav20181115 (conflict_yav_20181115)](conflict_yav_20181115.html) on Yavin 4
+  * [tournamenttitleconflicterk20181115 (conflict_erk_20181115)](conflict_erk_20181115.html) on Er'Kit
+  * [tournamenttitleconflictdan20181115 (conflict_dan_20181115)](conflict_dan_20181115.html) on Dandoran
+  * [tournamenttitleconflicttak20181115 (conflict_tak_20181115)](conflict_tak_20181115.html) on Takodana
+  * [tournamenttitleconflicthth20181115 (conflict_hth_20181115)](conflict_hth_20181115.html) on Hoth
+  * [tournamenttitleconflicttat20181115 (conflict_tat_20181115)](conflict_tat_20181115.html) on Tatooine
+  * [tournamenttitleconflictyav20181108 (conflict_yav_20181108)](conflict_yav_20181108.html) on Yavin 4
+  * [tournamenttitleconflicterk20181108 (conflict_erk_20181108)](conflict_erk_20181108.html) on Er'Kit
+  * [tournamenttitleconflictdan20181108 (conflict_dan_20181108)](conflict_dan_20181108.html) on Dandoran
+  * [tournamenttitleconflicttak20181108 (conflict_tak_20181108)](conflict_tak_20181108.html) on Takodana
+  * [tournamenttitleconflicthth20181108 (conflict_hth_20181108)](conflict_hth_20181108.html) on Hoth
+  * [tournamenttitleconflicttat20181108 (conflict_tat_20181108)](conflict_tat_20181108.html) on Tatooine
   * [tournamenttitleconflictyav20181101 (conflict_yav_20181101)](conflict_yav_20181101.html) on Yavin 4
   * [tournamenttitleconflicterk20181101 (conflict_erk_20181101)](conflict_erk_20181101.html) on Er'Kit
   * [tournamenttitleconflictdan20181101 (conflict_dan_20181101)](conflict_dan_20181101.html) on Dandoran
