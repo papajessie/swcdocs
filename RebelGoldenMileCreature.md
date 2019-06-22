@@ -91,7 +91,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
 |----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Displayed damage per second |16192|15525|14850|14176|13500|12817|12150|11466|10800|10125|
+|Displayed damage per second |1951 |15525|14850|14176|13500|12817|12150|11466|10800|10125|
 |Calculated damage per second|8096 |7762 |7425 |7088 |6750 |6408 |6075 |5733 |5400 |5062 |
 |Calculated damage per cycle |12144|11644|11138|10632|10125|9613 |9113 |8600 |8100 |7594 |
 
@@ -143,7 +143,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Displayed damage per second|16192      |15525      |14850      |14176      |13500      |12817      |12150      |11466      |10800      |10125      |
+|Displayed damage per second|1951       |15525      |14850      |14176      |13500      |12817      |12150      |11466      |10800      |10125      |
 |Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,-15,0    |
 |Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.7,0.7,0.7|
 
@@ -165,6 +165,6 @@ Seriously, we don't really know what to do with these.
 
 |Level|10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
 |-----|------|------|------|------|------|------|------|------|------|------|
-|Order|230010|230009|230008|230007|230006|230005|230004|230003|230002|230001|
+|Order|240710|240709|240708|240707|240706|240705|240704|240703|240702|240701|
 
 

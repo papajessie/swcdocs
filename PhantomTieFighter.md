@@ -91,9 +91,13 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Projectile
 
-  * Displayed damage per second: 1
   * Calculated damage per second: 0
   * Calculated damage per cycle: 0
+
+|Level                      |11 |1-10|
+|---------------------------|---|----|
+|Displayed damage per second|747|1   |
+
 
   * Cannons per sequence: 1
   * Shooting cycle duration: 4s
@@ -117,9 +121,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Sum tie fighter target: enemies
   * Sum tie fighter value: 1
 
-|Level                          |10                                                                  |8-9                                                                |6-7                                                                |4-5                                                                |1-3                                                                |
-|-------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
-|Sum tie fighter summon visitors|["shp_title_TieFighterEqpSummon" level 10](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 9](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 8](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 7](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 6](TieFighterEqpSummon.html)|
+|Level                          |11                                                                  |10                                                                  |8-9                                                                |6-7                                                                |4-5                                                                |1-3                                                                |
+|-------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+|Sum tie fighter summon visitors|["shp_title_TieFighterEqpSummon" level 11](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 10](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 9](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 8](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 7](TieFighterEqpSummon.html)|["shp_title_TieFighterEqpSummon" level 6](TieFighterEqpSummon.html)|
 
 
   * Sum tie fighter summon die with summoner: No
@@ -136,11 +140,11 @@ These stats internal to the system link different parts of data together.
   * Spawn apply buffs: buffInvulnerable1
   * Unit ID: PhantomTieFighter
 
-|Level                     |10                 |9                 |8                 |7                 |6                 |5                 |4                 |3                 |2                 |1                 |
-|--------------------------|-------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
-|Apply buffs               |buffSumTieFighter10|buffSumTieFighter9|buffSumTieFighter8|buffSumTieFighter7|buffSumTieFighter6|buffSumTieFighter5|buffSumTieFighter4|buffSumTieFighter3|buffSumTieFighter2|buffSumTieFighter1|
-|Sum tie fighter details   |sumTieFighter10    |sumTieFighter9    |sumTieFighter8    |sumTieFighter7    |sumTieFighter6    |sumTieFighter5    |sumTieFighter4    |sumTieFighter3    |sumTieFighter2    |sumTieFighter1    |
-|Sum tie fighter summon uid|sumTieFighter10    |sumTieFighter9    |sumTieFighter8    |sumTieFighter7    |sumTieFighter6    |sumTieFighter5    |sumTieFighter4    |sumTieFighter3    |sumTieFighter2    |sumTieFighter1    |
+|Level                     |11                 |10                 |9                 |8                 |7                 |6                 |5                 |4                 |3                 |2                 |1                 |
+|--------------------------|-------------------|-------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|Apply buffs               |buffSumTieFighter11|buffSumTieFighter10|buffSumTieFighter9|buffSumTieFighter8|buffSumTieFighter7|buffSumTieFighter6|buffSumTieFighter5|buffSumTieFighter4|buffSumTieFighter3|buffSumTieFighter2|buffSumTieFighter1|
+|Sum tie fighter details   |sumTieFighter11    |sumTieFighter10    |sumTieFighter9    |sumTieFighter8    |sumTieFighter7    |sumTieFighter6    |sumTieFighter5    |sumTieFighter4    |sumTieFighter3    |sumTieFighter2    |sumTieFighter1    |
+|Sum tie fighter summon uid|sumTieFighter11    |sumTieFighter10    |sumTieFighter9    |sumTieFighter8    |sumTieFighter7    |sumTieFighter6    |sumTieFighter5    |sumTieFighter4    |sumTieFighter3    |sumTieFighter2    |sumTieFighter1    |
 
 
 ## Presentation stats
@@ -150,7 +154,6 @@ These are all sorts of user interface settings, that should not interfere with g
   * Arcs: No
   * Asset name: phantom_neu-ani
   * Bundle name: phantom_neu-ani
-  * Displayed damage per second: 1
   * Factory rotation: 0
   * Factory scale factor: 1
   * Favorite target type: turret
@@ -163,6 +166,12 @@ These are all sorts of user interface settings, that should not interfere with g
   * Unlocked by campaign: No
   * Unlocked by event: false
   * Unlocked by tournament: No
+
+|Level                      |11                           |1-10       |
+|---------------------------|-----------------------------|-----------|
+|Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|
+|Displayed damage per second|747                          |1          |
+
 
 ## Uninterpreted stats
 
@@ -184,8 +193,8 @@ Seriously, we don't really know what to do with these.
   * Target in range modifier: 1
   * Xp: 0
 
-|Level|10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
-|-----|------|------|------|------|------|------|------|------|------|------|
-|Order|400309|400308|400307|400306|400305|400304|400303|400302|400301|400300|
+|Level|11    |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
+|-----|------|------|------|------|------|------|------|------|------|------|------|
+|Order|120411|120410|120409|120408|120407|120406|120405|120404|120403|120402|120401|
 
 

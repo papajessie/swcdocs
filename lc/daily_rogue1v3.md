@@ -11,7 +11,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
 ## Pool "lcpool_currency_t1" (x1 draw)
 
-### For HQ level 10
+### For HQ levels 10-11
 
   * (1/6) 6000 Alloy
   * (1/6) 6000 Credits
@@ -56,22 +56,13 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (1/6) 7200 Alloy
   * (1/6) 7200 Credits
 
-### For HQ level 11
-
-  * (1/6) 160 Alloy
-  * (1/6) 160 Credits
-  * (1/6) 200 Alloy
-  * (1/6) 200 Credits
-  * (1/6) 240 Alloy
-  * (1/6) 240 Credits
-
 ### Fallback for HQ level 10
 
   * 7500 Credits
 
 ### Fallback for HQ level 11
 
-  * 200 Credits
+  * 7500 Credits
 
 ### Fallback for HQ level 6
 
@@ -109,7 +100,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
 ### Fallback for HQ level 11
 
-  * 200 Credits
+  * 7500 Credits
 
 ### Fallback for HQ level 6
 
@@ -193,7 +184,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
 ### Fallback for HQ level 11
 
-  * 450 Credits
+  * 25000 Credits
 
 ### Fallback for HQ level 6
 
@@ -335,7 +326,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/34) 1 troop sample [Anti-Vehicle Skiff](DesertSkiff)
   * (4/34) 3 Crystals
 
-### Rebellion on Er'Kit for HQ levels 9-10
+### Rebellion on Er'Kit for HQ levels 9-11
 
   * (1/49) 1 air support sample [B-wing Starfighter](BWing)
   * (1/49) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
@@ -464,7 +455,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/45) 3 Crystals
   * (5/45) 1 troop sample [AT-DP](ATDP)
 
-### Rebellion on Takodana for HQ levels 9-10
+### Rebellion on Takodana for HQ levels 9-11
 
   * (1/47) 1 air support sample [B-wing Starfighter](BWing)
   * (1/47) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
@@ -517,7 +508,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/44) 3 Crystals
   * (5/44) 1 troop sample [AT-TE](ATTE)
 
-### Rebellion on Hoth for HQ levels 9-10
+### Rebellion on Hoth for HQ levels 9-11
 
   * (1/53) 1 air support sample [B-wing Starfighter](BWing)
   * (1/53) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
@@ -546,7 +537,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (5/53) 1 troop sample [AT-TE](ATTE)
   * (6/53) 1 troop sample [AT-RT Walker](ATRT)
 
-### Rebellion on Tatooine for HQ levels 9-10
+### Rebellion on Tatooine for HQ levels 9-11
 
   * (1/53) 1 air support sample [B-wing Starfighter](BWing)
   * (1/53) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
@@ -620,7 +611,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/39) 3 Crystals
   * (6/39) 1 troop sample [Rebel Vanguard](Vanguard)
 
-### Empire on Yavin 4 for HQ levels 9-10
+### Empire on Yavin 4 for HQ levels 9-11
 
   * (1/47) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
   * (1/47) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
@@ -676,7 +667,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (5/50) 1 troop sample [AT-DP](ATDP)
   * (6/50) 1 troop sample [Shock Trooper](Shock)
 
-### Empire on Takodana for HQ levels 9-10
+### Empire on Takodana for HQ levels 9-11
 
   * (1/46) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
   * (1/46) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
@@ -725,7 +716,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/34) 1 troop sample [Probe Droid](ProbeDroid)
   * (4/34) 3 Crystals
 
-### Empire on Dandoran for HQ levels 9-10
+### Empire on Dandoran for HQ levels 9-11
 
   * (1/47) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
   * (1/47) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
@@ -754,35 +745,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/47) 5 Crystals
   * (5/47) 1 troop sample [AT-DP](ATDP)
 
-### Rebellion on Takodana for HQ level 11
-
-  * (1/47) 1 air support sample [B-wing Starfighter](BWing)
-  * (1/47) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
-  * (1/47) 1 air support sample [Low Altitude Assault Transport](CloneWarsGunship)
-  * (1/47) 1 air support sample [X-wing Starfighter](XWing)
-  * (1/47) 1 air support sample [Y-wing Bomber](YWing)
-  * (1/47) 1 hero sample of [Han Solo](HeroHanSolo)
-  * (1/47) 1 hero sample of [Luke Skywalker](HeroLukeSkywalker)
-  * (1/47) 1 hero sample of [R2-D2](HeroR2D2)
-  * (1/47) 1 troop sample [Dowutin Hunter](RebelBrute)
-  * (1/47) 1 troop sample [Gamorrean Warrior](RebelGamorreanWarrior)
-  * (1/47) 1 troop sample [Juggernaut](Juggernaut)
-  * (1/47) 1 troop sample [Luggabeast Munitioneer](RebelRider)
-  * (1/47) 1 troop sample [Twilek Incinerator](RebelTwilekIncinerator)
-  * (2/47) 1 air support sample [Z-95 Headhunter](Z95)
-  * (2/47) 1 hero sample of [Chewbacca](HeroChewbacca)
-  * (2/47) 1 hero sample of [Leia Organa](HeroLeia)
-  * (2/47) 1 troop sample [Heavy Soldier](HeavyRebel)
-  * (2/47) 1 troop sample [Medic Droid](Medic)
-  * (2/47) 1 troop sample [Speeder Bike](RebelSpeeder)
-  * (3/47) 1 troop sample [Jetpack Trooper](RebelJetpackTrooper)
-  * (3/47) 1 troop sample [Rebel Hailfire Droid](Hailfire)
-  * (3/47) 1 troop sample [Rebel Sharpshooter](Marksman)
-  * (4/47) 1 troop sample [Anti-Vehicle Skiff](DesertSkiff)
-  * (4/47) 2 Crystals
-  * (5/47) 1 troop sample [AT-TE](ATTE)
-
-### Empire on Hoth for HQ levels 9-10
+### Empire on Hoth for HQ levels 9-11
 
   * (1/52) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
   * (1/52) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
@@ -856,64 +819,6 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/45) 3 Crystals
   * (5/45) 1 troop sample [AT-TE](ATTE)
 
-### Empire on Er'Kit for HQ level 11
-
-  * (1/48) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
-  * (1/48) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
-  * (1/48) 1 air support sample [TIE Bomber](TieBomber)
-  * (1/48) 1 air support sample [TIE Defender](TieDefender)
-  * (1/48) 1 air support sample [TIE fighter](TieFighter)
-  * (1/48) 1 hero sample of [AT-MP Mark III](HeroATMP)
-  * (1/48) 1 hero sample of [Darth Vader](HeroDarthVader)
-  * (1/48) 1 hero sample of [Royal Guard](HeroCrimsonGuard)
-  * (1/48) 1 troop sample [AT-AT](ATAT)
-  * (1/48) 1 troop sample [Dowutin Hunter](EmpireBrute)
-  * (1/48) 1 troop sample [Gamorrean Warrior](EmpireGamorreanWarrior)
-  * (1/48) 1 troop sample [Luggabeast Munitioneer](EmpireRider)
-  * (1/48) 1 troop sample [Speeder Bike](EmpireSpeeder)
-  * (1/48) 1 troop sample [Twilek Incinerator](EmpireTwilekIncinerator)
-  * (2/48) 1 air support sample [TIE Interceptor](TieInterceptor)
-  * (2/48) 1 hero sample of [Elite AT-AT](HeroATAT)
-  * (2/48) 1 hero sample of [Johhar Kessen](EmpireJohhar)
-  * (2/48) 1 hero sample of [Veteran AT-ST](HeroATST)
-  * (2/48) 1 troop sample [Heavy Stormtrooper](HeavyStorm)
-  * (2/48) 1 troop sample [Repair Droid](Technician)
-  * (3/48) 1 troop sample [Jump Trooper](EmpireJumptrooper)
-  * (3/48) 1 troop sample [Mobile Heavy Cannon](MHC)
-  * (3/48) 1 troop sample [Sniper Trooper](Sniper)
-  * (4/48) 1 troop sample [Probe Droid](ProbeDroid)
-  * (4/48) 2 Crystals
-  * (5/48) 1 troop sample [AT-DP](ATDP)
-
-### Rebellion on Er'Kit for HQ level 11
-
-  * (1/49) 1 air support sample [B-wing Starfighter](BWing)
-  * (1/49) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
-  * (1/49) 1 air support sample [Low Altitude Assault Transport](CloneWarsGunship)
-  * (1/49) 1 air support sample [X-wing Starfighter](XWing)
-  * (1/49) 1 air support sample [Y-wing Bomber](YWing)
-  * (1/49) 1 hero sample of [Han Solo](HeroHanSolo)
-  * (1/49) 1 hero sample of [Luke Skywalker](HeroLukeSkywalker)
-  * (1/49) 1 hero sample of [R2-D2](HeroR2D2)
-  * (1/49) 1 troop sample [Dowutin Hunter](RebelBrute)
-  * (1/49) 1 troop sample [Gamorrean Warrior](RebelGamorreanWarrior)
-  * (1/49) 1 troop sample [Juggernaut](Juggernaut)
-  * (1/49) 1 troop sample [Luggabeast Munitioneer](RebelRider)
-  * (1/49) 1 troop sample [Twilek Incinerator](RebelTwilekIncinerator)
-  * (2/49) 1 air support sample [Z-95 Headhunter](Z95)
-  * (2/49) 1 hero sample of [Chewbacca](HeroChewbacca)
-  * (2/49) 1 hero sample of [Johhar Kessen](RebelJohhar)
-  * (2/49) 1 hero sample of [Leia Organa](HeroLeia)
-  * (2/49) 1 troop sample [Heavy Soldier](HeavyRebel)
-  * (2/49) 1 troop sample [Medic Droid](Medic)
-  * (2/49) 1 troop sample [Speeder Bike](RebelSpeeder)
-  * (3/49) 1 troop sample [Jetpack Trooper](RebelJetpackTrooper)
-  * (3/49) 1 troop sample [Rebel Hailfire Droid](Hailfire)
-  * (3/49) 1 troop sample [Rebel Sharpshooter](Marksman)
-  * (4/49) 1 troop sample [Anti-Vehicle Skiff](DesertSkiff)
-  * (4/49) 2 Crystals
-  * (5/49) 1 troop sample [AT-TE](ATTE)
-
 ### Empire on Yavin 4 for HQ level 6
 
   * (1/33) 1 air support sample [TIE Bomber](TieBomber)
@@ -934,64 +839,6 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (3/33) 1 troop sample [Sniper Trooper](Sniper)
   * (4/33) 1 troop sample [Probe Droid](ProbeDroid)
   * (4/33) 3 Crystals
-
-### Empire on Tatooine for HQ level 11
-
-  * (1/52) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
-  * (1/52) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
-  * (1/52) 1 air support sample [TIE Bomber](TieBomber)
-  * (1/52) 1 air support sample [TIE Defender](TieDefender)
-  * (1/52) 1 air support sample [TIE fighter](TieFighter)
-  * (1/52) 1 hero sample of [AT-MP Mark III](HeroATMP)
-  * (1/52) 1 hero sample of [Darth Vader](HeroDarthVader)
-  * (1/52) 1 hero sample of [Royal Guard](HeroCrimsonGuard)
-  * (1/52) 1 troop sample [AT-AT](ATAT)
-  * (1/52) 1 troop sample [Dowutin Hunter](EmpireBrute)
-  * (1/52) 1 troop sample [Gamorrean Warrior](EmpireGamorreanWarrior)
-  * (1/52) 1 troop sample [Luggabeast Munitioneer](EmpireRider)
-  * (1/52) 1 troop sample [Speeder Bike](EmpireSpeeder)
-  * (1/52) 1 troop sample [Twilek Incinerator](EmpireTwilekIncinerator)
-  * (2/52) 1 air support sample [TIE Interceptor](TieInterceptor)
-  * (2/52) 1 hero sample of [Elite AT-AT](HeroATAT)
-  * (2/52) 1 hero sample of [Veteran AT-ST](HeroATST)
-  * (2/52) 1 troop sample [Heavy Stormtrooper](HeavyStorm)
-  * (2/52) 1 troop sample [Repair Droid](Technician)
-  * (3/52) 1 troop sample [Jump Trooper](EmpireJumptrooper)
-  * (3/52) 1 troop sample [Mobile Heavy Cannon](MHC)
-  * (3/52) 1 troop sample [Sniper Trooper](Sniper)
-  * (4/52) 1 troop sample [Probe Droid](ProbeDroid)
-  * (4/52) 2 Crystals
-  * (5/52) 1 troop sample [AT-DP](ATDP)
-  * (6/52) 1 troop sample [Shock Trooper](Shock)
-
-### Rebellion on Hoth for HQ level 11
-
-  * (1/53) 1 air support sample [B-wing Starfighter](BWing)
-  * (1/53) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
-  * (1/53) 1 air support sample [Low Altitude Assault Transport](CloneWarsGunship)
-  * (1/53) 1 air support sample [X-wing Starfighter](XWing)
-  * (1/53) 1 air support sample [Y-wing Bomber](YWing)
-  * (1/53) 1 hero sample of [Han Solo](HeroHanSolo)
-  * (1/53) 1 hero sample of [Luke Skywalker](HeroLukeSkywalker)
-  * (1/53) 1 hero sample of [R2-D2](HeroR2D2)
-  * (1/53) 1 troop sample [Dowutin Hunter](RebelBrute)
-  * (1/53) 1 troop sample [Gamorrean Warrior](RebelGamorreanWarrior)
-  * (1/53) 1 troop sample [Juggernaut](Juggernaut)
-  * (1/53) 1 troop sample [Luggabeast Munitioneer](RebelRider)
-  * (1/53) 1 troop sample [Twilek Incinerator](RebelTwilekIncinerator)
-  * (2/53) 1 air support sample [Z-95 Headhunter](Z95)
-  * (2/53) 1 hero sample of [Chewbacca](HeroChewbacca)
-  * (2/53) 1 hero sample of [Leia Organa](HeroLeia)
-  * (2/53) 1 troop sample [Heavy Soldier](HeavyRebel)
-  * (2/53) 1 troop sample [Medic Droid](Medic)
-  * (2/53) 1 troop sample [Speeder Bike](RebelSpeeder)
-  * (3/53) 1 troop sample [Jetpack Trooper](RebelJetpackTrooper)
-  * (3/53) 1 troop sample [Rebel Hailfire Droid](Hailfire)
-  * (3/53) 1 troop sample [Rebel Sharpshooter](Marksman)
-  * (4/53) 1 troop sample [Anti-Vehicle Skiff](DesertSkiff)
-  * (4/53) 2 Crystals
-  * (5/53) 1 troop sample [AT-TE](ATTE)
-  * (6/53) 1 troop sample [AT-RT Walker](ATRT)
 
 ### Empire on Dandoran for HQ level 6
 
@@ -1014,7 +861,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/33) 1 troop sample [Probe Droid](ProbeDroid)
   * (4/33) 3 Crystals
 
-### Rebellion on Yavin 4 for HQ levels 9-10
+### Rebellion on Yavin 4 for HQ levels 9-11
 
   * (1/48) 1 air support sample [B-wing Starfighter](BWing)
   * (1/48) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
@@ -1042,64 +889,6 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/48) 1 troop sample [Anti-Vehicle Skiff](DesertSkiff)
   * (4/48) 5 Crystals
   * (5/48) 1 troop sample [AT-TE](ATTE)
-
-### Empire on Hoth for HQ level 11
-
-  * (1/52) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
-  * (1/52) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
-  * (1/52) 1 air support sample [TIE Bomber](TieBomber)
-  * (1/52) 1 air support sample [TIE Defender](TieDefender)
-  * (1/52) 1 air support sample [TIE fighter](TieFighter)
-  * (1/52) 1 hero sample of [AT-MP Mark III](HeroATMP)
-  * (1/52) 1 hero sample of [Darth Vader](HeroDarthVader)
-  * (1/52) 1 hero sample of [Royal Guard](HeroCrimsonGuard)
-  * (1/52) 1 troop sample [AT-AT](ATAT)
-  * (1/52) 1 troop sample [Dowutin Hunter](EmpireBrute)
-  * (1/52) 1 troop sample [Gamorrean Warrior](EmpireGamorreanWarrior)
-  * (1/52) 1 troop sample [Luggabeast Munitioneer](EmpireRider)
-  * (1/52) 1 troop sample [Speeder Bike](EmpireSpeeder)
-  * (1/52) 1 troop sample [Twilek Incinerator](EmpireTwilekIncinerator)
-  * (2/52) 1 air support sample [TIE Interceptor](TieInterceptor)
-  * (2/52) 1 hero sample of [Elite AT-AT](HeroATAT)
-  * (2/52) 1 hero sample of [Veteran AT-ST](HeroATST)
-  * (2/52) 1 troop sample [Heavy Stormtrooper](HeavyStorm)
-  * (2/52) 1 troop sample [Repair Droid](Technician)
-  * (3/52) 1 troop sample [Jump Trooper](EmpireJumptrooper)
-  * (3/52) 1 troop sample [Mobile Heavy Cannon](MHC)
-  * (3/52) 1 troop sample [Sniper Trooper](Sniper)
-  * (4/52) 1 troop sample [Probe Droid](ProbeDroid)
-  * (4/52) 2 Crystals
-  * (5/52) 1 troop sample [AT-DP](ATDP)
-  * (6/52) 1 troop sample [MTV-7](MTV7)
-
-### Rebellion on Tatooine for HQ level 11
-
-  * (1/53) 1 air support sample [B-wing Starfighter](BWing)
-  * (1/53) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
-  * (1/53) 1 air support sample [Low Altitude Assault Transport](CloneWarsGunship)
-  * (1/53) 1 air support sample [X-wing Starfighter](XWing)
-  * (1/53) 1 air support sample [Y-wing Bomber](YWing)
-  * (1/53) 1 hero sample of [Han Solo](HeroHanSolo)
-  * (1/53) 1 hero sample of [Luke Skywalker](HeroLukeSkywalker)
-  * (1/53) 1 hero sample of [R2-D2](HeroR2D2)
-  * (1/53) 1 troop sample [Dowutin Hunter](RebelBrute)
-  * (1/53) 1 troop sample [Gamorrean Warrior](RebelGamorreanWarrior)
-  * (1/53) 1 troop sample [Juggernaut](Juggernaut)
-  * (1/53) 1 troop sample [Luggabeast Munitioneer](RebelRider)
-  * (1/53) 1 troop sample [Twilek Incinerator](RebelTwilekIncinerator)
-  * (2/53) 1 air support sample [Z-95 Headhunter](Z95)
-  * (2/53) 1 hero sample of [Chewbacca](HeroChewbacca)
-  * (2/53) 1 hero sample of [Leia Organa](HeroLeia)
-  * (2/53) 1 troop sample [Heavy Soldier](HeavyRebel)
-  * (2/53) 1 troop sample [Medic Droid](Medic)
-  * (2/53) 1 troop sample [Speeder Bike](RebelSpeeder)
-  * (3/53) 1 troop sample [Jetpack Trooper](RebelJetpackTrooper)
-  * (3/53) 1 troop sample [Rebel Hailfire Droid](Hailfire)
-  * (3/53) 1 troop sample [Rebel Sharpshooter](Marksman)
-  * (4/53) 1 troop sample [Anti-Vehicle Skiff](DesertSkiff)
-  * (4/53) 2 Crystals
-  * (5/53) 1 troop sample [AT-TE](ATTE)
-  * (6/53) 1 troop sample [Rebel Vanguard](Vanguard)
 
 ### Empire on Tatooine for HQ level 6
 
@@ -1174,7 +963,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (5/51) 1 troop sample [AT-TE](ATTE)
   * (6/51) 1 troop sample [Rebel Vanguard](Vanguard)
 
-### Rebellion on Dandoran for HQ levels 9-10
+### Rebellion on Dandoran for HQ levels 9-11
 
   * (1/48) 1 air support sample [A-wing Starfighter](AWing)
   * (1/48) 1 air support sample [B-wing Starfighter](BWing)
@@ -1301,64 +1090,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/45) 3 Crystals
   * (5/45) 1 troop sample [AT-DP](ATDP)
 
-### Empire on Takodana for HQ level 11
-
-  * (1/46) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
-  * (1/46) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
-  * (1/46) 1 air support sample [TIE Bomber](TieBomber)
-  * (1/46) 1 air support sample [TIE Defender](TieDefender)
-  * (1/46) 1 air support sample [TIE fighter](TieFighter)
-  * (1/46) 1 hero sample of [AT-MP Mark III](HeroATMP)
-  * (1/46) 1 hero sample of [Darth Vader](HeroDarthVader)
-  * (1/46) 1 hero sample of [Royal Guard](HeroCrimsonGuard)
-  * (1/46) 1 troop sample [AT-AT](ATAT)
-  * (1/46) 1 troop sample [Dowutin Hunter](EmpireBrute)
-  * (1/46) 1 troop sample [Gamorrean Warrior](EmpireGamorreanWarrior)
-  * (1/46) 1 troop sample [Luggabeast Munitioneer](EmpireRider)
-  * (1/46) 1 troop sample [Speeder Bike](EmpireSpeeder)
-  * (1/46) 1 troop sample [Twilek Incinerator](EmpireTwilekIncinerator)
-  * (2/46) 1 air support sample [TIE Interceptor](TieInterceptor)
-  * (2/46) 1 hero sample of [Elite AT-AT](HeroATAT)
-  * (2/46) 1 hero sample of [Veteran AT-ST](HeroATST)
-  * (2/46) 1 troop sample [Heavy Stormtrooper](HeavyStorm)
-  * (2/46) 1 troop sample [Repair Droid](Technician)
-  * (3/46) 1 troop sample [Jump Trooper](EmpireJumptrooper)
-  * (3/46) 1 troop sample [Mobile Heavy Cannon](MHC)
-  * (3/46) 1 troop sample [Sniper Trooper](Sniper)
-  * (4/46) 1 troop sample [Probe Droid](ProbeDroid)
-  * (4/46) 2 Crystals
-  * (5/46) 1 troop sample [AT-DP](ATDP)
-
-### Empire on Yavin 4 for HQ level 11
-
-  * (1/47) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
-  * (1/47) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
-  * (1/47) 1 air support sample [TIE Bomber](TieBomber)
-  * (1/47) 1 air support sample [TIE Defender](TieDefender)
-  * (1/47) 1 air support sample [TIE fighter](TieFighter)
-  * (1/47) 1 air support sample [VT-49 Decimator](VT49)
-  * (1/47) 1 hero sample of [AT-MP Mark III](HeroATMP)
-  * (1/47) 1 hero sample of [Darth Vader](HeroDarthVader)
-  * (1/47) 1 hero sample of [Royal Guard](HeroCrimsonGuard)
-  * (1/47) 1 troop sample [AT-AT](ATAT)
-  * (1/47) 1 troop sample [Dowutin Hunter](EmpireBrute)
-  * (1/47) 1 troop sample [Gamorrean Warrior](EmpireGamorreanWarrior)
-  * (1/47) 1 troop sample [Luggabeast Munitioneer](EmpireRider)
-  * (1/47) 1 troop sample [Speeder Bike](EmpireSpeeder)
-  * (1/47) 1 troop sample [Twilek Incinerator](EmpireTwilekIncinerator)
-  * (2/47) 1 air support sample [TIE Interceptor](TieInterceptor)
-  * (2/47) 1 hero sample of [Elite AT-AT](HeroATAT)
-  * (2/47) 1 hero sample of [Veteran AT-ST](HeroATST)
-  * (2/47) 1 troop sample [Heavy Stormtrooper](HeavyStorm)
-  * (2/47) 1 troop sample [Repair Droid](Technician)
-  * (3/47) 1 troop sample [Jump Trooper](EmpireJumptrooper)
-  * (3/47) 1 troop sample [Mobile Heavy Cannon](MHC)
-  * (3/47) 1 troop sample [Sniper Trooper](Sniper)
-  * (4/47) 1 troop sample [Probe Droid](ProbeDroid)
-  * (4/47) 2 Crystals
-  * (5/47) 1 troop sample [AT-DP](ATDP)
-
-### Empire on Er'Kit for HQ levels 9-10
+### Empire on Er'Kit for HQ levels 9-11
 
   * (1/48) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
   * (1/48) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
@@ -1387,36 +1119,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/48) 5 Crystals
   * (5/48) 1 troop sample [AT-DP](ATDP)
 
-### Empire on Dandoran for HQ level 11
-
-  * (1/47) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
-  * (1/47) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
-  * (1/47) 1 air support sample [TIE Advanced](TieAdvanced)
-  * (1/47) 1 air support sample [TIE Bomber](TieBomber)
-  * (1/47) 1 air support sample [TIE Defender](TieDefender)
-  * (1/47) 1 air support sample [TIE fighter](TieFighter)
-  * (1/47) 1 hero sample of [AT-MP Mark III](HeroATMP)
-  * (1/47) 1 hero sample of [Darth Vader](HeroDarthVader)
-  * (1/47) 1 hero sample of [Royal Guard](HeroCrimsonGuard)
-  * (1/47) 1 troop sample [AT-AT](ATAT)
-  * (1/47) 1 troop sample [Dowutin Hunter](EmpireBrute)
-  * (1/47) 1 troop sample [Gamorrean Warrior](EmpireGamorreanWarrior)
-  * (1/47) 1 troop sample [Luggabeast Munitioneer](EmpireRider)
-  * (1/47) 1 troop sample [Speeder Bike](EmpireSpeeder)
-  * (1/47) 1 troop sample [Twilek Incinerator](EmpireTwilekIncinerator)
-  * (2/47) 1 air support sample [TIE Interceptor](TieInterceptor)
-  * (2/47) 1 hero sample of [Elite AT-AT](HeroATAT)
-  * (2/47) 1 hero sample of [Veteran AT-ST](HeroATST)
-  * (2/47) 1 troop sample [Heavy Stormtrooper](HeavyStorm)
-  * (2/47) 1 troop sample [Repair Droid](Technician)
-  * (3/47) 1 troop sample [Jump Trooper](EmpireJumptrooper)
-  * (3/47) 1 troop sample [Mobile Heavy Cannon](MHC)
-  * (3/47) 1 troop sample [Sniper Trooper](Sniper)
-  * (4/47) 1 troop sample [Probe Droid](ProbeDroid)
-  * (4/47) 2 Crystals
-  * (5/47) 1 troop sample [AT-DP](ATDP)
-
-### Empire on Tatooine for HQ levels 9-10
+### Empire on Tatooine for HQ levels 9-11
 
   * (1/52) 1 air support sample [Imperial Dropship Transport](ImperialDropship)
   * (1/52) 1 air support sample [T-5 Deliverance](EmpireSupplyDrop)
@@ -1615,35 +1318,6 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/44) 3 Crystals
   * (5/44) 1 troop sample [AT-TE](ATTE)
 
-### Rebellion on Dandoran for HQ level 11
-
-  * (1/48) 1 air support sample [A-wing Starfighter](AWing)
-  * (1/48) 1 air support sample [B-wing Starfighter](BWing)
-  * (1/48) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
-  * (1/48) 1 air support sample [Low Altitude Assault Transport](CloneWarsGunship)
-  * (1/48) 1 air support sample [X-wing Starfighter](XWing)
-  * (1/48) 1 air support sample [Y-wing Bomber](YWing)
-  * (1/48) 1 hero sample of [Han Solo](HeroHanSolo)
-  * (1/48) 1 hero sample of [Luke Skywalker](HeroLukeSkywalker)
-  * (1/48) 1 hero sample of [R2-D2](HeroR2D2)
-  * (1/48) 1 troop sample [Dowutin Hunter](RebelBrute)
-  * (1/48) 1 troop sample [Gamorrean Warrior](RebelGamorreanWarrior)
-  * (1/48) 1 troop sample [Juggernaut](Juggernaut)
-  * (1/48) 1 troop sample [Luggabeast Munitioneer](RebelRider)
-  * (1/48) 1 troop sample [Twilek Incinerator](RebelTwilekIncinerator)
-  * (2/48) 1 air support sample [Z-95 Headhunter](Z95)
-  * (2/48) 1 hero sample of [Chewbacca](HeroChewbacca)
-  * (2/48) 1 hero sample of [Leia Organa](HeroLeia)
-  * (2/48) 1 troop sample [Heavy Soldier](HeavyRebel)
-  * (2/48) 1 troop sample [Medic Droid](Medic)
-  * (2/48) 1 troop sample [Speeder Bike](RebelSpeeder)
-  * (3/48) 1 troop sample [Jetpack Trooper](RebelJetpackTrooper)
-  * (3/48) 1 troop sample [Rebel Hailfire Droid](Hailfire)
-  * (3/48) 1 troop sample [Rebel Sharpshooter](Marksman)
-  * (4/48) 1 troop sample [Anti-Vehicle Skiff](DesertSkiff)
-  * (4/48) 2 Crystals
-  * (5/48) 1 troop sample [AT-TE](ATTE)
-
 ### Rebellion on Hoth for HQ level 7
 
   * (1/49) 1 air support sample [B-wing Starfighter](BWing)
@@ -1693,35 +1367,6 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
   * (4/44) 1 troop sample [Probe Droid](ProbeDroid)
   * (4/44) 3 Crystals
   * (5/44) 1 troop sample [AT-DP](ATDP)
-
-### Rebellion on Yavin 4 for HQ level 11
-
-  * (1/48) 1 air support sample [B-wing Starfighter](BWing)
-  * (1/48) 1 air support sample [E-50 Landseer](RebelSupplyDrop)
-  * (1/48) 1 air support sample [HWK-290](HWK290)
-  * (1/48) 1 air support sample [Low Altitude Assault Transport](CloneWarsGunship)
-  * (1/48) 1 air support sample [X-wing Starfighter](XWing)
-  * (1/48) 1 air support sample [Y-wing Bomber](YWing)
-  * (1/48) 1 hero sample of [Han Solo](HeroHanSolo)
-  * (1/48) 1 hero sample of [Luke Skywalker](HeroLukeSkywalker)
-  * (1/48) 1 hero sample of [R2-D2](HeroR2D2)
-  * (1/48) 1 troop sample [Dowutin Hunter](RebelBrute)
-  * (1/48) 1 troop sample [Gamorrean Warrior](RebelGamorreanWarrior)
-  * (1/48) 1 troop sample [Juggernaut](Juggernaut)
-  * (1/48) 1 troop sample [Luggabeast Munitioneer](RebelRider)
-  * (1/48) 1 troop sample [Twilek Incinerator](RebelTwilekIncinerator)
-  * (2/48) 1 air support sample [Z-95 Headhunter](Z95)
-  * (2/48) 1 hero sample of [Chewbacca](HeroChewbacca)
-  * (2/48) 1 hero sample of [Leia Organa](HeroLeia)
-  * (2/48) 1 troop sample [Heavy Soldier](HeavyRebel)
-  * (2/48) 1 troop sample [Medic Droid](Medic)
-  * (2/48) 1 troop sample [Speeder Bike](RebelSpeeder)
-  * (3/48) 1 troop sample [Jetpack Trooper](RebelJetpackTrooper)
-  * (3/48) 1 troop sample [Rebel Hailfire Droid](Hailfire)
-  * (3/48) 1 troop sample [Rebel Sharpshooter](Marksman)
-  * (4/48) 1 troop sample [Anti-Vehicle Skiff](DesertSkiff)
-  * (4/48) 2 Crystals
-  * (5/48) 1 troop sample [AT-TE](ATTE)
 
 ### Rebellion on Dandoran for HQ level 8
 
@@ -1781,7 +1426,7 @@ This crate expires after 1d. The contents are one draw from each of the 4 pools.
 
 ### Fallback for HQ level 11
 
-  * 200 Credits
+  * 7500 Credits
 
 ### Fallback for HQ level 6
 

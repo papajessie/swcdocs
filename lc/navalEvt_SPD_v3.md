@@ -38,7 +38,7 @@ This crate expires after 7d. The contents are decided by 8 draws from 3 differen
 
 ### Fallback for HQ level 11
 
-  * 3000 Credits
+  * 300000 Credits
 
 ### Fallback for HQ level 6
 
@@ -78,7 +78,7 @@ This crate expires after 7d. The contents are decided by 8 draws from 3 differen
 
 ### Fallback for HQ level 11
 
-  * 3000 Credits
+  * 300000 Credits
 
 ### Fallback for HQ level 6
 
@@ -116,7 +116,7 @@ This crate expires after 7d. The contents are decided by 8 draws from 3 differen
 
 ### Fallback for HQ level 11
 
-  * 3000 Credits
+  * 300000 Credits
 
 ### Fallback for HQ level 6
 

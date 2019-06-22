@@ -168,7 +168,7 @@ Seriously, we don't really know what to do with these.
 
 |Level      |3     |2     |1     |
 |-----------|------|------|------|
-|Order      |322603|322602|322601|
+|Order      |462403|462402|462401|
 |Point value|1.400 |1.200 |1     |
 
 

@@ -22,18 +22,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Type: infantry
   * Unlock planet: Unlock on Tatooine
 
-|Level |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|------|----|----|----|----|----|----|----|----|----|----|
-|Health|9610|9070|8560|8080|7630|7210|6810|6440|6090|5760|
+|Level |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|------|----|----|----|----|----|----|----|----|----|----|----|
+|Health|9934|9610|9070|8560|8080|7630|7210|6810|6440|6090|5760|
 
 
 ### Training stats
 
-|Level        |10                                      |9                                      |8                                      |7                                      |6                                      |5                                      |4                                      |3                                      |2                                      |1                                |
-|-------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------|
-|Training time|2m                                      |1m56s                                  |1m52s                                  |54s                                    |52s                                    |50s                                    |48s                                    |46s                                    |44s                                    |42s                              |
-|Training cost|920$                                    |840$                                   |800$                                   |680$                                   |600$                                   |520$                                   |440$                                   |360$                                   |280$                                   |200$                             |
-|Building     |[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Barracks 1](empireBarracks.html)|
+|Level        |11                                      |10                                      |9                                      |8                                      |7                                      |6                                      |5                                      |4                                      |3                                      |2                                      |1                                |
+|-------------|----------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------|
+|Training time|2m4s                                    |2m                                      |1m56s                                  |1m52s                                  |54s                                    |52s                                    |50s                                    |48s                                    |46s                                    |44s                                    |42s                              |
+|Training cost|1000$                                   |920$                                    |840$                                   |800$                                   |680$                                   |600$                                   |520$                                   |440$                                   |360$                                   |280$                                   |200$                             |
+|Building     |[Research Lab 11](empireOffenseLab.html)|[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Barracks 1](empireBarracks.html)|
 
 
 ### Upgrading stats
@@ -52,7 +52,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Run threshold: 0
   * Unit size on map: 1x1
 
-|Level                            |2-10|1 |
+|Level                            |2-11|1 |
 |---------------------------------|----|--|
 |Propensity to go around obstacles|200 |15|
 
@@ -84,20 +84,20 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Shot delay: 250ms
   * Target locking: No
 
-|Level          |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|---------------|----|----|----|----|----|----|----|----|----|----|
-|Damage per shot|4470|4152|3852|3580|3332|3100|2892|2692|2512|2340|
+|Level          |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|---------------|----|----|----|----|----|----|----|----|----|----|----|
+|Damage per shot|4660|4470|4152|3852|3580|3332|3100|2892|2692|2512|2340|
 
 
 ### Projectile
 
   * Splash damage percentages: 100,50,10,5
 
-|Level                       |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|----------------------------|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |4470|4152|3852|3580|3332|3100|2892|2692|2512|2340|
-|Calculated damage per second|1277|1186|1100|1022|952 |885 |826 |769 |717 |668 |
-|Calculated damage per cycle |4470|4152|3852|3580|3332|3100|2892|2692|2512|2340|
+|Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|----------------------------|----|----|----|----|----|----|----|----|----|----|----|
+|Displayed damage per second |420 |4470|4152|3852|3580|3332|3100|2892|2692|2512|2340|
+|Calculated damage per second|1331|1277|1186|1100|1022|952 |885 |826 |769 |717 |668 |
+|Calculated damage per cycle |4660|4470|4152|3852|3580|3332|3100|2892|2692|2512|2340|
 
 
   * Cannons per sequence: 1
@@ -150,12 +150,14 @@ These are all sorts of user interface settings, that should not interfere with g
   * Targeted type: ENEMIES
   * Unlocked by event: true
 
-|Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1    |
-|---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----|
-|Displayed damage per second|4470       |4152       |3852       |3580       |3332       |3100       |2892       |2692       |2512       |2340 |
-|Icon unlock position       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0|
-|Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0|
-|Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1,1,1|
+|Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
+|---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
+|Displayed damage per second|420                          |4470       |4152       |3852       |3580       |3332       |3100       |2892       |2692       |2512       |2340       |
+|Icon unlock position       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0      |
+|Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0      |
+|Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1,1,1      |
+|Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 
 
 ## Uninterpreted stats
@@ -173,9 +175,9 @@ Seriously, we don't really know what to do with these.
   * Target in range modifier: 1
   * Xp: 0
 
-|Level      |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
-|-----------|------|------|------|------|------|------|------|------|------|------|
-|Order      |121210|121209|121208|121207|121206|121205|121204|121203|121202|121201|
-|Point value|9     |7.800 |7.200 |6.600 |6     |5.400 |4.800 |4.200 |3.600 |3     |
+|Level      |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|-----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Order      |60911|60910|60909|60908|60907|60906|60905|60904|60903|60902|60901|
+|Point value|9    |9    |7.800|7.200|6.600|6    |5.400|4.800|4.200|3.600|3    |
 
 

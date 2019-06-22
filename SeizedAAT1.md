@@ -93,7 +93,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |1910|1800|1680|1600|1500|1420|1350|1260|1190|1140|
+|Displayed damage per second |4800|1800|1680|1600|1500|1420|1350|1260|1190|1140|
 |Calculated damage per second|1908|1796|1684|1600|1501|1417|1347|1263|1192|1136|
 |Calculated damage per cycle |5440|5120|4800|4560|4280|4040|3840|3600|3400|3240|
 
@@ -140,7 +140,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |---------------------------|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second|1910|1800|1680|1600|1500|1420|1350|1260|1190|1140|
+|Displayed damage per second|4800|1800|1680|1600|1500|1420|1350|1260|1190|1140|
 
 
 ## Uninterpreted stats
@@ -157,4 +157,9 @@ Seriously, we don't really know what to do with these.
   * Strict cool down: No
   * Target in range modifier: 1
   * Xp: 0
+
+|Level|10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Order|83110|83109|83108|83107|83106|83105|83104|83103|83102|83101|
+
 

@@ -13,10 +13,6 @@ This crate expires after 7d. The contents are decided by 3 draws from 2 differen
 
 ## Pool "lcpool_creditsAlloy_conf3" (x1 draw)
 
-### On Er'Kit or Takodana or Yavin 4 for HQ level 11
-
-  * (1/1) 1000 Alloy
-
 ### On Dandoran or Hoth or Tatooine for HQ level 7
 
   * (1/1) 33600 Credits
@@ -29,17 +25,13 @@ This crate expires after 7d. The contents are decided by 3 draws from 2 differen
 
   * (1/1) 56000 Alloy
 
-### On Er'Kit or Takodana or Yavin 4 for HQ level 10
+### On Er'Kit or Takodana or Yavin 4 for HQ levels 10-11
 
   * (1/1) 88000 Alloy
 
 ### On Er'Kit or Takodana or Yavin 4 for HQ level 8
 
   * (1/1) 40000 Alloy
-
-### On Dandoran or Hoth or Tatooine for HQ level 11
-
-  * (1/1) 1000 Credits
 
 ### On Er'Kit or Takodana or Yavin 4 for HQ level 7
 
@@ -49,7 +41,7 @@ This crate expires after 7d. The contents are decided by 3 draws from 2 differen
 
   * (1/1) 40000 Credits
 
-### On Dandoran or Hoth or Tatooine for HQ level 10
+### On Dandoran or Hoth or Tatooine for HQ levels 10-11
 
   * (1/1) 88000 Credits
 
@@ -67,7 +59,7 @@ This crate expires after 7d. The contents are decided by 3 draws from 2 differen
 
 ### Fallback for HQ level 11
 
-  * 1000 Credits
+  * 88000 Credits
 
 ### Fallback for HQ level 6
 
@@ -103,7 +95,7 @@ This crate expires after 7d. The contents are decided by 3 draws from 2 differen
 
 ### Fallback for HQ level 11
 
-  * 900 Credits
+  * 50000 Credits
 
 ### Fallback for HQ level 6
 

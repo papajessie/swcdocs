@@ -23,7 +23,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
 |------|------|------|------|------|------|------|------|------|------|------|
-|Health|393125|375264|349296|298155|277750|235310|219380|204610|190910|178200|
+|Health|184424|173097|169145|151600|148151|131704|128725|125902|123080|120414|
 
 
 ### Training stats
@@ -41,7 +41,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Acceleration: 0
   * Crushes walls: Yes
   * Flying unit: No
-  * Max speed: 10
+  * Max speed: 20
   * Propensity to go around obstacles: 1
   * Rotation speed: 3.927
   * Run speed: 0
@@ -66,7 +66,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Charge time: 500ms
   * Clip retargeting: Yes
   * Gun shooting sequence: 2,1
-  * Impact delay: 0s
+  * Impact delay: 960ms
   * Can shoot over walls: No
   * Reload time: 1.910s
   * Retargeting offset: 8
@@ -75,25 +75,25 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Shot delay: 270ms
   * Target locking: No
 
-|Level          |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
-|---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Damage per shot|23525|22080|21576|19338|18898|16800|16420|16060|15700|15360|
+|Level          |10   |9    |8    |7    |6    |5    |4    |3    |2    |1   |
+|---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|
+|Damage per shot|20625|19419|18213|17007|15801|14595|13389|12182|10976|9770|
 
 
 ### Projectile
 
-  * Displayed damage per second: 2928
   * Splash damage percentages: 100,100,75,50,25
 
-|Level                       |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
-|----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Calculated damage per second|6980 |6551 |6402 |5738 |5607 |4985 |4872 |4765 |4658 |4557 |
-|Calculated damage per cycle |23525|22080|21576|19338|18898|16800|16420|16060|15700|15360|
+|Level                       |10   |9    |8    |7    |6    |5    |4    |3    |2    |1   |
+|----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|
+|Displayed damage per second |7696 |2928 |2928 |2928 |2928 |2928 |2928 |2928 |2928 |2928|
+|Calculated damage per second|6120 |5762 |5404 |5046 |4688 |4330 |3972 |3614 |3256 |2899|
+|Calculated damage per cycle |20625|19419|18213|17007|15801|14595|13389|12182|10976|9770|
 
 
   * Cannons per sequence: 2
   * Shooting cycle duration: 3.370s
-  * Directional: Yes
+  * Directional: No
   * Is deflectable: No
   * Max speed: 18
   * Damage multipliers: **(200)**: Wall, **(125)**: Trap, Turret, **(100)**: Droideka, Headquarters, Infantry, Infantry hero, Other building, Ressource generator, Shield, Shield generator, Storage, Support troop, **(75)**: Heavy infantry, Heavy infantry hero, Heavy vehicle, Heavy vehicule hero, Light vehicle, Vehicule hero, **(0)**: Flying infantry, Flying vehicle
@@ -112,22 +112,27 @@ These are all sorts of user interface settings, that should not interfere with g
 
   * Arcs: No
   * Asset name: rancorrage_neu-ani
-  * Audio attack: "sfx_attack_creatures_rancor_1":35,"sfx_attack_creatures_rancor_2":35,"sfx_attack_creatures_rancor_3":30
+  * Audio attack: "sfx_attack_creatures_rancor_1":33,"sfx_attack_creatures_rancor_2":33,"sfx_attack_creatures_rancor_3":34
   * Audio death: "sfx_death_creatures_rancor_1":100
-  * Audio placement: "sfx_placement_creatures_bantha_1":50,"sfx_placement_creatures_bantha_2":50
+  * Audio impact: "sfx_impact_creatures_rancor_1":33,"sfx_impact_creatures_rancor_2":33,"sfx_impact_creatures_rancor_3":34
+  * Audio placement: "sfx_attack_creatures_rancor_1":35,"sfx_attack_creatures_rancor_2":35,"sfx_attack_creatures_rancor_3":30
   * Bundle name: rancorrage_neu-ani
-  * Displayed damage per second: 2928
   * Factory rotation: 0
   * Factory scale factor: 1
   * Favorite target type: closest
   * Gun position: "rancor_neu_rig_MASTER_MOVER/"rancor_neu_rig_locator_gun1":1,"rancor_neu_rig_MASTER_MOVER/rancor_neu_rig_locator_gun2":2
-  * Hit spark: fx_gamGuard_deathblow
+  * Hit spark: fx_rancor_deathblow
   * Icon camera position: 33.71,44.06,48.37
   * Icon lookat position: -0.61,3.05,-1.83
   * Max scale: 100
   * Name: Rancor Blaster AOE
   * Spin speed: 0
   * Targeted type: ENEMIES
+
+|Level                      |10  |1-9 |
+|---------------------------|----|----|
+|Displayed damage per second|7696|2928|
+
 
 ## Uninterpreted stats
 
@@ -137,16 +142,16 @@ Seriously, we don't really know what to do with these.
   * Auto spawn rate scale: 2
   * Auto spawn spreading scale: 2
   * Max scale: No
-  * Seeks target: Yes
+  * Seeks target: No
   * Splash: 0
   * Streams: no
   * Strict cool down: No
   * Target in range modifier: 1
   * Xp: 0
 
-|Level      |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
-|-----------|------|------|------|------|------|------|------|------|------|------|
-|Order      |125110|125109|125108|125107|125106|125105|125104|125103|125102|125101|
-|Point value|150   |130   |120   |110   |100   |90    |80    |70    |60    |50    |
+|Level      |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|-----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Order      |63010|63009|63008|63007|63006|63005|63004|63003|63002|63001|
+|Point value|150  |130  |120  |110  |100  |90   |80   |70   |60   |50   |
 
 

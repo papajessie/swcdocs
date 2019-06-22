@@ -17,19 +17,19 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Training stats
 
-|Level        |10                                      |9                                      |8                                      |7                                      |6                                      |5                                      |4                                      |3                                      |2                                      |1                                            |
-|-------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------------|
-|Training time|42m                                     |35m                                    |35m                                    |28m                                    |28m                                    |21m                                    |21m                                    |21m                                    |21m                                    |21m                                          |
-|Training cost|17825$                                  |16625$                                 |15450$                                 |14250$                                 |13075$                                 |11875$                                 |10700$                                 |9500$                                  |8325$                                  |7125$                                        |
-|Building     |[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Starship Command 1](empireFleetCommand.html)|
+|Level        |11                                      |10                                      |9                                      |8                                      |7                                      |6                                      |5                                      |4                                      |3                                      |2                                      |1                                            |
+|-------------|----------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------------|
+|Training time|49m                                     |42m                                     |35m                                    |35m                                    |28m                                    |28m                                    |21m                                    |21m                                    |21m                                    |21m                                    |21m                                          |
+|Training cost|19025$                                  |17825$                                  |16625$                                 |15450$                                 |14250$                                 |13075$                                 |11875$                                 |10700$                                 |9500$                                  |8325$                                  |7125$                                        |
+|Building     |[Research Lab 10](empireOffenseLab.html)|[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Starship Command 1](empireFleetCommand.html)|
 
 
 ### Upgrading stats
 
-|Level               |10      |9       |8      |7      |6      |5     |4     |3     |2    |1    |
-|--------------------|--------|--------|-------|-------|-------|------|------|------|-----|-----|
-|Upgrade time        |2w      |1w3d    |1w     |5d     |3d     |1d    |8h    |3h    |1h30m|0s   |
-|Upgrade requirements|2500000$|1500000$|450000$|225000$|135000$|50000$|20000$|10000$|5000$|2000$|
+|Level               |11      |10      |9       |8      |7      |6      |5     |4     |3     |2    |1    |
+|--------------------|--------|--------|--------|-------|-------|-------|------|------|------|-----|-----|
+|Upgrade time        |2w      |2w      |1w3d    |1w     |5d     |3d     |1d    |8h    |3h    |1h30m|0s   |
+|Upgrade requirements|4250000$|2500000$|1500000$|450000$|225000$|135000$|50000$|20000$|10000$|5000$|2000$|
 
 
 ### Movement stats
@@ -49,20 +49,20 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Shot count: 10
   * Shot delay: 75ms
 
-|Level          |10   |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|---------------|-----|----|----|----|----|----|----|----|----|----|
-|Damage per shot|10000|9490|9010|8560|8130|7730|7350|6990|6650|6330|
+|Level          |11   |10   |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|---------------|-----|-----|----|----|----|----|----|----|----|----|----|
+|Damage per shot|10306|10000|9490|9010|8560|8130|7730|7350|6990|6650|6330|
 
 
 ### Projectile
 
   * Splash damage percentages: 100,75,50,10
 
-|Level                       |10    |9    |8    |7    |6    |5    |4    |3    |2    |1    |
-|----------------------------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Displayed damage per second |100000|94900|90100|85600|81300|77300|73500|69900|66500|63300|
-|Calculated damage per second|4572  |4339 |4119 |3914 |3717 |3534 |3360 |3196 |3040 |2894 |
-|Calculated damage per cycle |100000|94900|90100|85600|81300|77300|73500|69900|66500|63300|
+|Level                       |11    |10    |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|----------------------------|------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Displayed damage per second |103060|100000|94900|90100|85600|81300|77300|73500|69900|66500|63300|
+|Calculated damage per second|4712  |4572  |4339 |4119 |3914 |3717 |3534 |3360 |3196 |3040 |2894 |
+|Calculated damage per cycle |103060|100000|94900|90100|85600|81300|77300|73500|69900|66500|63300|
 
 
   * Cannons per sequence: 10
@@ -105,9 +105,10 @@ These are all sorts of user interface settings, that should not interfere with g
   * Name: Proton Torpedo Barrage
   * Spin speed: 0
 
-|Level                      |10    |9    |8    |7    |6    |5    |4    |3    |2    |1    |
-|---------------------------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Displayed damage per second|100000|94900|90100|85600|81300|77300|73500|69900|66500|63300|
+|Level                      |11    |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
+|---------------------------|------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|Displayed damage per second|103060|100000     |94900      |90100      |85600      |81300      |77300      |73500      |69900      |66500      |63300      |
+|Prestige                   |true  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 
 
 ## Uninterpreted stats
@@ -118,8 +119,8 @@ Seriously, we don't really know what to do with these.
   * Streams: no
   * Xp: 0
 
-|Level|10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
-|-----|------|------|------|------|------|------|------|------|------|------|
-|Order|540710|540709|540708|540707|540706|540705|540704|540703|540702|540701|
+|Level|11    |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
+|-----|------|------|------|------|------|------|------|------|------|------|------|
+|Order|303111|303110|303109|303108|303107|303106|303105|303104|303103|303102|303101|
 
 

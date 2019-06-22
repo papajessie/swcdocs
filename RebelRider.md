@@ -90,9 +90,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Calculated damage per cycle: 0
   * Splash damage percentages: 100,100,100,100,100
 
-|Level                      |10|9 |8 |7 |6 |5 |4 |3 |2 |1 |
-|---------------------------|--|--|--|--|--|--|--|--|--|--|
-|Displayed damage per second|30|28|26|24|22|20|18|16|14|12|
+|Level                      |10  |9 |8 |7 |6 |5 |4 |3 |2 |1 |
+|---------------------------|----|--|--|--|--|--|--|--|--|--|
+|Displayed damage per second|4320|28|26|24|22|20|18|16|14|12|
 
 
   * Cannons per sequence: 1
@@ -205,9 +205,9 @@ These are all sorts of user interface settings, that should not interfere with g
   * Unit damage steroid asset name: fx_rider_buff_condition
   * Unit damage steroid bundle name: fx_rider
 
-|Level                      |10|9 |8 |7 |6 |5 |4 |3 |2 |1 |
-|---------------------------|--|--|--|--|--|--|--|--|--|--|
-|Displayed damage per second|30|28|26|24|22|20|18|16|14|12|
+|Level                      |10  |9 |8 |7 |6 |5 |4 |3 |2 |1 |
+|---------------------------|----|--|--|--|--|--|--|--|--|--|
+|Displayed damage per second|4320|28|26|24|22|20|18|16|14|12|
 
 
 ## Uninterpreted stats
@@ -231,7 +231,7 @@ Seriously, we don't really know what to do with these.
 
 |Level      |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
 |-----------|------|------|------|------|------|------|------|------|------|------|
-|Order      |215310|215309|215308|215307|215306|215305|215304|215303|215302|215301|
+|Order      |240310|240309|240308|240307|240306|240305|240304|240303|240302|240301|
 |Point value|21    |18    |17    |15    |14    |13    |11    |10    |8     |7     |
 
 

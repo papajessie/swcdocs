@@ -183,12 +183,22 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |Time            |1w3d        |1w3d        |1w3d        |1w3d        |1w3d        |1w3d        |1w3d        |1w3d        |1w3d        |1w3d        |
 
 
+|Level           |11.10       |11.09       |11.08       |11.07       |11.06       |11.05       |11.04       |11.03       |11.02       |11.01       |
+|----------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|
+|Produce         |2680  All./h|2680  All./h|2680  All./h|2680  All./h|2680  All./h|2680  All./h|2680  All./h|2680  All./h|2680  All./h|2680  All./h|
+|Maximum capacity|160320  All.|160320  All.|160320  All.|160320  All.|160320  All.|160320  All.|160320  All.|160320  All.|160320  All.|160320  All.|
+|Health          |40014       |38817       |37449       |36252       |35055       |34029       |32832       |31805       |30780       |29925       |
+|Max quantity    |6           |6           |6           |6           |6           |6           |6           |6           |6           |6           |
+|Original health |17100       |17100       |17100       |17100       |17100       |17100       |17100       |17100       |17100       |17100       |
+|Time            |1w1d        |1w1d        |1w1d        |1w1d        |1w1d        |1w1d        |1w1d        |1w1d        |1w1d        |1w1d        |
+
+
 ### Training stats
 
-|Level        |10.01-10.10                     |09.01-9.10                     |08.01-8.10                     |07.01-7.10                     |06.01-6.10                     |05.01-5.10                     |04.01-4.10                     |03.01-3.10                     |02.01-2.10                     |01.01-1.10                     |
-|-------------|--------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|Training cost|3500000$                        |2000000$                       |750000$                        |350000$                        |175000$                        |60000$                         |30000$                         |10000$                         |2000$                          |750$                           |
-|Building     |[Headquarters 10](empireHQ.html)|[Headquarters 9](empireHQ.html)|[Headquarters 8](empireHQ.html)|[Headquarters 7](empireHQ.html)|[Headquarters 6](empireHQ.html)|[Headquarters 5](empireHQ.html)|[Headquarters 4](empireHQ.html)|[Headquarters 3](empireHQ.html)|[Headquarters 2](empireHQ.html)|[Headquarters 1](empireHQ.html)|
+|Level        |11.01-11.10                     |10.01-10.10                     |09.01-9.10                     |08.01-8.10                     |07.01-7.10                     |06.01-6.10                     |05.01-5.10                     |04.01-4.10                     |03.01-3.10                     |02.01-2.10                     |01.01-1.10                     |
+|-------------|--------------------------------|--------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|Training cost|4550000$                        |3500000$                        |2000000$                       |750000$                        |350000$                        |175000$                        |60000$                         |30000$                         |10000$                         |2000$                          |750$                           |
+|Building     |[Headquarters 11](empireHQ.html)|[Headquarters 10](empireHQ.html)|[Headquarters 9](empireHQ.html)|[Headquarters 8](empireHQ.html)|[Headquarters 7](empireHQ.html)|[Headquarters 6](empireHQ.html)|[Headquarters 5](empireHQ.html)|[Headquarters 4](empireHQ.html)|[Headquarters 3](empireHQ.html)|[Headquarters 2](empireHQ.html)|[Headquarters 1](empireHQ.html)|
 
 
 ### Upgrading stats
@@ -216,17 +226,18 @@ These are all sorts of user interface settings, that should not interfere with g
   * Destruct FX: fx_debris_{0}x{1}
   * Stash order: 200
 
-|Level                 |10.01-10.10                    |09.01-9.10                     |08.01-8.10                     |07.01-7.10                     |06.01-6.10                     |05.01-5.10                     |04.01-4.10                     |03.01-3.10                     |02.01-2.10                     |01.01-1.10                     |
-|----------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|Asset name            |refinery_emp-mod-up8           |refinery_emp-mod-up8           |refinery_emp-mod-up8           |refinery_emp-mod-up7           |refinery_emp-mod-up6           |refinery_emp-mod-up5           |refinery_emp-mod-up4           |refinery_emp-mod-up3           |refinery_emp-mod-up2           |refinery_emp-mod-up1           |
-|Buff asset offset     |-2.2,0.4,-2.2                  |-2.2,0.4,-2.2                  |-2.2,0.4,-2.2                  |-2.2,0.4,-2.2                  |-2,0.6,-2                      |-2,0.6,-2                      |-2,0.6,-2                      |-2,0.6,-2                      |-2,0.6,-2                      |-2,0.6,-2                      |
-|Bundle name           |refinery_emp-mod-up8           |refinery_emp-mod-up8           |refinery_emp-mod-up8           |refinery_emp-mod-up7           |refinery_emp-mod-up6           |refinery_emp-mod-up5           |refinery_emp-mod-up4           |refinery_emp-mod-up3           |refinery_emp-mod-up2           |refinery_emp-mod-up1           |
-|Collect notify        |125                            |110                            |100                            |90                             |80                             |70                             |60                             |35                             |25                             |10                             |
-|Fill state asset name |refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up6_fillStates|refinery_emp-mod-up5_fillStates|refinery_emp-mod-up4_fillStates|refinery_emp-mod-up3_fillStates|refinery_emp-mod-up2_fillStates|refinery_emp-mod-up1_fillStates|
-|Fill state bundle name|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up6_fillStates|refinery_emp-mod-up5_fillStates|refinery_emp-mod-up4_fillStates|refinery_emp-mod-up3_fillStates|refinery_emp-mod-up2_fillStates|refinery_emp-mod-up1_fillStates|
-|Icon camera position  |-36.15,29.07,32.11             |-36.15,29.07,32.11             |-36.15,29.07,32.11             |-36.15,29.02,32.1              |-36.15,29.02,32.1              |-36.15,29.02,32.1              |-36.15,29.02,32.1              |-36.15,29.02,32.1              |-36.15,29.02,32.1              |-36.15,29.02,32.1              |
-|Icon lookat position  |0.27,1.01,-0.12                |0.27,1.01,-0.12                |0.27,1.01,-0.12                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |
-|Store tab             |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |resources                      |
+|Level                 |11.01-11.10                    |10.01-10.10                    |09.01-9.10                     |08.01-8.10                     |07.01-7.10                     |06.01-6.10                     |05.01-5.10                     |04.01-4.10                     |03.01-3.10                     |02.01-2.10                     |01.01-1.10                     |
+|----------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|Asset name            |refinery_emp-mod-up11          |refinery_emp-mod-up8           |refinery_emp-mod-up8           |refinery_emp-mod-up8           |refinery_emp-mod-up7           |refinery_emp-mod-up6           |refinery_emp-mod-up5           |refinery_emp-mod-up4           |refinery_emp-mod-up3           |refinery_emp-mod-up2           |refinery_emp-mod-up1           |
+|Buff asset offset     |-2.2,0.4,-2.2                  |-2.2,0.4,-2.2                  |-2.2,0.4,-2.2                  |-2.2,0.4,-2.2                  |-2.2,0.4,-2.2                  |-2,0.6,-2                      |-2,0.6,-2                      |-2,0.6,-2                      |-2,0.6,-2                      |-2,0.6,-2                      |-2,0.6,-2                      |
+|Bundle name           |refinery_emp-mod-up11          |refinery_emp-mod-up8           |refinery_emp-mod-up8           |refinery_emp-mod-up8           |refinery_emp-mod-up7           |refinery_emp-mod-up6           |refinery_emp-mod-up5           |refinery_emp-mod-up4           |refinery_emp-mod-up3           |refinery_emp-mod-up2           |refinery_emp-mod-up1           |
+|Collect notify        |125                            |125                            |110                            |100                            |90                             |80                             |70                             |60                             |35                             |25                             |10                             |
+|Fill state asset name |refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up6_fillStates|refinery_emp-mod-up5_fillStates|refinery_emp-mod-up4_fillStates|refinery_emp-mod-up3_fillStates|refinery_emp-mod-up2_fillStates|refinery_emp-mod-up1_fillStates|
+|Fill state bundle name|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up7_fillStates|refinery_emp-mod-up6_fillStates|refinery_emp-mod-up5_fillStates|refinery_emp-mod-up4_fillStates|refinery_emp-mod-up3_fillStates|refinery_emp-mod-up2_fillStates|refinery_emp-mod-up1_fillStates|
+|Icon camera position  |-36.15,29.07,32.11             |-36.15,29.07,32.11             |-36.15,29.07,32.11             |-36.15,29.07,32.11             |-36.15,29.02,32.1              |-36.15,29.02,32.1              |-36.15,29.02,32.1              |-36.15,29.02,32.1              |-36.15,29.02,32.1              |-36.15,29.02,32.1              |-36.15,29.02,32.1              |
+|Icon lookat position  |0.27,1.01,-0.12                |0.27,1.01,-0.12                |0.27,1.01,-0.12                |0.27,1.01,-0.12                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |0.27,0.96,-0.13                |
+|Prestige              |true                           |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |
+|Store tab             |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |(not found)                    |resources                      |
 
 
 ## Uninterpreted stats
@@ -235,9 +246,9 @@ Seriously, we don't really know what to do with these.
 
   * Order: 6
 
-|Level |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
-|------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|Max XP|60         |54        |48        |42        |36        |25        |16        |9         |4         |2         |
-|Xp    |10         |9         |8         |7         |6         |5         |4         |3         |2         |1         |
+|Level |11.01-11.10|10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
+|------|-----------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Max XP|66         |60         |54        |48        |42        |36        |25        |16        |9         |4         |2         |
+|Xp    |11         |10         |9         |8         |7         |6         |5         |4         |3         |2         |1         |
 
 

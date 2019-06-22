@@ -23,18 +23,6 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
   * (7/51) 50400 Alloy
   * (7/51) 50400 Credits
 
-### For HQ level 11
-
-  * (3/51) 0 Contraband
-  * (3/51) 0 Contraband
-  * (3/51) 0 Contraband
-  * (7/51) 1000 Alloy
-  * (7/51) 1000 Credits
-  * (7/51) 1250 Alloy
-  * (7/51) 1250 Credits
-  * (7/51) 1500 Alloy
-  * (7/51) 1500 Credits
-
 ### For HQ level 9
 
   * (3/51) 185 Contraband
@@ -47,7 +35,7 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
   * (7/51) 84000 Alloy
   * (7/51) 84000 Credits
 
-### For HQ level 10
+### For HQ levels 10-11
 
   * (3/51) 300 Contraband
   * (3/51) 380 Contraband
@@ -89,7 +77,7 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
 ### Fallback for HQ level 11
 
-  * 900 Credits
+  * 50000 Credits
 
 ### Fallback for HQ level 6
 
@@ -135,7 +123,7 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
 ### Fallback for HQ level 11
 
-  * 900 Credits
+  * 50000 Credits
 
 ### Fallback for HQ level 6
 
@@ -223,7 +211,7 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
 ### Fallback for HQ level 11
 
-  * 900 Credits
+  * 50000 Credits
 
 ### Fallback for HQ level 6
 

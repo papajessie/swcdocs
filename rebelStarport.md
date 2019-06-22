@@ -23,19 +23,19 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Produce: 0
   * Type: starport
 
-|Level       |10   |9    |8    |7    |6    |5   |4   |3   |2   |1    |
-|------------|-----|-----|-----|-----|-----|----|----|----|----|-----|
-|Health      |16200|14700|13200|11700|10200|8700|7200|5400|4500|3000 |
-|Max quantity|3    |3    |3    |3    |3    |2   |2   |1   |1   |1    |
-|Time        |1w3d |6d   |3d   |2d   |1d12h|1d  |12h |2h  |15m |1m30s|
+|Level       |11   |10   |9    |8    |7    |6    |5   |4   |3   |2   |1    |
+|------------|-----|-----|-----|-----|-----|-----|----|----|----|----|-----|
+|Health      |17100|16200|14700|13200|11700|10200|8700|7200|5400|4500|3000 |
+|Max quantity|3    |3    |3    |3    |3    |3    |2   |2   |1   |1   |1    |
+|Time        |1w1d |1w3d |6d   |3d   |2d   |1d12h|1d  |12h |2h  |15m |1m30s|
 
 
 ### Training stats
 
-|Level        |10                             |9                             |8                             |7                             |6                             |5                             |4                             |3                             |2                             |1                             |
-|-------------|-------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|Training cost|3500000$                       |1750000$                      |650000$                       |325000$                       |225000$                       |65000$                        |25000$                        |8000$                         |2000$                         |1000$                         |
-|Building     |[Headquarters 10](rebelHQ.html)|[Headquarters 9](rebelHQ.html)|[Headquarters 8](rebelHQ.html)|[Headquarters 7](rebelHQ.html)|[Headquarters 6](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 3](rebelHQ.html)|[Headquarters 2](rebelHQ.html)|[Headquarters 2](rebelHQ.html)|
+|Level        |11                             |10                             |9                             |8                             |7                             |6                             |5                             |4                             |3                             |2                             |1                             |
+|-------------|-------------------------------|-------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+|Training cost|4550000$                       |3500000$                       |1750000$                      |650000$                       |325000$                       |225000$                       |65000$                        |25000$                        |8000$                         |2000$                         |1000$                         |
+|Building     |[Headquarters 11](rebelHQ.html)|[Headquarters 10](rebelHQ.html)|[Headquarters 9](rebelHQ.html)|[Headquarters 8](rebelHQ.html)|[Headquarters 7](rebelHQ.html)|[Headquarters 6](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 3](rebelHQ.html)|[Headquarters 2](rebelHQ.html)|[Headquarters 2](rebelHQ.html)|
 
 
 ### Upgrading stats
@@ -66,12 +66,13 @@ These are all sorts of user interface settings, that should not interfere with g
   * Icon lookat position: -0.47,0.24,-0.83
   * Stash order: 250
 
-|Level            |10                    |9                    |8                    |7                    |4-6                  |2-3                  |1                    |
-|-----------------|----------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-|Asset name       |spaceport_rbl-mod-up10|spaceport_rbl-mod-up9|spaceport_rbl-mod-up8|spaceport_rbl-mod-up7|spaceport_rbl-mod-up4|spaceport_rbl-mod-up1|spaceport_rbl-mod-up1|
-|Buff asset offset|-1.6,1.4,-1.6         |-1.6,1.4,-1.6        |-1.6,1.4,-1.6        |-1.6,1.4,-1.6        |-1.4,1.2,-1.4        |-1.4,1.2,-1.4        |-1.4,1.2,-1.4        |
-|Bundle name      |spaceport_rbl-mod-up10|spaceport_rbl-mod-up9|spaceport_rbl-mod-up8|spaceport_rbl-mod-up7|spaceport_rbl-mod-up4|spaceport_rbl-mod-up1|spaceport_rbl-mod-up1|
-|Store tab        |(not found)           |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |army                 |
+|Level            |11                    |10                    |9                    |8                    |7                    |4-6                  |2-3                  |1                    |
+|-----------------|----------------------|----------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+|Asset name       |spaceport_rbl-mod-up11|spaceport_rbl-mod-up10|spaceport_rbl-mod-up9|spaceport_rbl-mod-up8|spaceport_rbl-mod-up7|spaceport_rbl-mod-up4|spaceport_rbl-mod-up1|spaceport_rbl-mod-up1|
+|Buff asset offset|-1.6,1.4,-1.6         |-1.6,1.4,-1.6         |-1.6,1.4,-1.6        |-1.6,1.4,-1.6        |-1.6,1.4,-1.6        |-1.4,1.2,-1.4        |-1.4,1.2,-1.4        |-1.4,1.2,-1.4        |
+|Bundle name      |spaceport_rbl-mod-up11|spaceport_rbl-mod-up10|spaceport_rbl-mod-up9|spaceport_rbl-mod-up8|spaceport_rbl-mod-up7|spaceport_rbl-mod-up4|spaceport_rbl-mod-up1|spaceport_rbl-mod-up1|
+|Prestige         |true                  |(not found)           |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |
+|Store tab        |(not found)           |(not found)           |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |army                 |
 
 
 ## Uninterpreted stats
@@ -80,9 +81,9 @@ Seriously, we don't really know what to do with these.
 
   * Order: 8
 
-|Level |10|9 |8 |7 |6 |5 |4 |3|2|1|
-|------|--|--|--|--|--|--|--|-|-|-|
-|Max XP|33|30|27|24|21|12|10|4|3|2|
-|Xp    |11|10|9 |8 |7 |6 |5 |4|3|2|
+|Level |11|10|9 |8 |7 |6 |5 |4 |3|2|1|
+|------|--|--|--|--|--|--|--|--|-|-|-|
+|Max XP|36|33|30|27|24|21|12|10|4|3|2|
+|Xp    |12|11|10|9 |8 |7 |6 |5 |4|3|2|
 
 

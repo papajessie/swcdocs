@@ -22,21 +22,21 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Produce: 0
   * Type: shield_generator
 
-|Level               |10         |9        |8        |7        |6        |5        |4        |3        |2        |1        |
-|--------------------|-----------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-|Health              |27000      |24500    |22000    |19500    |17000    |14500    |12000    |9000     |7500     |5000     |
-|Max quantity        |4          |4        |3        |3        |3        |2        |2        |2        |2        |2        |
-|Shield health points|100000 (10)|94500 (9)|83900 (8)|73600 (7)|63300 (6)|50000 (5)|40000 (4)|30000 (3)|20000 (2)|10000 (1)|
-|Shield range points |4          |4        |4        |4        |4        |4        |4        |3        |3        |3        |
-|Time                |2w         |1w3d     |6d       |4d       |3d       |2d       |1d       |16h      |8h       |4h       |
+|Level               |11         |10         |9        |8        |7        |6        |5        |4        |3        |2        |1        |
+|--------------------|-----------|-----------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+|Health              |28500      |27000      |24500    |22000    |19500    |17000    |14500    |12000    |9000     |7500     |5000     |
+|Max quantity        |4          |4          |4        |3        |3        |3        |2        |2        |2        |2        |2        |
+|Shield health points|110000 (11)|100000 (10)|94500 (9)|83900 (8)|73600 (7)|63300 (6)|50000 (5)|40000 (4)|30000 (3)|20000 (2)|10000 (1)|
+|Shield range points |5          |4          |4        |4        |4        |4        |4        |4        |3        |3        |3        |
+|Time                |1w5d       |2w         |1w3d     |6d       |4d       |3d       |2d       |1d       |16h      |8h       |4h       |
 
 
 ### Training stats
 
-|Level        |10                             |9                             |8                             |7                             |6                             |5                             |4                             |3                             |2                             |1                             |
-|-------------|-------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|Training cost|5000000 All.                   |3000000 All.                  |1000000 All.                  |500000 All.                   |250000 All.                   |100000 All.                   |75000 All.                    |45000 All.                    |30000 All.                    |20000 All.                    |
-|Building     |[Headquarters 10](rebelHQ.html)|[Headquarters 9](rebelHQ.html)|[Headquarters 8](rebelHQ.html)|[Headquarters 7](rebelHQ.html)|[Headquarters 6](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|
+|Level        |11                             |10                             |9                             |8                             |7                             |6                             |5                             |4                             |3                             |2                             |1                             |
+|-------------|-------------------------------|-------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+|Training cost|6500000 All.                   |5000000 All.                   |3000000 All.                  |1000000 All.                  |500000 All.                   |250000 All.                   |100000 All.                   |75000 All.                    |45000 All.                    |30000 All.                    |20000 All.                    |
+|Building     |[Headquarters 11](rebelHQ.html)|[Headquarters 10](rebelHQ.html)|[Headquarters 9](rebelHQ.html)|[Headquarters 8](rebelHQ.html)|[Headquarters 7](rebelHQ.html)|[Headquarters 6](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|
 
 
 ### Upgrading stats
@@ -65,14 +65,15 @@ These are all sorts of user interface settings, that should not interfere with g
   * Destruct FX: fx_debris_6x6
   * Stash order: 40
 
-|Level               |10                    |9                    |8                    |7                    |6                    |5                    |4                    |3                    |2                    |1                    |
-|--------------------|----------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-|Asset name          |shieldgen_rbl-mod-up10|shieldgen_rbl-mod-up9|shieldgen_rbl-mod-up8|shieldgen_rbl-mod-up7|shieldgen_rbl-mod-up6|shieldgen_rbl-mod-up5|shieldgen_rbl-mod-up4|shieldgen_rbl-mod-up3|shieldgen_rbl-mod-up2|shieldgen_rbl-mod-up1|
-|Buff asset offset   |-3,2.6,-3.2           |-3,2.6,-3.2          |-3,2.6,-3.2          |-3,2.6,-3.2          |-2.2, 2.4, -3.2      |-2.2, 2.4, -3.2      |-1,2.4,-1            |-1,1.6,-1            |-1,1.6,-1            |-0.8, 1.7, -0.2      |
-|Bundle name         |shieldgen_rbl-mod-up10|shieldgen_rbl-mod-up9|shieldgen_rbl-mod-up8|shieldgen_rbl-mod-up7|shieldgen_rbl-mod-up6|shieldgen_rbl-mod-up5|shieldgen_rbl-mod-up4|shieldgen_rbl-mod-up3|shieldgen_rbl-mod-up2|shieldgen_rbl-mod-up1|
-|Icon camera position|27.72,34.63,34.77     |-34.13,27.35,30.58   |-32.34,28.24,31.75   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |
-|Icon lookat position|-0.38,0.86,-0.54      |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |
-|Store tab           |(not found)           |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |defenses             |
+|Level               |11                    |10                    |9                    |8                    |7                    |6                    |5                    |4                    |3                    |2                    |1                    |
+|--------------------|----------------------|----------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+|Asset name          |shieldgen_rbl-mod-up11|shieldgen_rbl-mod-up10|shieldgen_rbl-mod-up9|shieldgen_rbl-mod-up8|shieldgen_rbl-mod-up7|shieldgen_rbl-mod-up6|shieldgen_rbl-mod-up5|shieldgen_rbl-mod-up4|shieldgen_rbl-mod-up3|shieldgen_rbl-mod-up2|shieldgen_rbl-mod-up1|
+|Buff asset offset   |-3,2.6,-3.2           |-3,2.6,-3.2           |-3,2.6,-3.2          |-3,2.6,-3.2          |-3,2.6,-3.2          |-2.2, 2.4, -3.2      |-2.2, 2.4, -3.2      |-1,2.4,-1            |-1,1.6,-1            |-1,1.6,-1            |-0.8, 1.7, -0.2      |
+|Bundle name         |shieldgen_rbl-mod-up11|shieldgen_rbl-mod-up10|shieldgen_rbl-mod-up9|shieldgen_rbl-mod-up8|shieldgen_rbl-mod-up7|shieldgen_rbl-mod-up6|shieldgen_rbl-mod-up5|shieldgen_rbl-mod-up4|shieldgen_rbl-mod-up3|shieldgen_rbl-mod-up2|shieldgen_rbl-mod-up1|
+|Icon camera position|27.72,34.63,34.77     |27.72,34.63,34.77     |-34.13,27.35,30.58   |-32.34,28.24,31.75   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |-34.13,27.35,30.58   |
+|Icon lookat position|-0.38,0.86,-0.54      |-0.38,0.86,-0.54      |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |0.35,0.77,0.07       |
+|Prestige            |true                  |(not found)           |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |
+|Store tab           |(not found)           |(not found)           |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |(not found)          |defenses             |
 
 
 ## Uninterpreted stats
@@ -81,9 +82,9 @@ Seriously, we don't really know what to do with these.
 
   * Order: 12
 
-|Level |10 |9  |8 |7 |6 |5 |4 |3 |2 |1 |
-|------|---|---|--|--|--|--|--|--|--|--|
-|Max XP|112|104|69|63|54|32|26|22|16|10|
-|Xp    |28 |26 |23|21|18|16|13|11|8 |5 |
+|Level |11 |10 |9  |8 |7 |6 |5 |4 |3 |2 |1 |
+|------|---|---|---|--|--|--|--|--|--|--|--|
+|Max XP|120|112|104|69|63|54|32|26|22|16|10|
+|Xp    |30 |28 |26 |23|21|18|16|13|11|8 |5 |
 
 

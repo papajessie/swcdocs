@@ -62,11 +62,11 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 ### Shooting
 
-  * Animation delay: 1.500s
+  * Animation delay: 1.100s
   * Charge time: 750ms
   * Clip retargeting: Yes
   * Gun shooting sequence: 2,1
-  * Impact delay: 0s
+  * Impact delay: 1.100s
   * Can shoot over walls: No
   * Reload time: 0s
   * Retargeting offset: 8
@@ -86,13 +86,13 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |2928|2928|2928|2928|2928|2928|2928|2928|2928|4613|
-|Calculated damage per second|1915|1850|1788|1730|1673|1619|1565|1515|1465|1419|
+|Displayed damage per second |6545|2928|2928|2928|2928|2928|2928|2928|2928|4613|
+|Calculated damage per second|2184|2109|2039|1973|1908|1846|1785|1728|1671|1618|
 |Calculated damage per cycle |6225|6013|5813|5625|5438|5263|5088|4925|4763|4613|
 
 
   * Cannons per sequence: 2
-  * Shooting cycle duration: 3.250s
+  * Shooting cycle duration: 2.850s
   * Directional: Yes
   * Is deflectable: No
   * Max speed: 18
@@ -112,9 +112,10 @@ These are all sorts of user interface settings, that should not interfere with g
 
   * Arcs: No
   * Asset name: kraytdragonfast_neu-ani
-  * Audio attack: "sfx_attack_krayt_1":35,"sfx_attack_krayt_2":35,"sfx_attack_krayt_3":30
+  * Audio attack: "sfx_attack_krayt_1":33,"sfx_attack_krayt_2":33,"sfx_attack_krayt_3":34
   * Audio death: "sfx_death_krayt_1":100
-  * Audio placement: "sfx_placement_creatures_bantha_1":50,"sfx_placement_creatures_bantha_2":50
+  * Audio impact: "sfx_impact_krayt_1":33,"sfx_impact_krayt_2":33,"sfx_impact_krayt_3":34
+  * Audio placement: "sfx_attack_krayt_1":33,"sfx_attack_krayt_2":33,"sfx_attack_krayt_3":34
   * Bundle name: kraytdragonfast_neu-ani
   * Factory rotation: 0
   * Factory scale factor: 1
@@ -129,10 +130,10 @@ These are all sorts of user interface settings, that should not interfere with g
   * Spin speed: 0
   * Targeted type: ENEMIES
 
-|Level                      |2-10    |1     |
-|---------------------------|--------|------|
-|Displayed damage per second|2928    |4613  |
-|Favorite target type       |infantry|turret|
+|Level                      |10      |2-9     |1     |
+|---------------------------|--------|--------|------|
+|Displayed damage per second|6545    |2928    |4613  |
+|Favorite target type       |infantry|infantry|turret|
 
 
 ## Uninterpreted stats
@@ -152,7 +153,7 @@ Seriously, we don't really know what to do with these.
 
 |Level      |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
 |-----------|------|------|------|------|------|------|------|------|------|------|
-|Order      |332410|332409|332408|332407|332406|332405|332404|332403|332402|332401|
+|Order      |460610|460609|460608|460607|460606|460605|460604|460603|460602|460601|
 |Point value|60    |52    |48    |44    |40    |36    |32    |28    |24    |20    |
 
 

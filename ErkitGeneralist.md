@@ -91,7 +91,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |10  |9   |8  |7  |6  |5  |4  |3  |2  |1  |
 |----------------------------|----|----|---|---|---|---|---|---|---|---|
-|Displayed damage per second |834 |723 |667|612|556|500|445|389|361|301|
+|Displayed damage per second |2631|723 |667|612|556|500|445|389|361|301|
 |Calculated damage per second|835 |724 |668|612|557|501|445|390|362|302|
 |Calculated damage per cycle |1170|1014|936|858|780|702|624|546|507|423|
 
@@ -137,9 +137,9 @@ These are all sorts of user interface settings, that should not interfere with g
   * Spin speed: 0
   * Targeted type: ENEMIES
 
-|Level                      |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
-|---------------------------|---|---|---|---|---|---|---|---|---|---|
-|Displayed damage per second|834|723|667|612|556|500|445|389|361|301|
+|Level                      |10  |9  |8  |7  |6  |5  |4  |3  |2  |1  |
+|---------------------------|----|---|---|---|---|---|---|---|---|---|
+|Displayed damage per second|2631|723|667|612|556|500|445|389|361|301|
 
 
 ## Uninterpreted stats
@@ -159,7 +159,7 @@ Seriously, we don't really know what to do with these.
 
 |Level      |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
 |-----------|------|------|------|------|------|------|------|------|------|------|
-|Order      |333910|333909|333908|333907|333906|333905|333904|333903|333902|333901|
+|Order      |461310|461309|461308|461307|461306|461305|461304|461303|461302|461301|
 |Point value|3     |2.600 |2.400 |2.200 |2     |1.800 |1.600 |1.400 |1.200 |1     |
 
 

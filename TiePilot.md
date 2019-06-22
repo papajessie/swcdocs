@@ -21,18 +21,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Unit capacity: 3
   * Type: infantry
 
-|Level |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|------|----|----|----|----|----|----|----|----|----|----|
-|Health|9610|9250|8900|8560|8240|7930|7630|7350|7070|6810|
+|Level |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|------|----|----|----|----|----|----|----|----|----|----|----|
+|Health|9826|9610|9250|8900|8560|8240|7930|7630|7350|7070|6810|
 
 
 ### Training stats
 
-|Level        |10                                      |9                                      |8                                      |7                                      |6                                      |5                                      |4                                      |3                                      |2                                      |1                                |
-|-------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------|
-|Training time|30s                                     |30s                                    |29s                                    |29s                                    |28s                                    |28s                                    |28s                                    |27s                                    |27s                                    |26s                              |
-|Training cost|230$                                    |220$                                   |210$                                   |210$                                   |200$                                   |200$                                   |190$                                   |170$                                   |160$                                   |150$                             |
-|Building     |[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Barracks 2](empireBarracks.html)|
+|Level        |11                                      |10                                      |9                                      |8                                      |7                                      |6                                      |5                                      |4                                      |3                                      |2                                      |1                                |
+|-------------|----------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------|
+|Training time|30s                                     |30s                                     |30s                                    |29s                                    |29s                                    |28s                                    |28s                                    |28s                                    |27s                                    |27s                                    |26s                              |
+|Training cost|240$                                    |230$                                    |220$                                   |210$                                   |210$                                   |200$                                   |200$                                   |190$                                   |170$                                   |160$                                   |150$                             |
+|Building     |[Research Lab 11](empireOffenseLab.html)|[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Barracks 2](empireBarracks.html)|
 
 
 ### Upgrading stats
@@ -67,7 +67,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Sum phtm tie fighter target: self
   * Sum phtm tie fighter value: 1
 
-|Level                               |10                                                              |9                                                              |8                                                              |7                                                              |6                                                              |5                                                              |4                                                              |3                                                              |2                                                              |1                                                              |
+|Level                               |10-11                                                           |9                                                              |8                                                              |7                                                              |6                                                              |5                                                              |4                                                              |3                                                              |2                                                              |1                                                              |
 |------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
 |Sum phtm tie fighter summon visitors|["trp_title_PhantomTieFighter" level 10](PhantomTieFighter.html)|["trp_title_PhantomTieFighter" level 9](PhantomTieFighter.html)|["trp_title_PhantomTieFighter" level 8](PhantomTieFighter.html)|["trp_title_PhantomTieFighter" level 7](PhantomTieFighter.html)|["trp_title_PhantomTieFighter" level 6](PhantomTieFighter.html)|["trp_title_PhantomTieFighter" level 5](PhantomTieFighter.html)|["trp_title_PhantomTieFighter" level 4](PhantomTieFighter.html)|["trp_title_PhantomTieFighter" level 3](PhantomTieFighter.html)|["trp_title_PhantomTieFighter" level 2](PhantomTieFighter.html)|["trp_title_PhantomTieFighter" level 1](PhantomTieFighter.html)|
 
@@ -107,18 +107,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Shot delay: 200ms
   * Target locking: No
 
-|Level          |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
-|---------------|---|---|---|---|---|---|---|---|---|---|
-|Damage per shot|650|620|590|560|530|510|480|460|440|420|
+|Level          |11 |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
+|---------------|---|---|---|---|---|---|---|---|---|---|---|
+|Damage per shot|668|650|620|590|560|530|510|480|460|440|420|
 
 
 ### Projectile
 
-|Level                       |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|----------------------------|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |360 |330 |310 |280 |270 |250 |240 |220 |210 |190 |
-|Calculated damage per second|1344|1282|1220|1158|1096|1055|993 |951 |910 |868 |
-|Calculated damage per cycle |1950|1860|1770|1680|1590|1530|1440|1380|1320|1260|
+|Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|----------------------------|----|----|----|----|----|----|----|----|----|----|----|
+|Displayed damage per second |1440|360 |330 |310 |280 |270 |250 |240 |220 |210 |190 |
+|Calculated damage per second|1382|1344|1282|1220|1158|1096|1055|993 |951 |910 |868 |
+|Calculated damage per cycle |2004|1950|1860|1770|1680|1590|1530|1440|1380|1320|1260|
 
 
   * Cannons per sequence: 1
@@ -137,7 +137,7 @@ These stats internal to the system link different parts of data together.
   * Unit ID: TiePilot
   * Upgrade shard uid: shrd_troopTiePilot
 
-|Level                          |10                     |9                     |8                     |7                     |6                     |5                     |4                     |3                     |2                     |1                     |
+|Level                          |10-11                  |9                     |8                     |7                     |6                     |5                     |4                     |3                     |2                     |1                     |
 |-------------------------------|-----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
 |Spawn apply buffs              |buffSumPhtmTieFighter10|buffSumPhtmTieFighter9|buffSumPhtmTieFighter8|buffSumPhtmTieFighter7|buffSumPhtmTieFighter6|buffSumPhtmTieFighter5|buffSumPhtmTieFighter4|buffSumPhtmTieFighter3|buffSumPhtmTieFighter2|buffSumPhtmTieFighter1|
 |Sum phtm tie fighter details   |sumPhtmTieFighter10    |sumPhtmTieFighter9    |sumPhtmTieFighter8    |sumPhtmTieFighter7    |sumPhtmTieFighter6    |sumPhtmTieFighter5    |sumPhtmTieFighter4    |sumPhtmTieFighter3    |sumPhtmTieFighter2    |sumPhtmTieFighter1    |
@@ -178,12 +178,14 @@ These are all sorts of user interface settings, that should not interfere with g
   * Unlocked by event: true
   * Unlocked by tournament: No
 
-|Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1             |
-|---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|
-|Displayed damage per second|360        |330        |310        |280        |270        |250        |240        |220        |210        |190           |
-|Icon unlock position       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
-|Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
-|Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1.25,1.25,1.25|
+|Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1             |
+|---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|
+|Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)   |
+|Displayed damage per second|1440                         |360        |330        |310        |280        |270        |250        |240        |220        |210        |190           |
+|Icon unlock position       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
+|Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
+|Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1.25,1.25,1.25|
+|Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)   |
 
 
 ## Uninterpreted stats
@@ -201,9 +203,9 @@ Seriously, we don't really know what to do with these.
   * Target in range modifier: 1
   * Xp: 0
 
-|Level      |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
-|-----------|------|------|------|------|------|------|------|------|------|------|
-|Order      |314809|314808|314807|314806|314805|314804|314803|314802|314801|314800|
-|Point value|3     |2.600 |2.400 |2.200 |2     |1.800 |1.600 |1.400 |1.200 |1     |
+|Level      |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|-----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Order      |61511|61510|61509|61508|61507|61506|61505|61504|61503|61502|61501|
+|Point value|3    |3    |2.600|2.400|2.200|2    |1.800|1.600|1.400|1.200|1    |
 
 

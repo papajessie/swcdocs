@@ -21,18 +21,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Unit capacity: 1
   * Type: hero
 
-|Level |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
-|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Health|45800|43900|42100|40200|38400|36500|34700|32800|31000|29100|
+|Level |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Health|46940|45800|43900|42100|40200|38400|36500|34700|32800|31000|29100|
 
 
 ### Training stats
 
-|Level        |10                                      |9                                      |8                                      |7                                      |6                                      |5                                      |4                                      |3                                      |2                                      |1                                           |
-|-------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|--------------------------------------------|
-|Training time|4m30s                                   |4m20s                                  |4m20s                                  |4m10s                                  |4m10s                                  |4m                                     |4m                                     |3m50s                                  |3m50s                                  |3m50s                                       |
-|Training cost|3400$                                   |3220$                                  |3040$                                  |2860$                                  |2680$                                  |2510$                                  |2330$                                  |2150$                                  |1970$                                  |1800$                                       |
-|Building     |[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Hero Command 1](empireTacticalCommand.html)|
+|Level        |11                                      |10                                      |9                                      |8                                      |7                                      |6                                      |5                                      |4                                      |3                                      |2                                      |1                                           |
+|-------------|----------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|--------------------------------------------|
+|Training time|4m40s                                   |4m30s                                   |4m20s                                  |4m20s                                  |4m10s                                  |4m10s                                  |4m                                     |4m                                     |3m50s                                  |3m50s                                  |3m50s                                       |
+|Training cost|3580$                                   |3400$                                   |3220$                                  |3040$                                  |2860$                                  |2680$                                  |2510$                                  |2330$                                  |2150$                                  |1970$                                  |1800$                                       |
+|Building     |[Research Lab 11](empireOffenseLab.html)|[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Hero Command 1](empireTacticalCommand.html)|
 
 
 ### Upgrading stats
@@ -79,18 +79,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Shot delay: 960ms
   * Target locking: No
 
-|Level          |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
-|---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Damage per shot|16395|15730|15065|14400|13740|13075|12410|11745|11085|10420|
+|Level          |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Damage per shot|16794|16395|15730|15065|14400|13740|13075|12410|11745|11085|10420|
 
 
 ### Projectile
 
-|Level                       |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
-|----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Displayed damage per second |9315 |8935 |8560 |8185 |7805 |7430 |7050 |6675 |6295 |5920 |
-|Calculated damage per second|7958 |7635 |7313 |6990 |6669 |6347 |6024 |5701 |5381 |5058 |
-|Calculated damage per cycle |16395|15730|15065|14400|13740|13075|12410|11745|11085|10420|
+|Level                       |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Displayed damage per second |6545 |9315 |8935 |8560 |8185 |7805 |7430 |7050 |6675 |6295 |5920 |
+|Calculated damage per second|8152 |7958 |7635 |7313 |6990 |6669 |6347 |6024 |5701 |5381 |5058 |
+|Calculated damage per cycle |16794|16395|15730|15065|14400|13740|13075|12410|11745|11085|10420|
 
 
   * Cannons per sequence: 1
@@ -149,7 +149,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Sum empire spiderling droid target: self
   * Sum empire spiderling droid value: 1
 
-|Level                                      |10                                                                      |9                                                                      |8                                                                      |7                                                                      |6                                                                      |5                                                                      |4                                                                      |3                                                                      |2                                                                      |1                                                                      |
+|Level                                      |10-11                                                                   |9                                                                      |8                                                                      |7                                                                      |6                                                                      |5                                                                      |4                                                                      |3                                                                      |2                                                                      |1                                                                      |
 |-------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
 |Sum empire spiderling droid summon visitors|["trp_title_EmpireSpiderlingDroid" level 10](EmpireSpiderlingDroid.html)|["trp_title_EmpireSpiderlingDroid" level 9](EmpireSpiderlingDroid.html)|["trp_title_EmpireSpiderlingDroid" level 8](EmpireSpiderlingDroid.html)|["trp_title_EmpireSpiderlingDroid" level 7](EmpireSpiderlingDroid.html)|["trp_title_EmpireSpiderlingDroid" level 6](EmpireSpiderlingDroid.html)|["trp_title_EmpireSpiderlingDroid" level 5](EmpireSpiderlingDroid.html)|["trp_title_EmpireSpiderlingDroid" level 4](EmpireSpiderlingDroid.html)|["trp_title_EmpireSpiderlingDroid" level 3](EmpireSpiderlingDroid.html)|["trp_title_EmpireSpiderlingDroid" level 2](EmpireSpiderlingDroid.html)|["trp_title_EmpireSpiderlingDroid" level 1](EmpireSpiderlingDroid.html)|
 
@@ -180,7 +180,7 @@ These stats internal to the system link different parts of data together.
   * Unit ID: HeroEmpireSpiderDroid
   * Upgrade shard uid: shrd_troopHeroEmpireSpiderDroid
 
-|Level                                 |10                            |9                            |8                            |7                            |6                            |5                            |4                            |3                            |2                            |1                            |
+|Level                                 |10-11                         |9                            |8                            |7                            |6                            |5                            |4                            |3                            |2                            |1                            |
 |--------------------------------------|------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 |Ability                               |abilityHeroEmpireSpiderDroid10|abilityHeroEmpireSpiderDroid9|abilityHeroEmpireSpiderDroid8|abilityHeroEmpireSpiderDroid7|abilityHeroEmpireSpiderDroid6|abilityHeroEmpireSpiderDroid5|abilityHeroEmpireSpiderDroid4|abilityHeroEmpireSpiderDroid3|abilityHeroEmpireSpiderDroid2|abilityHeroEmpireSpiderDroid1|
 |Secondary attack self buff            |buffSumEmpireSpiderlingDroid10|buffSumEmpireSpiderlingDroid9|buffSumEmpireSpiderlingDroid8|buffSumEmpireSpiderlingDroid7|buffSumEmpireSpiderlingDroid6|buffSumEmpireSpiderlingDroid5|buffSumEmpireSpiderlingDroid4|buffSumEmpireSpiderlingDroid3|buffSumEmpireSpiderlingDroid2|buffSumEmpireSpiderlingDroid1|
@@ -229,12 +229,14 @@ These are all sorts of user interface settings, that should not interfere with g
   * Unlocked by event: true
   * Unlocked by tournament: No
 
-|Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1             |
-|---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|
-|Displayed damage per second|9315       |8935       |8560       |8185       |7805       |7430       |7050       |6675       |6295       |5920          |
-|Icon unlock position       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
-|Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
-|Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.75,0.75,0.75|
+|Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1             |
+|---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|
+|Deploy vfx                 |vfx_prestige_deploy_small_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)   |
+|Displayed damage per second|6545                         |9315       |8935       |8560       |8185       |7805       |7430       |7050       |6675       |6295       |5920          |
+|Icon unlock position       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
+|Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
+|Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.75,0.75,0.75|
+|Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)   |
 
 
 ## Uninterpreted stats
@@ -262,8 +264,8 @@ Seriously, we don't really know what to do with these.
   * Target in range modifier: 1
   * Xp: 0
 
-|Level|10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
-|-----|------|------|------|------|------|------|------|------|------|------|
-|Order|111310|111309|111308|111307|111306|111305|111304|111303|111302|111301|
+|Level|11 |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
+|-----|---|---|---|---|---|---|---|---|---|---|---|
+|Order|811|810|809|808|807|806|805|804|803|802|801|
 
 

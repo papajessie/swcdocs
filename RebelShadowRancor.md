@@ -14,16 +14,16 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Armor type: bruiserInfantry
   * Side: Rebellion
   * Buildable unit: No
-  * Role: Generic
+  * Role: Bruiser
   * Shield cooldown: 0s
   * Shield health: 0
   * Shield range: 0
   * Unit capacity: 20
   * Type: infantry
 
-|Level |10    |9     |8     |7    |6    |5    |4    |3    |2    |1    |
-|------|------|------|------|-----|-----|-----|-----|-----|-----|-----|
-|Health|117175|112152|108372|96008|92796|81550|78840|76230|73710|71280|
+|Level |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Health|84955|78772|76151|67554|65302|57455|55544|53770|51995|50359|
 
 
 ### Training stats
@@ -57,7 +57,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Min attack range: 0
   * New rotation speed: 2000
   * Target preference strength: 90
-  * Target preferences: **Droideka (50)**, **Headquarters (50)**, **Heavy infantry (50)**, **Heavy vehicle (50)**, **Infantry (50)**, **Light vehicle (50)**, **Other building (50)**, **Ressource generator (50)**, **Shield (50)**, **Shield generator (50)**, **Storage (50)**, **Support troop (50)**, **Turret (50)**, Flying infantry (1), Flying vehicle (1), Heavy infantry hero (1), Heavy vehicule hero (1), Infantry hero (1), Vehicule hero (1), Wall (1), Trap (0)
+  * Target preferences: **Other building (60)**, **Ressource generator (60)**, **Storage (60)**, Droideka (50), Headquarters (50), Heavy infantry (50), Heavy vehicle (50), Infantry (50), Light vehicle (50), Shield (50), Shield generator (50), Support troop (50), Turret (50), Flying infantry (1), Flying vehicle (1), Heavy infantry hero (1), Heavy vehicule hero (1), Infantry hero (1), Vehicule hero (1), Wall (1), Trap (0)
   * View range: 16
 
 ### Shooting
@@ -66,7 +66,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Charge time: 500ms
   * Clip retargeting: Yes
   * Gun shooting sequence: 2,1
-  * Impact delay: 0s
+  * Impact delay: 960ms
   * Can shoot over walls: No
   * Reload time: 1.910s
   * Retargeting offset: 8
@@ -77,18 +77,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level          |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
 |---------------|----|----|----|----|----|----|----|----|----|----|
-|Damage per shot|8475|7584|7080|6061|5665|4810|4500|4210|3940|3690|
+|Damage per shot|9459|8906|8353|7800|7246|6693|6140|5587|5034|4481|
 
 
 ### Projectile
 
-  * Displayed damage per second: 2928
   * Splash damage percentages: 100,50
 
-|Level                       |10   |9    |8    |7    |6    |5   |4   |3   |2   |1   |
-|----------------------------|-----|-----|-----|-----|-----|----|----|----|----|----|
-|Calculated damage per second|3684 |3297 |3078 |2635 |2463 |2091|1956|1830|1713|1604|
-|Calculated damage per cycle |16950|15168|14160|12122|11330|9620|9000|8420|7880|7380|
+|Level                       |10   |9    |8    |7    |6    |5    |4    |3    |2    |1   |
+|----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|
+|Displayed damage per second |6413 |2928 |2928 |2928 |2928 |2928 |2928 |2928 |2928 |2928|
+|Calculated damage per second|4112 |3872 |3631 |3391 |3150 |2910 |2669 |2429 |2188 |1948|
+|Calculated damage per cycle |18918|17812|16706|15600|14492|13386|12280|11174|10068|8962|
 
 
   * Cannons per sequence: 2
@@ -112,14 +112,14 @@ These are all sorts of user interface settings, that should not interfere with g
 
   * Arcs: No
   * Asset name: rancorshadow_neu-ani
-  * Audio attack: "sfx_attack_creatures_rancor_1":35,"sfx_attack_creatures_rancor_2":35,"sfx_attack_creatures_rancor_3":30
+  * Audio attack: "sfx_attack_creatures_rancor_1":33,"sfx_attack_creatures_rancor_2":33,"sfx_attack_creatures_rancor_3":34
   * Audio death: "sfx_death_creatures_rancor_1":100
-  * Audio placement: "sfx_placement_creatures_bantha_1":50,"sfx_placement_creatures_bantha_2":50
+  * Audio impact: "sfx_impact_creatures_rancor_1":33,"sfx_impact_creatures_rancor_2":33,"sfx_impact_creatures_rancor_3":34
+  * Audio placement: "sfx_attack_creatures_rancor_1":35,"sfx_attack_creatures_rancor_2":35,"sfx_attack_creatures_rancor_3":30
   * Bundle name: rancorshadow_neu-ani
-  * Displayed damage per second: 2928
   * Factory rotation: 0
   * Factory scale factor: 1
-  * Favorite target type: closest
+  * Favorite target type: building
   * Gun position: "rancor_neu_rig_MASTER_MOVER/"rancor_neu_rig_locator_gun1":1,"rancor_neu_rig_MASTER_MOVER/rancor_neu_rig_locator_gun2":2
   * Icon camera position: 34.42,44.79,49.58
   * Icon lookat position: -0.63,2.9,-1.73
@@ -128,6 +128,11 @@ These are all sorts of user interface settings, that should not interfere with g
   * Name: Rancor Blaster
   * Spin speed: 0
   * Targeted type: ENEMIES
+
+|Level                      |10  |1-9 |
+|---------------------------|----|----|
+|Displayed damage per second|6413|2928|
+
 
 ## Uninterpreted stats
 
@@ -146,7 +151,7 @@ Seriously, we don't really know what to do with these.
 
 |Level      |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
 |-----------|------|------|------|------|------|------|------|------|------|------|
-|Order      |225510|225509|225508|225507|225506|225505|225504|225503|225502|225501|
+|Order      |263110|263109|263108|263107|263106|263105|263104|263103|263102|263101|
 |Point value|60    |52    |48    |44    |40    |36    |32    |28    |24    |20    |
 
 

@@ -90,7 +90,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |10   |9    |8   |7   |6   |5   |4   |3   |2   |1   |
 |----------------------------|-----|-----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |3590 |3115 |2875|2640|2400|2160|1915|1675|1435|1200|
+|Displayed damage per second |8150 |3115 |2875|2640|2400|2160|1915|1675|1435|1200|
 |Calculated damage per second|3591 |3112 |2875|2638|2396|2158|1917|1675|1437|1201|
 |Calculated damage per cycle |11672|10116|9344|8576|7788|7016|6232|5444|4672|3904|
 
@@ -241,7 +241,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
 |---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Displayed damage per second|3590       |3115       |2875       |2640       |2400       |2160       |1915       |1675       |1435       |1200       |
+|Displayed damage per second|8150       |3115       |2875       |2640       |2400       |2160       |1915       |1675       |1435       |1200       |
 |Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1.2,1.2,1.2|
 
 
@@ -269,8 +269,8 @@ Seriously, we don't really know what to do with these.
   * Target in range modifier: 1
   * Xp: 0
 
-|Level|10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
-|-----|------|------|------|------|------|------|------|------|------|------|
-|Order|115710|115709|115708|115707|115706|115705|115704|115703|115702|115701|
+|Level|10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Order|40610|40609|40608|40607|40606|40605|40604|40603|40602|40601|
 
 

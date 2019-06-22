@@ -27,7 +27,7 @@ This crates does not expire. The contents are one draw from each of the 6 pools.
 
 ### Fallback for HQ level 11
 
-  * 450 Credits
+  * 25000 Credits
 
 ### Fallback for HQ level 6
 
@@ -63,7 +63,7 @@ This crates does not expire. The contents are one draw from each of the 6 pools.
 
 ### Fallback for HQ level 11
 
-  * 450 Credits
+  * 25000 Credits
 
 ### Fallback for HQ level 6
 
@@ -94,7 +94,7 @@ This crates does not expire. The contents are one draw from each of the 6 pools.
   * (1/8) 4000 Credits
   * (1/8) 4000 Crystals
 
-### For HQ level 10
+### For HQ levels 10-11
 
   * (1/8) 6000 Alloy
   * (1/8) 6000 Contraband
@@ -104,17 +104,6 @@ This crates does not expire. The contents are one draw from each of the 6 pools.
   * (1/8) 720000 Contraband
   * (1/8) 720000 Credits
   * (1/8) 720000 Crystals
-
-### For HQ level 11
-
-  * (1/8) 160 Alloy
-  * (1/8) 160 Contraband
-  * (1/8) 160 Credits
-  * (1/8) 160 Crystals
-  * (1/8) 8400 Alloy
-  * (1/8) 8400 Contraband
-  * (1/8) 8400 Credits
-  * (1/8) 8400 Crystals
 
 ### For HQ level 7
 
@@ -155,7 +144,7 @@ This crates does not expire. The contents are one draw from each of the 6 pools.
 
 ### Fallback for HQ level 11
 
-  * 450 Credits
+  * 25000 Credits
 
 ### Fallback for HQ level 6
 
@@ -191,7 +180,7 @@ This crates does not expire. The contents are one draw from each of the 6 pools.
 
 ### Fallback for HQ level 11
 
-  * 450 Credits
+  * 25000 Credits
 
 ### Fallback for HQ level 6
 
@@ -227,7 +216,7 @@ This crates does not expire. The contents are one draw from each of the 6 pools.
 
 ### Fallback for HQ level 11
 
-  * 450 Credits
+  * 25000 Credits
 
 ### Fallback for HQ level 6
 
@@ -257,7 +246,7 @@ This crates does not expire. The contents are one draw from each of the 6 pools.
 
 ### Fallback for HQ level 11
 
-  * 4000 Credits
+  * 380000 Credits
 
 ### Fallback for HQ level 6
 

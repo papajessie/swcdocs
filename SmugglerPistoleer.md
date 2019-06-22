@@ -92,7 +92,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |10  |9   |8   |7   |6   |5   |4   |3   |2  |1  |
 |----------------------------|----|----|----|----|----|----|----|----|---|---|
-|Displayed damage per second |1121|971 |897 |822 |747 |672 |598 |523 |448|373|
+|Displayed damage per second |1680|971 |897 |822 |747 |672 |598 |523 |448|373|
 |Calculated damage per second|2160|1872|1728|1584|1440|1296|1152|1008|864|720|
 |Calculated damage per cycle |2430|2106|1944|1782|1620|1458|1296|1134|972|810|
 
@@ -139,7 +139,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10  |9  |8  |7  |6  |5  |4  |3  |2  |1  |
 |---------------------------|----|---|---|---|---|---|---|---|---|---|
-|Displayed damage per second|1121|971|897|822|747|672|598|523|448|373|
+|Displayed damage per second|1680|971|897|822|747|672|598|523|448|373|
 
 
 ## Uninterpreted stats
@@ -159,7 +159,7 @@ Seriously, we don't really know what to do with these.
 
 |Level      |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
 |-----------|------|------|------|------|------|------|------|------|------|------|
-|Order      |334010|334009|334008|334007|334006|334005|334004|334003|334002|334001|
+|Order      |461410|461409|461408|461407|461406|461405|461404|461403|461402|461401|
 |Point value|3     |2.600 |2.400 |2.200 |2     |1.800 |1.600 |1.400 |1.200 |1     |
 
 

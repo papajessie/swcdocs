@@ -3,6 +3,12 @@ title: Index of conflicts
 ---
 # Conflicts
 
+  * [tournamenttitleconflictrancorerk04102018 (conflict_rancor_erk_04102018)](conflict_rancor_erk_04102018.html) on Er'Kit
+  * [tournamenttitleconflictrancordan04102018 (conflict_rancor_dan_04102018)](conflict_rancor_dan_04102018.html) on Dandoran
+  * [tournamenttitleconflictrancortfa04102018 (conflict_rancor_tfa_04102018)](conflict_rancor_tfa_04102018.html) on Takodana
+  * [tournamenttitleconflictrancoryav27092018 (conflict_rancor_yav_27092018)](conflict_rancor_yav_27092018.html) on Yavin 4
+  * [tournamenttitleconflictrancorhth27092018 (conflict_rancor_hth_27092018)](conflict_rancor_hth_27092018.html) on Hoth
+  * [tournamenttitleconflictrancortat27092018 (conflict_rancor_tat_27092018)](conflict_rancor_tat_27092018.html) on Tatooine
   * [tournamenttitleconflictyav20180920 (conflict_yav_20180920)](conflict_yav_20180920.html) on Yavin 4
   * [tournamenttitleconflicterk20180920 (conflict_erk_20180920)](conflict_erk_20180920.html) on Er'Kit
   * [tournamenttitleconflictdan20180920 (conflict_dan_20180920)](conflict_dan_20180920.html) on Dandoran

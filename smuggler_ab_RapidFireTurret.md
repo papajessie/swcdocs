@@ -145,7 +145,7 @@ Seriously, we don't really know what to do with these.
   * Turret attack streams: no
   * Turret splash: false
   * Turret strict cool down: No
-  * Turret timey wimey: 1.7142857142857141905523121749865822494029998779296875
+  * Turret timey wimey: 1.7142857140000000715218675395590253174304962158203125
 
 |Level |10 |9  |8  |7  |6  |5  |4  |3  |2  |1  |
 |------|---|---|---|---|---|---|---|---|---|---|

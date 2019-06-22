@@ -23,18 +23,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Produce: 0
   * Type: fleet_command
 
-|Level |10   |9    |8    |7    |6    |5   |4   |3   |2   |1   |
-|------|-----|-----|-----|-----|-----|----|----|----|----|----|
-|Health|16200|14700|13200|11700|10200|8700|7200|5400|4500|3000|
-|Time  |1w5d |1w   |4d   |3d   |2d   |2d  |1d  |18h |12h |8h  |
+|Level |11   |10   |9    |8    |7    |6    |5   |4   |3   |2   |1   |
+|------|-----|-----|-----|-----|-----|-----|----|----|----|----|----|
+|Health|17100|16200|14700|13200|11700|10200|8700|7200|5400|4500|3000|
+|Time  |1w3d |1w5d |1w   |4d   |3d   |2d   |2d  |1d  |18h |12h |8h  |
 
 
 ### Training stats
 
-|Level        |10                             |9                             |8                             |7                             |6                             |5                             |4                             |3                             |2                             |1                             |
-|-------------|-------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|Training cost|5000000$                       |3000000$                      |750000$                       |350000$                       |250000$                       |150000$                       |100000$                       |75000$                        |50000$                        |25000$                        |
-|Building     |[Headquarters 10](rebelHQ.html)|[Headquarters 9](rebelHQ.html)|[Headquarters 8](rebelHQ.html)|[Headquarters 7](rebelHQ.html)|[Headquarters 6](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|
+|Level        |11                             |10                             |9                             |8                             |7                             |6                             |5                             |4                             |3                             |2                             |1                             |
+|-------------|-------------------------------|-------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+|Training cost|6500000$                       |5000000$                       |3000000$                      |750000$                       |350000$                       |250000$                       |150000$                       |100000$                       |75000$                        |50000$                        |25000$                        |
+|Building     |[Headquarters 11](rebelHQ.html)|[Headquarters 10](rebelHQ.html)|[Headquarters 9](rebelHQ.html)|[Headquarters 8](rebelHQ.html)|[Headquarters 7](rebelHQ.html)|[Headquarters 6](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|
 
 
 ### Upgrading stats
@@ -63,14 +63,15 @@ These are all sorts of user interface settings, that should not interfere with g
   * Destruct FX: fx_debris_{0}x{1}
   * Stash order: 150
 
-|Level               |7-10                    |6                       |5                       |4                       |3                       |2                       |1                       |
-|--------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
-|Asset name          |fleetcommand_rbl-mod-up7|fleetcommand_rbl-mod-up6|fleetcommand_rbl-mod-up5|fleetcommand_rbl-mod-up4|fleetcommand_rbl-mod-up3|fleetcommand_rbl-mod-up2|fleetcommand_rbl-mod-up1|
-|Buff asset offset   |-1,-2.8,-4.6            |-1.4,-2.8,-4.6          |0.8, -1.6, -4.6         |1.4,-2.4,-2.4           |1.4,-2.4,-2.4           |1.4,-2.4,-2.4           |1.4,-2.4,-2.4           |
-|Bundle name         |fleetcommand_rbl-mod-up7|fleetcommand_rbl-mod-up6|fleetcommand_rbl-mod-up5|fleetcommand_rbl-mod-up4|fleetcommand_rbl-mod-up3|fleetcommand_rbl-mod-up2|fleetcommand_rbl-mod-up1|
-|Icon camera position|-33.84,39.5,53.57       |-31.95,36.9,49.72       |-31.95,36.9,49.72       |-31.95,36.9,49.72       |-31.95,36.9,49.72       |-31.95,36.9,49.72       |-31.95,36.9,49.72       |
-|Icon lookat position|0.67,1.34,-0.31         |0.28,1.25,-0.55         |0.28,1.25,-0.55         |0.28,1.25,-0.55         |0.28,1.25,-0.55         |0.28,1.25,-0.55         |0.28,1.25,-0.55         |
-|Store tab           |(not found)             |(not found)             |(not found)             |(not found)             |(not found)             |(not found)             |army                    |
+|Level               |11                       |7-10                    |6                       |5                       |4                       |3                       |2                       |1                       |
+|--------------------|-------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+|Asset name          |fleetcommand_rbl-mod-up11|fleetcommand_rbl-mod-up7|fleetcommand_rbl-mod-up6|fleetcommand_rbl-mod-up5|fleetcommand_rbl-mod-up4|fleetcommand_rbl-mod-up3|fleetcommand_rbl-mod-up2|fleetcommand_rbl-mod-up1|
+|Buff asset offset   |-1,-2.8,-4.6             |-1,-2.8,-4.6            |-1.4,-2.8,-4.6          |0.8, -1.6, -4.6         |1.4,-2.4,-2.4           |1.4,-2.4,-2.4           |1.4,-2.4,-2.4           |1.4,-2.4,-2.4           |
+|Bundle name         |fleetcommand_rbl-mod-up11|fleetcommand_rbl-mod-up7|fleetcommand_rbl-mod-up6|fleetcommand_rbl-mod-up5|fleetcommand_rbl-mod-up4|fleetcommand_rbl-mod-up3|fleetcommand_rbl-mod-up2|fleetcommand_rbl-mod-up1|
+|Icon camera position|-33.84,39.5,53.57        |-33.84,39.5,53.57       |-31.95,36.9,49.72       |-31.95,36.9,49.72       |-31.95,36.9,49.72       |-31.95,36.9,49.72       |-31.95,36.9,49.72       |-31.95,36.9,49.72       |
+|Icon lookat position|0.67,1.34,-0.31          |0.67,1.34,-0.31         |0.28,1.25,-0.55         |0.28,1.25,-0.55         |0.28,1.25,-0.55         |0.28,1.25,-0.55         |0.28,1.25,-0.55         |0.28,1.25,-0.55         |
+|Prestige            |true                     |(not found)             |(not found)             |(not found)             |(not found)             |(not found)             |(not found)             |(not found)             |
+|Store tab           |(not found)              |(not found)             |(not found)             |(not found)             |(not found)             |(not found)             |(not found)             |army                    |
 
 
 ## Uninterpreted stats
@@ -79,9 +80,9 @@ Seriously, we don't really know what to do with these.
 
   * Order: 11
 
-|Level |10|9 |8|7|6|5|4|3|2|1|
-|------|--|--|-|-|-|-|-|-|-|-|
-|Max XP|11|10|9|8|7|6|5|4|3|2|
-|Xp    |11|10|9|8|7|6|5|4|3|2|
+|Level |11|10|9 |8|7|6|5|4|3|2|1|
+|------|--|--|--|-|-|-|-|-|-|-|-|
+|Max XP|12|11|10|9|8|7|6|5|4|3|2|
+|Xp    |12|11|10|9|8|7|6|5|4|3|2|
 
 

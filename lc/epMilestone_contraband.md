@@ -11,6 +11,10 @@ This crate expires after 7d. The contents are one draw from one pool only.
 
 ## Pool "lcpool_epMilestone_contraband" (x1 draw)
 
+### For HQ level 11
+
+  * (1/1) 640000 Contraband
+
 ### For HQ level 6
 
   * (1/1) 200000 Credits
@@ -18,10 +22,6 @@ This crate expires after 7d. The contents are one draw from one pool only.
 ### For HQ level 8
 
   * (1/1) 210000 Contraband
-
-### For HQ level 11
-
-  * (1/1) 5000 Contraband
 
 ### For HQ level 9
 
@@ -41,7 +41,7 @@ This crate expires after 7d. The contents are one draw from one pool only.
 
 ### Fallback for HQ level 11
 
-  * 900 Credits
+  * 50000 Credits
 
 ### Fallback for HQ level 6
 

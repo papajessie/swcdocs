@@ -11,8 +11,6 @@ category: episode
   * Start date: 2018-08-23 19:00 UTC
   * End date: 2018-08-29 19:00 UTC
 
-  * Task HQ11: None
-
 |Level    |03, 04                                                                             |02                                                                                 |01                                                                                 |
 |---------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 |Time     |1h                                                                                 |10m                                                                                |3m                                                                                 |
@@ -28,6 +26,7 @@ category: episode
 |Task HQ8 |Earn 120 @ec¢ec:ec=current                                                         |Earn 60 @ec¢ec:ec=current                                                          |Earn 35 @ec¢ec:ec=current                                                          |
 |Task HQ9 |Earn 150 @ec¢ec:ec=current                                                         |Earn 90 @ec¢ec:ec=current                                                          |Earn 50 @ec¢ec:ec=current                                                          |
 |Task HQ10|Earn 270 @ec¢ec:ec=current                                                         |Earn 130 @ec¢ec:ec=current                                                         |Earn 70 @ec¢ec:ec=current                                                          |
+|Task HQ11|Earn 340 @ec¢ec:ec=current                                                         |Earn 170 @ec¢ec:ec=current                                                         |Earn 90 @ec¢ec:ec=current                                                          |
 
 
 |Level    |07, 08                                                                             |06                                                                         |05                                                                                 |
@@ -45,6 +44,7 @@ category: episode
 |Task HQ8 |Earn 135 @ec¢ec:ec=current                                                         |Deploy 75 Infantry Units                                                   |Earn 135 @ec¢ec:ec=current                                                         |
 |Task HQ9 |Earn 180 @ec¢ec:ec=current                                                         |Deploy 75 Infantry Units                                                   |Earn 180 @ec¢ec:ec=current                                                         |
 |Task HQ10|Earn 320 @ec¢ec:ec=current                                                         |Deploy 165 Infantry Units                                                  |Earn 320 @ec¢ec:ec=current                                                         |
+|Task HQ11|Earn 400 @ec¢ec:ec=current                                                         |Deploy 219 Infantry Units                                                  |Earn 400 @ec¢ec:ec=current                                                         |
 
 
 |Level    |11                                                                                 |10                                                                                 |09                                                                                 |
@@ -62,6 +62,7 @@ category: episode
 |Task HQ8 |Earn 175 @ec¢ec:ec=current                                                         |Earn 165 @ec¢ec:ec=current                                                         |Earn 150 @ec¢ec:ec=current                                                         |
 |Task HQ9 |Earn 270 @ec¢ec:ec=current                                                         |Earn 230 @ec¢ec:ec=current                                                         |Earn 210 @ec¢ec:ec=current                                                         |
 |Task HQ10|Earn 480 @ec¢ec:ec=current                                                         |Earn 430 @ec¢ec:ec=current                                                         |Earn 370 @ec¢ec:ec=current                                                         |
+|Task HQ11|Earn 600 @ec¢ec:ec=current                                                         |Earn 540 @ec¢ec:ec=current                                                         |Earn 470 @ec¢ec:ec=current                                                         |
 
 
 |Level    |14-15                                                                              |13                                                                                 |12                                                                     |
@@ -79,6 +80,7 @@ category: episode
 |Task HQ8 |Earn 175 @ec¢ec:ec=current                                                         |Earn 165 @ec¢ec:ec=current                                                         |Destroy 93 Buildings                                                   |
 |Task HQ9 |Earn 270 @ec¢ec:ec=current                                                         |Earn 230 @ec¢ec:ec=current                                                         |Destroy 114 Buildings                                                  |
 |Task HQ10|Earn 480 @ec¢ec:ec=current                                                         |Earn 430 @ec¢ec:ec=current                                                         |Destroy 240 Buildings                                                  |
+|Task HQ11|Earn 600 @ec¢ec:ec=current                                                         |Earn 540 @ec¢ec:ec=current                                                         |Destroy 315 Buildings                                                  |
 
 
 |Level    |18                                                                         |17                                                                                 |16                                                                                 |
@@ -96,6 +98,7 @@ category: episode
 |Task HQ8 |Destroy 5 HQs                                                              |Earn 205 @ec¢ec:ec=current                                                         |Earn 185 @ec¢ec:ec=current                                                         |
 |Task HQ9 |Destroy 5 HQs                                                              |Earn 340 @ec¢ec:ec=current                                                         |Earn 290 @ec¢ec:ec=current                                                         |
 |Task HQ10|Destroy 6 HQs                                                              |Earn 630 @ec¢ec:ec=current                                                         |Earn 570 @ec¢ec:ec=current                                                         |
+|Task HQ11|Destroy 6 HQs                                                              |Earn 790 @ec¢ec:ec=current                                                         |Earn 720 @ec¢ec:ec=current                                                         |
 
 
 |Level    |23                                                                                 |21-22                                                                              |19-20                                                                              |
@@ -113,6 +116,7 @@ category: episode
 |Task HQ8 |Earn 205 @ec¢ec:ec=current                                                         |Earn 185 @ec¢ec:ec=current                                                         |Earn 175 @ec¢ec:ec=current                                                         |
 |Task HQ9 |Earn 340 @ec¢ec:ec=current                                                         |Earn 290 @ec¢ec:ec=current                                                         |Earn 270 @ec¢ec:ec=current                                                         |
 |Task HQ10|Earn 630 @ec¢ec:ec=current                                                         |Earn 570 @ec¢ec:ec=current                                                         |Earn 480 @ec¢ec:ec=current                                                         |
+|Task HQ11|Earn 790 @ec¢ec:ec=current                                                         |Earn 720 @ec¢ec:ec=current                                                         |Earn 600 @ec¢ec:ec=current                                                         |
 
 
 |Level    |25                                                                                    |24                                                                                                   |
@@ -130,5 +134,6 @@ category: episode
 |Task HQ8 |Earn 720 @ec¢ec:ec=current                                                            |Destroy 93 Buildings                                                                                 |
 |Task HQ9 |Earn 720 @ec¢ec:ec=current                                                            |Destroy 180 Buildings                                                                                |
 |Task HQ10|Earn 900 @ec¢ec:ec=current                                                            |Destroy 280 Buildings                                                                                |
+|Task HQ11|Earn 900 @ec¢ec:ec=current                                                            |Destroy 340 Buildings                                                                                |
 
 

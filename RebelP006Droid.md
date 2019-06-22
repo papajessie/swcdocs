@@ -96,6 +96,11 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Calculated damage per second: 0
   * Calculated damage per cycle: 1
 
+|Level                      |10|1-9        |
+|---------------------------|--|-----------|
+|Displayed damage per second|1 |(not found)|
+
+
   * Cannons per sequence: 1
   * Shooting cycle duration: 2m200ms
   * Directional: No
@@ -214,9 +219,10 @@ These are all sorts of user interface settings, that should not interfere with g
   * Unlocked by event: true
   * Unlocked by tournament: Yes
 
-|Level            |2-10       |1             |
-|-----------------|-----------|--------------|
-|Icon unlock scale|(not found)|1.75,1.75,1.75|
+|Level                      |10         |2-9        |1             |
+|---------------------------|-----------|-----------|--------------|
+|Displayed damage per second|1          |(not found)|(not found)   |
+|Icon unlock scale          |(not found)|(not found)|1.75,1.75,1.75|
 
 
 ## Uninterpreted stats
@@ -238,7 +244,7 @@ Seriously, we don't really know what to do with these.
 
 |Level      |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
 |-----------|------|------|------|------|------|------|------|------|------|------|
-|Order      |230810|230809|230808|230807|230806|230805|230804|230803|230802|230801|
+|Order      |240810|240809|240808|240807|240806|240805|240804|240803|240802|240801|
 |Point value|3     |2.600 |2.400 |2.200 |2     |1.800 |1.600 |1.400 |1.200 |1     |
 
 

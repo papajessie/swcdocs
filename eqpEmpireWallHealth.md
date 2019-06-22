@@ -156,12 +156,19 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |Original health|18000|18000|18000|18000|18000|18000|18000|18000|18000|18000|
 
 
+|Level          |11.10|11.09|11.08|11.07|11.06|11.05|11.04|11.03|11.02|11.01|
+|---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Health         |44647|43311|41785|40449|39114|37969|36633|35488|34344|33390|
+|Max quantity   |140  |140  |140  |140  |140  |140  |140  |140  |140  |140  |
+|Original health|19080|19080|19080|19080|19080|19080|19080|19080|19080|19080|
+
+
 ### Training stats
 
-|Level        |10.01-10.10                     |09.01-9.10                     |08.01-8.10                     |07.01-7.10                     |06.01-6.10                     |05.01-5.10                     |04.01-4.10                     |03.01-3.10                     |02.01-2.10                     |01.01-1.10                     |
-|-------------|--------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|Training cost|2000000 All.                    |1000000 All.                   |500000 All.                    |200000 All.                    |100000 All.                    |25000 All.                     |10000 All.                     |2000 All.                      |600 All.                       |200 All.                       |
-|Building     |[Headquarters 10](empireHQ.html)|[Headquarters 9](empireHQ.html)|[Headquarters 8](empireHQ.html)|[Headquarters 7](empireHQ.html)|[Headquarters 6](empireHQ.html)|[Headquarters 5](empireHQ.html)|[Headquarters 4](empireHQ.html)|[Headquarters 3](empireHQ.html)|[Headquarters 2](empireHQ.html)|[Headquarters 1](empireHQ.html)|
+|Level        |11.01-11.10                     |10.01-10.10                     |09.01-9.10                     |08.01-8.10                     |07.01-7.10                     |06.01-6.10                     |05.01-5.10                     |04.01-4.10                     |03.01-3.10                     |02.01-2.10                     |01.01-1.10                     |
+|-------------|--------------------------------|--------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|Training cost|260000 All.                     |200000 All.                     |100000 All.                    |50000 All.                     |20000 All.                     |10000 All.                     |2500 All.                      |1000 All.                      |200 All.                       |60 All.                        |20 All.                        |
+|Building     |[Headquarters 11](empireHQ.html)|[Headquarters 10](empireHQ.html)|[Headquarters 9](empireHQ.html)|[Headquarters 8](empireHQ.html)|[Headquarters 7](empireHQ.html)|[Headquarters 6](empireHQ.html)|[Headquarters 5](empireHQ.html)|[Headquarters 4](empireHQ.html)|[Headquarters 3](empireHQ.html)|[Headquarters 2](empireHQ.html)|[Headquarters 1](empireHQ.html)|
 
 
 ### Upgrading stats
@@ -191,14 +198,15 @@ These are all sorts of user interface settings, that should not interfere with g
   * Destruct FX: effect176
   * Stash order: 10
 
-|Level               |10.01-10.10            |09.01-9.10            |08.01-8.10            |07.01-7.10            |06.01-6.10            |05.01-5.10            |04.01-4.10            |03.01-3.10            |02.01-2.10            |01.01-1.10            |
-|--------------------|-----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
-|Asset name          |wall_emp-mod-up10_typeD|wall_emp-mod-up9_typeD|wall_emp-mod-up8_typeD|wall_emp-mod-up7_typeD|wall_emp-mod-up6_typeD|wall_emp-mod-up5_typeD|wall_emp-mod-up4_typeD|wall_emp-mod-up3_typeD|wall_emp-mod-up2_typeD|wall_emp-mod-up1_typeD|
-|Bundle name         |wall_emp-mod-up10      |wall_emp-mod-up9      |wall_emp-mod-up8      |wall_emp-mod-up7      |wall_emp-mod-up6      |wall_emp-mod-up5      |wall_emp-mod-up4      |wall_emp-mod-up3      |wall_emp-mod-up2      |wall_emp-mod-up1      |
-|Connectors          |empireWallConnectors10 |empireWallConnectors9 |empireWallConnectors8 |empireWallConnectors7 |empireWallConnectors6 |empireWallConnectors5 |empireWallConnectors4 |empireWallConnectors3 |empireWallConnectors2 |empireWallConnectors1 |
-|Icon camera position|-13.91,12.84,9.9       |-13.91,12.84,9.9      |-13.91,12.84,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |
-|Icon lookat position|-0.22,1.06,0.13        |-0.22,1.06,0.13       |-0.22,1.06,0.13       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |
-|Store tab           |(not found)            |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |defenses              |
+|Level               |11.01-11.10            |10.01-10.10            |09.01-9.10            |08.01-8.10            |07.01-7.10            |06.01-6.10            |05.01-5.10            |04.01-4.10            |03.01-3.10            |02.01-2.10            |01.01-1.10            |
+|--------------------|-----------------------|-----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+|Asset name          |wall_emp-mod-up11_typeD|wall_emp-mod-up10_typeD|wall_emp-mod-up9_typeD|wall_emp-mod-up8_typeD|wall_emp-mod-up7_typeD|wall_emp-mod-up6_typeD|wall_emp-mod-up5_typeD|wall_emp-mod-up4_typeD|wall_emp-mod-up3_typeD|wall_emp-mod-up2_typeD|wall_emp-mod-up1_typeD|
+|Bundle name         |wall_emp-mod-up11      |wall_emp-mod-up10      |wall_emp-mod-up9      |wall_emp-mod-up8      |wall_emp-mod-up7      |wall_emp-mod-up6      |wall_emp-mod-up5      |wall_emp-mod-up4      |wall_emp-mod-up3      |wall_emp-mod-up2      |wall_emp-mod-up1      |
+|Connectors          |empireWallConnectors11 |empireWallConnectors10 |empireWallConnectors9 |empireWallConnectors8 |empireWallConnectors7 |empireWallConnectors6 |empireWallConnectors5 |empireWallConnectors4 |empireWallConnectors3 |empireWallConnectors2 |empireWallConnectors1 |
+|Icon camera position|-13.91,12.84,9.9       |-13.91,12.84,9.9       |-13.91,12.84,9.9      |-13.91,12.84,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |-13.94,12.55,9.9      |
+|Icon lookat position|-0.22,1.06,0.13        |-0.22,1.06,0.13        |-0.22,1.06,0.13       |-0.22,1.06,0.13       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |-0.35,0.87,0.19       |
+|Prestige            |true                   |(not found)            |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |
+|Store tab           |(not found)            |(not found)            |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |defenses              |
 
 
 ## Uninterpreted stats

@@ -92,7 +92,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                      |10  |9   |8   |7   |6   |5   |4   |3   |2   |1  |
 |---------------------------|----|----|----|----|----|----|----|----|----|---|
-|Displayed damage per second|2693|2334|2155|1976|1795|1616|1437|1257|1078|865|
+|Displayed damage per second|7800|2334|2155|1976|1795|1616|1437|1257|1078|865|
 
 
   * Cannons per sequence: 1
@@ -163,7 +163,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10  |9   |8   |7   |6   |5   |4   |3   |2   |1  |
 |---------------------------|----|----|----|----|----|----|----|----|----|---|
-|Displayed damage per second|2693|2334|2155|1976|1795|1616|1437|1257|1078|865|
+|Displayed damage per second|7800|2334|2155|1976|1795|1616|1437|1257|1078|865|
 
 
 ## Uninterpreted stats
@@ -183,8 +183,8 @@ Seriously, we don't really know what to do with these.
   * Target in range modifier: 1
   * Xp: 0
 
-|Level|10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
-|-----|------|------|------|------|------|------|------|------|------|------|
-|Order|484440|484436|484432|484428|484424|484420|484416|484412|484408|484404|
+|Level|10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Order|63610|63609|63608|63607|63606|63605|63604|63603|63602|63601|
 
 

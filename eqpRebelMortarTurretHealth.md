@@ -183,12 +183,22 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |Time           |1w3d  |1w3d  |1w3d  |1w3d  |1w3d  |1w3d  |1w3d  |1w3d  |1w3d  |1w3d  |
 
 
+|Level          |11.10 |11.09 |11.08 |11.07 |11.06 |11.05 |11.04 |11.03 |11.02 |11.01 |
+|---------------|------|------|------|------|------|------|------|------|------|------|
+|Cross materials|702000|702000|702000|702000|702000|702000|702000|702000|702000|702000|
+|Cross time     |3d    |3d    |3d    |3d    |3d    |3d    |3d    |3d    |3d    |3d    |
+|Health         |70395 |68970 |66975 |65265 |63555 |61845 |59850 |58424 |56715 |55290 |
+|Max quantity   |22    |22    |22    |22    |22    |22    |22    |22    |22    |22    |
+|Original health|28500 |28500 |28500 |28500 |28500 |28500 |28500 |28500 |28500 |28500 |
+|Time           |1w1d  |1w1d  |1w1d  |1w1d  |1w1d  |1w1d  |1w1d  |1w1d  |1w1d  |1w1d  |
+
+
 ### Training stats
 
-|Level        |10.01-10.10                    |09.01-9.10                    |08.01-8.10                    |07.01-7.10                    |06.01-6.10                    |05.01-5.10                    |04.01-4.10                    |03.01-3.10                    |02.01-2.10                    |01.01-1.10                    |
-|-------------|-------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|Training cost|5000000 All.                   |3000000 All.                  |1000000 All.                  |500000 All.                   |250000 All.                   |100000 All.                   |55000 All.                    |20000 All.                    |3000 All.                     |1500 All.                     |
-|Building     |[Headquarters 10](rebelHQ.html)|[Headquarters 9](rebelHQ.html)|[Headquarters 8](rebelHQ.html)|[Headquarters 7](rebelHQ.html)|[Headquarters 6](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 3](rebelHQ.html)|[Headquarters 3](rebelHQ.html)|[Headquarters 3](rebelHQ.html)|
+|Level        |11.01-11.10                    |10.01-10.10                    |09.01-9.10                    |08.01-8.10                    |07.01-7.10                    |06.01-6.10                    |05.01-5.10                    |04.01-4.10                    |03.01-3.10                    |02.01-2.10                    |01.01-1.10                    |
+|-------------|-------------------------------|-------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+|Training cost|6500000 All.                   |5000000 All.                   |3000000 All.                  |1000000 All.                  |500000 All.                   |250000 All.                   |100000 All.                   |55000 All.                    |20000 All.                    |3000 All.                     |1500 All.                     |
+|Building     |[Headquarters 11](rebelHQ.html)|[Headquarters 10](rebelHQ.html)|[Headquarters 9](rebelHQ.html)|[Headquarters 8](rebelHQ.html)|[Headquarters 7](rebelHQ.html)|[Headquarters 6](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 3](rebelHQ.html)|[Headquarters 3](rebelHQ.html)|[Headquarters 3](rebelHQ.html)|
 
 
 ### Upgrading stats
@@ -210,7 +220,11 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Turret min attack range: 4
   * Turret target preference strength: 90
   * Turret target preferences: **Turret droideka (60)**, **Turret headquarters (60)**, **Turret heavy infantry (60)**, **Turret heavy vehicle (60)**, **Turret infantry (60)**, **Turret light vehicle (60)**, **Turret other building (60)**, **Turret ressource generator (60)**, **Turret storage (60)**, **Turret support troop (60)**, **Turret turret (60)**, Turret heavy infantry hero (1), Turret heavy vehicule hero (1), Turret infantry hero (1), Turret vehicule hero (1), Turret wall (1), Turret flying infantry (0), Turret flying vehicle (0)
-  * Turret view range: 10
+
+|Level            |11.01-11.10|01.01-1.10, 2.01-2.10, 3.01-3.10, 4.01-4.10, 5.01-5.10, 6.01-6.10, 7.01-7.10, 8.01-8.10, 9.01-9.10, 10.01-10.10|
+|-----------------|-----------|---------------------------------------------------------------------------------------------------------------|
+|Turret view range|11         |10                                                                                                             |
+
 
 ### Shooting
 
@@ -224,18 +238,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Turret shot count: 1
   * Turret shot delay: 1ms
 
-|Level                 |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
-|----------------------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|Turret damage per shot|5198       |4736      |4389      |4043      |3696      |3350      |2772      |2079      |1733      |1155      |
+|Level                 |11.01-11.10|10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
+|----------------------|-----------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Turret damage per shot|5208       |5198       |4736      |4389      |4043      |3696      |3350      |2772      |2079      |1733      |1155      |
 
 
   * Turret attack splash damage percentages: 100,30,20,10,10
 
-|Level                                     |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
-|------------------------------------------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|Turret displayed damage per second        |1575       |1435      |1330      |1225      |1120      |1015      |840       |630       |525       |350       |
-|Turret attack calculated damage per second|1650       |1503      |1393      |1283      |1173      |1063      |880       |660       |550       |366       |
-|Turret attack calculated damage per clip  |5198       |4736      |4389      |4043      |3696      |3350      |2772      |2079      |1733      |1155      |
+|Level                                     |11.01-11.10|10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
+|------------------------------------------|-----------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Turret displayed damage per second        |1585       |1575       |1435      |1330      |1225      |1120      |1015      |840       |630       |525       |350       |
+|Turret attack calculated damage per second|1653       |1650       |1503      |1393      |1283      |1173      |1063      |880       |660       |550       |366       |
+|Turret attack calculated damage per clip  |5208       |5198       |4736      |4389      |4043      |3696      |3350      |2772      |2079      |1733      |1155      |
 
 
   * Turret attack cannons per sequence: 1
@@ -254,9 +268,9 @@ These stats internal to the system link different parts of data together.
   * Sub type: mortar_turret
   * Turret projectile type: projectileRebelMortar
 
-|Level    |10.01-10.10    |09.01-9.10    |08.01-8.10    |07.01-7.10    |06.01-6.10    |05.01-5.10    |04.01-4.10    |03.01-3.10    |02.01-2.10    |01.01-1.10    |
-|---------|---------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
-|Turret id|t_rebelMortar10|t_rebelMortar9|t_rebelMortar8|t_rebelMortar7|t_rebelMortar6|t_rebelMortar5|t_rebelMortar4|t_rebelMortar3|t_rebelMortar2|t_rebelMortar1|
+|Level    |11.01-11.10    |10.01-10.10    |09.01-9.10    |08.01-8.10    |07.01-7.10    |06.01-6.10    |05.01-5.10    |04.01-4.10    |03.01-3.10    |02.01-2.10    |01.01-1.10    |
+|---------|---------------|---------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+|Turret id|t_rebelMortar11|t_rebelMortar10|t_rebelMortar9|t_rebelMortar8|t_rebelMortar7|t_rebelMortar6|t_rebelMortar5|t_rebelMortar4|t_rebelMortar3|t_rebelMortar2|t_rebelMortar1|
 
 
 ## Presentation stats
@@ -283,23 +297,23 @@ These are all sorts of user interface settings, that should not interfere with g
   * Turret gun position: "locator_gun":1
   * Turret max scale: 2
 
-|Level                             |10.01-10.10                        |09.01-9.10                       |08.01-8.10                       |07.01-7.10                       |06.01-6.10                       |05.01-5.10                       |04.01-4.10                       |03.01-3.10                       |02.01-2.10                       |01.01-1.10                       |
-|----------------------------------|-----------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-|Asset name                        |mortarturret_rbl-mod-up10          |mortarturret_rbl-mod-up9         |mortarturret_rbl-mod-up8         |mortarturret_rbl-mod-up7         |mortarturret_rbl-mod-up6         |mortarturret_rbl-mod-up5         |mortarturret_rbl-mod-up4         |mortarturret_rbl-mod-up3         |mortarturret_rbl-mod-up2         |mortarturret_rbl-mod-up1         |
-|Buff asset offset                 |-1.4,2.2,-1.4                      |-1.4,2.2,-1.4                    |-1.4,2.2,-1.4                    |-2.0, 3.4, -2.2                  |-2.0, 3.4, -2.2                  |-2.0, 3.4, -2.2                  |-2.0, 3.4, -2.2                  |-1.8,2.6,-1.8                    |-1.8,2.6,-1.8                    |-1.8,2.6,-1.8                    |
-|Bundle name                       |mortarturret_rbl-mod-up10          |mortarturret_rbl-mod-up9         |mortarturret_rbl-mod-up8         |mortarturret_rbl-mod-up7         |mortarturret_rbl-mod-up6         |mortarturret_rbl-mod-up5         |mortarturret_rbl-mod-up4         |mortarturret_rbl-mod-up3         |mortarturret_rbl-mod-up2         |mortarturret_rbl-mod-up1         |
-|Icon camera position              |-25.65,30.45,29.86                 |-25.65,30.45,29.86               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |
-|Icon lookat position              |0.4,1.72,-0.29                     |0.4,1.72,-0.29                   |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |
-|Store tab                         |(not found)                        |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |decorations                      |
-|Turret displayed damage per second|1575                               |1435                             |1330                             |1225                             |1120                             |1015                             |840                              |630                              |525                              |350                              |
-|Turret tracker name               |mortarMesh_up10/barrelbaseMesh_up10|mortarMesh_up9/barrelbaseMesh_up9|mortarMesh_up8/barrelbaseMesh_up8|mortarMesh_up7/barrelbaseMesh_up7|mortarMesh_up6/barrelbaseMesh_up6|mortarMesh_up5/barrelbaseMesh_up5|mortarMesh_up4/barrelbaseMesh_up4|mortarMesh_up3/barrelbaseMesh_up3|mortarMesh_up2/barrelbaseMesh_up2|mortarMesh_up1/barrelbaseMesh_up1|
+|Level                             |11.01-11.10                        |10.01-10.10                        |09.01-9.10                       |08.01-8.10                       |07.01-7.10                       |06.01-6.10                       |05.01-5.10                       |04.01-4.10                       |03.01-3.10                       |02.01-2.10                       |01.01-1.10                       |
+|----------------------------------|-----------------------------------|-----------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+|Asset name                        |mortarturret_rbl-mod-up11          |mortarturret_rbl-mod-up10          |mortarturret_rbl-mod-up9         |mortarturret_rbl-mod-up8         |mortarturret_rbl-mod-up7         |mortarturret_rbl-mod-up6         |mortarturret_rbl-mod-up5         |mortarturret_rbl-mod-up4         |mortarturret_rbl-mod-up3         |mortarturret_rbl-mod-up2         |mortarturret_rbl-mod-up1         |
+|Buff asset offset                 |-1.4,2.2,-1.4                      |-1.4,2.2,-1.4                      |-1.4,2.2,-1.4                    |-1.4,2.2,-1.4                    |-2.0, 3.4, -2.2                  |-2.0, 3.4, -2.2                  |-2.0, 3.4, -2.2                  |-2.0, 3.4, -2.2                  |-1.8,2.6,-1.8                    |-1.8,2.6,-1.8                    |-1.8,2.6,-1.8                    |
+|Bundle name                       |mortarturret_rbl-mod-up11          |mortarturret_rbl-mod-up10          |mortarturret_rbl-mod-up9         |mortarturret_rbl-mod-up8         |mortarturret_rbl-mod-up7         |mortarturret_rbl-mod-up6         |mortarturret_rbl-mod-up5         |mortarturret_rbl-mod-up4         |mortarturret_rbl-mod-up3         |mortarturret_rbl-mod-up2         |mortarturret_rbl-mod-up1         |
+|Icon camera position              |-25.65,30.45,29.86                 |-25.65,30.45,29.86                 |-25.65,30.45,29.86               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |
+|Icon lookat position              |0.4,1.72,-0.29                     |0.4,1.72,-0.29                     |0.4,1.72,-0.29                   |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |
+|Prestige                          |true                               |(not found)                        |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |
+|Store tab                         |(not found)                        |(not found)                        |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |decorations                      |
+|Turret displayed damage per second|1585                               |1575                               |1435                             |1330                             |1225                             |1120                             |1015                             |840                              |630                              |525                              |350                              |
+|Turret tracker name               |mortarMesh_up11/barrelbaseMesh_up11|mortarMesh_up10/barrelbaseMesh_up10|mortarMesh_up9/barrelbaseMesh_up9|mortarMesh_up8/barrelbaseMesh_up8|mortarMesh_up7/barrelbaseMesh_up7|mortarMesh_up6/barrelbaseMesh_up6|mortarMesh_up5/barrelbaseMesh_up5|mortarMesh_up4/barrelbaseMesh_up4|mortarMesh_up3/barrelbaseMesh_up3|mortarMesh_up2/barrelbaseMesh_up2|mortarMesh_up1/barrelbaseMesh_up1|
 
 
 ## Uninterpreted stats
 
 Seriously, we don't really know what to do with these.
 
-  * Order: 21
   * Turret arming delay: 0
   * Turret attack S1 time: 300ms
   * Turret attack S2 time: 300ms
@@ -307,12 +321,13 @@ Seriously, we don't really know what to do with these.
   * Turret attack streams: no
   * Turret splash: false
   * Turret strict cool down: No
-  * Turret timey wimey: 0.303030303030303038713810792614822275936603546142578125
+  * Turret timey wimey: 0.30303030300000000085702822616440244019031524658203125
 
-|Level |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
-|------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|Max XP|1400       |1170      |960       |770       |600       |450       |320       |210       |120       |50        |
-|Xp    |70         |65        |60        |55        |50        |45        |40        |35        |30        |25        |
+|Level |11.01-11.10|10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
+|------|-----------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Max XP|1630       |1400       |1170      |960       |770       |600       |450       |320       |210       |120       |50        |
+|Order |22         |21         |21        |21        |21        |21        |21        |21        |21        |21        |21        |
+|Xp    |75         |70         |65        |60        |55        |50        |45        |40        |35        |30        |25        |
 
 
 I could not show the following roles, because I was not programmed to : buffEqpMortarTurretHealthpresentation

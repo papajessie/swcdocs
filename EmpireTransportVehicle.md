@@ -148,7 +148,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level                       |10   |9    |8    |7    |6   |5   |4   |3   |2   |1   |
 |----------------------------|-----|-----|-----|-----|----|----|----|----|----|----|
-|Displayed damage per second |8150 |7750 |7150 |6750 |6200|5800|5250|4650|3850|3100|
+|Displayed damage per second |1    |7750 |7150 |6750 |6200|5800|5250|4650|3850|3100|
 |Calculated damage per second|8129 |7741 |7161 |6774 |6193|5806|5225|4645|3870|3096|
 |Calculated damage per cycle |12600|12000|11100|10500|9600|9000|8100|7200|6000|4800|
 
@@ -214,7 +214,7 @@ These are all sorts of user interface settings, that should not interfere with g
 
 |Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1               |
 |---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|----------------|
-|Displayed damage per second|8150       |7750       |7150       |6750       |6200       |5800       |5250       |4650       |3850       |3100            |
+|Displayed damage per second|1          |7750       |7150       |6750       |6200       |5800       |5250       |4650       |3850       |3100            |
 |Icon unlock position       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|-0.75,0.375,0.25|
 |Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|2.5,-21,-1.5    |
 |Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.6,0.6,0.6     |
@@ -238,8 +238,8 @@ Seriously, we don't really know what to do with these.
   * Target in range modifier: 1
   * Xp: 0
 
-|Level|10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
-|-----|------|------|------|------|------|------|------|------|------|------|
-|Order|145720|145719|145718|145717|145716|145715|145714|145713|145712|145711|
+|Level|10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Order|81310|81309|81308|81307|81306|81305|81304|81303|81302|81301|
 
 

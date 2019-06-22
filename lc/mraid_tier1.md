@@ -11,19 +11,7 @@ This crate expires after 7d. The contents are one draw from each of the 2 pools.
 
 ## Pool "lcpool_currency_t3" (x1 draw)
 
-### For HQ level 11
-
-  * (1/27) 0 Contraband
-  * (1/27) 0 Contraband
-  * (1/27) 0 Contraband
-  * (4/27) 480 Alloy
-  * (4/27) 480 Credits
-  * (4/27) 600 Alloy
-  * (4/27) 600 Credits
-  * (4/27) 720 Alloy
-  * (4/27) 720 Credits
-
-### For HQ level 10
+### For HQ levels 10-11
 
   * (1/27) 100 Contraband
   * (1/27) 120 Contraband
@@ -89,7 +77,7 @@ This crate expires after 7d. The contents are one draw from each of the 2 pools.
 
 ### Fallback for HQ level 11
 
-  * 600 Credits
+  * 30000 Credits
 
 ### Fallback for HQ level 6
 
@@ -173,7 +161,7 @@ This crate expires after 7d. The contents are one draw from each of the 2 pools.
 
 ### Fallback for HQ level 11
 
-  * 450 Credits
+  * 25000 Credits
 
 ### Fallback for HQ level 6
 

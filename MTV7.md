@@ -22,18 +22,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Type: vehicle
   * Unlock planet: Unlock on Hoth
 
-|Level |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
-|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Health|28820|26920|25290|23720|22610|21850|21040|20480|19800|19200|
+|Level |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Health|29960|28820|26920|25290|23720|22610|21850|21040|20480|19800|19200|
 
 
 ### Training stats
 
-|Level        |10                                      |9                                      |8                                      |7                                      |6                                      |5                                      |4                                      |3                                      |2                                      |1                              |
-|-------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|-------------------------------|
-|Training time|4m                                      |3m52s                                  |3m44s                                  |3m36s                                  |3m28s                                  |3m20s                                  |3m12s                                  |3m4s                                   |2m56s                                  |2m40s                          |
-|Training cost|1840$                                   |1680$                                  |1600$                                  |1360$                                  |1200$                                  |1040$                                  |880$                                   |720$                                   |560$                                   |400$                           |
-|Building     |[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Factory 1](empireFactory.html)|
+|Level        |11                                      |10                                      |9                                      |8                                      |7                                      |6                                      |5                                      |4                                      |3                                      |2                                      |1                              |
+|-------------|----------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|-------------------------------|
+|Training time|4m8s                                    |4m                                      |3m52s                                  |3m44s                                  |3m36s                                  |3m28s                                  |3m20s                                  |3m12s                                  |3m4s                                   |2m56s                                  |2m40s                          |
+|Training cost|2000$                                   |1840$                                   |1680$                                  |1600$                                  |1360$                                  |1200$                                  |1040$                                  |880$                                   |720$                                   |560$                                   |400$                           |
+|Building     |[Research Lab 11](empireOffenseLab.html)|[Research Lab 10](empireOffenseLab.html)|[Research Lab 9](empireOffenseLab.html)|[Research Lab 8](empireOffenseLab.html)|[Research Lab 7](empireOffenseLab.html)|[Research Lab 6](empireOffenseLab.html)|[Research Lab 5](empireOffenseLab.html)|[Research Lab 4](empireOffenseLab.html)|[Research Lab 3](empireOffenseLab.html)|[Research Lab 2](empireOffenseLab.html)|[Factory 1](empireFactory.html)|
 
 
 ### Upgrading stats
@@ -80,18 +80,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Shot delay: 0s
   * Target locking: No
 
-|Level          |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|---------------|----|----|----|----|----|----|----|----|----|----|
-|Damage per shot|3290|3140|3000|2860|2730|2610|2490|2380|2280|2184|
+|Level          |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|---------------|----|----|----|----|----|----|----|----|----|----|----|
+|Damage per shot|3380|3290|3140|3000|2860|2730|2610|2490|2380|2280|2184|
 
 
 ### Projectile
 
-|Level                       |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
-|----------------------------|----|----|----|----|----|----|----|----|----|----|
-|Displayed damage per second |3290|3140|3000|2860|2730|2610|2490|2380|2280|2184|
-|Calculated damage per second|3133|2990|2857|2723|2600|2485|2371|2266|2171|2080|
-|Calculated damage per cycle |3290|3140|3000|2860|2730|2610|2490|2380|2280|2184|
+|Level                       |11  |10  |9   |8   |7   |6   |5   |4   |3   |2   |1   |
+|----------------------------|----|----|----|----|----|----|----|----|----|----|----|
+|Displayed damage per second |2262|3290|3140|3000|2860|2730|2610|2490|2380|2280|2184|
+|Calculated damage per second|3219|3133|2990|2857|2723|2600|2485|2371|2266|2171|2080|
+|Calculated damage per cycle |3380|3290|3140|3000|2860|2730|2610|2490|2380|2280|2184|
 
 
   * Cannons per sequence: 1
@@ -223,12 +223,14 @@ These are all sorts of user interface settings, that should not interfere with g
   * Turret damage debuff bundle name: fx_event_unit_buffs
   * Unlocked by event: true
 
-|Level                      |10         |9          |8          |7          |6          |5          |4          |3          |2          |1    |
-|---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----|
-|Displayed damage per second|3290       |3140       |3000       |2860       |2730       |2610       |2490       |2380       |2280       |2184 |
-|Icon unlock position       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0|
-|Icon unlock rotation       |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0|
-|Icon unlock scale          |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1,1,1|
+|Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1          |
+|---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|Deploy vfx                 |vfx_prestige_deploy_large_emp|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
+|Displayed damage per second|2262                         |3290       |3140       |3000       |2860       |2730       |2610       |2490       |2380       |2280       |2184       |
+|Icon unlock position       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0      |
+|Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0      |
+|Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|1,1,1      |
+|Prestige                   |true                         |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|
 
 
 ## Uninterpreted stats
@@ -255,9 +257,9 @@ Seriously, we don't really know what to do with these.
   * Turret damage debuff tags: dps
   * Xp: 0
 
-|Level      |10    |9     |8     |7     |6     |5     |4     |3     |2     |1     |
-|-----------|------|------|------|------|------|------|------|------|------|------|
-|Order      |131110|131109|131108|131107|131106|131105|131104|131103|131102|131101|
-|Point value|15    |13    |12    |11    |10    |9     |8     |7     |6     |5     |
+|Level      |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
+|-----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Order      |80911|80910|80909|80908|80907|80906|80905|80904|80903|80902|80901|
+|Point value|15   |15   |13   |12   |11   |10   |9    |8    |7    |6    |5    |
 
 

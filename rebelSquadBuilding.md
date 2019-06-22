@@ -24,18 +24,18 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Produce: 0
   * Type: squad
 
-|Level |10   |9    |8    |7    |6    |5   |4   |3   |2   |1   |
-|------|-----|-----|-----|-----|-----|----|----|----|----|----|
-|Health|16200|14700|13200|11700|10200|8700|7200|5400|4500|3000|
-|Time  |2w   |1w5d |1w3d |1w1d |6d   |4d  |1d  |4h  |1h  |0s  |
+|Level |11   |10   |9    |8    |7    |6    |5   |4   |3   |2   |1   |
+|------|-----|-----|-----|-----|-----|-----|----|----|----|----|----|
+|Health|17100|16200|14700|13200|11700|10200|8700|7200|5400|4500|3000|
+|Time  |1w5d |2w   |1w5d |1w3d |1w1d |6d   |4d  |1d  |4h  |1h  |0s  |
 
 
 ### Training stats
 
-|Level        |10                             |9                             |8                             |7                             |6                             |5                             |4                             |3                             |2                             |1                             |
-|-------------|-------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|Training cost|3600000 All.                   |1350000 All.                  |900000 All.                   |750000 All.                   |275000 All.                   |135000 All.                   |45000 All.                    |9000 All.                     |3000 All.                     |Free                          |
-|Building     |[Headquarters 10](rebelHQ.html)|[Headquarters 9](rebelHQ.html)|[Headquarters 8](rebelHQ.html)|[Headquarters 7](rebelHQ.html)|[Headquarters 6](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 3](rebelHQ.html)|[Headquarters 2](rebelHQ.html)|[Headquarters 1](rebelHQ.html)|
+|Level        |11                             |10                             |9                             |8                             |7                             |6                             |5                             |4                             |3                             |2                             |1                             |
+|-------------|-------------------------------|-------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+|Training cost|4680000 All.                   |3600000 All.                   |1350000 All.                  |900000 All.                   |750000 All.                   |275000 All.                   |135000 All.                   |45000 All.                    |9000 All.                     |3000 All.                     |Free                          |
+|Building     |[Headquarters 11](rebelHQ.html)|[Headquarters 10](rebelHQ.html)|[Headquarters 9](rebelHQ.html)|[Headquarters 8](rebelHQ.html)|[Headquarters 7](rebelHQ.html)|[Headquarters 6](rebelHQ.html)|[Headquarters 5](rebelHQ.html)|[Headquarters 4](rebelHQ.html)|[Headquarters 3](rebelHQ.html)|[Headquarters 2](rebelHQ.html)|[Headquarters 1](rebelHQ.html)|
 
 
 ### Upgrading stats
@@ -64,13 +64,14 @@ These are all sorts of user interface settings, that should not interfere with g
   * Destruct FX: fx_debris_{0}x{1}
   * Stash order: 30
 
-|Level               |9-10                  |8                     |7                     |6                     |5                     |4                     |3                     |2                     |1                     |
-|--------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
-|Asset name          |clancenter_rbl-mod-up9|clancenter_rbl-mod-up8|clancenter_rbl-mod-up7|clancenter_rbl-mod-up6|clancenter_rbl-mod-up5|clancenter_rbl-mod-up4|clancenter_rbl-mod-up3|clancenter_rbl-mod-up2|clancenter_rbl-mod-up1|
-|Buff asset offset   |-1.4, 0.0, -1.8       |-1.4, 0.0, -1.8       |-1.4, 0.0, -1.8       |-1.2,-0.6,-0.8        |-1.2,-0.6,-0.8        |-1.2,-0.6,-0.8        |-1.2,-0.6,-0.8        |-1.2,-0.6,-0.8        |-1.2,-0.6,-0.8        |
-|Bundle name         |clancenter_rbl-mod-up9|clancenter_rbl-mod-up8|clancenter_rbl-mod-up7|clancenter_rbl-mod-up6|clancenter_rbl-mod-up5|clancenter_rbl-mod-up4|clancenter_rbl-mod-up3|clancenter_rbl-mod-up2|clancenter_rbl-mod-up1|
-|Icon camera position|-52.39,51.89,49.65    |-57.29,39.79,45.3     |-55.25,46.96,45.45    |-50.51,41.92,41.7     |-50.51,41.92,41.7     |-50.51,41.92,41.7     |-47.72,39.69,39.39    |-47.72,39.69,39.39    |-47.72,39.69,39.39    |
-|Icon lookat position|1.02,2.88,-0.83       |0.67,2.22,-0.7        |0.8,2.13,-0.73        |0.28,1.29,-0.14       |0.28,1.29,-0.14       |0.28,1.29,-0.14       |0.28,1.29,-0.14       |0.28,1.29,-0.14       |0.28,1.29,-0.14       |
+|Level               |11                     |9-10                  |8                     |7                     |6                     |5                     |4                     |3                     |2                     |1                     |
+|--------------------|-----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+|Asset name          |clancenter_rbl-mod-up11|clancenter_rbl-mod-up9|clancenter_rbl-mod-up8|clancenter_rbl-mod-up7|clancenter_rbl-mod-up6|clancenter_rbl-mod-up5|clancenter_rbl-mod-up4|clancenter_rbl-mod-up3|clancenter_rbl-mod-up2|clancenter_rbl-mod-up1|
+|Buff asset offset   |-1.4, 0.0, -1.8        |-1.4, 0.0, -1.8       |-1.4, 0.0, -1.8       |-1.4, 0.0, -1.8       |-1.2,-0.6,-0.8        |-1.2,-0.6,-0.8        |-1.2,-0.6,-0.8        |-1.2,-0.6,-0.8        |-1.2,-0.6,-0.8        |-1.2,-0.6,-0.8        |
+|Bundle name         |clancenter_rbl-mod-up11|clancenter_rbl-mod-up9|clancenter_rbl-mod-up8|clancenter_rbl-mod-up7|clancenter_rbl-mod-up6|clancenter_rbl-mod-up5|clancenter_rbl-mod-up4|clancenter_rbl-mod-up3|clancenter_rbl-mod-up2|clancenter_rbl-mod-up1|
+|Icon camera position|-52.39,51.89,49.65     |-52.39,51.89,49.65    |-57.29,39.79,45.3     |-55.25,46.96,45.45    |-50.51,41.92,41.7     |-50.51,41.92,41.7     |-50.51,41.92,41.7     |-47.72,39.69,39.39    |-47.72,39.69,39.39    |-47.72,39.69,39.39    |
+|Icon lookat position|1.02,2.88,-0.83        |1.02,2.88,-0.83       |0.67,2.22,-0.7        |0.8,2.13,-0.73        |0.28,1.29,-0.14       |0.28,1.29,-0.14       |0.28,1.29,-0.14       |0.28,1.29,-0.14       |0.28,1.29,-0.14       |0.28,1.29,-0.14       |
+|Prestige            |true                   |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |(not found)           |
 
 
 ## Uninterpreted stats
@@ -79,9 +80,9 @@ Seriously, we don't really know what to do with these.
 
   * Order: 8
 
-|Level |10 |9  |8  |7  |6  |5  |4  |3 |2 |1 |
-|------|---|---|---|---|---|---|---|--|--|--|
-|Max XP|250|225|200|175|150|125|100|75|50|25|
-|Xp    |250|225|200|175|150|125|100|75|50|25|
+|Level |11 |10 |9  |8  |7  |6  |5  |4  |3 |2 |1 |
+|------|---|---|---|---|---|---|---|---|--|--|--|
+|Max XP|275|250|225|200|175|150|125|100|75|50|25|
+|Xp    |275|250|225|200|175|150|125|100|75|50|25|
 
 

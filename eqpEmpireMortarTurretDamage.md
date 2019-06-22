@@ -83,21 +83,21 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Produce: 0
   * Type: turret
 
-|Level          |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
-|---------------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|Cross materials|540000     |360000    |135000    |90000     |72000     |27000     |13500     |4500      |900       |450       |
-|Cross time     |2d         |1d12h     |1d4h      |20h       |14h       |8h        |4h48m     |1h12m     |12m       |10m       |
-|Health         |27000      |24500     |22000     |17500     |16000     |14500     |12000     |9000      |7500      |5000      |
-|Max quantity   |20         |18        |16        |14        |12        |10        |8         |6         |4         |2         |
-|Time           |1w3d       |1w1d      |6d        |4d        |2d12h     |1d12h     |16h       |4h        |30m       |1m        |
+|Level          |11.01-11.10|10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
+|---------------|-----------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Cross materials|702000     |540000     |360000    |135000    |90000     |72000     |27000     |13500     |4500      |900       |450       |
+|Cross time     |3d         |2d         |1d12h     |1d4h      |20h       |14h       |8h        |4h48m     |1h12m     |12m       |10m       |
+|Health         |28500      |27000      |24500     |22000     |17500     |16000     |14500     |12000     |9000      |7500      |5000      |
+|Max quantity   |22         |20         |18        |16        |14        |12        |10        |8         |6         |4         |2         |
+|Time           |1w1d       |1w3d       |1w1d      |6d        |4d        |2d12h     |1d12h     |16h       |4h        |30m       |1m        |
 
 
 ### Training stats
 
-|Level        |10.01-10.10                     |09.01-9.10                     |08.01-8.10                     |07.01-7.10                     |06.01-6.10                     |05.01-5.10                     |04.01-4.10                     |03.01-3.10                     |02.01-2.10                     |01.01-1.10                     |
-|-------------|--------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|Training cost|5000000 All.                    |3000000 All.                   |1000000 All.                   |500000 All.                    |250000 All.                    |100000 All.                    |55000 All.                     |20000 All.                     |3000 All.                      |1500 All.                      |
-|Building     |[Headquarters 10](empireHQ.html)|[Headquarters 9](empireHQ.html)|[Headquarters 8](empireHQ.html)|[Headquarters 7](empireHQ.html)|[Headquarters 6](empireHQ.html)|[Headquarters 5](empireHQ.html)|[Headquarters 4](empireHQ.html)|[Headquarters 3](empireHQ.html)|[Headquarters 3](empireHQ.html)|[Headquarters 3](empireHQ.html)|
+|Level        |11.01-11.10                     |10.01-10.10                     |09.01-9.10                     |08.01-8.10                     |07.01-7.10                     |06.01-6.10                     |05.01-5.10                     |04.01-4.10                     |03.01-3.10                     |02.01-2.10                     |01.01-1.10                     |
+|-------------|--------------------------------|--------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|Training cost|6500000 All.                    |5000000 All.                    |3000000 All.                   |1000000 All.                   |500000 All.                    |250000 All.                    |100000 All.                    |55000 All.                     |20000 All.                     |3000 All.                      |1500 All.                      |
+|Building     |[Headquarters 11](empireHQ.html)|[Headquarters 10](empireHQ.html)|[Headquarters 9](empireHQ.html)|[Headquarters 8](empireHQ.html)|[Headquarters 7](empireHQ.html)|[Headquarters 6](empireHQ.html)|[Headquarters 5](empireHQ.html)|[Headquarters 4](empireHQ.html)|[Headquarters 3](empireHQ.html)|[Headquarters 3](empireHQ.html)|[Headquarters 3](empireHQ.html)|
 
 
 ### Upgrading stats
@@ -119,7 +119,11 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Turret min attack range: 4
   * Turret target preference strength: 90
   * Turret target preferences: **Turret droideka (60)**, **Turret headquarters (60)**, **Turret heavy infantry (60)**, **Turret heavy vehicle (60)**, **Turret infantry (60)**, **Turret light vehicle (60)**, **Turret other building (60)**, **Turret ressource generator (60)**, **Turret storage (60)**, **Turret support troop (60)**, **Turret turret (60)**, Turret heavy infantry hero (1), Turret heavy vehicule hero (1), Turret infantry hero (1), Turret vehicule hero (1), Turret wall (1), Turret flying infantry (0), Turret flying vehicle (0)
-  * Turret view range: 10
+
+|Level            |11.01-11.10|01.01-1.10, 2.01-2.10, 3.01-3.10, 4.01-4.10, 5.01-5.10, 6.01-6.10, 7.01-7.10, 8.01-8.10, 9.01-9.10, 10.01-10.10|
+|-----------------|-----------|---------------------------------------------------------------------------------------------------------------|
+|Turret view range|11         |10                                                                                                             |
+
 
 ### Shooting
 
@@ -191,6 +195,12 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Turret damage per shot         |12839|12579|12215|11903|11591|11279|10915|10655|10344|10084|
 |Turret original damage per shot|5198 |5198 |5198 |5198 |5198 |5198 |5198 |5198 |5198 |5198 |
+
+
+|Level                          |11.10|11.09|11.08|11.07|11.06|11.05|11.04|11.03|11.02|11.01|
+|-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Turret damage per shot         |12863|12603|12238|11926|11613|11301|10936|10676|10363|10103|
+|Turret original damage per shot|5208 |5208 |5208 |5208 |5208 |5208 |5208 |5208 |5208 |5208 |
 
 
   * Turret attack splash damage percentages: 100,30,20,10,10
@@ -265,6 +275,13 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 |Turret attack calculated damage per clip  |12839|12579|12215|11903|11591|11279|10915|10655|10344|10084|
 
 
+|Level                                     |11.10|11.09|11.08|11.07|11.06|11.05|11.04|11.03|11.02|11.01|
+|------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|Turret displayed damage per second        |1585 |1585 |1585 |1585 |1585 |1585 |1585 |1585 |1585 |1585 |
+|Turret attack calculated damage per second|4083 |4000 |3885 |3786 |3686 |3587 |3471 |3389 |3289 |3207 |
+|Turret attack calculated damage per clip  |12863|12603|12238|11926|11613|11301|10936|10676|10363|10103|
+
+
   * Turret attack cannons per sequence: 1
   * Turret attack cliptime: 3.150s
   * Turret attack directional: No
@@ -281,9 +298,9 @@ These stats internal to the system link different parts of data together.
   * Sub type: mortar_turret
   * Turret projectile type: projectileEmpireMortar
 
-|Level    |10.01-10.10     |09.01-9.10     |08.01-8.10     |07.01-7.10     |06.01-6.10     |05.01-5.10     |04.01-4.10     |03.01-3.10     |02.01-2.10     |01.01-1.10     |
-|---------|----------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-|Turret id|t_empireMortar10|t_empireMortar9|t_empireMortar8|t_empireMortar7|t_empireMortar6|t_empireMortar5|t_empireMortar4|t_empireMortar3|t_empireMortar2|t_empireMortar1|
+|Level    |11.01-11.10     |10.01-10.10     |09.01-9.10     |08.01-8.10     |07.01-7.10     |06.01-6.10     |05.01-5.10     |04.01-4.10     |03.01-3.10     |02.01-2.10     |01.01-1.10     |
+|---------|----------------|----------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+|Turret id|t_empireMortar11|t_empireMortar10|t_empireMortar9|t_empireMortar8|t_empireMortar7|t_empireMortar6|t_empireMortar5|t_empireMortar4|t_empireMortar3|t_empireMortar2|t_empireMortar1|
 
 
 ## Presentation stats
@@ -310,16 +327,17 @@ These are all sorts of user interface settings, that should not interfere with g
   * Turret gun position: "locator_gun":1
   * Turret max scale: 2
 
-|Level                             |10.01-10.10                        |09.01-9.10                       |08.01-8.10                       |07.01-7.10                       |06.01-6.10                       |05.01-5.10                       |04.01-4.10                       |03.01-3.10                       |02.01-2.10                       |01.01-1.10                       |
-|----------------------------------|-----------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-|Asset name                        |mortarturret_emp-mod-up10          |mortarturret_emp-mod-up9         |mortarturret_emp-mod-up8         |mortarturret_emp-mod-up7         |mortarturret_emp-mod-up6         |mortarturret_emp-mod-up5         |mortarturret_emp-mod-up4         |mortarturret_emp-mod-up3         |mortarturret_emp-mod-up2         |mortarturret_emp-mod-up1         |
-|Buff asset offset                 |-1.2,2,-1.2                        |-1.2,2,-1.2                      |-1.2,2,-1.2                      |-1.2,2,-1.2                      |-1.4,1.6,-1.4                    |-1.6,1.6,-1.6                    |-1,3,-1                          |-1,3,-1                          |-1,3,-1                          |-1,3,-1                          |
-|Bundle name                       |mortarturret_emp-mod-up10          |mortarturret_emp-mod-up9         |mortarturret_emp-mod-up8         |mortarturret_emp-mod-up7         |mortarturret_emp-mod-up6         |mortarturret_emp-mod-up5         |mortarturret_emp-mod-up4         |mortarturret_emp-mod-up3         |mortarturret_emp-mod-up2         |mortarturret_emp-mod-up1         |
-|Icon camera position              |-25.64,30.71,29.55                 |-25.64,30.71,29.55               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |
-|Icon lookat position              |0.41,2.03,-0.59                    |0.41,2.03,-0.59                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |
-|Store tab                         |(not found)                        |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |decorations                      |
-|Turret displayed damage per second|1575                               |1435                             |1330                             |1225                             |1120                             |1015                             |840                              |630                              |525                              |350                              |
-|Turret tracker name               |mortarMesh_up10/barrelbaseMesh_up10|mortarMesh_up9/barrelbaseMesh_up9|mortarMesh_up8/barrelbaseMesh_up8|mortarMesh_up7/barrelbaseMesh_up7|mortarMesh_up6/barrelbaseMesh_up6|mortarMesh_up5/barrelbaseMesh_up5|mortarMesh_up4/barrelbaseMesh_up4|mortarMesh_up3/barrelbaseMesh_up3|mortarMesh_up2/barrelbaseMesh_up2|mortarMesh_up1/barrelbaseMesh_up1|
+|Level                             |11.01-11.10                        |10.01-10.10                        |09.01-9.10                       |08.01-8.10                       |07.01-7.10                       |06.01-6.10                       |05.01-5.10                       |04.01-4.10                       |03.01-3.10                       |02.01-2.10                       |01.01-1.10                       |
+|----------------------------------|-----------------------------------|-----------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+|Asset name                        |mortarturret_emp-mod-up11          |mortarturret_emp-mod-up10          |mortarturret_emp-mod-up9         |mortarturret_emp-mod-up8         |mortarturret_emp-mod-up7         |mortarturret_emp-mod-up6         |mortarturret_emp-mod-up5         |mortarturret_emp-mod-up4         |mortarturret_emp-mod-up3         |mortarturret_emp-mod-up2         |mortarturret_emp-mod-up1         |
+|Buff asset offset                 |-1.2,2,-1.2                        |-1.2,2,-1.2                        |-1.2,2,-1.2                      |-1.2,2,-1.2                      |-1.2,2,-1.2                      |-1.4,1.6,-1.4                    |-1.6,1.6,-1.6                    |-1,3,-1                          |-1,3,-1                          |-1,3,-1                          |-1,3,-1                          |
+|Bundle name                       |mortarturret_emp-mod-up11          |mortarturret_emp-mod-up10          |mortarturret_emp-mod-up9         |mortarturret_emp-mod-up8         |mortarturret_emp-mod-up7         |mortarturret_emp-mod-up6         |mortarturret_emp-mod-up5         |mortarturret_emp-mod-up4         |mortarturret_emp-mod-up3         |mortarturret_emp-mod-up2         |mortarturret_emp-mod-up1         |
+|Icon camera position              |-25.64,30.71,29.55                 |-25.64,30.71,29.55                 |-25.64,30.71,29.55               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |-23.91,25.41,24.96               |
+|Icon lookat position              |0.41,2.03,-0.59                    |0.41,2.03,-0.59                    |0.41,2.03,-0.59                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |0.34,1.59,-0.27                  |
+|Prestige                          |true                               |(not found)                        |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |
+|Store tab                         |(not found)                        |(not found)                        |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |(not found)                      |decorations                      |
+|Turret displayed damage per second|1585                               |1575                               |1435                             |1330                             |1225                             |1120                             |1015                             |840                              |630                              |525                              |350                              |
+|Turret tracker name               |mortarMesh_up11/barrelbaseMesh_up11|mortarMesh_up10/barrelbaseMesh_up10|mortarMesh_up9/barrelbaseMesh_up9|mortarMesh_up8/barrelbaseMesh_up8|mortarMesh_up7/barrelbaseMesh_up7|mortarMesh_up6/barrelbaseMesh_up6|mortarMesh_up5/barrelbaseMesh_up5|mortarMesh_up4/barrelbaseMesh_up4|mortarMesh_up3/barrelbaseMesh_up3|mortarMesh_up2/barrelbaseMesh_up2|mortarMesh_up1/barrelbaseMesh_up1|
 
 
 ## Uninterpreted stats
@@ -334,12 +352,12 @@ Seriously, we don't really know what to do with these.
   * Turret attack streams: no
   * Turret splash: false
   * Turret strict cool down: No
-  * Turret timey wimey: 0.333333333333333314829616256247390992939472198486328125
+  * Turret timey wimey: 0.333333333299999978738270556277711875736713409423828125
 
-|Level |10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
-|------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|Max XP|1400       |1170      |960       |770       |600       |450       |320       |210       |120       |50        |
-|Xp    |70         |65        |60        |55        |50        |45        |40        |35        |30        |25        |
+|Level |11.01-11.10|10.01-10.10|09.01-9.10|08.01-8.10|07.01-7.10|06.01-6.10|05.01-5.10|04.01-4.10|03.01-3.10|02.01-2.10|01.01-1.10|
+|------|-----------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Max XP|1630       |1400       |1170      |960       |770       |600       |450       |320       |210       |120       |50        |
+|Xp    |75         |70         |65        |60        |55        |50        |45        |40        |35        |30        |25        |
 
 
 I could not show the following roles, because I was not programmed to : buffEqpMortarTurretDamagepresentation
