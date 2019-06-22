@@ -6479,6 +6479,8 @@ category: strings
     hn_devnotes_tab 'Developer Notes'
     hn_dnotes_2018-03-07_body '[c][FFAA33]Shop Updates[-][/c]\n•\xa0Data Fragments category added:\n- Gain instant access to Unit and Equipment Data Fragments.\n- Fragment selection changes daily.\n•\xa0Shop button on main base view improved to more clearly indicate when new sales or special offers are available.\n• Consolidated non-turret structures into single "Structures" category.\n\n[c][FFAA33]Game Improvements[-][/c]\n•\xa0Updated Data Fragment colors to distinguish between units and Elite equipment skins:\n- [c][DBC0FF]Unit Data Fragments[-][/c] and corresponding units are now colored [c][DBC0FF]purple.[-][/c]\n- [c][FFC25B]Elite Equipment Data Fragments[-][/c] and corresponding equipment remain [c][FFB74A]gold.[-][/c]\n\n•\xa0Asset handling adjusted to reduce game startup load time.\n• Major performance improvements to improve UI and combat framerate, especially on older devices.'
     hn_dnotes_2018-03-07_title 'Updates & Game Improvements'
+    hn_dnotes_20180523_body 'Notice: on Wednesday, 5/23, Commander will be undergoing planned downtime starting around 1:00pm PST. During this update, the game will be unavailable for several hours.\n\nWe are aware that this downtime falls during the Conflict prize redemption period, and apologize for any inconvenience.'
+    hn_dnotes_20180523_title 'Upcoming Maintenance'
     hn_dnotes_4 'Url test!'
     hn_dnotes_6-0_body '[c][FFB74A]Game Update[-][/c]\n• Major Unity version update.\n•\xa0Various bug fixes and improvements.'
     hn_dnotes_6-0_title 'Version 6.0'
