@@ -23,7 +23,7 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
 |------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Health|46940|45800|43900|42100|40200|38400|36500|34700|32800|31000|29100|
+|Health|84490|82440|79020|75780|72360|69120|65700|62460|59040|55800|52380|
 
 
 ### Training stats
@@ -81,16 +81,16 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
 
 |Level          |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
 |---------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Damage per shot|16794|16395|15730|15065|14400|13740|13075|12410|11745|11085|10420|
+|Damage per shot|33588|32392|30688|29008|27351|25725|24112|22518|20939|19372|17714|
 
 
 ### Projectile
 
 |Level                       |11   |10   |9    |8    |7    |6    |5    |4    |3    |2    |1    |
 |----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Displayed damage per second |9690 |9315 |8935 |8560 |8185 |7805 |7430 |7050 |6675 |6295 |5920 |
-|Calculated damage per second|8152 |7958 |7635 |7313 |6990 |6669 |6347 |6024 |5701 |5381 |5058 |
-|Calculated damage per cycle |16794|16395|15730|15065|14400|13740|13075|12410|11745|11085|10420|
+|Displayed damage per second |41985|40490|38360|36260|34190|32155|30140|28150|26175|24215|22145|
+|Calculated damage per second|16304|15724|14897|14081|13277|12487|11704|10931|10164|9403 |8599 |
+|Calculated damage per cycle |33588|32392|30688|29008|27351|25725|24112|22518|20939|19372|17714|
 
 
   * Cannons per sequence: 1
@@ -149,9 +149,9 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Sum rebel spiderling droid target: self
   * Sum rebel spiderling droid value: 1
 
-|Level                                     |10-11                                                                 |9                                                                    |8                                                                    |7                                                                    |6                                                                    |5                                                                    |4                                                                    |3                                                                    |2                                                                    |1                                                                    |
-|------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-|Sum rebel spiderling droid summon visitors|["trp_title_RebelSpiderlingDroid" level 10](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 9](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 8](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 7](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 6](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 5](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 4](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 3](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 2](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 1](RebelSpiderlingDroid.html)|
+|Level                                     |11                                                                    |10                                                                    |9                                                                    |8                                                                    |7                                                                    |6                                                                    |5                                                                    |4                                                                    |3                                                                    |2                                                                    |1                                                                    |
+|------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+|Sum rebel spiderling droid summon visitors|["trp_title_RebelSpiderlingDroid" level 11](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 10](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 9](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 8](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 7](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 6](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 5](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 4](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 3](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 2](RebelSpiderlingDroid.html)|["trp_title_RebelSpiderlingDroid" level 1](RebelSpiderlingDroid.html)|
 
 
   * Sum rebel spiderling droid summon die with summoner: No
@@ -180,12 +180,12 @@ These stats internal to the system link different parts of data together.
   * Unit ID: HeroRebelSpiderDroid
   * Upgrade shard uid: shrd_troopHeroRebelSpiderDroid
 
-|Level                                |10-11                        |9                           |8                           |7                           |6                           |5                           |4                           |3                           |2                           |1                           |
-|-------------------------------------|-----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-|Ability                              |abilityHeroRebelSpiderDroid10|abilityHeroRebelSpiderDroid9|abilityHeroRebelSpiderDroid8|abilityHeroRebelSpiderDroid7|abilityHeroRebelSpiderDroid6|abilityHeroRebelSpiderDroid5|abilityHeroRebelSpiderDroid4|abilityHeroRebelSpiderDroid3|abilityHeroRebelSpiderDroid2|abilityHeroRebelSpiderDroid1|
-|Secondary attack self buff           |buffSumRebelSpiderlingDroid10|buffSumRebelSpiderlingDroid9|buffSumRebelSpiderlingDroid8|buffSumRebelSpiderlingDroid7|buffSumRebelSpiderlingDroid6|buffSumRebelSpiderlingDroid5|buffSumRebelSpiderlingDroid4|buffSumRebelSpiderlingDroid3|buffSumRebelSpiderlingDroid2|buffSumRebelSpiderlingDroid1|
-|Sum rebel spiderling droid details   |sumRebelSpiderlingDroid10    |sumRebelSpiderlingDroid9    |sumRebelSpiderlingDroid8    |sumRebelSpiderlingDroid7    |sumRebelSpiderlingDroid6    |sumRebelSpiderlingDroid5    |sumRebelSpiderlingDroid4    |sumRebelSpiderlingDroid3    |sumRebelSpiderlingDroid2    |sumRebelSpiderlingDroid1    |
-|Sum rebel spiderling droid summon uid|sumRebelSpiderlingDroid10    |sumRebelSpiderlingDroid9    |sumRebelSpiderlingDroid8    |sumRebelSpiderlingDroid7    |sumRebelSpiderlingDroid6    |sumRebelSpiderlingDroid5    |sumRebelSpiderlingDroid4    |sumRebelSpiderlingDroid3    |sumRebelSpiderlingDroid2    |sumRebelSpiderlingDroid1    |
+|Level                                |11                           |10                           |9                           |8                           |7                           |6                           |5                           |4                           |3                           |2                           |1                           |
+|-------------------------------------|-----------------------------|-----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+|Ability                              |abilityHeroRebelSpiderDroid11|abilityHeroRebelSpiderDroid10|abilityHeroRebelSpiderDroid9|abilityHeroRebelSpiderDroid8|abilityHeroRebelSpiderDroid7|abilityHeroRebelSpiderDroid6|abilityHeroRebelSpiderDroid5|abilityHeroRebelSpiderDroid4|abilityHeroRebelSpiderDroid3|abilityHeroRebelSpiderDroid2|abilityHeroRebelSpiderDroid1|
+|Secondary attack self buff           |buffSumRebelSpiderlingDroid11|buffSumRebelSpiderlingDroid10|buffSumRebelSpiderlingDroid9|buffSumRebelSpiderlingDroid8|buffSumRebelSpiderlingDroid7|buffSumRebelSpiderlingDroid6|buffSumRebelSpiderlingDroid5|buffSumRebelSpiderlingDroid4|buffSumRebelSpiderlingDroid3|buffSumRebelSpiderlingDroid2|buffSumRebelSpiderlingDroid1|
+|Sum rebel spiderling droid details   |sumRebelSpiderlingDroid11    |sumRebelSpiderlingDroid10    |sumRebelSpiderlingDroid9    |sumRebelSpiderlingDroid8    |sumRebelSpiderlingDroid7    |sumRebelSpiderlingDroid6    |sumRebelSpiderlingDroid5    |sumRebelSpiderlingDroid4    |sumRebelSpiderlingDroid3    |sumRebelSpiderlingDroid2    |sumRebelSpiderlingDroid1    |
+|Sum rebel spiderling droid summon uid|sumRebelSpiderlingDroid11    |sumRebelSpiderlingDroid10    |sumRebelSpiderlingDroid9    |sumRebelSpiderlingDroid8    |sumRebelSpiderlingDroid7    |sumRebelSpiderlingDroid6    |sumRebelSpiderlingDroid5    |sumRebelSpiderlingDroid4    |sumRebelSpiderlingDroid3    |sumRebelSpiderlingDroid2    |sumRebelSpiderlingDroid1    |
 
 
 ## Presentation stats
@@ -232,7 +232,7 @@ These are all sorts of user interface settings, that should not interfere with g
 |Level                      |11                           |10         |9          |8          |7          |6          |5          |4          |3          |2          |1             |
 |---------------------------|-----------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|
 |Deploy vfx                 |vfx_prestige_deploy_small_reb|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)   |
-|Displayed damage per second|9690                         |9315       |8935       |8560       |8185       |7805       |7430       |7050       |6675       |6295       |5920          |
+|Displayed damage per second|41985                        |40490      |38360      |36260      |34190      |32155      |30140      |28150      |26175      |24215      |22145         |
 |Icon unlock position       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
 |Icon unlock rotation       |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0,0,0         |
 |Icon unlock scale          |(not found)                  |(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|(not found)|0.75,0.75,0.75|
