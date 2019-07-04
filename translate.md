@@ -3228,7 +3228,7 @@ category: strings
     dia_epDemo_p1c1_01 "Very righteous, I'm sure. Anyway, I recently... acquired some Data Fragments that I think you'll find very interesting."
     dia_epDemo_p1c1_02 "These droids will roll right up to a target, drop an explosive, and BOOM! Ha ha! I could waste these on some backwater mining operation, but something tells me you'll find them far more useful."
     dia_epDemo_p1c1_03 "I've sent some jobs your way. Finish them, and everyone walks away happy! Well, everyone who doesn't have to fight those droids."
-    dia_epDemo_p1c2_00 "How's it coming? I trust the Supply Crates I've paid for the work so far as satisfactory."
+    dia_epDemo_p1c2_00 'How’s it coming? I trust you are satisfied with the Supply Crates you’ve received so far.'
     dia_epDemo_p1c2_01 'Keep up the good work, my friend!'
     dia_epDemo_p1cf_00 'My friend, this is very exciting! I was already getting depressed thinking about these droids being used in some boring mining operation.'
     dia_epDemo_p1cf_01 'I should never have doubted you. In fact, I will happily pay you for any extra work you complete on this job!'
@@ -4703,6 +4703,24 @@ category: strings
     epchp_epSpaceBear_w6cf_body 'Congratulations! You have completed the event and unlocked the Bonus Event Objective. Until the event ends, this objective can be finished an unlimited number of times, each time earning an Elite Event Crate with a chance to award Data Fragments for the Fathier Rider.'
     epchp_epSpaceBear_w6f_title 'Unpaid Debts [Complete]'
     epchp_epSpacebear_w1_title 'An Old Friend'
+    epchp_eptimeofheroes_p1c1_body_e 'Hondo has acquired a cache of Data Fragments for a dangerous Spiderdroid. [c][23BBFB]Finish Event Objectives to earn Supply Crates.[-][/c] Complete the Event before time runs out for a guaranteed unlock of the SD-K4!'
+    epchp_eptimeofheroes_p1c1_body_r 'Hondo has acquired a cache of Data Fragments for a dangerous Spiderdroid. [c][23BBFB]Finish Event Objectives to earn Supply Crates.[-][/c] Complete the Event before time runs out for a guaranteed unlock of the Modified SD-K4!'
+    epchp_eptimeofheroes_p1c1_title 'Time of Heroes, Part I'
+    epchp_eptimeofheroes_p1c2_body_e "Hondo's offer remains open: Data Fragments for a dangerous explosive-deploying droid, in exchange for work. [c][23BBFB]Finish Event Objectives to earn Supply Crates.[-][/c] Complete the Event before time runs out for a guaranteed unlock of the SD-K4!"
+    epchp_eptimeofheroes_p1c2_body_r "Hondo's offer remains open: Data Fragments for a dangerous explosive-deploying droid, in exchange for work. [c][23BBFB]Finish Event Objectives to earn Supply Crates.[-][/c] Complete the Event before time runs out for a guaranteed unlock of the Modified SD-K4!"
+    epchp_eptimeofheroes_p1c2_title 'Time of Heroes, Part I: Chapter II'
+    epchp_eptimeofheroes_p1f_body_e 'Congratulations! You have completed the event and unlocked the Bonus Event Objective. [c][23BBFB]Until the event ends, this objective can be finished an unlimited number of times[-][/c], each time earning an Elite Event Crate with a chance to award Data Fragments for the SD-K4.'
+    epchp_eptimeofheroes_p1f_body_r 'Congratulations! You have completed the event and unlocked the Bonus Event Objective. [c][23BBFB]Until the event ends, this objective can be finished an unlimited number of times[-][/c], each time earning an Elite Event Crate with a chance to award Data Fragments for the Modified SD-K4.'
+    epchp_eptimeofheroes_p1f_title 'Time of Heroes, Part I: Complete'
+    epchp_eptimeofheroes_p2c1_body_e 'Hondo has acquired a cache of Data Fragments for the elite Death Troopers. [c][23BBFB]Finish Event Objectives to earn Supply Crates.[-][/c] Complete the Event before time runs out for a guaranteed unlock of the Death Troopers!'
+    epchp_eptimeofheroes_p2c1_body_r 'Hondo has acquired a cache of Data Fragments for equipment for R2 units. [c][23BBFB]Finish Event Objectives to earn Supply Crates.[-][/c] Complete the Event before time runs out for a guaranteed unlock of the Artoo & Threepio equipment!'
+    epchp_eptimeofheroes_p2c1_title 'Time of Heroes, Part II'
+    epchp_eptimeofheroes_p2c2_body_e "Hondo's offer remains open: Data Fragments for the elite Death Troopers, in exchange for work. [c][23BBFB]Finish Event Objectives to earn Supply Crates.[-][/c] Complete the Event before time runs out for a guaranteed unlock of the Death Troopers!"
+    epchp_eptimeofheroes_p2c2_body_r "Hondo's offer remains open: Data Fragments for Artoo & Threepio Equipment, in exchange for work. [c][23BBFB]Finish Event Objectives to earn Supply Crates.[-][/c] Complete the Event before time runs out for a guaranteed unlock of the Artoo & Threepio equipment!"
+    epchp_eptimeofheroes_p2c2_title 'Time of Heroes, Part II: Chapter II'
+    epchp_eptimeofheroes_p2f_body_e 'Congratulations! You have completed the event and unlocked the Bonus Event Objective. [c][23BBFB]Until the event ends, this objective can be finished an unlimited number of times[-][/c], each time earning an Elite Event Crate with a chance to award Data Fragments for the Death Troopers.'
+    epchp_eptimeofheroes_p2f_body_r 'Congratulations! You have completed the event and unlocked the Bonus Event Objective. [c][23BBFB]Until the event ends, this objective can be finished an unlimited number of times[-][/c], each time earning an Elite Event Crate with a chance to award Artoo & Threepio Data Fragments!'
+    epchp_eptimeofheroes_p2f_title 'Time of Heroes, Part II: Complete'
     eppnl_epSpacebear_w1_title 'An Old Friend'
     eppnl_epSpacebear_w2_title 'Mysterious Benefactor'
     eppnl_epSpacebear_w3_title 'Shared Interests'
@@ -4834,7 +4852,7 @@ category: strings
     eqpRebelATAPHalfSkin_name 'Enhanced AT-AP Walker'
     eqpRebelArcticHailfire_description 'These IG-227 Hailfire droids have been retrofitted for increased effectiveness in sub-zero temperatures. They employ a powerful missle volley, but have light armor and will need protection.'
     eqpRebelArcticHailfire_name 'Cold-weather Hailfire Droid'
-    eqpRebelArtoo_description 'This pair of droids has a knack for trouble. Threepio follows his companion into combat as Artoo closes in to disable and damage enemy turrets. Upgrading this equipment increases the range of the effect.'
+    eqpRebelArtoo_description 'This pair of droids has a knack for trouble. Threepio follows his companion into combat as Artoo closes in at increased speed to disable and damage enemy turrets. Upgrading this equipment increases the range of the effect.'
     eqpRebelArtoo_name 'Artoo & Threepio'
     eqpRebelBarracksSummonHeavyMirror_description 'A guard wave of [c][FFC25B]1 Marksman[-][/c] will appear from each Barrack shortly after the battle starts. Additional guard waves will periodically appear during the battle. [c][FFC25B]Research higher levels of this Guard Reserve to make Marksmen appear more often.[-][/c]'
     eqpRebelBarracksSummonHeavyMirror_name 'Guard Reserve: Anti-infantry'
@@ -6410,6 +6428,14 @@ category: strings
     hn_cc_1_tfaplanet_rider_conflict_start_body_r 'Enemy troops have been spotted on Takodana! Luggabeast Munitioneers await Commanders at the top of their game!'
     hn_cc_1_tfaplanet_rider_conflict_start_title_e 'Luggabeast Munitioneers on Takodana'
     hn_cc_1_tfaplanet_rider_conflict_start_title_r 'Luggabeast Munitioneers on Takodana'
+    hn_cc_1_timeofheroes_20190620_e_body 'Complete objectives for Hondo and compete in Conflicts to acquire the [c][FFB74A]SD-K4[-][/c]. Complete the Event for a guaranteed unlock, and use Conflicts and Crates to upgrade them further!'
+    hn_cc_1_timeofheroes_20190620_e_title '6/20 to 6/26 : Time of Heroes'
+    hn_cc_1_timeofheroes_20190620_r_body 'Complete objectives for Hondo and compete in Conflicts to acquire the [c][FFB74A]Modified SD-K4[-][/c]. Complete the Event for a guaranteed unlock, and use Conflicts and Crates to upgrade them further!'
+    hn_cc_1_timeofheroes_20190620_r_title '6/20 to 6/26 : Time of Heroes'
+    hn_cc_1_timeofheroes_20190627_e_body 'Complete objectives for Hondo and compete in Conflicts to acquire [c][FFB74A]Death Troopers[-][/c]. Complete the Event for a guaranteed unlock, and use Conflicts and Crates to upgrade them further!'
+    hn_cc_1_timeofheroes_20190627_e_title '6/27 to 7/3 : Time of Heroes'
+    hn_cc_1_timeofheroes_20190627_r_body 'Complete objectives for Hondo and compete in Conflicts to acquire [c][FFB74A]Artoo & Threepio Equipment[-][/c] Data Fragments. Complete the Event for a guaranteed unlock, and use Conflicts and Crates to upgrade them further!'
+    hn_cc_1_timeofheroes_20190627_r_title '6/27 to 7/3 : Time of Heroes'
     hn_cc_1_topps_body "For a limited time only, download STAR WARS™: CARD TRADER and collect your Star Wars: Commander trading cards before they're gone."
     hn_cc_1_topps_btn 'DOWNLOAD NOW'
     hn_cc_1_topps_de_btn 'Hier kaufen'
@@ -7081,6 +7107,8 @@ category: strings
     hn_dnotes_20190502_title 'Star Wars Day - May The 4th Be With You!'
     hn_dnotes_20190606_body "[c][E40B18]-∫- Player Notice -∫-[-][/c]\nStarting with this Conflict Outbreak, the regular schedule will change such that all future events will start and end at 15:00UTC on the days specified (5 hours earlier than current)\n\n[c][FFC25B]Conflict Outbreak : Krayt Dragons & Rancors[-][/c]\n• Conflict Obsidian League or better awards Krayt Dragon Data Fragments / Samples\n• Conflict Bronzium League or better awards Rancor Data Fragments / Samples\n\n• 6/6 to 6/12:\n• [c][E40B18]HQ 10 and above[-][/c]\n• Tatooine, Dandoran, Hoth:\n- Obsidian or better [c][FFC25B]Krayt Dragon[-][/c] (Creature) Data Fragments\n- Bronzium or better [c][FFC25B]Shadow Rancor[-][/c] (Creature) Data Fragments\n• Er'Kit, Takodana, Yavin IV:\n- Obsidian or better [c][FFC25B]Krayt Dragon[-][/c] (Creature) Data Fragments\n- Bronzium or better [c][FFC25B]Rancor[-][/c] (Creature) Data Fragments\n• [c][E40B18]HQ 9 and below[-][/c]\n• Tatooine, Dandoran, Hoth:\n- Obsidian or better [c][FFC25B]Krayt Dragon[-][/c] (Creature) Samples\n- Bronzium or better [c][FFC25B]Shadow Rancor[-][/c] (Creature) Samples\n• Er'Kit, Takodana, Yavin IV:\n- Obsidian or better [c][FFC25B]Krayt Dragon[-][/c] (Creature) Samples\n- Bronzium or better [c][FFC25B]Rancor[-][/c] (Creature) Samples\n\n• 6/13 to 6/19:\n• [c][E40B18]HQ 10 and above[-][/c]\n• Tatooine, Dandoran, Hoth:\n- Obsidian or better [c][FFC25B]Krayt Dragon[-][/c] (Creature) Data Fragments\n- Bronzium or better [c][FFC25B]Rage Rancor[-][/c] (Creature) Data Fragments\n• Er'Kit, Takodana, Yavin IV:\n- Obsidian or better [c][FFC25B]Krayt Dragon[-][/c] (Creature) Data Fragments\n- Bronzium or better [c][FFC25B]Giant Rancor[-][/c] (Creature) Data Fragments\n• [c][E40B18]HQ 9 and below[-][/c]\n• Tatooine, Dandoran, Hoth:\n- Obsidian or better [c][FFC25B]Krayt Dragon[-][/c] (Creature) Samples\n- Bronzium or better [c][FFC25B]Rage Rancor[-][/c] (Creature) Samples\n• Er'Kit, Takodana, Yavin IV:\n- Obsidian or better [c][FFC25B]Krayt Dragon[-][/c] (Creature) Samples\n- Bronzium or better [c][FFC25B]Giant Rancor[-][/c] (Creature) Samples"
     hn_dnotes_20190606_title '2-Week Conflict Outbreak: '
+    hn_dnotes_20190620_body "[c][FFC25B]Event : Time of Heroes[-][/c]\nIn this two week Event, Hondo Ohnaka has tasks for you to earn Data Fragments & Samples for the re-balanced SD-K4, Modified SD-K4, Artoo & Threepio Equipment and Death Troopers.\nThe [c][FFC25B]SD-K4[-][/c] and [c][FFC25B]Modified SD-K4[-][/c] have both had their health buffed by 25%, whilst the [c][FFC25B]Artoo & Threepio[-][/c] Equipment now also increases R2-D2's movement speed by 100%.\nFinally, the [c][FFC25B]Death Trooper[-][/c] has become [c][FFC25B]Death Troopers[-][/c], where deploying them to the battlefield will now deploy a squad of 3.\n\n[c][FFC25B]Planetary Conflicts : Time of Heroes[-][/c]\n\n• 6/20 to 6/26:\n• Dandoran, Er'Kit, Yavin IV:\n• [c][E40B18]HQ 6 and above[-][/c]\n- Empire [c][FFC25B]SD-K4[-][/c] (Hero) Data Fragments\n- Rebel [c][FFC25B]Modified SD-K4[-][/c] (Hero) Data Fragments\n• [c][E40B18]HQ 5 and below[-][/c]\n- Empire [c][FFC25B]SD-K4[-][/c] (Hero) Samples\n- Rebel [c][FFC25B]Modified SD-K4[-][/c] (Hero) Samples\n\n• 6/27 to 7/3:\n• Tatooine, Hoth, Takodana:\n• [c][E40B18]HQ 6 and above[-][/c]\n- Empire [c][FFC25B]Death Troopers[-][/c] (Hero) Data Fragments\n- Rebel [c][FFC25B]Artoo & Threepio[-][/c] (Hero Equipment) Data Fragments\n• [c][E40B18]HQ 5 and below[-][/c]\n- Empire [c][FFC25B]Death Troopers[-][/c] (Hero) Samples\n- Rebel [c][FFC25B]Artoo & Threepio[-][/c] (Hero) Samples\n\n[c][FFC25B]Balancing Changes:[-][/c]\n• SD-K4 Spiderdroid Health increased by 25%\n• Death Troopers increased to a Squad of 3\n• Artoo & Threepio Equipment now also increases R2-D2's movement speed 100%"
+    hn_dnotes_20190620_title 'Time of Heroes'
     hn_dnotes_4 'Url test!'
     hn_dnotes_6-0_body '[c][FFB74A]Game Update[-][/c]\n• Major Unity version update.\n•\xa0Various bug fixes and improvements.'
     hn_dnotes_6-0_title 'Version 6.0'
@@ -7957,6 +7985,8 @@ category: strings
     lei_title_le_speederConflict_r 'Premium Event Crate'
     lei_title_le_store_redcup_e 'Premium Event Crate '
     lei_title_le_store_redcup_r 'Premium Event Crate '
+    lei_title_le_timeofheroes_StoreCrate_e 'Premium Hero Crate'
+    lei_title_le_timeofheroes_StoreCrate_r 'Premium Hero Crate'
     lei_title_le_trooptransportstorecrate_e 'Premium Vehicle Crate'
     lei_title_le_trooptransportstorecrate_r 'Premium Vehicle Crate'
     lei_title_le_trooptransportstorecrate_redux_e 'Premium Vehicle Crate'
@@ -13471,7 +13501,7 @@ category: strings
     trp_desc_HeroChewbacca 'Best friend of Han Solo and crack shot with a bowcaster, Chewbacca is an effective force in any engagement, but excels at weathering turret fire.'
     trp_desc_HeroCrimsonGuard 'This elite assassin troop wields a powerful Force Pike against melee-range targets. The Royal Guard handles infantry with ease, and matches well against turrets.'
     trp_desc_HeroDarthVader 'Perhaps the most feared being in the galaxy, Darth Vader rules with both intimidation and ruthlessness. [ffb300]Using the power of the Force, he can unleash deadly bursts of close-range attacks while protecting himself from incoming fire.[-]'
-    trp_desc_HeroDeathTrooper 'An elite stormtrooper, death troopers serve mainly as bodyguards for important Imperial officials, but on the battlefield they specialize in commando missions. Death troopers will target enemy defensive installations, including turrets and traps.'
+    trp_desc_HeroDeathTrooper 'A squad of 3 Elite Stormtroopers, Death Troopers serve mainly as bodyguards for important Imperial officials, but on the battlefield they specialize in commando missions. Death Troopers will target enemy defensive installations, including turrets and traps.'
     trp_desc_HeroEmpireSpiderDroid 'The SD-K4 exists solely to infiltrate and destroy, closing in and slashing at enemy turrets with armor-piercing forelimb blades. [c][FFB300]Smaller probe killers deployed from this droid will split off and hunt infantry, before self-destructing.[/c][-]'
     trp_desc_HeroForen 'Former senator Kessen\'s custom sniper blaster, "Karina," deals extreme damage to soft targets. While he can out-range many static defenses, his ability to damage them is low.'
     trp_desc_HeroHanSolo 'A smuggler with skill and swagger to spare, Han Solo is in deep debt to Jabba the Hutt. He will take on almost any mission if the credits are good enough. Han goes after turrets, and can take out shield generators with ease.'

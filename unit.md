@@ -193,6 +193,7 @@ The site contains an [explanation of the unit stats](unitexplained.md).
   * [Snowtrooper (Snowtrooper)](Snowtrooper.html)
   * [Stormtrooper (StormDropship)](StormDropship.html)
   * [trptitleStormDropshipTrap (StormDropshipTrap)](StormDropshipTrap.html)
+  * [trptitleSummonedDeathTrooper (SummonedDeathTrooper)](SummonedDeathTrooper.html)
   * [Rancor (promoRancorEmpire)](promoRancorEmpire.html)
 
 ### Rebellion

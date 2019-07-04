@@ -79,9 +79,9 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
 ### Empire
 
-  * (1/1) 16 data fragments of unlockable troop [Death Trooper](HeroDeathTrooper)
+  * No items, see the fallback option below
 
-### Rebellion
+### Always
 
   * (1/1) 16 data fragments of unlockable troop [Elite AT-TE Walker](HeroATTE)
 

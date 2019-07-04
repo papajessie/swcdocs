@@ -77,13 +77,9 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 
 ## Pool "lcpool_navalEvt_heroEqp_conf_tier5" (x1 draw)
 
-### Rebellion
+### Always
 
-  * (1/1) 5 data fragments of equipment [Millennium Falcon Support](eqpRebelChewie)
-
-### Empire
-
-  * (1/1) 5 data fragments of equipment [Naval Officer](eqpEmpireNavalOfficer)
+  * No items, see the fallback option below
 
 ### Fallback for HQ level 10
 

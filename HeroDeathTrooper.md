@@ -52,6 +52,33 @@ You can read an [explanation  of the various unit stats](unitexplained.md).
   * Run threshold: 0
   * Unit size on map: 1x1
 
+### Modifiers
+
+#### Modifier "Hero death trooper"
+
+  * Hero death trooper apply value as: absolute
+  * Hero death trooper buff ID: buffHeroDeathTrooper
+  * Hero death trooper duration: permanent
+  * Hero death trooper modifier: summon
+  * Hero death trooper ms first proc: 500ms
+  * Hero death trooper ms per proc: 1ms
+  * Hero death trooper name: Hero death trooper
+  * Hero death trooper stack: 2
+  * Hero death trooper target: self
+  * Hero death trooper value: 1
+
+|Level                             |11                                                                                                                                            |10                                                                                                                                            |9                                                                                                                                           |8                                                                                                                                           |7                                                                                                                                           |6                                                                                                                                           |5                                                                                                                                           |4                                                                                                                                           |3                                                                                                                                           |2                                                                                                                                           |1                                                                                                                                           |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+|Hero death trooper summon visitors|["trp_title_SummonedDeathTrooper" level 11](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 11](SummonedDeathTrooper.html)|["trp_title_SummonedDeathTrooper" level 10](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 10](SummonedDeathTrooper.html)|["trp_title_SummonedDeathTrooper" level 9](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 9](SummonedDeathTrooper.html)|["trp_title_SummonedDeathTrooper" level 8](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 8](SummonedDeathTrooper.html)|["trp_title_SummonedDeathTrooper" level 7](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 7](SummonedDeathTrooper.html)|["trp_title_SummonedDeathTrooper" level 6](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 6](SummonedDeathTrooper.html)|["trp_title_SummonedDeathTrooper" level 5](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 5](SummonedDeathTrooper.html)|["trp_title_SummonedDeathTrooper" level 4](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 4](SummonedDeathTrooper.html)|["trp_title_SummonedDeathTrooper" level 3](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 3](SummonedDeathTrooper.html)|["trp_title_SummonedDeathTrooper" level 2](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 2](SummonedDeathTrooper.html)|["trp_title_SummonedDeathTrooper" level 1](SummonedDeathTrooper.html), ["trp_title_SummonedDeathTrooper" level 1](SummonedDeathTrooper.html)|
+
+
+  * Hero death trooper summon die with summoner: No
+  * Hero death trooper summon max proc: 2
+  * Hero death trooper summon same team: Yes
+  * Hero death trooper summon spawn points: 1,0,-1 -1,0,-1
+  * Hero death trooper summon target summoner: No
+  * Hero death trooper summon visitor type: Troop
+
 ## Main attack : HeroHanSolo
 
 ### Targeting
@@ -109,9 +136,12 @@ These stats internal to the system link different parts of data together.
   * Unit ID: HeroDeathTrooper
   * Upgrade shard uid: shrd_troopHeroDeathTrooper
 
-|Level    |10-11 |9    |8    |7    |6    |5    |4    |3    |2    |1    |
-|---------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|Hero data|hero10|hero9|hero8|hero7|hero6|hero5|hero4|hero3|hero2|hero1|
+|Level                        |11                    |10                    |9                    |8                    |7                    |6                    |5                    |4                    |3                    |2                    |1                    |
+|-----------------------------|----------------------|----------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+|Hero data                    |hero10                |hero10                |hero9                |hero8                |hero7                |hero6                |hero5                |hero4                |hero3                |hero2                |hero1                |
+|Hero death trooper details   |sumHeroDeath11        |sumHeroDeath10        |sumHeroDeath9        |sumHeroDeath8        |sumHeroDeath7        |sumHeroDeath6        |sumHeroDeath5        |sumHeroDeath4        |sumHeroDeath3        |sumHeroDeath2        |sumHeroDeath1        |
+|Hero death trooper summon uid|sumHeroDeath11        |sumHeroDeath10        |sumHeroDeath9        |sumHeroDeath8        |sumHeroDeath7        |sumHeroDeath6        |sumHeroDeath5        |sumHeroDeath4        |sumHeroDeath3        |sumHeroDeath2        |sumHeroDeath1        |
+|Spawn apply buffs            |buffHeroDeathTrooper11|buffHeroDeathTrooper10|buffHeroDeathTrooper9|buffHeroDeathTrooper8|buffHeroDeathTrooper7|buffHeroDeathTrooper6|buffHeroDeathTrooper5|buffHeroDeathTrooper4|buffHeroDeathTrooper3|buffHeroDeathTrooper2|buffHeroDeathTrooper1|
 
 
 ## Presentation stats

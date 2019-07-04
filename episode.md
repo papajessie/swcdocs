@@ -49,3 +49,5 @@ title: Index of episodes
   * [Questionable Cargo Part II (ep_epRogue12019_p2)](ep_epRogue12019_p2.html)
   * [Questionable Cargo Part III (ep_epRogue12019_p3)](ep_epRogue12019_p3.html)
   * [Questionable Cargo Part IV (ep_epRogue12019_p4)](ep_epRogue12019_p4.html)
+  * [Time of Heroes Part I (ep_eptimeofheroes_p1)](ep_eptimeofheroes_p1.html)
+  * [Time of Heroes Part II (ep_eptimeofheroes_p2)](ep_eptimeofheroes_p2.html)

@@ -13,32 +13,34 @@ This crate expires after 7d. The contents are one draw from one pool only.
 
 ### Rebellion
 
-  * (1/1) 20 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
+  * (1/2) 20 data fragments of equipment [Senator Leia Organa](eqpRebelDiplomat)
+  * (1/2) 32 data fragments of unlockable troop [Modified SD-K4](HeroRebelSpiderDroid)
 
 ### Empire
 
-  * (1/1) 20 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
+  * (1/2) 20 data fragments of equipment [AT-ACT](eqpEmpireCargoGreatDane)
+  * (1/2) 32 data fragments of unlockable troop [SD-K4](HeroEmpireSpiderDroid)
 
 ### Fallback for HQ level 10
 
-  * 50000 Credits
+  * 380000 Credits
 
 ### Fallback for HQ level 11
 
-  * 50000 Credits
+  * 380000 Credits
 
 ### Fallback for HQ level 6
 
-  * 14000 Credits
+  * 82000 Credits
 
 ### Fallback for HQ level 7
 
-  * 18000 Credits
+  * 130000 Credits
 
 ### Fallback for HQ level 8
 
-  * 25000 Credits
+  * 170000 Credits
 
 ### Fallback for HQ level 9
 
-  * 32000 Credits
+  * 250000 Credits

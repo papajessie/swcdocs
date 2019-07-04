@@ -13,32 +13,34 @@ This crate expires after 7d. The contents are one draw from one pool only.
 
 ### Rebellion
 
-  * (1/1) 20 data fragments of equipment [Cold-weather Hailfire Droid](eqpRebelArcticHailfire)
+  * (1/2) 16 data fragments of unlockable troop [Modified SD-K4](HeroRebelSpiderDroid)
+  * (1/2) 20 data fragments of equipment [Cold-weather Hailfire Droid](eqpRebelArcticHailfire)
 
 ### Empire
 
-  * (1/1) 20 data fragments of equipment [Cold-weather Mobile Heavy Cannon](eqpEmpireArcticMHC)
+  * (1/2) 16 data fragments of unlockable troop [SD-K4](HeroEmpireSpiderDroid)
+  * (1/2) 20 data fragments of equipment [Cold-weather Mobile Heavy Cannon](eqpEmpireArcticMHC)
 
 ### Fallback for HQ level 10
 
-  * 50000 Credits
+  * 300000 Credits
 
 ### Fallback for HQ level 11
 
-  * 50000 Credits
+  * 300000 Credits
 
 ### Fallback for HQ level 6
 
-  * 14000 Credits
+  * 65000 Credits
 
 ### Fallback for HQ level 7
 
-  * 18000 Credits
+  * 100000 Credits
 
 ### Fallback for HQ level 8
 
-  * 25000 Credits
+  * 140000 Credits
 
 ### Fallback for HQ level 9
 
-  * 32000 Credits
+  * 200000 Credits
