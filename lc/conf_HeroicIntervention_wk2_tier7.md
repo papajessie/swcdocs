@@ -1,13 +1,55 @@
 ---
-title: Obsidian Conflict Crate (lc_conf_newHeroEvent_tier7)
+title: cratetitlelcconfHeroicInterventionwk2tier7 (lc_conf_HeroicIntervention_wk2_tier7)
 category: crate
 ---
 
-# Obsidian Conflict Crate (lc_conf_newHeroEvent_tier7)
+# cratetitlelcconfHeroicInterventionwk2tier7 (lc_conf_HeroicIntervention_wk2_tier7)
 
 Crates are given as rewards for various actions. The content is revealed only when opening them, by drawing once (or more) in various prize pools. Only one prize is won for each pool per draw. The in-game description of expectations is written manually and can be wrong. The probability of obtaining one prize is indicated below; the pools change according to planet, faction and HQ level.
 
 This crate expires after 7d. The contents are one draw from each of the 3 pools.
+
+## Pool "lcpool_conf_HeroicIntervention_wk2_tier7" (x1 draw)
+
+### Rebellion for HQ level 6
+
+  * (1/1) 24 troop sample [Elite AT-TE Walker](HeroATTE)
+
+### Empire for HQ level 6
+
+  * (1/1) 24 hero sample of [Darth Vader](HeroDarthVader)
+
+### Rebellion for HQ levels 7-11
+
+  * (1/1) 24 data fragments of unlockable troop [Elite AT-TE Walker](HeroATTE)
+
+### Empire for HQ levels 7-11
+
+  * (1/1) 24 data fragments of equipment [Lord Vader](eqpEmpireLordVader)
+
+### Fallback for HQ level 10
+
+  * 300000 Credits
+
+### Fallback for HQ level 11
+
+  * 300000 Credits
+
+### Fallback for HQ level 6
+
+  * 65000 Credits
+
+### Fallback for HQ level 7
+
+  * 100000 Credits
+
+### Fallback for HQ level 8
+
+  * 140000 Credits
+
+### Fallback for HQ level 9
+
+  * 200000 Credits
 
 ## Pool "lcpool_creditsAlloy_conf7" (x1 draw)
 
@@ -74,36 +116,6 @@ This crate expires after 7d. The contents are one draw from each of the 3 pools.
 ### Fallback for HQ level 9
 
   * 244000 Credits
-
-## Pool "lcpool_newHeroEvent_conf_tier7" (x1 draw)
-
-### Always
-
-  * No items, see the fallback option below
-
-### Fallback for HQ level 10
-
-  * 300000 Credits
-
-### Fallback for HQ level 11
-
-  * 300000 Credits
-
-### Fallback for HQ level 6
-
-  * 65000 Credits
-
-### Fallback for HQ level 7
-
-  * 100000 Credits
-
-### Fallback for HQ level 8
-
-  * 140000 Credits
-
-### Fallback for HQ level 9
-
-  * 200000 Credits
 
 ## Pool "lcpool_shrd_conf_eqp_tier7" (x1 draw)
 
